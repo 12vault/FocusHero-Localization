@@ -1,13 +1,13 @@
 # FocusHero Localization
 
-Public translations for the main FocusHero iOS app target.
+Public localization files for the FocusHero iOS app.
 
-This repository is intended to be the source of truth for:
+This repository contains translations for:
 
 - `Localizable.strings`
 - `InfoPlist.strings`
 
-Locales currently included:
+## Locales
 
 - `en`
 - `es`
@@ -16,76 +16,40 @@ Locales currently included:
 - `ru`
 - `zh-Hans`
 
-## Scope
+Each locale lives in its own `.lproj` folder:
 
-This repo currently mirrors the main app target translations only.
-
-It does not include private-only resources such as:
-
-- widget translations
-- watch app translations
-- app-intents strings outside the main app target
-
-## Recommended Integration With The Private App Repo
-
-Use this repo as a Git submodule inside the private app repo, then copy these `.lproj` folders into the app bundle during the app target build.
-
-This is the least brittle setup because:
-
-- the public repo stays the source of truth
-- the private repo pins a specific localization revision
-- widget/watch translations can remain private
-- you avoid manual copy-paste drift
-
-## Private Repo Setup
-
-Add this repo as a submodule in the private app repo:
-
-```sh
-git submodule add git@github.com:12ya/FocusHero-Localization.git Vendor/FocusHero-Localization
-git submodule update --init --recursive
+```text
+en.lproj/
+es.lproj/
+ja.lproj/
+ko.lproj/
+ru.lproj/
+zh-Hans.lproj/
 ```
 
-Then add a Run Script build phase to the main app target only, after `Copy Bundle Resources`:
+## Contributing
 
-```sh
-set -euo pipefail
+1. Edit the matching files for your locale.
+2. Keep the keys exactly the same as the English source.
+3. Change only the translated values unless a key is clearly wrong.
+4. Preserve escaping, quotes, placeholders, and line breaks.
 
-LOCALIZATION_ROOT="${SRCROOT}/Vendor/FocusHero-Localization"
-APP_RESOURCES_DIR="${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}"
+## Translation Rules
 
-if [ ! -d "${LOCALIZATION_ROOT}" ]; then
-  echo "Missing localization repo at ${LOCALIZATION_ROOT}"
-  exit 1
-fi
+- Do not rename files or locale folders.
+- Do not remove keys unless the English source removes them.
+- Keep `%@`, `%d`, `%ld`, and similar format placeholders unchanged.
+- Keep app names, product names, and branded terms consistent.
+- If a string is unclear, open an issue or pull request note instead of guessing.
 
-for locale_dir in "${LOCALIZATION_ROOT}"/*.lproj; do
-  locale_name="$(basename "${locale_dir}")"
-  destination_dir="${APP_RESOURCES_DIR}/${locale_name}"
+## Adding A New Language
 
-  mkdir -p "${destination_dir}"
-  rsync -a "${locale_dir}/" "${destination_dir}/"
-done
-```
+1. Create a new `<locale>.lproj` folder.
+2. Copy `en.lproj/Localizable.strings` into it.
+3. Copy `en.lproj/InfoPlist.strings` into it.
+4. Translate the values while keeping all keys unchanged.
 
-## Migration Notes
+## Notes
 
-After the build-phase integration is working in the private repo:
-
-- remove the duplicated main app `.lproj` folders from the private repo
-- keep widget/watch localization files private for now
-- update the submodule when you want newer translations in the app
-
-Example update flow in the private repo:
-
-```sh
-git submodule update --remote Vendor/FocusHero-Localization
-git add Vendor/FocusHero-Localization
-git commit -m "Update app translations"
-```
-
-## Contributor Notes
-
-- Edit the files in this repo, not copied files in the private app repo.
-- Keep keys aligned across locales.
-- If new targets need to be public later, add them as separate directories instead of mixing them into the root layout.
+- `en.lproj` is the source of truth for available keys.
+- Keep pull requests focused on localization changes only.
