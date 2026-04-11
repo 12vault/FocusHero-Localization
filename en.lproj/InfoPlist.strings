@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "FocusHero";
+"NSAlarmKitUsageDescription" = "FocusHero uses alarms to notify you when focus sessions and breaks are complete, even in silent mode or during Focus.";
+"NSLocalNetworkUsageDescription" = "FocusHero uses your local network to keep timer start, finish, and reset state in sync between nearby devices.";

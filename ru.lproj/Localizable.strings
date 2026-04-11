@@ -1,0 +1,1069 @@
+/*
+   Localizable.strings (Russian)
+   pomodoro-timer
+*/
+
+// MARK: - General
+"done" = "Готово";
+"cancel" = "Отмена";
+"ok" = "OK";
+"settings" = "Настройки";
+"delete" = "Удалить";
+"edit" = "Изменить";
+"save" = "Сохранить";
+"reset" = "Сбросить";
+"reload" = "Перезагрузить";
+
+// MARK: - Sessions
+"focus_time" = "ВРЕМЯ ФОКУСА";
+"short_break" = "КОРОТКИЙ ПЕРЕРЫВ";
+"long_break" = "ДЛИННЫЙ ПЕРЕРЫВ";
+"focus" = "Фокус";
+"break" = "Перерыв";
+"long" = "Длинный";
+
+// MARK: - Timer
+"running" = "ИДЁТ";
+"stopped" = "ОСТАНОВЛЕН";
+"session" = "Сессия";
+"sessions" = "Сессии";
+"completed_sessions" = "Завершённые сессии";
+"total_sessions" = "Всего сессий";
+"total_time_minutes" = "Общее время\n(минуты)";
+
+// MARK: - Hero System
+"start_journey" = "Начать путь";
+"level" = "Уровень";
+"hero_journeys" = "Пути героя";
+"select_hero_journey" = "Выбрать путь героя";
+"general" = "Общее";
+"next_level_progress" = "Прогресс до следующего уровня";
+"hours" = "часов";
+"maximum_level_reached" = "🎉 Максимальный уровень достигнут!";
+"complete_first_session" = "Завершите первую сессию";
+"to_unlock_level_1" = "чтобы разблокировать Уровень 1";
+"get_started" = "Начать";
+"complete_1_session_to_reach_level_1" = "Завершите 1 сессию, чтобы достичь Уровня 1";
+"preview" = "Предпросмотр";
+"level_reference" = "Справочник уровней";
+"all_tag_journeys" = "Все пути по тегам";
+"no_tag_journeys_yet" = "Нет путей по тегам";
+"complete_sessions_with_tags" = "Завершайте сессии с тегами, чтобы начать свои пути героя";
+"long_press_for_options" = "Удерживайте для опций";
+"reset_journey" = "Сбросить путь";
+"copy_stats" = "Скопировать статистику";
+"reset_hero_journey" = "Сбросить путь героя";
+"reset_journey_confirmation" = "Вы уверены, что хотите полностью сбросить путь героя \"%@\"?\n\nЭто удалит весь прогресс (%@). Путь появится снова, только когда вы завершите новые сессии с этим тегом.";
+"edit_hours_required" = "Изменить требуемые часы";
+"reset_to_default" = "Сбросить по умолчанию";
+"edit_hours_message" = "Укажите количество часов для достижения уровня %d: %@";
+
+// MARK: - Tags
+"select_tag" = "Выбрать тег";
+"session_tags" = "Теги сессий";
+"create_custom_tag" = "Создать свой тег";
+"tag_name" = "Название тега";
+"tag_emoji" = "Эмодзи тега";
+"tag_color" = "Цвет тега";
+"create_tag" = "Создать тег";
+"edit_tag" = "Изменить тег";
+"update_tag" = "Обновить тег";
+"delete_tag" = "Удалить тег";
+"duplicate_tag_key" = "Тег с таким именем и эмодзи уже существует";
+"delete_tag_confirmation" = "Это навсегда удалит тег и все связанные данные, включая историю сессий и статистику. Это действие нельзя отменить.";
+"tags" = "Теги";
+
+// MARK: - Todos
+"todo" = "задача";
+"todos" = "задачи";
+"add_todo" = "Добавить задачу";
+"edit_todo" = "Изменить задачу";
+"todo_title" = "Название задачи";
+"todo_description" = "Описание задачи";
+"complete_todo" = "Завершить задачу";
+"incomplete_todo" = "Отменить выполнение";
+"delete_todo" = "Удалить задачу";
+"no_todos" = "Нет задач";
+"add_todo_description" = "Добавляйте задачи для организации фокус-сессий";
+
+// MARK: - Statistics
+"statistics" = "Статистика";
+"chart" = "График";
+"calendar" = "Календарь";
+
+// MARK: - Settings
+"session_times" = "Длительность сессий";
+"configure_times" = "Настроить время";
+"customize_focus_break_durations" = "Настройте длительность фокуса и перерывов";
+"notifications" = "Уведомления";
+"notification_settings" = "Настройки уведомлений";
+"configure_alerts" = "Настройте оповещения и напоминания";
+"session_history" = "История сессий";
+"view_history" = "Просмотр истории";
+"see_completed_sessions" = "Смотрите завершённые сессии и прогресс";
+"onboarding" = "Знакомство";
+"show_onboarding" = "Показать знакомство";
+"review_getting_started" = "Пересмотреть руководство по началу работы";
+"reset_options" = "Параметры сброса";
+"review_past_focus_sessions" = "Просмотрите прошлые фокус-сессии";
+"how_it_works" = "Как это работает";
+"learn_how_to_become_hero" = "Узнайте, как стать Героем";
+
+// MARK: - Reset Options
+"reset_all_data" = "Сбросить ВСЕ ДАННЫЕ";
+"reset_session_counts" = "Сбросить СЧЁТЧИКИ СЕССИЙ";
+"reset_onboarding" = "Сбросить ЗНАКОМСТВО";
+"reset_all_data_description" = "Удалить все данные, включая историю сессий и прогресс";
+"reset_session_counts_description" = "Сбросить счётчики сессий до нуля, сохранив историю";
+"reset_onboarding_description" = "Показывать знакомство при следующем запуске";
+"reset_confirmation_title" = "Сбросить %@?";
+
+// MARK: - Session Times Settings
+"focus_time_minutes" = "Время фокуса (минуты)";
+"short_break_minutes" = "Короткий перерыв (минуты)";
+"long_break_minutes" = "Длинный перерыв (минуты)";
+"custom_times_enabled" = "Пользовательское время включено";
+"premium_required" = "Требуется Премиум";
+"upgrade_for_custom_times" = "Обновитесь, чтобы настроить длительность сессий";
+
+// MARK: - Quick Actions
+"sessions_completed_count" = "%d";
+"level_abbreviation" = "Ур.%d";
+
+// MARK: - Accessibility
+"play_button" = "Воспроизвести";
+"pause_button" = "Пауза";
+"reset_button" = "Сброс";
+"timer_progress" = "Прогресс таймера";
+"session_selector" = "Выбор сессии";
+
+// MARK: - Notifications
+"session_complete_title" = "Сессия завершена!";
+"focus_session_complete_body" = "Отличная работа! Время для перерыва.";
+"break_session_complete_body" = "Перерыв закончился. Готовы сосредоточиться?";
+"countdown_seconds_remaining" = "⏰ Осталось %d секунд!";
+"countdown_body_focus" = "Ваш сеанс фокусировки почти завершён.";
+"countdown_body_break" = "Ваш перерыв почти закончился.";
+"countdown_body_long_break" = "Ваш длинный перерыв почти закончился.";
+
+// MARK: - Premium/Paywall
+"premium_features" = "Премиум-функции";
+"upgrade_now" = "Обновить сейчас";
+"subscription_required" = "Требуется подписка";
+
+// MARK: - Error Messages
+"error_occurred" = "Произошла ошибка";
+"try_again" = "Попробовать снова";
+"network_error" = "Ошибка сети";
+"please_check_connection" = "Проверьте подключение к интернету";
+
+// MARK: - Time Formatting
+"minutes_short" = "м";
+"hours_short" = "ч";
+"seconds_short" = "с";
+
+// MARK: - Welcome Screen
+"welcome_to_focushero" = "Добро пожаловать в FocusHero";
+"welcome_subtitle" = "Путь к мастерству начинается с одной сфокусированной сессии";
+"lets_go" = "Начнём!";
+
+// MARK: - Onboarding
+"welcome_to_your" = "Добро пожаловать в";
+"hero_journey" = "Путь Героя";
+"become_a_hero_in" = "Стань героем";
+"your_craft" = "в своём деле";
+"master_multiple" = "Освой несколько";
+"skills_and_crafts" = "навыков и ремёсел";
+"never_lose" = "Не теряй";
+"your_progress" = "свой прогресс";
+"your_10000_hours" = "Твои 10 000 часов";
+"start_today" = "Начни сегодня";
+"skip" = "Пропустить";
+"back" = "Назад";
+"continue" = "Продолжить";
+"get_started" = "Начать";
+"of" = "из";
+
+// Onboarding descriptions
+"onboarding_1_description" = "Освойте любой навык через проверенную теорию 10 000 часов. Превратите сфокусированную практику в экспертизу уровня героя с помощью техники Помодоро";
+"onboarding_2_description" = "Каждый эксперт когда-то был новичком. Повышай уровень по мере накопления часов сфокусированной практики. Наблюдай, как ты превращаешься из новичка в героя";
+"onboarding_3_description" = "Создавай теги для каждого навыка, который хочешь освоить. Программирование, музыка, писательство, искусство — отслеживай путь к 10 000 часам в каждой области";
+"onboarding_4_description" = "Путь к мастерству продолжается везде. Live Activities и Dynamic Island держат твой прогресс на виду даже при многозадачности";
+"onboarding_5_description" = "Каждый мастер начинал с первого часа. Начни своё превращение из новичка в героя. Легендарный путь ждёт тебя!";
+
+// Onboarding features
+"25_minute_sessions" = "25-минутные сессии мастерства";
+"track_path_10000" = "Отслеживай путь к 10 000 часам";
+"proven_practice_method" = "Проверенный метод осознанной практики";
+"level_progression" = "Повышение уровня с каждым часом";
+"visual_journey_mastery" = "Визуальный путь к мастерству";
+"track_multiple_skills" = "Отслеживай несколько навыков одновременно";
+"separate_hero_journeys" = "Отдельные пути героя для каждого навыка";
+"custom_skill_categories" = "Пользовательские категории навыков";
+"individual_mastery_tracking" = "Индивидуальное отслеживание мастерства";
+"always_visible_progress" = "Прогресс всегда на виду";
+"seamless_session_tracking" = "Бесшовное отслеживание сессий";
+"never_break_flow" = "Никогда не прерывай поток";
+"start_first_hour" = "Начни первый час мастерства";
+"choose_first_skill" = "Выбери первый навык";
+"begin_hero_transformation" = "Начни своё превращение в героя";
+
+// MARK: - Hero Level Titles
+"hero_level_0_title" = "Стремящийся";
+"hero_level_1_title" = "Новичок";
+"hero_level_2_title" = "Ученик";
+"hero_level_3_title" = "Умелый боец";
+"hero_level_4_title" = "Элитный воин";
+"hero_level_5_title" = "Чемпион";
+"hero_level_6_title" = "Легенда";
+"hero_level_7_title" = "Мастер";
+"hero_level_8_title" = "Грандмастер";
+"hero_level_9_title" = "Мудрец";
+"hero_level_10_title" = "Виртуоз";
+"hero_level_11_title" = "Просветлённый";
+"hero_level_12_title" = "Трансцендентный";
+
+// MARK: - Hero Level Descriptions
+"hero_level_0_description" = "Готов начать путь";
+"hero_level_1_description" = "Каждый герой с чего-то начинает";
+"hero_level_2_description" = "Осваиваю искусство фокуса";
+"hero_level_3_description" = "Развиваю дисциплину";
+"hero_level_4_description" = "Осваиваю концентрацию";
+"hero_level_5_description" = "Подаю пример";
+"hero_level_6_description" = "Достигаю величия";
+"hero_level_7_description" = "Преодолеваю границы";
+"hero_level_8_description" = "Приближаюсь к истинному мастерству";
+"hero_level_9_description" = "Мудрость через преданность делу";
+"hero_level_10_description" = "Совершенство в практике";
+"hero_level_11_description" = "Приближаюсь к конечной цели";
+"hero_level_12_description" = "Мастерство 10 000 часов";
+
+// MARK: - Default Session Tags
+"default_tag_ai_literacy" = "ИИ-грамотность";
+"default_tag_spanish" = "Испанский";
+"default_tag_piano" = "Пианино";
+
+// MARK: - Session Tag View
+"available_tags" = "Доступные теги";
+"add_tag" = "Добавить тег";
+"select" = "Выбрать";
+"optional" = "Необязательно";
+"enter_tag_name" = "Введите название тега";
+"select_emoji" = "Выбрать эмодзи";
+"select_color" = "Выбрать цвет";
+"create_custom_tag_description" = "Создайте свой тег для организации фокус-сессий";
+"edit_custom_tag_description" = "Измените настройки своего тега";
+"tag_already_exists" = "⚠️ ТЕГ УЖЕ СУЩЕСТВУЕТ";
+
+// MARK: - Session Times Settings
+"session_times" = "Длительность сессий";
+"current_configuration" = "Текущая конфигурация";
+"quick_presets" = "Быстрые пресеты";
+"classic" = "Классика";
+"short" = "Короткий";
+"deep" = "Глубокий";
+"custom_times" = "Своё время";
+"unlock" = "Разблокировать";
+"focus_time" = "Время фокуса";
+"deep_work_sessions" = "Сессии глубокой работы";
+"quick_refresher" = "Быстрое восстановление";
+"extended_rest" = "Расширенный отдых";
+"minutes" = "минут";
+"premium_feature" = "Премиум-функция";
+"customize_session_durations" = "Настройте длительность сессий под свой стиль работы";
+
+// MARK: - Color Picker
+"choose_custom_color" = "Выбрать свой цвет";
+"custom_color" = "Свой цвет";
+"custom_emoji" = "Свой эмодзи";
+"done" = "Готово";
+
+// MARK: - Paywall
+"unlock_premium" = "Разблокировать Премиум";
+"start_free_trial" = "Начать бесплатный пробный период";
+"yearly_plan" = "Годовой план";
+"lifetime_plan" = "Пожизненный доступ";
+"weekly_plan" = "Недельный план";
+"3_day_trial" = "3-дневный пробный период";
+"best_value" = "Лучшая цена";
+"most_popular" = "Самый популярный";
+"pay_once" = "Платить один раз";
+"custom_session_times" = "Пользовательское время сессий";
+"unlimited_tags" = "Безлимитные теги";
+"advanced_statistics" = "Расширенная статистика";
+"privacy_policy" = "Политика конфиденциальности";
+"terms_of_service" = "Условия использования";
+"restore_purchases" = "Восстановить покупки";
+"no_commitment" = "Без обязательств, отмена в любое время";
+"free_for_3_days" = "Бесплатно 3 дня";
+"enhanced_productivity_features" = "Расширенные функции продуктивности";
+"advanced_analytics" = "Расширенная аналитика";
+"unlimited_journeys" = "Безлимитные пути";
+"custom_session_time" = "Своё время сессии";
+"3_days_free_then" = "3 дня бесплатно, затем %@/%@";
+"save_percentage" = "СКИДКА %d%%";
+"start_with_free_trial" = "Начать с пробного периода";
+"terms_and_privacy" = "Условия и конфиденциальность";
+"terms_of_use" = "Условия использования";
+"cancel_anytime_no_commitment" = "Отмена в любое время • Без обязательств";
+"restore" = "Восстановить";
+"no_purchases_restored" = "Покупки не найдены";
+"tap_to_unlock" = "Нажмите для разблокировки";
+"paywall_feature_analytics" = "Подробная аналитика и статистика";
+"paywall_feature_unlimited_tags" = "Безлимитные теги для организации сессий";
+"paywall_feature_unlimited_journeys" = "Безлимитные пути и цели";
+"paywall_feature_remove_paywall" = "Убрать платный экран";
+"paywall_feature_support_developer" = "Поддержать разработчика";
+"paywall_rating" = "4.9 в App Store";
+"paywall_unable_to_load_pricing" = "Не удалось загрузить цены";
+"paywall_check_connection_retry" = "Проверьте подключение и попробуйте снова";
+"paywall_intro_offer" = "Вступ. цена: %@";
+"paywall_per_month_format" = "(%@/мес)";
+"paywall_per_year_format" = "%@/год";
+"paywall_limited_offer" = "ОГРАНИЧЕННОЕ ПРЕДЛОЖЕНИЕ";
+"paywall_special_offer" = "СПЕЦИАЛЬНОЕ ПРЕДЛОЖЕНИЕ";
+"paywall_legal" = "Правовая информация";
+"paywall_redeem_code" = "Активировать код";
+
+// MARK: - Session Complete
+"session_complete" = "Сессия завершена!";
+"great_job" = "Отличная работа!";
+"time_for_break" = "Время для перерыва";
+"break_complete" = "Перерыв завершён!";
+"ready_to_focus" = "Готов сосредоточиться?";
+"session_completed" = "Сессия завершена";
+"take_break" = "Сделать перерыв";
+"continue_working" = "Продолжить работу";
+"well_done" = "Молодец!";
+"keep_going" = "Продолжай!";
+"session_save_with_extra" = "Сохранить с доп. временем";
+"session_message_focus" = "Отличная работа! Вы завершили сессию фокусировки.";
+"session_message_break" = "Перерыв завершён! Готовы снова сосредоточиться?";
+"session_message_long_break" = "Длинный перерыв закончен! Вы отдохнули и готовы.";
+
+// MARK: - Session Tags
+"tag" = "Тег";
+"organize_sessions_with_tags" = "Организуй фокус-сессии с помощью тегов";
+"current_selection" = "Текущий выбор";
+"active_tag" = "Активный тег";
+"unnamed_tag" = "Без названия";
+"no_tag_selected" = "Тег не выбран";
+"choose_tag_to_organize" = "Выберите тег для организации фокус-сессий";
+"create_new_tag" = "Создать новый тег";
+"choose_existing_tag" = "Выбрать существующий тег";
+"tag_already_exists" = "Тег уже существует";
+"choose_color" = "Выбрать цвет";
+"name_optional" = "Название (необязательно)";
+"default_tags" = "Стандартные теги";
+"custom_tags" = "Свои теги";
+"no_custom_tags" = "Нет своих тегов";
+"tap_to_create" = "Нажмите +, чтобы создать первый тег";
+"tap_to_open_emoji_keyboard" = "Нажмите выше, чтобы ввести эмодзи";
+
+// MARK: - Todos
+"quick_todos" = "Быстрые задачи";
+"all" = "Все";
+"type_new_todo" = "Введите новую задачу...";
+"what_are_you_working_on" = "Над чем вы работаете?";
+"add_your_tasks" = "Добавьте задачи";
+"create_new_todo" = "Создать задачу";
+"enter_title" = "Введите название";
+"enter_description_optional" = "Введите описание (необязательно)";
+"mark_complete" = "Отметить выполненной";
+"mark_incomplete" = "Отметить невыполненной";
+"empty_todo_list" = "Список задач пуст";
+"add_first_todo" = "Добавьте первую задачу для начала";
+"completed_todos" = "Выполненные задачи";
+"incomplete_todos" = "Невыполненные задачи";
+"all_todos" = "Все задачи";
+"no_todos_for_tag" = "Нет задач для этого тега";
+"tap_to_add_first_todo" = "Нажмите +, чтобы добавить первую задачу";
+"complete_selected" = "Завершить выбранные";
+"delete_selected" = "Удалить выбранные";
+
+// MARK: - Calendar
+"this_month" = "Этот месяц";
+"sessions_this_month" = "Сессий в этом месяце";
+"total_time_this_month" = "общее время за месяц";
+"longest_streak" = "лучшая серия";
+"current_streak" = "текущая серия";
+"days" = "дней";
+"day" = "день";
+"today" = "Сегодня";
+"yesterday" = "Вчера";
+"sessions_on" = "сессий";
+
+// MARK: - Chart/Statistics
+"weekly_progress" = "Недельный прогресс";
+"monthly_progress" = "Месячный прогресс";
+"focus_sessions" = "Фокус-сессии";
+"break_sessions" = "Перерывы";
+"total_hours" = "Всего часов";
+"average_per_day" = "В среднем в день";
+"best_day" = "Лучший день";
+"this_week" = "Эта неделя";
+"last_week" = "Прошлая неделя";
+"last_month" = "Прошлый месяц";
+"no_data" = "Нет данных";
+"start_timer_to_see_stats" = "Начните использовать таймер, чтобы увидеть статистику";
+
+// MARK: - Session Times Settings
+"classic_pomodoro" = "Классическое Помодоро";
+"use_classic_times" = "Использовать классическое время Помодоро (25/5/15 минут)";
+"customize_session_lengths" = "Настройте длину сессий под рабочий процесс";
+"enable_custom_times" = "Включить своё время";
+"requires_premium" = "Требуется Премиум";
+
+// MARK: - Notifications Settings
+"daily_reminder" = "Ежедневное напоминание";
+"get_reminded_stay_focused" = "Получайте напоминания оставаться сфокусированным";
+"multiple_reminders" = "Несколько напоминаний";
+"set_multiple_reminder_times" = "Установите несколько времён напоминания";
+"reminder_time" = "Время напоминания";
+"reminder_1" = "Напоминание 1";
+"reminder_2" = "Напоминание 2";
+"reminder_3" = "Напоминание 3";
+"notification_permission_required" = "Требуется разрешение на уведомления";
+"enable_notifications_settings" = "Включите уведомления в Настройках";
+"focus_reminder_title" = "Время сосредоточиться!";
+"focus_reminder_body" = "Твоё будущее «я» скажет тебе спасибо за эту сессию. Давай к целям! 🚀";
+
+// MARK: - Session History
+"session_history_title" = "История сессий";
+"filter_by_tag" = "Фильтр по тегу";
+"all_tags" = "Все теги";
+"export_data" = "Экспорт данных";
+"clear_history" = "Очистить историю";
+"clear_history_confirmation" = "Вы уверены, что хотите очистить всю историю сессий? Это действие нельзя отменить.";
+"clear" = "Очистить";
+"no_sessions_found" = "Сессии не найдены";
+"start_timer_to_build_history" = "Начните использовать таймер для создания истории сессий";
+"completed_at" = "Завершено в";
+"no_sessions_yet" = "Сессий пока нет";
+"start_first_pomodoro_session" = "Начните первую сессию Помодоро, чтобы увидеть историю здесь!";
+
+// MARK: - Common UI Elements
+"close" = "Закрыть";
+"add" = "Добавить";
+"remove" = "Удалить";
+"update" = "Обновить";
+"confirm" = "Подтвердить";
+"yes" = "Да";
+"no" = "Нет";
+"loading" = "Загрузка...";
+"please_wait" = "Пожалуйста, подождите...";
+"success" = "Успех";
+"error" = "Ошибка";
+"warning" = "Предупреждение";
+"info" = "Информация";
+"record_this_session" = "Записать эту сессию?";
+"save_progress_or_start_fresh" = "Сохранить прогресс или начать заново";
+"discard" = "Отклонить";
+"save_progress" = "Сохранить прогресс";
+"end_session" = "Завершить";
+"completed" = "Выполнено";
+"incomplete" = "Не выполнено";
+
+// MARK: - Validation Messages
+"field_required" = "Это поле обязательно";
+"invalid_input" = "Неверный ввод";
+"name_too_short" = "Имя слишком короткое";
+"name_too_long" = "Имя слишком длинное";
+"emoji_required" = "Пожалуйста, выберите эмодзи";
+
+// MARK: - Widget & Live Activity
+"pomodoro" = "ПОМОДОРО";
+"break_time" = "ПЕРЕРЫВ";
+
+// MARK: - Accessibility Labels
+"timer_display" = "Дисплей таймера";
+"session_type_button" = "Кнопка типа сессии";
+"tag_selection_button" = "Кнопка выбора тега";
+"todo_list_button" = "Кнопка списка задач";
+"settings_button" = "Кнопка настроек";
+"calendar_button" = "Кнопка календаря";
+"statistics_button" = "Кнопка статистики";
+"level_progress_indicator" = "Индикатор прогресса уровня";
+
+// MARK: - Analytics
+"analytics" = "Аналитика";
+"sessions" = "Сессии";
+"tag_usage" = "Использование тегов";
+"most_used" = "Чаще всего";
+"patterns" = "Паттерны";
+"reports" = "Отчёты";
+"productivity_patterns" = "Паттерны продуктивности";
+"visual_reports" = "Визуальные отчёты";
+"no_reports_available" = "Нет доступных отчётов";
+"week" = "Неделя";
+"month" = "Месяц";
+"year" = "Год";
+"sessions_this_week" = "Сессий на этой неделе";
+"sessions_this_year" = "Сессий в этом году";
+"week_summary" = "Итог недели";
+"month_summary" = "Итог месяца";
+"year_summary" = "Итог года";
+"summary" = "Итог";
+"total" = "Всего";
+"average" = "Среднее";
+"peak" = "Пик";
+"no_tag_data_yet" = "Нет данных по тегам";
+"start_using_tags" = "Начните использовать теги для просмотра аналитики";
+"start_using_tags_to_generate" = "Начните использовать теги для создания отчётов";
+"activity_levels" = "Уровни активности";
+"light" = "Лёгкий";
+"moderate" = "Умеренный";
+"high" = "Высокий";
+"no_activity_recorded" = "Активность не записана";
+"start_session_to_see_progress" = "Начните сессию, чтобы увидеть прогресс";
+"completion_rate" = "Процент завершения";
+
+// MARK: - Questionnaire Onboarding
+"questionnaire_finish" = "Завершить";
+
+// Question 0 - Name
+"questionnaire_name_title" = "Как вас зовут?";
+"questionnaire_name_subtitle" = "Мы очень рады, что вы здесь! Как нам вас называть?";
+"questionnaire_name_placeholder" = "Ваше имя";
+
+// Question 1 - Motivation
+"questionnaire_motivation_title" = "Что вас мотивирует?";
+"questionnaire_motivation_subtitle" = "Выберите всё, что помогает вам достигать целей";
+"motivation_achievement" = "Достижения";
+"motivation_achievement_desc" = "Достижение целей и вех";
+"motivation_growth" = "Личный рост";
+"motivation_growth_desc" = "Обучение и самосовершенствование";
+"motivation_freedom" = "Свобода";
+"motivation_freedom_desc" = "Независимость и гибкость";
+"motivation_creativity" = "Творчество";
+"motivation_creativity_desc" = "Выражение идей и инновации";
+"motivation_knowledge" = "Знания";
+"motivation_knowledge_desc" = "Понимание и мудрость";
+"motivation_impact" = "Влияние";
+"motivation_impact_desc" = "Помощь другим и обществу";
+"motivation_health" = "Здоровье и благополучие";
+"motivation_health_desc" = "Физическое и психическое здоровье";
+
+// Question 2 - Peak Time
+"questionnaire_peak_title" = "Когда вы наиболее сосредоточены?";
+"questionnaire_peak_subtitle" = "Поможем создать распорядок, подходящий вашему ритму";
+"peak_morning" = "Утро";
+"peak_morning_hours" = "6:00 - 12:00";
+"peak_afternoon" = "День";
+"peak_afternoon_hours" = "12:00 - 17:00";
+"peak_evening" = "Вечер";
+"peak_evening_hours" = "17:00 - 22:00";
+"peak_night" = "Ночь";
+"peak_night_hours" = "22:00+";
+
+// Question 3 - Productivity Apps
+"questionnaire_apps_title" = "Вы раньше использовали приложения для продуктивности?";
+"questionnaire_apps_subtitle" = "Ваш опыт помогает нам понять ваши потребности";
+"questionnaire_apps_field_placeholder" = "Что работало или не работало? (Необязательно)";
+
+// Question 4 - Best Feature
+"questionnaire_best_feature_title" = "Что важнее всего в приложении для продуктивности?";
+"questionnaire_best_feature_subtitle" = "Выберите функции, которые важны именно вам";
+"prod_feature_time_tracking" = "Отслеживание времени";
+"prod_feature_time_tracking_desc" = "Контроль использования времени";
+"prod_feature_goal_setting" = "Постановка целей";
+"prod_feature_goal_setting_desc" = "Установка и отслеживание задач";
+"prod_feature_habit_building" = "Формирование привычек";
+"prod_feature_habit_building_desc" = "Создание стабильных ритуалов";
+"prod_feature_analytics" = "Аналитика";
+"prod_feature_analytics_desc" = "Выводы и отчёты о прогрессе";
+"prod_feature_reminders" = "Напоминания";
+"prod_feature_reminders_desc" = "Уведомления и оповещения";
+"prod_feature_gamification" = "Геймификация";
+"prod_feature_gamification_desc" = "Очки, уровни и награды";
+
+// Question 5 - Goal
+"questionnaire_goal_title" = "Хотите освоить что-то значимое в ближайшие 1-3 месяца?";
+"questionnaire_goal_subtitle" = "Чёткая цель повышает вероятность успеха на 42%";
+"questionnaire_goal_placeholder" = "Что вы хотите освоить?";
+"questionnaire_not_sure" = "Не знаю";
+
+// Question 6 - Time Commitment
+"questionnaire_time_title" = "Сколько времени вы планируете уделять ежедневно?";
+"questionnaire_time_subtitle" = "Даже 15 минут в день дают удивительные результаты";
+"time_15_minutes" = "15 минут";
+"time_30_minutes" = "30 минут";
+"time_1_hour" = "1 час";
+"time_2_hours" = "2 часа";
+"time_3_hours" = "3 часа";
+"time_7_plus_hours" = "7+ часов";
+
+// Question 7 - Obstacles
+"questionnaire_obstacles_title" = "Что чаще всего вам мешает?";
+"questionnaire_obstacles_subtitle" = "Выявление препятствий — первый шаг к их преодолению";
+"obstacle_distractions_title" = "Отвлечения";
+"obstacle_distractions_desc" = "Телефон, соцсети, помехи";
+"obstacle_motivation_title" = "Недостаток мотивации";
+"obstacle_motivation_desc" = "Трудно начать";
+"obstacle_perfectionism_title" = "Перфекционизм";
+"obstacle_perfectionism_desc" = "Хочется, чтобы всё было идеально";
+"obstacle_overwhelm_title" = "Ощущение перегруженности";
+"obstacle_overwhelm_desc" = "Слишком много дел, не знаешь с чего начать";
+"obstacle_procrastination_title" = "Прокрастинация";
+"obstacle_procrastination_desc" = "Откладывание дел на потом";
+"obstacle_time_management_title" = "Управление временем";
+"obstacle_time_management_desc" = "Плохое планирование и расписание";
+"obstacle_other_title" = "Другое";
+"obstacle_other_desc" = "Что-то ещё";
+
+// News screens
+"questionnaire_news_intro" = "Есть не очень хорошие новости и хорошие новости";
+"questionnaire_bad_news_label" = "Плохая новость в том, что";
+"questionnaire_bad_news_content" = "Исследования показывают: пренебрежение здоровыми привычками может ";
+"questionnaire_bad_news_highlight" = "сократить вашу жизнь на 6 лет";
+"questionnaire_good_news_label" = "Хорошая новость в том, что";
+"questionnaire_good_news_start" = "FocusHero поможет вам ";
+"questionnaire_good_news_highlight" = "вернуть 4-5 лет жизни";
+"questionnaire_good_news_end" = ", формируя устойчивые привычки в фитнесе, питании и психическом здоровье";
+
+// Achievement screen
+"questionnaire_achievement_title" = "Отлично! Вы готовы";
+"questionnaire_achievement_subtitle" = "Вы разблокировали достижение «Лучший старт»\nза начало своего пути";
+"questionnaire_achievement_earned" = "Получено";
+
+// Features overview screen
+"questionnaire_features_title" = "Вот что FocusHero может сделать для вас:";
+"questionnaire_feature_goals" = "Достигайте всех своих целей! Выбирайте из нашего списка или создавайте свои";
+"questionnaire_feature_growth" = "Видите свой рост";
+"questionnaire_feature_growth_detail" = " — понимайте свои привычки благодаря глубокой аналитике";
+"questionnaire_feature_blocking" = "Блокируйте отвлекающие приложения во время сессий для полной концентрации";
+"questionnaire_feature_adventure" = "Превратите ежедневный фокус в захватывающее приключение самосовершенствования";
+"questionnaire_callout_stat" = "92%";
+"questionnaire_callout_text" = "пользователей FocusHero с похожей целью начинают с простой привычки — например, ";
+"questionnaire_callout_habit" = "«Чтение»";
+
+// App blocking prompt
+"app_blocking_title" = "Заблокировать отвлекающие приложения?";
+"app_blocking_subtitle" = "Поскольку отвлечения — ваше главное препятствие, вы можете автоматически скрывать отвлекающие приложения во время фокус-сессии.";
+"app_blocking_set_up" = "Настроить блокировку";
+"app_blocking_skip" = "Пропустить пока";
+
+// MARK: - Feature Slides
+"feature_slide1_title" = "FocusHero делает\nсаморазвитие простым";
+"feature_slide1_desc" = "Отслеживайте прогресс, черпайте мотивацию из собственных достижений и наблюдайте, как маленькие действия приводят к большим результатам.";
+"feature_slide2_title" = "FocusHero помогает\nформировать привычки";
+"feature_slide2_desc" = "Оставайтесь последовательны в своих целях с помощью сетки привычек и удобных инструментов.";
+"feature_slide3_title" = "FocusHero поддерживает\nваш рост";
+"feature_slide3_desc" = "Давайте вместе формировать устойчивые привычки и раскрывать ваш полный потенциал.";
+
+// MARK: - Calculating Review
+"calculating_step1" = "Вычисление";
+"calculating_step2" = "Настраиваем приложение под вас";
+"apps_we_love" = "ЛЮБИМЫЕ\nПРИЛОЖЕНИЯ";
+
+// MARK: - Contract Onboarding
+"contract_word" = "Контракт";
+"contract_your_fallback" = "Ваш";
+"contract_bullet1" = "Я буду **адаптироваться к любому расписанию** и продолжать двигаться вперёд!";
+"contract_bullet2" = "Я буду **исследовать разные способы отслеживания прогресса** и найду то, что работает для меня!";
+"contract_bullet3" = "Я **откажусь от вредных привычек** и открою путь к прогрессу!";
+"contract_bullet4" = "Я буду **преодолевать любые препятствия** и найду свой путь вперёд!";
+"contract_bullet5" = "Я буду **вести более здоровый образ жизни** и чувствовать себя отлично!";
+"contract_agreed" = "Контракт подписан!";
+"contract_keep_holding" = "Удерживайте...";
+"contract_hold_to_agree" = "Удержите для подтверждения";
+"contract_research_note" = "Исследования показывают, что подобные контракты повышают настойчивость и ответственность";
+"contract_lets_get_started" = "Начнём!";
+
+// MARK: - Habit Tracker
+"habit_tracker" = "Трекер привычек";
+"complete_focus_to_build_streaks" = "Завершайте сессии фокуса для создания серий";
+"habits" = "Привычки";
+"tracked" = "Отслеживается";
+"available" = "Доступно";
+"unnamed" = "Без названия";
+"no_tags_yet" = "Нет тегов";
+"no_tags_description" = "Создайте теги для отслеживания привычек.\nКаждая завершённая сессия увеличивает вашу серию!";
+"hide" = "Скрыть";
+"current_streak_title" = "Текущая серия";
+"best_streak" = "Лучшая серия";
+"total_time" = "Всего времени";
+"no_sessions_activity" = "Нет сессий";
+"one_session_activity" = "1 сессия";
+"two_three_sessions" = "2-3 сессии";
+"four_plus_sessions" = "4+ сессий";
+"less" = "Меньше";
+"more" = "Больше";
+
+// MARK: - App Blocking Settings
+"focus_shield" = "Focus Shield";
+"focus_duration_too_short" = "Слишком короткое время фокуса";
+"fifteen_minutes_minimum" = "Минимум 15 минут";
+"app_blocking_requirement" = "Блокировка приложений требует сессий фокуса не менее 15 минут. Это системное требование для автоматической разблокировки приложений по окончании сессии.";
+"current_focus_duration" = "Текущее время фокуса: %d мин.";
+"increase_focus_time_instruction" = "Увеличьте время фокуса до 15 минут или более в настройках времени сессий, чтобы включить блокировку приложений.";
+"authorization_required" = "Требуется разрешение";
+"screen_time_access" = "Доступ к Экранному времени";
+"screen_time_access_description" = "Для блокировки отвлекающих приложений во время сессий фокуса нам нужен доступ к Экранному времени. Это позволяет временно скрывать выбранные приложения, пока вы сосредоточены.";
+"grant_access" = "Предоставить доступ";
+"screen_time_denied" = "Доступ отклонён. Пожалуйста, включите доступ к Экранному времени в Настройки > Экранное время.";
+"activate" = "Активировать";
+"focus_shield_description" = "Выбранные приложения будут ограничены во время сессии фокуса";
+"apps_to_block" = "Приложения для блокировки";
+"select_apps_categories" = "Выбрать приложения и категории";
+"clear_selection" = "Сбросить выбор";
+"start_focus" = "Начало фокуса";
+"start_focus_description" = "При запуске сессии фокуса выбранные приложения блокируются";
+"shield_appears" = "Появляется щит";
+"shield_appears_description" = "При попытке открыть заблокированное приложение появится щит";
+"session_ends" = "Сессия завершается";
+"session_ends_description" = "Приложения автоматически разблокируются по завершении сессии";
+
+// MARK: - Chart Analytics
+"all_tags" = "Все теги";
+
+// MARK: - Quick Actions Stats
+"time_today" = "Итого сегодня";
+"todays_sessions" = "Сессии сегодня";
+"saved_to_yesterday" = "%@ → Вчера";
+
+// MARK: - Settings View
+"icloud_sync" = "Синхронизация iCloud";
+"sync_status" = "Статус синхронизации";
+"icloud_sync_description" = "Данные поmodoro синхронизируются на всех устройствах, подключённых к вашей учётной записи iCloud";
+"display" = "Экран";
+"appearance" = "Внешний вид";
+"light_dark_automatic" = "Светлая, тёмная или автоматическая";
+"glow_effects" = "Эффекты свечения";
+"glow_effects_description" = "Эффект свечения (повышенный расход батареи)";
+"language" = "Язык";
+"language_description" = "Выберите язык приложения";
+"language_restart_required" = "Требуется перезапуск";
+"language_restart_message" = "Перезапустите приложение, чтобы применить новый язык.";
+"sound" = "Звук";
+"session_complete_sound" = "Звук завершения сессии";
+"play_sound_when_timer_finishes" = "Воспроизводить звук по окончании таймера";
+"native_alarm_overrides_sound" = "Встроенный будильник включён и заменит этот звук";
+"block_list" = "Block List";
+"hide_apps_during_focus" = "Скрывать приложения во время сессии";
+"review_and_rate" = "Отзыв и оценка";
+"focushero_socials" = "Соцсети FocusHero";
+"rate_pomodoro_timer" = "Оценить Pomodoro Timer";
+"share_app_store_feedback" = "Поделитесь отзывом в App Store";
+"alarm_permission_required" = "Требуется разрешение на будильник";
+"open_settings" = "Открыть настройки";
+"alarm_permission_message" = "Для использования встроенных будильников включите разрешение на Будильники в Настройках.";
+"session_complete_notification" = "Уведомление о завершении сессии";
+"notify_when_session_finishes" = "Уведомлять по окончании сессии";
+"native_alarm" = "Встроенный будильник";
+"quiet_hours" = "Тихие часы";
+"native_alarm_description" = "Будильник звонит даже в беззвучном режиме";
+"session_end_alarm" = "Будильник по окончании сессии";
+"alarm_when_timer_completes" = "Будильник при завершении таймера";
+"time_block_alarms" = "Будильники временных блоков";
+"alarm_when_blocks_start" = "Будильник при начале запланированных блоков";
+"reset_dialog_title" = "Сбросить «%@»?";
+"reset_dialog_button" = "Сбросить «%@»";
+"active_notifications_count" = "%d активных";
+
+// MARK: - Todo Overlay
+"add_new_todo_placeholder" = "Добавить новое дело...";
+"no_tag_todos" = "Нет дел для «%@»";
+"add_first_task_above" = "Добавьте первое дело выше";
+"none" = "Нет";
+"deadline" = "Дедлайн";
+"set_deadline" = "Установить дедлайн";
+"select_date_label" = "Выбрать дату";
+"created_date" = "Создано: %@";
+"completed_status" = "✓ Выполнено";
+"subtasks" = "Подзадачи";
+"new_subtask_placeholder" = "Новая подзадача...";
+"set_button" = "Установить";
+
+// MARK: - Streak Stat Card
+"streak_current" = "Текущий";
+"streak_best" = "Лучший";
+"streak_days" = "Дней";
+
+// MARK: - Schedule View
+"schedule" = "Расписание";
+"reset_all_time_blocks" = "Сбросить все блоки";
+"delete_all" = "Удалить все";
+"reset_time_blocks_message" = "Все временные блоки будут удалены без возможности восстановления.";
+"never_miss_session" = "Не пропускайте сессии";
+"enable_alarms_silent" = "Будильник в беззвучном режиме";
+"enable" = "Включить";
+
+// MARK: - Time Block Scheduler
+"auto_started" = "Автозапуск";
+"timer_busy" = "Таймер занят";
+"is_scheduled" = "запланировано";
+"focus_session" = "Сеанс фокусировки";
+
+// MARK: - Time Block Edit Sheet
+"create_time_block" = "Создать блок времени";
+"edit_time_block" = "Редактировать блок времени";
+"details" = "Детали";
+"title_label" = "Название";
+"start_time" = "Время начала";
+"duration" = "Продолжительность";
+"repeat" = "Повтор";
+"alarm" = "Будильник";
+"alarm_native_ios_at_start" = "Встроенный будильник iOS при начале";
+"alarm_enable_in_settings" = "Включить в Настройках → Встроенный будильник";
+"saving" = "Сохранение...";
+"scheduling_conflict" = "Конфликт расписания";
+"time_block_overlap_message" = "Этот блок пересекается с %d существующим(и) блоком(ами). Выберите другое время.";
+"delete_time_block" = "Удалить блок времени";
+"delete_this_only" = "Удалить только этот";
+"delete_all_recurring" = "Удалить все повторяющиеся";
+"recurring_block_delete_message" = "Это повторяющийся блок времени. Удалить только это вхождение или все будущие?";
+"delete_time_block_confirmation" = "Вы уверены, что хотите удалить этот блок времени?";
+"enable_alarms" = "Включить будильники";
+"not_now" = "Не сейчас";
+"alarm_onboarding_message" = "Получайте встроенные будильники iOS при начале запланированных сессий — они звонят даже в беззвучном режиме, чтобы вы не пропустили блок фокуса.";
+"enable_alarms_for_time_blocks_message" = "Чтобы использовать будильники для блоков времени, включите встроенный будильник в Настройках. Включить сейчас?";
+
+// Duration options
+"duration_15_min" = "15 мин";
+"duration_30_min" = "30 мин";
+"duration_45_min" = "45 мин";
+"duration_1_hour" = "1 час";
+"duration_1_5_hours" = "1,5 часа";
+"duration_2_hours" = "2 часа";
+"duration_3_hours" = "3 часа";
+"duration_4_hours" = "4 часа";
+
+// iCloud Sync Toggle
+"ck_sync_toggle_title" = "Синхронизация с iCloud";
+"ck_sync_toggle_subtitle" = "Синхронизация на всех ваших устройствах";
+"ck_restart_required_title" = "Требуется перезапуск";
+"ck_restart_required_message" = "Это изменение вступит в силу при следующем открытии приложения.";
+
+// iCloud Sync Status
+"ck_status_syncing" = "Синхронизация…";
+"ck_status_error" = "Ошибка синхронизации";
+"ck_status_active" = "iCloud Sync активен";
+"ck_status_no_account" = "Нет учётной записи iCloud";
+"ck_status_restricted" = "Синхронизация ограничена";
+"ck_status_temp_unavailable" = "Временно недоступно";
+"ck_status_no_internet" = "Нет подключения к интернету";
+"ck_status_checking" = "Проверка статуса…";
+"ck_hero_no_account" = "Требуется учётная запись iCloud";
+
+// iCloud Sync Subtitles
+"ck_sub_last_synced" = "Синхронизировано %@";
+"ck_sub_waiting" = "Ожидание первой синхронизации";
+"ck_sub_sign_in" = "Войдите в iCloud в Настройках для синхронизации";
+"ck_sub_check_screen_time" = "Проверьте Экранное время или родительский контроль";
+"ck_sub_will_resume" = "Возобновится, когда iCloud станет доступен";
+"ck_sub_will_sync" = "Синхронизируется при восстановлении соединения";
+"ck_sub_please_wait" = "Пожалуйста, подождите";
+
+// iCloud Sync Detail Sheet
+"ck_progress_note" = "iCloud не передаёт количество записей — прогресс неопределён";
+"ck_last_synced_label" = "Последняя синхронизация";
+"ck_never" = "Никогда";
+"ck_sync_now" = "Синхронизировать";
+"ck_check_again" = "Проверить снова";
+"ck_button_syncing" = "Синхронизация…";
+
+// iCloud Sync Hero Descriptions
+"ck_desc_syncing" = "Данные помодоро синхронизируются на всех ваших устройствах.";
+"ck_desc_error" = "При последней синхронизации произошла ошибка. Нажмите Проверить снова или попробуйте Синхронизировать.";
+"ck_desc_active" = "Данные помодоро автоматически синхронизируются на всех устройствах, вошедших в эту учётную запись iCloud.";
+"ck_desc_no_account" = "Войдите в iCloud в Настройках для синхронизации данных между устройствами.";
+"ck_desc_restricted" = "На этом устройстве синхронизация iCloud ограничена. Проверьте Экранное время или параметры родительского контроля.";
+"ck_desc_temp_unavailable" = "iCloud временно недоступен. Данные синхронизируются автоматически, когда сервис будет восстановлен.";
+"ck_desc_no_internet" = "Интернет-соединение не обнаружено. Данные синхронизируются при восстановлении подключения.";
+"ck_desc_checking" = "Проверяем статус iCloud. Пожалуйста, подождите.";
+
+// iCloud Sync Activity Labels
+"ck_activity_syncing" = "Синхронизация с iCloud";
+"ck_activity_setup" = "Настройка iCloud";
+"ck_activity_importing" = "Загрузка из iCloud";
+"ck_activity_exporting" = "Выгрузка в iCloud";
+
+// iCloud Sync Relative Time
+"ck_time_just_now" = "только что";
+"ck_time_minutes_ago" = "%d мин назад";
+"ck_time_hours_ago" = "%d ч назад";
+"ck_time_days_ago" = "%d д назад";
+"ck_time_today_at" = "Сегодня в %@";
+"ck_time_yesterday_at" = "Вчера в %@";
+"ck_time_date_at" = "%@ в %@";
+"notification_action_start_now" = "Начать сейчас";
+"notification_action_snooze" = "Напомнить через 5 мин";
+
+// Level Up Badge
+"congratulations" = "Поздравляем!";
+"level_up" = "Новый уровень!";
+
+// Timer Config Dropdown
+"auto_pilot" = "Автопилот";
+"auto_start_break" = "Авто-запуск перерыва";
+"auto_start_focus" = "Авто-запуск фокуса";
+"short_break_every" = "Короткий перерыв каждые";
+"long_break_every" = "Длинный перерыв каждые";
+"sessions_done" = "Выполнено сессий";
+"never" = "Нет";
+
+// MARK: - Notes List
+"copy" = "Копировать";
+"export" = "Экспорт";
+"no_notes_yet" = "Заметок пока нет";
+"delete_note" = "Удалить заметку";
+"note_delete_confirmation" = "Эта заметка будет удалена навсегда.";
+"export_note" = "Экспорт заметки";
+"export_as_pdf" = "Экспорт в PDF";
+"save_to_photos" = "Сохранить в Фото";
+"saved_to_photos" = "Сохранено в Фото";
+"note_card_saved" = "Карточка заметки сохранена в библиотеку фото.";
+"could_not_save" = "Не удалось сохранить";
+"note_title_placeholder" = "Заголовок";
+"new_note_placeholder" = "Новая заметка...";
+"write_note_placeholder" = "Напишите заметку...";
+"note_render_failed" = "Не удалось отрисовать изображение заметки.";
+"photo_access_denied" = "Доступ к библиотеке фото запрещён. Включите в Настройках.";
+"unknown_error" = "Неизвестная ошибка";
+
+// MARK: - Time Since
+"ts_time_since" = "Прошло времени";
+"ts_countdown" = "Обратный отсчет";
+"ts_no_trackers_yet" = "Пока нет трекеров";
+"ts_no_trackers_description" = "Отслеживайте время, прошедшее с определенных событий, привычек или вех.";
+"ts_create_tracker" = "Создать трекер";
+"ts_no_overdue_trackers" = "Нет просроченных трекеров";
+"ts_no_trackers_in_group" = "В группе \"%@\" нет трекеров";
+"ts_no_results" = "Ничего не найдено";
+"ts_search_trackers" = "Поиск трекеров";
+"ts_new" = "Новый";
+"ts_overdue" = "Просрочено";
+"ts_sort" = "Сортировка";
+"ts_recently_checked" = "Недавно проверенные";
+"ts_longest_elapsed" = "Наибольшее время";
+"ts_alphabetical" = "По алфавиту";
+"ts_date_created" = "По дате создания";
+"ts_nearest_deadline" = "Ближайший дедлайн";
+"ts_rename_group" = "Переименовать группу";
+"ts_new_name" = "Новое имя";
+"ts_rename" = "Переименовать";
+"ts_reset_color" = "Сбросить цвет";
+"ts_add_item" = "Добавить элемент";
+"ts_color" = "Цвет";
+"ts_color_sky_blue" = "Небесно-голубой";
+"ts_color_soft_teal" = "Мягкий бирюзовый";
+"ts_color_soft_violet" = "Мягкий фиолетовый";
+"ts_color_warm_amber" = "Теплый янтарный";
+"ts_color_golden_yellow" = "Золотисто-желтый";
+"ts_color_sage_green" = "Шалфейно-зеленый";
+"ts_color_muted_coral" = "Приглушенный коралловый";
+"ts_color_soft_lavender" = "Мягкий лавандовый";
+"ts_lock_screen_widgets" = "Виджеты экрана блокировки (%d/3)";
+"ts_lock_screen_guide_toolbar_a11y" = "Руководство по виджету экрана блокировки";
+"ts_lock_screen_guide_nav_title" = "Виджет экрана блокировки";
+"ts_lock_screen_guide_hero_title" = "Добавьте Time Since на экран блокировки";
+"ts_lock_screen_guide_hero_subtitle" = "Следуйте этим шагам на iPhone, чтобы разместить трекер за пару секунд.";
+"ts_lock_screen_guide_preview_title" = "Предпросмотр экрана блокировки";
+"ts_lock_screen_guide_preview_a11y" = "Предпросмотр экрана блокировки с виджетами Time Since";
+"ts_lock_screen_guide_step_a11y" = "Шаг %d: %@. %@";
+"ts_lock_screen_guide_step_1_title" = "Войдите в режим настройки";
+"ts_lock_screen_guide_step_1_detail" = "Нажмите и удерживайте экран блокировки, затем нажмите «Настроить».";
+"ts_lock_screen_guide_step_2_title" = "Выберите область виджетов";
+"ts_lock_screen_guide_step_2_detail" = "Нажмите область виджетов под часами.";
+"ts_lock_screen_guide_step_3_title" = "Выберите Focus Hero";
+"ts_lock_screen_guide_step_3_detail" = "Найдите Focus Hero и выберите виджет Time Since для экрана блокировки.";
+"ts_lock_screen_guide_step_4_title" = "Выберите трекер";
+"ts_lock_screen_guide_step_4_detail" = "Нажмите виджет и выберите трекер, который хотите видеть на экране блокировки.";
+"ts_lock_screen_guide_step_5_title" = "Сохраните";
+"ts_lock_screen_guide_step_5_detail" = "Нажмите «Готово», чтобы сохранить экран блокировки.";
+"ts_available" = "Доступно";
+"ts_when_did_this_happen" = "Когда это произошло?";
+"ts_note" = "Заметка";
+"ts_notes" = "Заметки";
+"ts_whats_on_your_mind" = "О чем вы думаете?";
+"ts_how_did_it_go" = "Как прошло?";
+"ts_add_note" = "Добавить заметку";
+"ts_add_occurrence" = "Добавить запись";
+
+// Time Since Card
+"ts_pin" = "Закрепить";
+"ts_unpin" = "Открепить";
+"ts_remove_from_group" = "Удалить из \"%@\"";
+"ts_new_group" = "Новая группа…";
+"ts_move_to_group" = "Переместить в группу";
+"ts_group_label" = "Группа: %@";
+"ts_group_name" = "Название группы";
+"ts_create" = "Создать";
+"ts_now" = "Сейчас";
+"ts_delete_confirm_title" = "Удалить \"%@\"?";
+"ts_delete_confirm_message" = "Это также удалит все уведомления и будильники для этого элемента.";
+"ts_completed" = "Готово!";
+"ts_until_date" = "До %@";
+"ts_done" = "Готово!";
+
+// Edit Time Since Event
+"ts_details" = "Подробнее";
+"ts_event_name" = "Название события";
+"ts_start_date" = "Дата начала";
+"ts_target_date" = "Целевая дата";
+"ts_display_as" = "Показывать как";
+"ts_start_time" = "Время начала";
+"ts_group" = "Группа";
+"ts_appearance" = "Внешний вид";
+"ts_track_interval" = "Интервал отслеживания";
+"ts_auto" = "Авто";
+"ts_custom" = "Свой вариант";
+"ts_interval" = "Интервал";
+"ts_delete_tracker" = "Удалить трекер";
+"ts_delete_tracker_confirm" = "Удалить этот трекер?";
+"ts_cannot_be_undone" = "Это действие нельзя отменить.";
+"ts_edit_tracker" = "Изменить трекер";
+"ts_new_tracker" = "Новый трекер";
+"ts_seed_plant_a_seed" = "Посадить семя 🌱";
+"ts_seed_unhealthy_eating" = "Нездоровое питание 🍔";
+"ts_seed_change_air_filter" = "Заменить воздушный фильтр";
+"ts_seed_group_break_habits" = "Избавиться от вредных привычек";
+"ts_reflect_every" = "Отмечать каждые %@";
+"ts_notify_every" = "Уведомлять каждые %@";
+"ts_icon" = "Иконка";
+"ts_on" = "Вкл.";
+
+// Alert Unit
+"ts_minutes" = "Минуты";
+"ts_hours" = "Часы";
+"ts_days" = "Дни";
+"ts_weeks" = "Недели";
+"ts_months" = "Месяцы";
+"ts_years" = "Годы";
+
+// Target Preset
+"ts_preset_week" = "Неделя";
+"ts_preset_month" = "Месяц";
+"ts_preset_quarter" = "Квартал";
+"ts_preset_year" = "Год";
+"ts_preset_6_months" = "6 месяцев";
+"ts_preset_1_year" = "1 год";
+"ts_preset_2_years" = "2 года";
+
+// Time Since Detail
+"ts_history" = "История";
+"ts_swipe_hint" = "Смахните карточку влево, чтобы добавить заметку";
+"ts_show_all_occurrences" = "Показать все записи: %d";
+"ts_occurrences_abbrev" = "%d зап.";
+"ts_average_format" = "ср. %@";
+"ts_occurrence" = "Запись";
+"ts_delete_tracker_detail" = "Удалить трекер";
+"ts_no_occurrences_yet" = "Записей пока нет.";
+"ts_log_occurrence_hint" = "Используйте кнопку + или смахивание влево по карточке, чтобы добавить запись.";
+"ts_gap_between_occurrences" = "Интервал между записями";
+"ts_past_gap" = "Прошлый интервал";
+"ts_current_ongoing" = "Текущий (идет)";
+"ts_view_notes" = "Посмотреть заметки";
+"ts_copy_notes" = "Скопировать заметки";
+"ts_copy_date" = "Скопировать дату";
+"ts_elapsed" = "прошло";
+"ts_started" = "Начато";
+"ts_edit" = "Изменить";
+"ts_target" = "Цель";
+"ts_remaining" = "осталось";
+"ts_percent_complete" = "%.1f%% выполнено";
+"nearby_sync_section_title" = "Синхронизация рядом";
+"nearby_sync_toggle_title" = "Синхронизация ближайших устройств";
+"nearby_sync_toggle_subtitle" = "Синхронизируйте запуск, паузу, завершение и сброс таймера между расположенными рядом iPhone и Mac";
+"nearby_sync_permission_hint" = "Если ранее было отказано, включите доступ к локальной сети в настройках iOS.";

@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "タイマー:ヒーロー";
+"NSAlarmKitUsageDescription" = "FocusHeroはアラームを使用して、サイレントモードや集中モード中でも、集中セッションと休憩が終了したことをお知らせします。";
+"NSLocalNetworkUsageDescription" = "FocusHeroはローカルネットワークを使用し、近くのデバイス間でタイマーの開始・終了・リセット状態を同期します。";

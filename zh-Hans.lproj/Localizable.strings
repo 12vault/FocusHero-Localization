@@ -1,0 +1,1091 @@
+/* 
+   Localizable.strings (English)
+   pomodoro-timer
+*/
+
+// MARK: - General
+"done" = "完成";
+"cancel" = "取消";
+"ok" = "好的";
+"settings" = "设置";
+"delete" = "删除";
+"edit" = "编辑";
+"save" = "保存";
+"reset" = "重置";
+"reload" = "重新加载";
+
+// MARK: - Sessions
+"focus_time" = "专注时间";
+"short_break" = "短暂休息";
+"long_break" = "长时休息";
+"focus" = "专注";
+"break" = "休息";
+"long" = "长休";
+
+// MARK: - Timer
+"running" = "运行中";
+"stopped" = "已停止";
+"session" = "会话";
+"sessions" = "会话";
+"completed_sessions" = "已完成会话";
+"total_sessions" = "总会话数";
+"total_time_minutes" = "总时间\n（分钟）";
+
+// MARK: - Hero System
+"start_journey" = "开始旅程";
+"level" = "等级";
+"hero_journeys" = "英雄旅程";
+"select_hero_journey" = "选择英雄旅程";
+"general" = "通用";
+"next_level_progress" = "下一等级进度";
+"hours" = "小时";
+"maximum_level_reached" = "🎉 已达最高等级！";
+"complete_first_session" = "完成你的第一次会话";
+"to_unlock_level_1" = "以解锁等级 1";
+"get_started" = "开始";
+"complete_1_session_to_reach_level_1" = "完成 1 次会话即可达到等级 1";
+"preview" = "预览";
+"level_reference" = "等级参考";
+"all_tag_journeys" = "所有标签旅程";
+"no_tag_journeys_yet" = "暂无标签旅程";
+"complete_sessions_with_tags" = "使用标签完成会话以开始英雄旅程";
+"long_press_for_options" = "长按查看选项";
+"reset_journey" = "重置旅程";
+"copy_stats" = "复制统计";
+"reset_hero_journey" = "重置英雄旅程";
+"reset_journey_confirmation" = "确定要完全重置你的\"%@\"英雄旅程吗？\n\n这将删除所有进度（%@）。只有当你用此标签完成新会话时，旅程才会重新出现。";
+"edit_hours_required" = "编辑所需时间";
+"reset_to_default" = "重置为默认";
+"edit_hours_message" = "设置达到第%d级（%@）所需的自定义时间";
+
+// MARK: - Tags
+"select_tag" = "选择标签";
+"session_tags" = "会话标签";
+"create_custom_tag" = "创建自定义标签";
+"tag_name" = "标签名称";
+"tag_emoji" = "标签表情";
+"tag_color" = "标签颜色";
+"create_tag" = "创建标签";
+"edit_tag" = "编辑标签";
+"update_tag" = "更新标签";
+"delete_tag" = "删除标签";
+"duplicate_tag_key" = "已存在相同名称和表情的标签";
+"delete_tag_confirmation" = "这将永久删除该标签及所有相关数据，包括会话历史和统计数据。此操作无法撤销。";
+"tags" = "标签";
+
+// MARK: - Todos
+"todo" = "待办";
+"todos" = "待办事项";
+"add_todo" = "添加待办";
+"edit_todo" = "编辑待办";
+"todo_title" = "待办标题";
+"todo_description" = "待办描述";
+"complete_todo" = "完成待办";
+"incomplete_todo" = "未完成待办";
+"delete_todo" = "删除待办";
+"no_todos" = "暂无待办事项";
+"add_todo_description" = "添加待办事项，让专注时段更有条理";
+
+// MARK: - Statistics
+"statistics" = "统计";
+"chart" = "图表";
+"calendar" = "日历";
+
+// MARK: - Settings
+"session_times" = "会话时间";
+"configure_times" = "配置时间";
+"customize_focus_break_durations" = "自定义专注和休息时长";
+"notifications" = "通知";
+"notification_settings" = "通知设置";
+"configure_alerts" = "配置提醒和通知";
+"session_history" = "会话记录";
+"view_history" = "查看记录";
+"see_completed_sessions" = "查看已完成的会话和进度";
+"onboarding" = "引导";
+"show_onboarding" = "显示引导";
+"review_getting_started" = "回顾入门指南";
+"reset_options" = "重置选项";
+"review_past_focus_sessions" = "回顾过去的专注会话";
+"how_it_works" = "使用方式";
+"learn_how_to_become_hero" = "了解如何成为英雄";
+
+// MARK: - Reset Options
+"reset_all_data" = "重置所有数据";
+"reset_session_counts" = "重置会话计数";
+"reset_onboarding" = "重置引导";
+"reset_all_data_description" = "删除所有数据，包括会话记录和进度";
+"reset_session_counts_description" = "将会话计数重置为零，保留记录";
+"reset_onboarding_description" = "下次启动时重新显示引导";
+"reset_confirmation_title" = "重置 %@？";
+
+// MARK: - Session Times Settings
+"focus_time_minutes" = "专注时间（分钟）";
+"short_break_minutes" = "短暂休息（分钟）";
+"long_break_minutes" = "长时休息（分钟）";
+"custom_times_enabled" = "已启用自定义时间";
+"premium_required" = "需要高级会员";
+"upgrade_for_custom_times" = "升级以自定义会话时长";
+
+// MARK: - Quick Actions
+"sessions_completed_count" = "%d";
+"level_abbreviation" = "Lv.%d";
+
+// MARK: - Accessibility
+"play_button" = "播放";
+"pause_button" = "暂停";
+"reset_button" = "重置";
+"timer_progress" = "计时器进度";
+"session_selector" = "会话选择器";
+
+// MARK: - Notifications
+"session_complete_title" = "会话完成！";
+"focus_session_complete_body" = "做得很好！该休息了。";
+"break_session_complete_body" = "休息结束了。准备好专注了吗？";
+"countdown_seconds_remaining" = "⏰ 还剩 %d 秒！";
+"countdown_body_focus" = "您的专注时间即将结束。";
+"countdown_body_break" = "您的短暂休息即将结束。";
+"countdown_body_long_break" = "您的长休息即将结束。";
+
+// MARK: - Premium/Paywall
+"premium_features" = "高级功能";
+"upgrade_now" = "立即升级";
+"subscription_required" = "需要订阅";
+
+// MARK: - Error Messages
+"error_occurred" = "发生错误";
+"try_again" = "重试";
+"network_error" = "网络错误";
+"please_check_connection" = "请检查您的网络连接";
+
+// MARK: - Time Formatting
+"minutes_short" = "分";
+"hours_short" = "小时";
+"seconds_short" = "秒";
+
+// MARK: - Welcome Screen
+"welcome_to_focushero" = "欢迎来到 FocusHero";
+"welcome_subtitle" = "通往精通的旅程，从一次专注开始";
+"lets_go" = "开始吧！";
+
+// MARK: - Onboarding
+"welcome_to_your" = "欢迎来到";
+"hero_journey" = "你的英雄之旅";
+"become_a_hero_in" = "成为英雄";
+"your_craft" = "在你的领域";
+"master_multiple" = "掌握多项";
+"skills_and_crafts" = "技能与专长";
+"never_lose" = "永不丢失";
+"your_progress" = "你的进度";
+"your_10000_hours" = "你的一万小时";
+"start_today" = "今天就开始";
+"skip" = "跳过";
+"back" = "返回";
+"continue" = "继续";
+"get_started" = "开始";
+"of" = "/";
+
+// Onboarding descriptions
+"onboarding_1_description" = "通过已验证的一万小时理论掌握任何技能。用番茄工作法将专注练习转化为英雄级专业技能";
+"onboarding_2_description" = "每一位专家曾经都是初学者。随着专注练习时间的积累不断升级。见证自己从新手成长为英雄";
+"onboarding_3_description" = "为每项想要掌握的技能创建标签。编程、音乐、写作、艺术——在每个领域追踪你的一万小时旅程";
+"onboarding_4_description" = "你的精通之旅处处延续。实时活动和灵动岛让你在多任务处理时也能看到进度";
+"onboarding_5_description" = "每位大师都从第一个小时开始。现在就开始从初学者到英雄的蜕变。传奇旅程在等待你！";
+
+// Onboarding features
+"25_minute_sessions" = "25分钟专注练习";
+"track_path_10000" = "追踪通往一万小时的路径";
+"proven_practice_method" = "经过验证的刻意练习法";
+"level_progression" = "每小时逐级提升";
+"visual_journey_mastery" = "可视化精通之旅";
+"track_multiple_skills" = "同时追踪多项技能";
+"separate_hero_journeys" = "每项技能独立的英雄旅程";
+"custom_skill_categories" = "自定义技能类别";
+"individual_mastery_tracking" = "个人精通度追踪";
+"always_visible_progress" = "随时可见的进度";
+"seamless_session_tracking" = "无缝会话追踪";
+"never_break_flow" = "永不打断你的心流";
+"start_first_hour" = "开始你的第一个精通小时";
+"choose_first_skill" = "选择你的第一项技能";
+"begin_hero_transformation" = "开始你的英雄蜕变";
+
+// MARK: - Hero Level Titles
+"hero_level_0_title" = "立志者";
+"hero_level_1_title" = "新手专注";
+"hero_level_2_title" = "学徒";
+"hero_level_3_title" = "熟练战士";
+"hero_level_4_title" = "精英战士";
+"hero_level_5_title" = "冠军";
+"hero_level_6_title" = "传奇";
+"hero_level_7_title" = "大师";
+"hero_level_8_title" = "宗师";
+"hero_level_9_title" = "智者";
+"hero_level_10_title" = "大艺术家";
+"hero_level_11_title" = "觉悟者";
+"hero_level_12_title" = "超凡入圣";
+
+// MARK: - Hero Level Descriptions
+"hero_level_0_description" = "准备开始旅程";
+"hero_level_1_description" = "每位英雄都有起点";
+"hero_level_2_description" = "学习专注之道";
+"hero_level_3_description" = "培养自律";
+"hero_level_4_description" = "掌握专注力";
+"hero_level_5_description" = "以身作则";
+"hero_level_6_description" = "成就伟大";
+"hero_level_7_description" = "超越极限";
+"hero_level_8_description" = "接近真正的精通";
+"hero_level_9_description" = "通过奉献获得智慧";
+"hero_level_10_description" = "实践中的卓越";
+"hero_level_11_description" = "接近终极目标";
+"hero_level_12_description" = "一万小时精通";
+
+// MARK: - Default Session Tags
+"default_tag_ai_literacy" = "AI素养";
+"default_tag_spanish" = "西班牙语";
+"default_tag_piano" = "钢琴";
+
+// MARK: - Session Tag View
+"available_tags" = "可用标签";
+"add_tag" = "添加标签";
+"select" = "选择";
+"edit" = "编辑";
+"delete" = "删除";
+"create_tag" = "创建标签";
+"edit_tag" = "编辑标签";
+"cancel" = "取消";
+"save" = "保存";
+"tag_name" = "标签名称";
+"optional" = "可选";
+"enter_tag_name" = "输入标签名称";
+"select_emoji" = "选择表情";
+"select_color" = "选择颜色";
+"create_custom_tag_description" = "创建自定义标签以整理专注会话";
+"edit_custom_tag_description" = "编辑自定义标签设置";
+"tag_already_exists" = "⚠️ 标签已存在";
+
+// MARK: - Session Times Settings
+"session_times" = "会话时间";
+"current_configuration" = "当前配置";
+"focus" = "专注";
+"short_break" = "短暂休息";
+"long_break" = "长时休息";
+"quick_presets" = "快速预设";
+"classic" = "经典";
+"short" = "短";
+"deep" = "深度";
+"custom_times" = "自定义时间";
+"unlock" = "解锁";
+"focus_time" = "专注时间";
+"deep_work_sessions" = "深度工作会话";
+"quick_refresher" = "快速恢复";
+"extended_rest" = "延长休息";
+"minutes" = "分钟";
+"premium_feature" = "高级功能";
+"customize_session_durations" = "自定义会话时长以匹配您的生产力风格";
+
+// MARK: - Color Picker
+"choose_custom_color" = "选择自定义颜色";
+"custom_color" = "自定义颜色";
+"custom_emoji" = "自定义表情";
+"select_color" = "选择颜色";
+"done" = "完成";
+
+// MARK: - Paywall
+"unlock_premium" = "解锁高级版";
+"start_free_trial" = "开始免费试用";
+"yearly_plan" = "年度计划";
+"lifetime_plan" = "终身访问";
+"weekly_plan" = "周计划";
+"3_day_trial" = "3天试用";
+"best_value" = "最超值";
+"most_popular" = "最受欢迎";
+"pay_once" = "一次性付款";
+"custom_session_times" = "自定义会话时间";
+"unlimited_tags" = "无限标签";
+"advanced_statistics" = "高级统计";
+"privacy_policy" = "隐私政策";
+"terms_of_service" = "服务条款";
+"restore_purchases" = "恢复购买";
+"no_commitment" = "无约束，随时取消";
+"free_for_3_days" = "免费3天";
+"enhanced_productivity_features" = "增强生产力功能";
+"advanced_analytics" = "高级分析";
+"unlimited_journeys" = "无限旅程";
+"custom_session_time" = "自定义会话时间";
+"3_days_free_then" = "免费3天，之后%@/%@";
+"save_percentage" = "节省%d%%";
+"start_with_free_trial" = "开始免费试用";
+"terms_and_privacy" = "条款与隐私";
+"terms_of_use" = "使用条款";
+"cancel_anytime_no_commitment" = "随时取消 • 无约束";
+"restore" = "恢复";
+"no_purchases_restored" = "未找到可恢复的购买";
+"tap_to_unlock" = "点击解锁";
+"premium_feature" = "高级功能";
+"paywall_feature_analytics" = "详细专注分析与洞察";
+"paywall_feature_unlimited_tags" = "无限标签整理专注会话";
+"paywall_feature_unlimited_journeys" = "无限专注旅程与目标";
+"paywall_feature_remove_paywall" = "移除付费墙";
+"paywall_feature_support_developer" = "支持开发者";
+"paywall_rating" = "App Store 4.9分";
+"paywall_unable_to_load_pricing" = "无法加载价格";
+"paywall_check_connection_retry" = "请检查网络连接后重试";
+"paywall_intro_offer" = "首选价格: %@";
+"paywall_per_month_format" = "(%@/月)";
+"paywall_per_year_format" = "%@/年";
+"paywall_limited_offer" = "限时优惠";
+"paywall_special_offer" = "特别优惠";
+"paywall_legal" = "法律信息";
+"paywall_redeem_code" = "兑换码";
+
+// MARK: - Session Complete
+"session_complete" = "会话完成！";
+"great_job" = "做得很好！";
+"time_for_break" = "该休息了";
+"break_complete" = "休息完成！";
+"ready_to_focus" = "准备好专注了吗？";
+"session_completed" = "会话已完成";
+"take_break" = "休息一下";
+"continue_working" = "继续工作";
+"well_done" = "做得好！";
+"keep_going" = "继续加油！";
+"session_save_with_extra" = "保存含额外时间";
+"session_message_focus" = "做得很好！您已完成一个专注会话。";
+"session_message_break" = "休息结束！准备好再次专注了吗？";
+"session_message_long_break" = "长休息结束！您已恢复精力，准备就绪。";
+
+// MARK: - Session Tags
+"tag" = "标签";
+"organize_sessions_with_tags" = "使用自定义标签整理专注会话";
+"current_selection" = "当前选择";
+"active_tag" = "活动标签";
+"unnamed_tag" = "未命名标签";
+"no_tag_selected" = "未选择标签";
+"choose_tag_to_organize" = "选择标签以整理专注会话";
+"available_tags" = "可用标签";
+"create_new_tag" = "创建新标签";
+"choose_existing_tag" = "选择现有标签";
+"tag_already_exists" = "标签已存在";
+"enter_tag_name" = "输入标签名称";
+"select_emoji" = "选择表情";
+"choose_color" = "选择颜色";
+"name_optional" = "名称（可选）";
+"default_tags" = "默认标签";
+"custom_tags" = "自定义标签";
+"no_custom_tags" = "暂无自定义标签";
+"tap_to_create" = "点击 + 创建第一个自定义标签";
+"tap_to_open_emoji_keyboard" = "点击上方输入表情符号";
+
+// MARK: - Todos
+"quick_todos" = "快速待办";
+"all" = "全部";
+"type_new_todo" = "输入新待办...";
+"what_are_you_working_on" = "你在做什么？";
+"add_your_tasks" = "添加你的任务";
+"create_new_todo" = "新建待办";
+"enter_title" = "输入标题";
+"enter_description_optional" = "输入描述（可选）";
+"mark_complete" = "标记为已完成";
+"mark_incomplete" = "标记为未完成";
+"empty_todo_list" = "待办列表为空";
+"add_first_todo" = "添加第一个待办事项以开始";
+"completed_todos" = "已完成待办";
+"incomplete_todos" = "未完成待办";
+"all_todos" = "全部待办";
+"no_todos_for_tag" = "此标签暂无待办事项";
+"tap_to_add_first_todo" = "点击 + 添加第一个待办";
+"complete_selected" = "完成所选";
+"delete_selected" = "删除所选";
+
+// MARK: - Calendar
+"this_month" = "本月";
+"sessions_this_month" = "本月会话数";
+"total_time_this_month" = "本月总时间";
+"longest_streak" = "最长连续";
+"current_streak" = "当前连续";
+"days" = "天";
+"day" = "天";
+"today" = "今天";
+"yesterday" = "昨天";
+"sessions_on" = "当天会话";
+
+// MARK: - Chart/Statistics
+"weekly_progress" = "每周进度";
+"monthly_progress" = "每月进度";
+"focus_sessions" = "专注会话";
+"break_sessions" = "休息会话";
+"total_hours" = "总小时数";
+"average_per_day" = "每日平均";
+"best_day" = "最佳日";
+"this_week" = "本周";
+"last_week" = "上周";
+"this_month" = "本月";
+"last_month" = "上月";
+"no_data" = "无可用数据";
+"start_timer_to_see_stats" = "开始使用计时器以查看统计数据";
+
+// MARK: - Session Times Settings
+"classic_pomodoro" = "经典番茄钟";
+"use_classic_times" = "使用经典番茄钟时间（25/5/15 分钟）";
+"custom_times" = "自定义时间";
+"customize_session_lengths" = "自定义会话长度以适应您的工作流程";
+"minutes" = "分钟";
+"enable_custom_times" = "启用自定义时间";
+"requires_premium" = "需要高级会员";
+
+// MARK: - Notifications Settings
+"daily_reminder" = "每日提醒";
+"get_reminded_stay_focused" = "设置提醒以保持专注";
+"multiple_reminders" = "多个提醒";
+"set_multiple_reminder_times" = "设置多个提醒时间";
+"reminder_time" = "提醒时间";
+"reminder_1" = "提醒 1";
+"reminder_2" = "提醒 2";
+"reminder_3" = "提醒 3";
+"notification_permission_required" = "需要通知权限";
+"enable_notifications_settings" = "在设置中启用通知";
+"focus_reminder_title" = "该专注了！";
+"focus_reminder_body" = "未来的你会感谢这次会话。让我们完成这些目标！🚀";
+
+// MARK: - Session History
+"session_history_title" = "会话记录";
+"filter_by_tag" = "按标签筛选";
+"all_tags" = "所有标签";
+"export_data" = "导出数据";
+"clear_history" = "清除记录";
+"clear_history_confirmation" = "确定要清除所有会话记录吗？此操作无法撤销。";
+"clear" = "清除";
+"no_sessions_found" = "未找到会话";
+"start_timer_to_build_history" = "开始使用计时器以建立会话记录";
+"completed_at" = "完成于";
+"no_sessions_yet" = "暂无会话";
+"start_first_pomodoro_session" = "开始您的第一次番茄钟会话，在这里查看记录！";
+
+// MARK: - Common UI Elements
+"close" = "关闭";
+"add" = "添加";
+"remove" = "移除";
+"update" = "更新";
+"confirm" = "确认";
+"yes" = "是";
+"no" = "否";
+"loading" = "加载中...";
+"please_wait" = "请稍候...";
+"success" = "成功";
+"error" = "错误";
+"warning" = "警告";
+"info" = "信息";
+"record_this_session" = "记录此会话？";
+"save_progress_or_start_fresh" = "保存进度或重新开始";
+"discard" = "丢弃";
+"save_progress" = "保存进度";
+"end_session" = "结束";
+"completed" = "已完成";
+
+// MARK: - Validation Messages
+"field_required" = "此字段为必填项";
+"invalid_input" = "输入无效";
+"name_too_short" = "名称太短";
+"name_too_long" = "名称太长";
+"emoji_required" = "请选择一个表情";
+
+// MARK: - Widget & Live Activity
+"pomodoro" = "番茄钟";
+"break_time" = "休息时间";
+"long_break" = "长时休息";
+
+// MARK: - Accessibility Labels
+"timer_display" = "计时器显示";
+"session_type_button" = "会话类型按钮";
+"tag_selection_button" = "标签选择按钮";
+"todo_list_button" = "待办列表按钮";
+"settings_button" = "设置按钮";
+"calendar_button" = "日历按钮";
+"statistics_button" = "统计按钮";
+"level_progress_indicator" = "等级进度指示器";
+
+"completed" = "已完成";
+"incomplete" = "未完成";
+
+// MARK: - Analytics
+"analytics" = "分析";
+"sessions" = "会话";
+"tags" = "标签";
+"tag_usage" = "标签使用情况";
+"most_used" = "最常使用";
+"patterns" = "规律";
+"reports" = "报告";
+"productivity_patterns" = "生产力规律";
+"visual_reports" = "可视化报告";
+"no_reports_available" = "暂无报告";
+"week" = "周";
+"month" = "月";
+"year" = "年";
+"sessions_this_week" = "本周会话数";
+"sessions_this_year" = "本年会话数";
+"week_summary" = "本周摘要";
+"month_summary" = "本月摘要";
+"year_summary" = "年度摘要";
+"summary" = "摘要";
+"total" = "总计";
+"average" = "平均";
+"peak" = "峰值";
+"no_tag_data_yet" = "暂无标签数据";
+"start_using_tags" = "使用标签以查看分析";
+"start_using_tags_to_generate" = "使用标签以生成报告";
+"activity_levels" = "活动级别";
+"light" = "少";
+"moderate" = "中";
+"high" = "多";
+"no_activity_recorded" = "未记录活动";
+"start_session_to_see_progress" = "开始会话以查看进度";
+"completion_rate" = "完成率";
+
+// MARK: - Questionnaire Onboarding
+"questionnaire_finish" = "完成";
+
+// Question 0 - Name
+"questionnaire_name_title" = "你希望我们怎么称呼你？";
+"questionnaire_name_subtitle" = "很高兴你来到这里！我们应该怎么叫你？";
+"questionnaire_name_placeholder" = "你的名字";
+
+// Question 1 - Motivation
+"questionnaire_motivation_title" = "是什么驱动着你？";
+"questionnaire_motivation_subtitle" = "选择所有让你有动力实现目标的因素";
+"motivation_achievement" = "成就感";
+"motivation_achievement_desc" = "达成目标和里程碑";
+"motivation_growth" = "个人成长";
+"motivation_growth_desc" = "学习与自我提升";
+"motivation_freedom" = "自由";
+"motivation_freedom_desc" = "独立性与灵活性";
+"motivation_creativity" = "创造力";
+"motivation_creativity_desc" = "表达想法与创新";
+"motivation_knowledge" = "知识";
+"motivation_knowledge_desc" = "理解与智慧";
+"motivation_impact" = "产生影响";
+"motivation_impact_desc" = "帮助他人和社会";
+"motivation_health" = "健康与养生";
+"motivation_health_desc" = "身心健康";
+
+// Question 2 - Peak Time
+"questionnaire_peak_title" = "你什么时候最专注？";
+"questionnaire_peak_subtitle" = "我们将帮助你建立适合自己节奏的日常习惯";
+"peak_morning" = "早晨";
+"peak_morning_hours" = "上午6点 - 12点";
+"peak_afternoon" = "下午";
+"peak_afternoon_hours" = "12点 - 下午5点";
+"peak_evening" = "傍晚";
+"peak_evening_hours" = "下午5点 - 10点";
+"peak_night" = "深夜";
+"peak_night_hours" = "晚10点以后";
+
+// Question 3 - Productivity Apps
+"questionnaire_apps_title" = "你以前用过生产力应用吗？";
+"questionnaire_apps_subtitle" = "你的经验帮助我们了解你的需求";
+"questionnaire_apps_field_placeholder" = "哪些有用？哪些没用？（可选）";
+
+// Question 4 - Best Feature
+"questionnaire_best_feature_title" = "生产力应用最好的功能是什么？";
+"questionnaire_best_feature_subtitle" = "选择对你最重要的功能";
+"prod_feature_time_tracking" = "时间追踪";
+"prod_feature_time_tracking_desc" = "监控你如何使用时间";
+"prod_feature_goal_setting" = "目标设定";
+"prod_feature_goal_setting_desc" = "设定并追踪目标";
+"prod_feature_habit_building" = "习惯养成";
+"prod_feature_habit_building_desc" = "建立一致的日常习惯";
+"prod_feature_analytics" = "数据分析";
+"prod_feature_analytics_desc" = "洞察与进度报告";
+"prod_feature_reminders" = "提醒";
+"prod_feature_reminders_desc" = "通知与提示";
+"prod_feature_gamification" = "游戏化";
+"prod_feature_gamification_desc" = "积分、等级与奖励";
+
+// Question 5 - Goal
+"questionnaire_goal_title" = "想在未来1-3个月内掌握某项技能吗？";
+"questionnaire_goal_subtitle" = "明确的目标可将成功率提高42%";
+"questionnaire_goal_placeholder" = "你想掌握什么？";
+"questionnaire_not_sure" = "不确定";
+
+// Question 6 - Time Commitment
+"questionnaire_time_title" = "你计划每天花多少时间？";
+"questionnaire_time_subtitle" = "每天哪怕15分钟也能创造惊人成果";
+"time_15_minutes" = "15分钟";
+"time_30_minutes" = "30分钟";
+"time_1_hour" = "1小时";
+"time_2_hours" = "2小时";
+"time_3_hours" = "3小时";
+"time_7_plus_hours" = "7小时以上";
+
+// Question 7 - Obstacles
+"questionnaire_obstacles_title" = "什么最常阻碍你？";
+"questionnaire_obstacles_subtitle" = "识别障碍是克服它们的第一步";
+"obstacle_distractions_title" = "分心";
+"obstacle_distractions_desc" = "手机、社交媒体、干扰";
+"obstacle_motivation_title" = "缺乏动力";
+"obstacle_motivation_desc" = "难以开始";
+"obstacle_perfectionism_title" = "完美主义";
+"obstacle_perfectionism_desc" = "想把一切都做到完美";
+"obstacle_overwhelm_title" = "不知所措";
+"obstacle_overwhelm_desc" = "事情太多，不知从何开始";
+"obstacle_procrastination_title" = "拖延";
+"obstacle_procrastination_desc" = "把事情推迟到以后";
+"obstacle_time_management_title" = "时间管理";
+"obstacle_time_management_desc" = "计划和安排做得不好";
+"obstacle_other_title" = "其他";
+"obstacle_other_desc" = "其他原因";
+
+// News screens
+"questionnaire_news_intro" = "有一个不太好的消息，和一个好消息";
+"questionnaire_bad_news_label" = "坏消息是";
+"questionnaire_bad_news_content" = "研究表明，忽视健康习惯可能";
+"questionnaire_bad_news_highlight" = "让你的寿命缩短多达6年";
+"questionnaire_good_news_label" = "好消息是";
+"questionnaire_good_news_start" = "FocusHero能帮你";
+"questionnaire_good_news_highlight" = "找回4到5年的生命";
+"questionnaire_good_news_end" = "通过在健身、营养和心理健康方面养成可持续的习惯";
+
+// Achievement screen
+"questionnaire_achievement_title" = "做得好！你已准备就绪";
+"questionnaire_achievement_subtitle" = "你解锁了「最佳开始」成就\n感谢你开始这段旅程";
+"questionnaire_achievement_earned" = "获得日期";
+
+// Features overview screen
+"questionnaire_features_title" = "FocusHero能为你做什么：";
+"questionnaire_feature_goals" = "实现所有目标！从我们的列表中选择或创建自己的目标";
+"questionnaire_feature_growth" = "见证你的成长";
+"questionnaire_feature_growth_detail" = " — 通过深度分析和可行洞察了解你的习惯";
+"questionnaire_feature_blocking" = "在专注期间屏蔽干扰应用，让你完全集中";
+"questionnaire_feature_adventure" = "将每日专注转变为自我提升的史诗冒险";
+"questionnaire_callout_stat" = "92%";
+"questionnaire_callout_text" = "与你有相同目标的FocusHero用户，都从一个简单习惯开始，比如";
+"questionnaire_callout_habit" = "「阅读」";
+
+// App blocking prompt
+"app_blocking_title" = "屏蔽干扰应用？";
+"app_blocking_subtitle" = "由于分心是你的主要障碍，你可以在专注期间自动隐藏干扰应用。";
+"app_blocking_set_up" = "设置应用屏蔽";
+"app_blocking_skip" = "暂时跳过";
+
+// MARK: - Feature Slides
+"feature_slide1_title" = "FocusHero让\n自我提升更简单";
+"feature_slide1_desc" = "追踪你的进步，从自身成长中汲取动力，见证小行动如何带来大改变。";
+"feature_slide2_title" = "FocusHero帮我\n养成更好的习惯";
+"feature_slide2_desc" = "通过习惯格和易用工具，坚持实现你的目标。";
+"feature_slide3_title" = "FocusHero支持\n我的成长";
+"feature_slide3_desc" = "让我们携手建立持久的习惯，充分发挥你的潜力。";
+
+// MARK: - Calculating Review
+"calculating_step1" = "正在计算";
+"calculating_step2" = "正在为你定制应用";
+"apps_we_love" = "精选\n应用";
+
+// MARK: - Contract Onboarding
+"contract_word" = "契约";
+"contract_your_fallback" = "你的";
+"contract_bullet1" = "我会**适应任何时间段**，保持进步！";
+"contract_bullet2" = "我会**探索多种追踪进度的方式**，找到最适合自己的方法！";
+"contract_bullet3" = "我会**告别坏习惯**，为进步铺路！";
+"contract_bullet4" = "我会**应对任何挑战**，找到前进的方向！";
+"contract_bullet5" = "我会**拥抱更健康的生活方式**，成为最好的自己！";
+"contract_agreed" = "契约已签署！";
+"contract_keep_holding" = "继续按住...";
+"contract_hold_to_agree" = "长按同意";
+"contract_research_note" = "研究表明，像这样的承诺契约能显著提高执行力和责任感";
+"contract_lets_get_started" = "让我们开始吧！";
+
+// MARK: - Habit Tracker
+"habit_tracker" = "习惯追踪";
+"complete_focus_to_build_streaks" = "完成专注会话以建立连续记录";
+"habits" = "习惯";
+"tracked" = "追踪中";
+"available" = "可用";
+"unnamed" = "未命名";
+"no_tags_yet" = "暂无标签";
+"no_tags_description" = "创建标签来追踪您的习惯。\n每次完成会话都会增加连续记录！";
+"hide" = "隐藏";
+"current_streak_title" = "当前连续";
+"best_streak" = "最佳连续";
+"total_time" = "总时间";
+"no_sessions_activity" = "没有会话";
+"one_session_activity" = "1次会话";
+"two_three_sessions" = "2-3次会话";
+"four_plus_sessions" = "4次以上会话";
+"less" = "少";
+"more" = "多";
+
+// MARK: - App Blocking Settings
+"focus_shield" = "Focus Shield";
+"focus_duration_too_short" = "专注时长太短";
+"fifteen_minutes_minimum" = "最少需要15分钟";
+"app_blocking_requirement" = "应用屏蔽需要至少15分钟的专注会话。这是系统要求，以确保会话结束时应用能自动解除屏蔽。";
+"current_focus_duration" = "当前专注时长：%d分钟";
+"increase_focus_time_instruction" = "请在会话时间设置中将专注时间延长至15分钟或以上，以启用应用屏蔽。";
+"authorization_required" = "需要授权";
+"screen_time_access" = "屏幕使用时间访问权限";
+"screen_time_access_description" = "要在专注会话期间屏蔽干扰应用，我们需要访问屏幕使用时间。这将允许我们在您专注时临时隐藏所选应用。";
+"grant_access" = "授予访问权限";
+"screen_time_denied" = "访问被拒绝。请在设置 > 屏幕使用时间中启用屏幕使用时间访问权限。";
+"activate" = "启用";
+"focus_shield_description" = "专注会话期间，所选应用将受到限制";
+"apps_to_block" = "要屏蔽的应用";
+"select_apps_categories" = "选择应用和类别";
+"clear_selection" = "清除选择";
+"start_focus" = "开始专注";
+"start_focus_description" = "开始专注会话时，所选应用将被屏蔽";
+"shield_appears" = "出现防护盾";
+"shield_appears_description" = "尝试打开被屏蔽的应用时，将出现防护盾";
+"session_ends" = "会话结束";
+"session_ends_description" = "会话完成后，应用将自动解除屏蔽";
+
+// MARK: - Chart Analytics
+"all_tags" = "所有标签";
+
+// MARK: - Quick Actions Stats
+"time_today" = "今日总计";
+"todays_sessions" = "今日专注数";
+"saved_to_yesterday" = "%@ → 昨天";
+
+// MARK: - Settings View
+"icloud_sync" = "iCloud 同步";
+"sync_status" = "同步状态";
+"icloud_sync_description" = "您的番茄钟数据将在您使用 iCloud 帐户登录的所有设备上同步";
+"display" = "显示";
+"appearance" = "外观";
+"light_dark_automatic" = "浅色、深色或自动";
+"glow_effects" = "发光效果";
+"glow_effects_description" = "发光效果（耗电更多）";
+"language" = "语言";
+"language_description" = "选择应用语言";
+"language_restart_required" = "需要重启";
+"language_restart_message" = "重启应用以应用新语言。";
+"sound" = "声音";
+"session_complete_sound" = "专注完成声音";
+"play_sound_when_timer_finishes" = "计时器结束时播放声音";
+"native_alarm_overrides_sound" = "原生闹钟已启用并将覆盖此声音";
+"block_list" = "Block List";
+"hide_apps_during_focus" = "专注期间隐藏应用";
+"review_and_rate" = "评价应用";
+"focushero_socials" = "FocusHero 社交账号";
+"rate_pomodoro_timer" = "为番茄钟计时器评分";
+"share_app_store_feedback" = "在 App Store 上分享您的反馈";
+"alarm_permission_required" = "需要闹钟权限";
+"open_settings" = "打开设置";
+"alarm_permission_message" = "要使用原生闹钟，请在设置中启用闹钟权限。";
+"session_complete_notification" = "专注完成通知";
+"notify_when_session_finishes" = "专注结束时通知";
+"native_alarm" = "原生闹钟";
+"quiet_hours" = "静默时段";
+"native_alarm_description" = "即使在静音模式下也会发出闹钟声";
+"session_end_alarm" = "专注结束闹钟";
+"alarm_when_timer_completes" = "计时器完成时发出闹钟";
+"time_block_alarms" = "时间段闹钟";
+"alarm_when_blocks_start" = "预定时间段开始时发出闹钟";
+"reset_dialog_title" = "重置 %@？";
+"reset_dialog_button" = "重置 %@";
+"active_notifications_count" = "%d 项活跃";
+
+// MARK: - Todo Overlay
+"add_new_todo_placeholder" = "添加新待办事项...";
+"no_tag_todos" = "没有%@的待办事项";
+"add_first_task_above" = "在上方添加您的第一个任务";
+"none" = "无";
+"deadline" = "截止日期";
+"set_deadline" = "设置截止日期";
+"select_date_label" = "选择日期";
+"created_date" = "创建：%@";
+"completed_status" = "✓ 已完成";
+"subtasks" = "子任务";
+"new_subtask_placeholder" = "新建子任务...";
+"set_button" = "设置";
+
+// MARK: - Streak Stat Card
+"streak_current" = "当前";
+"streak_best" = "最佳";
+
+// MARK: - Schedule View
+"schedule" = "日程";
+"reset_all_time_blocks" = "重置所有时间块";
+"delete_all" = "全部删除";
+"reset_time_blocks_message" = "将永久删除所有时间块，此操作无法撤销。";
+"never_miss_session" = "不错过任何专注";
+"enable_alarms_silent" = "启用静音模式下的闹钟";
+"enable" = "启用";
+
+// MARK: - Time Block Scheduler
+"auto_started" = "自动启动";
+"timer_busy" = "计时器使用中";
+"is_scheduled" = "已安排";
+"focus_session" = "专注时段";
+"streak_days" = "天";
+
+// MARK: - Time Block Edit Sheet
+"create_time_block" = "创建时间块";
+"edit_time_block" = "编辑时间块";
+"details" = "详细信息";
+"title_label" = "标题";
+"start_time" = "开始时间";
+"duration" = "时长";
+"repeat" = "重复";
+"alarm" = "闹钟";
+"alarm_native_ios_at_start" = "开始时间的iOS原生闹钟";
+"alarm_enable_in_settings" = "在设置→原生闹钟中启用";
+"saving" = "保存中...";
+"scheduling_conflict" = "时间冲突";
+"time_block_overlap_message" = "此时间块与%d个现有块重叠。请选择其他时间。";
+"delete_time_block" = "删除时间块";
+"delete_this_only" = "仅删除此项";
+"delete_all_recurring" = "删除所有重复";
+"recurring_block_delete_message" = "这是一个重复时间块。您要仅删除此次，还是删除所有未来的重复？";
+"delete_time_block_confirmation" = "您确定要删除此时间块吗？";
+"enable_alarms" = "启用闹钟";
+"not_now" = "暂不";
+"alarm_onboarding_message" = "当您的预定专注时间开始时获得iOS原生闹钟提醒——即使在静音模式下也会响铃，让您不会错过专注时间段。";
+"enable_alarms_for_time_blocks_message" = "要为时间块使用闹钟，请在设置中启用原生闹钟。立即启用吗？";
+
+// Duration options
+"duration_15_min" = "15分钟";
+"duration_30_min" = "30分钟";
+"duration_45_min" = "45分钟";
+"duration_1_hour" = "1小时";
+"duration_1_5_hours" = "1.5小时";
+"duration_2_hours" = "2小时";
+"duration_3_hours" = "3小时";
+"duration_4_hours" = "4小时";
+
+// iCloud Sync Toggle
+"ck_sync_toggle_title" = "与 iCloud 同步";
+"ck_sync_toggle_subtitle" = "在所有设备间同步";
+"ck_restart_required_title" = "需要重启";
+"ck_restart_required_message" = "此更改将在下次打开应用时生效。";
+
+// iCloud Sync Status
+"ck_status_syncing" = "正在同步…";
+"ck_status_error" = "同步错误";
+"ck_status_active" = "iCloud 同步已启用";
+"ck_status_no_account" = "无 iCloud 账户";
+"ck_status_restricted" = "同步受限";
+"ck_status_temp_unavailable" = "暂时不可用";
+"ck_status_no_internet" = "无网络连接";
+"ck_status_checking" = "正在检查状态…";
+"ck_hero_no_account" = "需要 iCloud 账户";
+
+// iCloud Sync Subtitles
+"ck_sub_last_synced" = "%@ 已同步";
+"ck_sub_waiting" = "等待首次同步";
+"ck_sub_sign_in" = "前往设置登录 iCloud 以同步";
+"ck_sub_check_screen_time" = "检查屏幕使用时间或家长控制设置";
+"ck_sub_will_resume" = "iCloud 可用时将自动恢复";
+"ck_sub_will_sync" = "连接恢复后将自动同步";
+"ck_sub_please_wait" = "请稍候";
+
+// iCloud Sync Detail Sheet
+"ck_progress_note" = "iCloud 不共享记录数量——进度为不确定状态";
+"ck_last_synced_label" = "上次同步";
+"ck_never" = "从未";
+"ck_sync_now" = "立即同步";
+"ck_check_again" = "重新检查";
+"ck_button_syncing" = "正在同步…";
+
+// iCloud Sync Hero Descriptions
+"ck_desc_syncing" = "正在将番茄钟数据同步到您的所有设备。";
+"ck_desc_error" = "上次同步尝试遇到错误。点击重新检查或尝试立即同步。";
+"ck_desc_active" = "番茄钟数据会在所有登录此 iCloud 账户的设备上自动同步。";
+"ck_desc_no_account" = "请前往设置登录 iCloud，以在设备间同步数据。";
+"ck_desc_restricted" = "此设备上的 iCloud 同步受限。请检查屏幕使用时间或家长控制设置。";
+"ck_desc_temp_unavailable" = "iCloud 暂时不可用。服务恢复后数据将自动同步。";
+"ck_desc_no_internet" = "未检测到网络连接。连接恢复后将自动同步数据。";
+"ck_desc_checking" = "正在检查您的 iCloud 状态，请稍候。";
+
+// iCloud Sync Activity Labels
+"ck_activity_syncing" = "正在与 iCloud 同步";
+"ck_activity_setup" = "正在配置 iCloud";
+"ck_activity_importing" = "正在从 iCloud 下载";
+"ck_activity_exporting" = "正在上传到 iCloud";
+
+// iCloud Sync Relative Time
+"ck_time_just_now" = "刚刚";
+"ck_time_minutes_ago" = "%d 分钟前";
+"ck_time_hours_ago" = "%d 小时前";
+"ck_time_days_ago" = "%d 天前";
+"ck_time_today_at" = "今天 %@";
+"ck_time_yesterday_at" = "昨天 %@";
+"ck_time_date_at" = "%@ %@";
+"notification_action_start_now" = "立即开始";
+"notification_action_snooze" = "5分钟后提醒";
+
+// Level Up Badge
+"congratulations" = "恭喜！";
+"level_up" = "升级了！";
+
+// Timer Config Dropdown
+"auto_pilot" = "自动驾驶";
+"auto_start_break" = "自动开始休息";
+"auto_start_focus" = "自动开始专注";
+"short_break_every" = "短休息间隔";
+"long_break_every" = "长休息间隔";
+"sessions_done" = "已完成次数";
+"never" = "从不";
+
+// MARK: - Notes List
+"copy" = "复制";
+"export" = "导出";
+"no_notes_yet" = "暂无笔记";
+"delete_note" = "删除笔记";
+"note_delete_confirmation" = "此笔记将被永久删除。";
+"export_note" = "导出笔记";
+"export_as_pdf" = "导出为PDF";
+"save_to_photos" = "保存到相册";
+"saved_to_photos" = "已保存到相册";
+"note_card_saved" = "笔记卡片已保存到您的照片图库。";
+"could_not_save" = "无法保存";
+"note_title_placeholder" = "标题";
+"new_note_placeholder" = "新笔记...";
+"write_note_placeholder" = "写下您的笔记...";
+"note_render_failed" = "无法渲染笔记图片。";
+"photo_access_denied" = "照片图库访问被拒绝。请在设置中启用。";
+"unknown_error" = "未知错误";
+
+// MARK: - Time Since
+"ts_time_since" = "已过时间";
+"ts_countdown" = "倒计时";
+"ts_no_trackers_yet" = "暂无追踪项";
+"ts_no_trackers_description" = "跟踪自特定事件、习惯或里程碑以来经过的时间。";
+"ts_create_tracker" = "创建追踪项";
+"ts_no_overdue_trackers" = "没有逾期追踪项";
+"ts_no_trackers_in_group" = "\"%@\" 中没有追踪项";
+"ts_no_results" = "无结果";
+"ts_search_trackers" = "搜索追踪项";
+"ts_new" = "新建";
+"ts_overdue" = "逾期";
+"ts_sort" = "排序";
+"ts_recently_checked" = "最近查看";
+"ts_longest_elapsed" = "已过时间最长";
+"ts_alphabetical" = "按字母顺序";
+"ts_date_created" = "按创建日期";
+"ts_nearest_deadline" = "最近截止日期";
+"ts_rename_group" = "重命名分组";
+"ts_new_name" = "新名称";
+"ts_rename" = "重命名";
+"ts_reset_color" = "重置颜色";
+"ts_add_item" = "添加项目";
+"ts_color" = "颜色";
+"ts_color_sky_blue" = "天蓝色";
+"ts_color_soft_teal" = "柔和青绿色";
+"ts_color_soft_violet" = "柔和紫罗兰";
+"ts_color_warm_amber" = "暖琥珀色";
+"ts_color_golden_yellow" = "金黄色";
+"ts_color_sage_green" = "鼠尾草绿";
+"ts_color_muted_coral" = "柔和珊瑚色";
+"ts_color_soft_lavender" = "柔和薰衣草色";
+"ts_lock_screen_widgets" = "锁屏小组件 (%d/3)";
+"ts_lock_screen_guide_toolbar_a11y" = "锁屏小组件指南";
+"ts_lock_screen_guide_nav_title" = "锁屏小组件";
+"ts_lock_screen_guide_hero_title" = "将 Time Since 添加到锁屏";
+"ts_lock_screen_guide_hero_subtitle" = "按照以下步骤在 iPhone 上操作，几秒内就能放置你的追踪项。";
+"ts_lock_screen_guide_preview_title" = "锁屏预览";
+"ts_lock_screen_guide_preview_a11y" = "包含 Time Since 小组件的锁屏预览";
+"ts_lock_screen_guide_step_a11y" = "第%d步：%@。%@";
+"ts_lock_screen_guide_step_1_title" = "进入自定义模式";
+"ts_lock_screen_guide_step_1_detail" = "长按锁屏，然后点按“自定义”。";
+"ts_lock_screen_guide_step_2_title" = "选择小组件区域";
+"ts_lock_screen_guide_step_2_detail" = "点按时钟下方的小组件区域。";
+"ts_lock_screen_guide_step_3_title" = "选择 Focus Hero";
+"ts_lock_screen_guide_step_3_detail" = "搜索 Focus Hero，并选择一个 Time Since 锁屏小组件。";
+"ts_lock_screen_guide_step_4_title" = "选择追踪项";
+"ts_lock_screen_guide_step_4_detail" = "点按小组件，然后选择你想在锁屏上看到的追踪项。";
+"ts_lock_screen_guide_step_5_title" = "保存";
+"ts_lock_screen_guide_step_5_detail" = "点按“完成”以保存锁屏。";
+"ts_available" = "可用";
+"ts_when_did_this_happen" = "这是什么时候发生的？";
+"ts_note" = "笔记";
+"ts_notes" = "笔记";
+"ts_whats_on_your_mind" = "你在想什么？";
+"ts_how_did_it_go" = "进展如何？";
+"ts_add_note" = "添加笔记";
+"ts_add_occurrence" = "添加记录";
+
+// Time Since Card
+"ts_pin" = "置顶";
+"ts_unpin" = "取消置顶";
+"ts_remove_from_group" = "从\"%@\"中移除";
+"ts_new_group" = "新建分组…";
+"ts_move_to_group" = "移动到分组";
+"ts_group_label" = "分组：%@";
+"ts_group_name" = "分组名称";
+"ts_create" = "创建";
+"ts_now" = "现在";
+"ts_delete_confirm_title" = "删除\"%@\"？";
+"ts_delete_confirm_message" = "这也会移除此项目的所有通知和闹钟。";
+"ts_completed" = "已完成！";
+"ts_until_date" = "直到 %@";
+"ts_done" = "完成！";
+
+// Edit Time Since Event
+"ts_details" = "详情";
+"ts_event_name" = "事件名称";
+"ts_start_date" = "开始日期";
+"ts_target_date" = "目标日期";
+"ts_display_as" = "显示为";
+"ts_start_time" = "开始时间";
+"ts_group" = "分组";
+"ts_appearance" = "外观";
+"ts_track_interval" = "追踪间隔";
+"ts_auto" = "自动";
+"ts_custom" = "自定义";
+"ts_interval" = "间隔";
+"ts_delete_tracker" = "删除追踪项";
+"ts_delete_tracker_confirm" = "要删除此追踪项吗？";
+"ts_cannot_be_undone" = "此操作无法撤销。";
+"ts_edit_tracker" = "编辑追踪项";
+"ts_new_tracker" = "新建追踪项";
+"ts_seed_plant_a_seed" = "种下一颗种子 🌱";
+"ts_seed_unhealthy_eating" = "不健康饮食 🍔";
+"ts_seed_change_air_filter" = "更换空气滤芯";
+"ts_seed_group_break_habits" = "戒掉坏习惯";
+"ts_reflect_every" = "每 %@ 回顾一次";
+"ts_notify_every" = "每 %@ 提醒一次";
+"ts_icon" = "图标";
+"ts_on" = "开启";
+
+// Alert Unit
+"ts_minutes" = "分钟";
+"ts_hours" = "小时";
+"ts_days" = "天";
+"ts_weeks" = "周";
+"ts_months" = "月";
+"ts_years" = "年";
+
+// Target Preset
+"ts_preset_week" = "1周";
+"ts_preset_month" = "1个月";
+"ts_preset_quarter" = "1个季度";
+"ts_preset_year" = "1年";
+"ts_preset_6_months" = "6个月";
+"ts_preset_1_year" = "1年";
+"ts_preset_2_years" = "2年";
+
+// Time Since Detail
+"ts_history" = "历史";
+"ts_swipe_hint" = "向左滑动卡片以记录想法";
+"ts_show_all_occurrences" = "显示全部 %d 条记录";
+"ts_occurrences_abbrev" = "%d 条";
+"ts_average_format" = "平均 %@";
+"ts_occurrence" = "记录";
+"ts_delete_tracker_detail" = "删除追踪项";
+"ts_no_occurrences_yet" = "尚无记录。";
+"ts_log_occurrence_hint" = "使用 + 按钮或左滑卡片来添加记录。";
+"ts_gap_between_occurrences" = "记录间隔";
+"ts_past_gap" = "历史间隔";
+"ts_current_ongoing" = "当前（进行中）";
+"ts_view_notes" = "查看笔记";
+"ts_copy_notes" = "复制笔记";
+"ts_copy_date" = "复制日期";
+"ts_elapsed" = "已过";
+"ts_started" = "开始于";
+"ts_edit" = "编辑";
+"ts_target" = "目标";
+"ts_remaining" = "剩余";
+"ts_percent_complete" = "%.1f%% 完成";
+"nearby_sync_section_title" = "附近设备同步";
+"nearby_sync_toggle_title" = "附近设备同步";
+"nearby_sync_toggle_subtitle" = "在附近的 iPhone 和 Mac 之间同步计时器开始、结束和重置";
+"nearby_sync_permission_hint" = "如果你之前拒绝过，请在 iOS 设置中启用“本地网络”权限。";

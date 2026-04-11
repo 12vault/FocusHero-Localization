@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "FocusHero";
+"NSAlarmKitUsageDescription" = "FocusHero usa alarmas para notificarte cuando terminan las sesiones de enfoque y los descansos, incluso en modo silencio o durante la Concentración.";
+"NSLocalNetworkUsageDescription" = "FocusHero usa tu red local para mantener sincronizados el inicio, fin y reinicio del temporizador entre dispositivos cercanos.";
