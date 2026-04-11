@@ -1,0 +1,1090 @@
+/*
+   Localizable.strings (Spanish)
+   pomodoro-timer
+*/
+
+// MARK: - General
+"done" = "Listo";
+"cancel" = "Cancelar";
+"ok" = "OK";
+"settings" = "Ajustes";
+"delete" = "Eliminar";
+"edit" = "Editar";
+"save" = "Guardar";
+"reset" = "Restablecer";
+"reload" = "Recargar";
+
+// MARK: - Sessions
+"focus_time" = "TIEMPO DE ENFOQUE";
+"short_break" = "DESCANSO CORTO";
+"long_break" = "DESCANSO LARGO";
+"focus" = "Enfoque";
+"break" = "Descanso";
+"long" = "Largo";
+
+// MARK: - Timer
+"running" = "EN CURSO";
+"stopped" = "DETENIDO";
+"session" = "Sesión";
+"sessions" = "Sesiones";
+"completed_sessions" = "Sesiones completadas";
+"total_sessions" = "Total de sesiones";
+"total_time_minutes" = "Tiempo total\n(Minutos)";
+
+// MARK: - Hero System
+"start_journey" = "Iniciar aventura";
+"level" = "Nivel";
+"hero_journeys" = "Aventuras de héroe";
+"select_hero_journey" = "Seleccionar aventura";
+"general" = "General";
+"next_level_progress" = "Progreso al siguiente nivel";
+"hours" = "horas";
+"maximum_level_reached" = "🎉 ¡Nivel máximo alcanzado!";
+"complete_first_session" = "Completa tu primera sesión";
+"to_unlock_level_1" = "para desbloquear el Nivel 1";
+"get_started" = "Comenzar";
+"complete_1_session_to_reach_level_1" = "Completa 1 sesión para alcanzar el Nivel 1";
+"preview" = "Vista previa";
+"level_reference" = "Referencia de nivel";
+"all_tag_journeys" = "Todas las aventuras";
+"no_tag_journeys_yet" = "Aún no hay aventuras";
+"complete_sessions_with_tags" = "Completa sesiones con etiquetas para iniciar tus aventuras de héroe";
+"long_press_for_options" = "Mantén pulsado para opciones";
+"reset_journey" = "Reiniciar aventura";
+"copy_stats" = "Copiar estadísticas";
+"reset_hero_journey" = "Reiniciar aventura de héroe";
+"reset_journey_confirmation" = "¿Seguro que quieres reiniciar tu aventura \"%@\"?\n\nSe eliminará todo el progreso (%@). La aventura solo reaparecerá cuando completes nuevas sesiones con esta etiqueta.";
+"edit_hours_required" = "Editar horas requeridas";
+"reset_to_default" = "Restablecer predeterminado";
+"edit_hours_message" = "Establece las horas personalizadas para alcanzar el Nivel %d: %@";
+
+// MARK: - Tags
+"select_tag" = "Seleccionar etiqueta";
+"session_tags" = "Etiquetas de sesión";
+"create_custom_tag" = "Crear etiqueta personalizada";
+"tag_name" = "Nombre de etiqueta";
+"tag_emoji" = "Emoji de etiqueta";
+"tag_color" = "Color de etiqueta";
+"create_tag" = "Crear etiqueta";
+"edit_tag" = "Editar etiqueta";
+"update_tag" = "Actualizar etiqueta";
+"delete_tag" = "Eliminar etiqueta";
+"duplicate_tag_key" = "Ya existe una etiqueta con este nombre y emoji";
+"delete_tag_confirmation" = "Esto eliminará permanentemente la etiqueta y todos los datos relacionados, incluido el historial de sesiones y estadísticas. Esta acción no se puede deshacer.";
+"tags" = "Etiquetas";
+
+// MARK: - Todos
+"todo" = "tarea";
+"todos" = "tareas";
+"add_todo" = "Agregar tarea";
+"edit_todo" = "Editar tarea";
+"todo_title" = "Título de la tarea";
+"todo_description" = "Descripción de la tarea";
+"complete_todo" = "Completar tarea";
+"incomplete_todo" = "Marcar incompleta";
+"delete_todo" = "Eliminar tarea";
+"no_todos" = "Sin tareas aún";
+"add_todo_description" = "Agrega tareas para mantenerte organizado durante tus sesiones";
+
+// MARK: - Statistics
+"statistics" = "Estadísticas";
+"chart" = "Gráfico";
+"calendar" = "Calendario";
+
+// MARK: - Settings
+"session_times" = "Tiempos de sesión";
+"configure_times" = "Configurar tiempos";
+"customize_focus_break_durations" = "Personaliza las duraciones de enfoque y descanso";
+"notifications" = "Notificaciones";
+"notification_settings" = "Ajustes de notificación";
+"configure_alerts" = "Configurar alertas y recordatorios";
+"session_history" = "Historial de sesiones";
+"view_history" = "Ver historial";
+"see_completed_sessions" = "Consulta tus sesiones completadas y progreso";
+"onboarding" = "Introducción";
+"show_onboarding" = "Mostrar introducción";
+"review_getting_started" = "Revisar la guía de inicio";
+"reset_options" = "Opciones de restablecimiento";
+"review_past_focus_sessions" = "Revisa tus sesiones de enfoque pasadas";
+"how_it_works" = "Cómo funciona";
+"learn_how_to_become_hero" = "Aprende cómo convertirte en un héroe";
+
+// MARK: - Reset Options
+"reset_all_data" = "Restablecer TODOS LOS DATOS";
+"reset_session_counts" = "Restablecer CONTEO DE SESIONES";
+"reset_onboarding" = "Restablecer INTRODUCCIÓN";
+"reset_all_data_description" = "Elimina todos los datos, incluyendo el historial y el progreso";
+"reset_session_counts_description" = "Restablece el conteo de sesiones a cero, mantiene el historial";
+"reset_onboarding_description" = "Mostrar la introducción de nuevo al próximo inicio";
+"reset_confirmation_title" = "¿Restablecer %@?";
+
+// MARK: - Session Times Settings
+"focus_time_minutes" = "Tiempo de enfoque (Minutos)";
+"short_break_minutes" = "Descanso corto (Minutos)";
+"long_break_minutes" = "Descanso largo (Minutos)";
+"custom_times_enabled" = "Tiempos personalizados activados";
+"premium_required" = "Se requiere Premium";
+"upgrade_for_custom_times" = "Actualiza para personalizar las duraciones";
+
+// MARK: - Quick Actions
+"sessions_completed_count" = "%d";
+"level_abbreviation" = "Nv.%d";
+
+// MARK: - Accessibility
+"play_button" = "Reproducir";
+"pause_button" = "Pausar";
+"reset_button" = "Restablecer";
+"timer_progress" = "Progreso del temporizador";
+"session_selector" = "Selector de sesión";
+
+// MARK: - Notifications
+"session_complete_title" = "¡Sesión completada!";
+"focus_session_complete_body" = "¡Buen trabajo! Hora de un descanso.";
+"break_session_complete_body" = "El descanso terminó. ¿Listo para enfocarte?";
+"countdown_seconds_remaining" = "⏰ ¡%d segundos restantes!";
+"countdown_body_focus" = "Tu sesión de enfoque está a punto de terminar.";
+"countdown_body_break" = "Tu descanso está a punto de terminar.";
+"countdown_body_long_break" = "Tu descanso largo está a punto de terminar.";
+
+// MARK: - Premium/Paywall
+"premium_features" = "Funciones Premium";
+"upgrade_now" = "Actualizar ahora";
+"subscription_required" = "Se requiere suscripción";
+
+// MARK: - Error Messages
+"error_occurred" = "Ocurrió un error";
+"try_again" = "Intentar de nuevo";
+"network_error" = "Error de red";
+"please_check_connection" = "Por favor, verifica tu conexión a internet";
+
+// MARK: - Time Formatting
+"minutes_short" = "m";
+"hours_short" = "h";
+"seconds_short" = "s";
+
+// MARK: - Welcome Screen
+"welcome_to_focushero" = "Bienvenido a FocusHero";
+"welcome_subtitle" = "Tu camino hacia la maestría comienza con una sola sesión enfocada";
+"lets_go" = "¡Vamos!";
+
+// MARK: - Onboarding
+"welcome_to_your" = "Bienvenido a tu";
+"hero_journey" = "Aventura heroica";
+"become_a_hero_in" = "Conviértete en héroe en";
+"your_craft" = "Tu oficio";
+"master_multiple" = "Domina múltiples";
+"skills_and_crafts" = "Habilidades y oficios";
+"never_lose" = "Nunca pierdas";
+"your_progress" = "Tu progreso";
+"your_10000_hours" = "Tus 10,000 horas";
+"start_today" = "Empieza hoy";
+"skip" = "Omitir";
+"back" = "Atrás";
+"continue" = "Continuar";
+"get_started" = "Comenzar";
+"of" = "de";
+
+// Onboarding descriptions
+"onboarding_1_description" = "Domina cualquier habilidad con la probada teoría de las 10,000 horas. Transforma la práctica enfocada en experiencia heroica con la Técnica Pomodoro";
+"onboarding_2_description" = "Todo experto fue principiante alguna vez. Sube de nivel acumulando horas de práctica enfocada. Mira cómo evolucionas de novato a héroe";
+"onboarding_3_description" = "Crea etiquetas para cada habilidad que quieras dominar. Programación, música, escritura, arte: rastrea tu viaje de 10,000 horas en cada área";
+"onboarding_4_description" = "Tu viaje hacia la maestría continúa en todas partes. Las Actividades en vivo y Dynamic Island mantienen tu progreso visible incluso al multitareas";
+"onboarding_5_description" = "Todo maestro comenzó con una sola hora. Inicia tu transformación de principiante a héroe. ¡Tu aventura legendaria te espera!";
+
+// Onboarding features
+"25_minute_sessions" = "Sesiones de dominio de 25 minutos";
+"track_path_10000" = "Rastrea tu camino a las 10,000 horas";
+"proven_practice_method" = "Método de práctica deliberada probado";
+"level_progression" = "Progresión de nivel por hora";
+"visual_journey_mastery" = "Viaje visual hacia la maestría";
+"track_multiple_skills" = "Rastrea múltiples habilidades simultáneamente";
+"separate_hero_journeys" = "Aventuras de héroe separadas por habilidad";
+"custom_skill_categories" = "Categorías de habilidades personalizadas";
+"individual_mastery_tracking" = "Seguimiento individual de maestría";
+"always_visible_progress" = "Progreso siempre visible";
+"seamless_session_tracking" = "Seguimiento de sesiones sin interrupciones";
+"never_break_flow" = "Nunca interrumpas tu flujo";
+"start_first_hour" = "Empieza tu primera hora de maestría";
+"choose_first_skill" = "Elige tu primera habilidad";
+"begin_hero_transformation" = "Inicia tu transformación heroica";
+
+// MARK: - Hero Level Titles
+"hero_level_0_title" = "Aspirante";
+"hero_level_1_title" = "Enfoque Novato";
+"hero_level_2_title" = "Aprendiz";
+"hero_level_3_title" = "Luchador Hábil";
+"hero_level_4_title" = "Guerrero de Élite";
+"hero_level_5_title" = "Campeón";
+"hero_level_6_title" = "Leyenda";
+"hero_level_7_title" = "Maestro";
+"hero_level_8_title" = "Gran Maestro";
+"hero_level_9_title" = "Sabio";
+"hero_level_10_title" = "Virtuoso";
+"hero_level_11_title" = "Iluminado";
+"hero_level_12_title" = "Trascendente";
+
+// MARK: - Hero Level Descriptions
+"hero_level_0_description" = "Listo para comenzar el viaje";
+"hero_level_1_description" = "Todo héroe empieza en algún lugar";
+"hero_level_2_description" = "Aprendiendo los caminos del enfoque";
+"hero_level_3_description" = "Desarrollando disciplina";
+"hero_level_4_description" = "Dominando la concentración";
+"hero_level_5_description" = "Liderando con el ejemplo";
+"hero_level_6_description" = "Alcanzando la grandeza";
+"hero_level_7_description" = "Trascendiendo los límites";
+"hero_level_8_description" = "Acercándose a la verdadera maestría";
+"hero_level_9_description" = "Sabiduría a través de la dedicación";
+"hero_level_10_description" = "Excelencia en la práctica";
+"hero_level_11_description" = "Cerca de la meta final";
+"hero_level_12_description" = "La maestría de las 10,000 horas";
+
+// MARK: - Default Session Tags
+"default_tag_ai_literacy" = "Alfabetización IA";
+"default_tag_spanish" = "Español";
+"default_tag_piano" = "Piano";
+
+// MARK: - Session Tag View
+"available_tags" = "Etiquetas disponibles";
+"add_tag" = "Agregar etiqueta";
+"select" = "Seleccionar";
+"edit" = "Editar";
+"delete" = "Eliminar";
+"create_tag" = "Crear etiqueta";
+"edit_tag" = "Editar etiqueta";
+"cancel" = "Cancelar";
+"save" = "Guardar";
+"tag_name" = "Nombre de etiqueta";
+"optional" = "Opcional";
+"enter_tag_name" = "Ingresa el nombre de la etiqueta";
+"select_emoji" = "Seleccionar emoji";
+"select_color" = "Seleccionar color";
+"create_custom_tag_description" = "Crea una etiqueta personalizada para organizar tus sesiones";
+"edit_custom_tag_description" = "Edita tu etiqueta personalizada";
+"tag_already_exists" = "⚠️ ETIQUETA YA EXISTE";
+
+// MARK: - Session Times Settings
+"session_times" = "Tiempos de sesión";
+"current_configuration" = "Configuración actual";
+"focus" = "Enfoque";
+"short_break" = "Descanso corto";
+"long_break" = "Descanso largo";
+"quick_presets" = "Ajustes rápidos";
+"classic" = "Clásico";
+"short" = "Corto";
+"deep" = "Profundo";
+"custom_times" = "Tiempos personalizados";
+"unlock" = "Desbloquear";
+"focus_time" = "Tiempo de enfoque";
+"deep_work_sessions" = "Sesiones de trabajo profundo";
+"quick_refresher" = "Descanso rápido";
+"extended_rest" = "Descanso extendido";
+"minutes" = "minutos";
+"premium_feature" = "Función Premium";
+"customize_session_durations" = "Personaliza las duraciones para adaptarlas a tu estilo";
+
+// MARK: - Color Picker
+"choose_custom_color" = "Elegir color personalizado";
+"custom_color" = "Color personalizado";
+"custom_emoji" = "Emoji personalizado";
+"done" = "Listo";
+
+// MARK: - Paywall
+"unlock_premium" = "Desbloquear Premium";
+"start_free_trial" = "Iniciar prueba gratuita";
+"yearly_plan" = "Plan anual";
+"lifetime_plan" = "Acceso de por vida";
+"weekly_plan" = "Plan semanal";
+"3_day_trial" = "Prueba de 3 días";
+"best_value" = "Mejor valor";
+"most_popular" = "Más popular";
+"pay_once" = "Pago único";
+"custom_session_times" = "Tiempos de sesión personalizados";
+"unlimited_tags" = "Etiquetas ilimitadas";
+"advanced_statistics" = "Estadísticas avanzadas";
+"privacy_policy" = "Política de privacidad";
+"terms_of_service" = "Términos de servicio";
+"restore_purchases" = "Restaurar compras";
+"no_commitment" = "Sin compromiso, cancela cuando quieras";
+"free_for_3_days" = "Gratis 3 días";
+"enhanced_productivity_features" = "Funciones de productividad mejoradas";
+"advanced_analytics" = "Análisis avanzado";
+"unlimited_journeys" = "Aventuras ilimitadas";
+"custom_session_time" = "Tiempo de sesión personalizado";
+"3_days_free_then" = "3 días gratis, luego %@/%@";
+"save_percentage" = "AHORRA %d%%";
+"start_with_free_trial" = "Comenzar con prueba gratuita";
+"terms_and_privacy" = "Términos y privacidad";
+"terms_of_use" = "Términos de uso";
+"cancel_anytime_no_commitment" = "Cancela cuando quieras • Sin compromiso";
+"restore" = "Restaurar";
+"no_purchases_restored" = "No se encontraron compras";
+"tap_to_unlock" = "Toca para desbloquear";
+"premium_feature" = "Función Premium";
+"paywall_feature_analytics" = "Análisis detallado de enfoque";
+"paywall_feature_unlimited_tags" = "Etiquetas ilimitadas para organizar sesiones";
+"paywall_feature_unlimited_journeys" = "Aventuras y metas de enfoque ilimitadas";
+"paywall_feature_remove_paywall" = "Eliminar pantalla de pago";
+"paywall_feature_support_developer" = "Apoyar al desarrollador";
+"paywall_rating" = "4.9 en App Store";
+"paywall_unable_to_load_pricing" = "No se pudo cargar el precio";
+"paywall_check_connection_retry" = "Verifica tu conexión e inténtalo de nuevo";
+"paywall_intro_offer" = "Precio intro: %@";
+"paywall_per_month_format" = "(%@/mes)";
+"paywall_per_year_format" = "%@/año";
+"paywall_limited_offer" = "OFERTA LIMITADA";
+"paywall_special_offer" = "OFERTA ESPECIAL";
+"paywall_legal" = "Legal";
+"paywall_redeem_code" = "Canjear código";
+
+// MARK: - Session Complete
+"session_complete" = "¡Sesión completada!";
+"great_job" = "¡Buen trabajo!";
+"time_for_break" = "Hora de un descanso";
+"break_complete" = "¡Descanso completado!";
+"ready_to_focus" = "¿Listo para enfocarte?";
+"session_completed" = "Sesión completada";
+"take_break" = "Tomar un descanso";
+"continue_working" = "Continuar trabajando";
+"well_done" = "¡Muy bien!";
+"keep_going" = "¡Sigue adelante!";
+"session_save_with_extra" = "Guardar con tiempo extra";
+"session_message_focus" = "¡Gran trabajo! Has completado una sesión de enfoque.";
+"session_message_break" = "¡Descanso completado! ¿Listo para enfocarte de nuevo?";
+"session_message_long_break" = "¡Descanso largo terminado! Estás renovado y listo.";
+
+// MARK: - Session Tags
+"tag" = "Etiqueta";
+"organize_sessions_with_tags" = "Organiza tus sesiones con etiquetas personalizadas";
+"current_selection" = "Selección actual";
+"active_tag" = "Etiqueta activa";
+"unnamed_tag" = "Etiqueta sin nombre";
+"no_tag_selected" = "Sin etiqueta seleccionada";
+"choose_tag_to_organize" = "Elige una etiqueta para organizar tus sesiones";
+"available_tags" = "Etiquetas disponibles";
+"create_new_tag" = "Crear nueva etiqueta";
+"choose_existing_tag" = "Elegir etiqueta existente";
+"tag_already_exists" = "La etiqueta ya existe";
+"enter_tag_name" = "Ingresa el nombre";
+"select_emoji" = "Seleccionar emoji";
+"choose_color" = "Elegir color";
+"name_optional" = "Nombre (opcional)";
+"default_tags" = "Etiquetas predeterminadas";
+"custom_tags" = "Etiquetas personalizadas";
+"no_custom_tags" = "Sin etiquetas personalizadas aún";
+"tap_to_create" = "Toca + para crear tu primera etiqueta";
+"tap_to_open_emoji_keyboard" = "Toca arriba para escribir tu emoji";
+
+// MARK: - Todos
+"quick_todos" = "Tareas rápidas";
+"all" = "Todas";
+"type_new_todo" = "Escribe una nueva tarea...";
+"what_are_you_working_on" = "¿En qué estás trabajando?";
+"add_your_tasks" = "Agrega tus tareas";
+"create_new_todo" = "Crear nueva tarea";
+"enter_title" = "Ingresa el título";
+"enter_description_optional" = "Ingresa la descripción (opcional)";
+"mark_complete" = "Marcar como completa";
+"mark_incomplete" = "Marcar como incompleta";
+"empty_todo_list" = "Tu lista de tareas está vacía";
+"add_first_todo" = "Agrega tu primera tarea para comenzar";
+"completed_todos" = "Tareas completadas";
+"incomplete_todos" = "Tareas incompletas";
+"all_todos" = "Todas las tareas";
+"no_todos_for_tag" = "Sin tareas para esta etiqueta aún";
+"tap_to_add_first_todo" = "Toca + para agregar tu primera tarea";
+"complete_selected" = "Completar seleccionadas";
+"delete_selected" = "Eliminar seleccionadas";
+
+// MARK: - Calendar
+"this_month" = "Este mes";
+"sessions_this_month" = "Sesiones este mes";
+"total_time_this_month" = "tiempo total este mes";
+"longest_streak" = "racha más larga";
+"current_streak" = "racha actual";
+"days" = "días";
+"day" = "día";
+"today" = "Hoy";
+"yesterday" = "Ayer";
+"sessions_on" = "sesiones el";
+
+// MARK: - Chart/Statistics
+"weekly_progress" = "Progreso semanal";
+"monthly_progress" = "Progreso mensual";
+"focus_sessions" = "Sesiones de enfoque";
+"break_sessions" = "Sesiones de descanso";
+"total_hours" = "Horas totales";
+"average_per_day" = "Promedio por día";
+"best_day" = "Mejor día";
+"this_week" = "Esta semana";
+"last_week" = "Semana pasada";
+"this_month" = "Este mes";
+"last_month" = "Mes pasado";
+"no_data" = "Sin datos disponibles";
+"start_timer_to_see_stats" = "Usa el temporizador para ver tus estadísticas";
+
+// MARK: - Session Times Settings
+"classic_pomodoro" = "Pomodoro clásico";
+"use_classic_times" = "Usar tiempos clásicos de Pomodoro (25/5/15 minutos)";
+"custom_times" = "Tiempos personalizados";
+"customize_session_lengths" = "Personaliza las duraciones para tu flujo de trabajo";
+"minutes" = "minutos";
+"enable_custom_times" = "Activar tiempos personalizados";
+"requires_premium" = "Requiere Premium";
+
+// MARK: - Notifications Settings
+"daily_reminder" = "Recordatorio diario";
+"get_reminded_stay_focused" = "Recibe recordatorios para mantenerte enfocado";
+"multiple_reminders" = "Múltiples recordatorios";
+"set_multiple_reminder_times" = "Configura varios horarios de recordatorio";
+"reminder_time" = "Hora del recordatorio";
+"reminder_1" = "Recordatorio 1";
+"reminder_2" = "Recordatorio 2";
+"reminder_3" = "Recordatorio 3";
+"notification_permission_required" = "Se requiere permiso de notificaciones";
+"enable_notifications_settings" = "Activa las notificaciones en Ajustes";
+"focus_reminder_title" = "¡Hora de enfocarte!";
+"focus_reminder_body" = "Tu yo del futuro te lo agradecerá. ¡Vamos a por esas metas! 🚀";
+
+// MARK: - Session History
+"session_history_title" = "Historial de sesiones";
+"filter_by_tag" = "Filtrar por etiqueta";
+"all_tags" = "Todas las etiquetas";
+"export_data" = "Exportar datos";
+"clear_history" = "Borrar historial";
+"clear_history_confirmation" = "¿Seguro que quieres borrar todo el historial? Esto no se puede deshacer.";
+"clear" = "Borrar";
+"no_sessions_found" = "No se encontraron sesiones";
+"start_timer_to_build_history" = "Usa el temporizador para crear tu historial";
+"completed_at" = "Completado el";
+"no_sessions_yet" = "Sin sesiones aún";
+"start_first_pomodoro_session" = "¡Inicia tu primera sesión Pomodoro para ver tu historial aquí!";
+
+// MARK: - Common UI Elements
+"close" = "Cerrar";
+"add" = "Agregar";
+"remove" = "Quitar";
+"update" = "Actualizar";
+"confirm" = "Confirmar";
+"yes" = "Sí";
+"no" = "No";
+"loading" = "Cargando...";
+"please_wait" = "Por favor espera...";
+"success" = "Éxito";
+"error" = "Error";
+"warning" = "Advertencia";
+"info" = "Info";
+"record_this_session" = "¿Registrar esta sesión?";
+"save_progress_or_start_fresh" = "Guarda tu progreso o empieza de nuevo";
+"discard" = "Descartar";
+"save_progress" = "Guardar progreso";
+"end_session" = "Terminar";
+"completed" = "completado";
+
+// MARK: - Validation Messages
+"field_required" = "Este campo es obligatorio";
+"invalid_input" = "Entrada no válida";
+"name_too_short" = "El nombre es muy corto";
+"name_too_long" = "El nombre es muy largo";
+"emoji_required" = "Por favor selecciona un emoji";
+
+// MARK: - Widget & Live Activity
+"pomodoro" = "POMODORO";
+"break_time" = "TIEMPO DE DESCANSO";
+"long_break" = "DESCANSO LARGO";
+
+// MARK: - Accessibility Labels
+"timer_display" = "Pantalla del temporizador";
+"session_type_button" = "Botón de tipo de sesión";
+"tag_selection_button" = "Botón de selección de etiqueta";
+"todo_list_button" = "Botón de lista de tareas";
+"settings_button" = "Botón de ajustes";
+"calendar_button" = "Botón de calendario";
+"statistics_button" = "Botón de estadísticas";
+"level_progress_indicator" = "Indicador de progreso de nivel";
+
+"completed" = "Completado";
+"incomplete" = "Incompleto";
+
+// MARK: - Analytics
+"analytics" = "Análisis";
+"sessions" = "Sesiones";
+"tags" = "Etiquetas";
+"tag_usage" = "Uso de etiquetas";
+"most_used" = "Más usado";
+"patterns" = "Patrones";
+"reports" = "Informes";
+"productivity_patterns" = "Patrones de productividad";
+"visual_reports" = "Informes visuales";
+"no_reports_available" = "Sin informes disponibles";
+"week" = "Semana";
+"month" = "Mes";
+"year" = "Año";
+"sessions_this_week" = "Sesiones esta semana";
+"sessions_this_year" = "Sesiones este año";
+"week_summary" = "Resumen semanal";
+"month_summary" = "Resumen mensual";
+"year_summary" = "Resumen anual";
+"summary" = "Resumen";
+"total" = "Total";
+"average" = "Promedio";
+"peak" = "Máximo";
+"no_tag_data_yet" = "Sin datos de etiquetas aún";
+"start_using_tags" = "Usa etiquetas para ver el análisis";
+"start_using_tags_to_generate" = "Usa etiquetas para generar informes";
+"activity_levels" = "Niveles de actividad";
+"light" = "Ligero";
+"moderate" = "Moderado";
+"high" = "Alto";
+"no_activity_recorded" = "Sin actividad registrada";
+"start_session_to_see_progress" = "Inicia una sesión para ver el progreso";
+"completion_rate" = "Tasa de completado";
+
+// MARK: - Questionnaire Onboarding
+"questionnaire_finish" = "Finalizar";
+
+// Question 0 - Name
+"questionnaire_name_title" = "¿Cuál es tu nombre preferido?";
+"questionnaire_name_subtitle" = "¡Nos alegra que estés aquí! ¿Cómo debemos llamarte?";
+"questionnaire_name_placeholder" = "Tu nombre";
+
+// Question 1 - Motivation
+"questionnaire_motivation_title" = "¿Qué te motiva?";
+"questionnaire_motivation_subtitle" = "Selecciona todo lo que te motiva a alcanzar tus metas";
+"motivation_achievement" = "Logros";
+"motivation_achievement_desc" = "Alcanzar metas e hitos";
+"motivation_growth" = "Crecimiento personal";
+"motivation_growth_desc" = "Aprender y mejorarme";
+"motivation_freedom" = "Libertad";
+"motivation_freedom_desc" = "Independencia y flexibilidad";
+"motivation_creativity" = "Creatividad";
+"motivation_creativity_desc" = "Expresar ideas e innovar";
+"motivation_knowledge" = "Conocimiento";
+"motivation_knowledge_desc" = "Comprensión y sabiduría";
+"motivation_impact" = "Generar impacto";
+"motivation_impact_desc" = "Ayudar a otros y a la sociedad";
+"motivation_health" = "Salud y bienestar";
+"motivation_health_desc" = "Bienestar físico y mental";
+
+// Question 2 - Peak Time
+"questionnaire_peak_title" = "¿Cuándo estás más concentrado?";
+"questionnaire_peak_subtitle" = "Te ayudaremos a crear una rutina que se adapte a tu ritmo";
+"peak_morning" = "Mañana";
+"peak_morning_hours" = "6am - 12pm";
+"peak_afternoon" = "Tarde";
+"peak_afternoon_hours" = "12pm - 5pm";
+"peak_evening" = "Noche";
+"peak_evening_hours" = "5pm - 10pm";
+"peak_night" = "Noche tardía";
+"peak_night_hours" = "10pm+";
+
+// Question 3 - Productivity Apps
+"questionnaire_apps_title" = "¿Has usado apps de productividad antes?";
+"questionnaire_apps_subtitle" = "Tu experiencia nos ayuda a entender tus necesidades";
+"questionnaire_apps_field_placeholder" = "¿Qué funcionó o no funcionó? (Opcional)";
+
+// Question 4 - Best Feature
+"questionnaire_best_feature_title" = "¿Cuál es la mejor función de una app de productividad?";
+"questionnaire_best_feature_subtitle" = "Selecciona las funciones que más importan";
+"prod_feature_time_tracking" = "Seguimiento de tiempo";
+"prod_feature_time_tracking_desc" = "Monitorear cómo usas el tiempo";
+"prod_feature_goal_setting" = "Establecer metas";
+"prod_feature_goal_setting_desc" = "Fijar y rastrear objetivos";
+"prod_feature_habit_building" = "Crear hábitos";
+"prod_feature_habit_building_desc" = "Construir rutinas consistentes";
+"prod_feature_analytics" = "Análisis";
+"prod_feature_analytics_desc" = "Perspectivas e informes de progreso";
+"prod_feature_reminders" = "Recordatorios";
+"prod_feature_reminders_desc" = "Notificaciones y alertas";
+"prod_feature_gamification" = "Gamificación";
+"prod_feature_gamification_desc" = "Puntos, niveles y recompensas";
+
+// Question 5 - Goal
+"questionnaire_goal_title" = "¿Quieres dominar algo increíble en los próximos 1-3 meses?";
+"questionnaire_goal_subtitle" = "Tener una meta clara aumenta el éxito en un 42%";
+"questionnaire_goal_placeholder" = "¿Qué quieres dominar?";
+"questionnaire_not_sure" = "No lo sé";
+
+// Question 6 - Time Commitment
+"questionnaire_time_title" = "¿Cuánto tiempo planeas dedicar diariamente?";
+"questionnaire_time_subtitle" = "Incluso 15 minutos al día pueden crear resultados increíbles";
+"time_15_minutes" = "15 minutos";
+"time_30_minutes" = "30 minutos";
+"time_1_hour" = "1 hora";
+"time_2_hours" = "2 horas";
+"time_3_hours" = "3 horas";
+"time_7_plus_hours" = "7+ horas";
+
+// Question 7 - Obstacles
+"questionnaire_obstacles_title" = "¿Qué te detiene la mayoría de las veces?";
+"questionnaire_obstacles_subtitle" = "Identificar obstáculos es el primer paso para superarlos";
+"obstacle_distractions_title" = "Distracciones";
+"obstacle_distractions_desc" = "Teléfono, redes sociales, interrupciones";
+"obstacle_motivation_title" = "Falta de motivación";
+"obstacle_motivation_desc" = "Difícil comenzar";
+"obstacle_perfectionism_title" = "Perfeccionismo";
+"obstacle_perfectionism_desc" = "Querer que todo sea perfecto";
+"obstacle_overwhelm_title" = "Sentirse abrumado";
+"obstacle_overwhelm_desc" = "Demasiado por hacer, no sé por dónde empezar";
+"obstacle_procrastination_title" = "Procrastinación";
+"obstacle_procrastination_desc" = "Dejar las cosas para después";
+"obstacle_time_management_title" = "Gestión del tiempo";
+"obstacle_time_management_desc" = "Mala planificación y organización";
+"obstacle_other_title" = "Otro";
+"obstacle_other_desc" = "Algo más";
+
+// News screens
+"questionnaire_news_intro" = "Hay malas noticias y también muy buenas noticias";
+"questionnaire_bad_news_label" = "La mala noticia es que";
+"questionnaire_bad_news_content" = "Los estudios muestran que descuidar hábitos saludables puede ";
+"questionnaire_bad_news_highlight" = "acortar tu vida hasta 6 años";
+"questionnaire_good_news_label" = "La buena noticia es que";
+"questionnaire_good_news_start" = "FocusHero puede ayudarte a recuperar ";
+"questionnaire_good_news_highlight" = "4 a 5 años de vida";
+"questionnaire_good_news_end" = " construyendo hábitos sostenibles en fitness, nutrición y bienestar mental";
+
+// Achievement screen
+"questionnaire_achievement_title" = "¡Buen trabajo! Todo está listo";
+"questionnaire_achievement_subtitle" = "Desbloqueaste el logro Mejor Inicio por\ncomenezar tu aventura";
+"questionnaire_achievement_earned" = "Obtenido";
+
+// Features overview screen
+"questionnaire_features_title" = "Esto es lo que FocusHero puede hacer por ti:";
+"questionnaire_feature_goals" = "¡Alcanza todas tus metas! Elige de nuestra lista o crea las tuyas";
+"questionnaire_feature_growth" = "Ve tu crecimiento";
+"questionnaire_feature_growth_detail" = " - entiende tus hábitos con análisis profundo e ideas prácticas";
+"questionnaire_feature_blocking" = "Bloquea apps distractoras durante las sesiones para concentrarte al máximo";
+"questionnaire_feature_adventure" = "Convierte tu enfoque diario en una épica aventura de superación personal";
+"questionnaire_callout_stat" = "92%";
+"questionnaire_callout_text" = "de los usuarios de FocusHero que comparten tu meta empiezan con un hábito simple como ";
+"questionnaire_callout_habit" = "\"Lectura\"";
+
+// App blocking prompt
+"app_blocking_title" = "¿Bloquear apps distractoras?";
+"app_blocking_subtitle" = "Como las distracciones son tu principal obstáculo, puedes ocultar automáticamente las apps distractoras mientras una sesión de enfoque está activa.";
+"app_blocking_set_up" = "Configurar bloqueo de apps";
+"app_blocking_skip" = "Omitir por ahora";
+
+// MARK: - Feature Slides
+"feature_slide1_title" = "FocusHero hace que la\nsuperación personal sea simple";
+"feature_slide1_desc" = "Rastrea tu progreso, mantente motivado con tu propio avance y ve cómo pequeñas acciones llevan a grandes resultados.";
+"feature_slide2_title" = "FocusHero me ayuda a\nconstruir mejores hábitos";
+"feature_slide2_desc" = "Mantente constante con tus metas usando cuadrículas de hábitos y herramientas fáciles de usar.";
+"feature_slide3_title" = "FocusHero apoya\nmi crecimiento";
+"feature_slide3_desc" = "Trabajemos juntos para construir hábitos duraderos y alcanzar todo tu potencial.";
+
+// MARK: - Calculating Review
+"calculating_step1" = "Calculando";
+"calculating_step2" = "Adaptando la app a tus necesidades";
+"apps_we_love" = "APPS QUE\nAMAMOS";
+
+// MARK: - Contract Onboarding
+"contract_word" = "Contrato";
+"contract_your_fallback" = "Tu";
+"contract_bullet1" = "Me **adaptaré a cualquier momento** del día y seguiré prosperando";
+"contract_bullet2" = "**Exploraré diferentes formas de rastrear mi progreso** y encontraré lo que mejor me funcione";
+"contract_bullet3" = "**Dejaré ir los malos hábitos** y abriré el camino al progreso";
+"contract_bullet4" = "**Afrontaré los obstáculos que surjan** y encontraré mi camino";
+"contract_bullet5" = "**Adoptaré un estilo de vida más saludable** y me sentiré mejor";
+"contract_agreed" = "¡Contrato aceptado!";
+"contract_keep_holding" = "Sigue manteniendo...";
+"contract_hold_to_agree" = "Mantén para aceptar";
+"contract_research_note" = "Las investigaciones muestran que comprometerse con contratos como este mejora el seguimiento y la responsabilidad";
+"contract_lets_get_started" = "¡Comencemos!";
+
+// MARK: - Habit Tracker
+"habit_tracker" = "Rastreador de hábitos";
+"complete_focus_to_build_streaks" = "Completa sesiones de enfoque para construir rachas";
+"habits" = "Hábitos";
+"tracked" = "Rastreados";
+"available" = "Disponibles";
+"unnamed" = "Sin nombre";
+"no_tags_yet" = "Aún no hay etiquetas";
+"no_tags_description" = "Crea etiquetas para rastrear tus hábitos.\n¡Cada sesión completada construye tu racha!";
+"hide" = "Ocultar";
+"current_streak_title" = "Racha actual";
+"best_streak" = "Mejor racha";
+"total_time" = "Tiempo total";
+"no_sessions_activity" = "Sin sesiones";
+"one_session_activity" = "1 sesión";
+"two_three_sessions" = "2-3 sesiones";
+"four_plus_sessions" = "4+ sesiones";
+"less" = "Menos";
+"more" = "Más";
+
+// MARK: - App Blocking Settings
+"focus_shield" = "Focus Shield";
+"focus_duration_too_short" = "Duración de enfoque muy corta";
+"fifteen_minutes_minimum" = "Mínimo 15 minutos";
+"app_blocking_requirement" = "El bloqueo de apps requiere sesiones de enfoque de al menos 15 minutos. Este es un requisito del sistema para asegurar que las apps se desbloqueen automáticamente cuando termine tu sesión.";
+"current_focus_duration" = "Duración actual de enfoque: %d minutos";
+"increase_focus_time_instruction" = "Aumenta tu tiempo de enfoque a 15 minutos o más en la configuración de tiempos de sesión para activar el bloqueo de apps.";
+"authorization_required" = "Autorización requerida";
+"screen_time_access" = "Acceso a Tiempo de uso";
+"screen_time_access_description" = "Para bloquear apps que distraen durante las sesiones de enfoque, necesitamos acceso a Tiempo de uso. Esto nos permite ocultar temporalmente las apps seleccionadas mientras te concentras.";
+"grant_access" = "Conceder acceso";
+"screen_time_denied" = "Acceso denegado. Por favor, activa el acceso a Tiempo de uso en Configuración > Tiempo de uso.";
+"activate" = "Activar";
+"focus_shield_description" = "Las apps seleccionadas se restringirán durante tu sesión de enfoque";
+"apps_to_block" = "Apps a bloquear";
+"select_apps_categories" = "Seleccionar apps y categorías";
+"clear_selection" = "Borrar selección";
+"start_focus" = "Iniciar enfoque";
+"start_focus_description" = "Al iniciar una sesión de enfoque, las apps seleccionadas quedan bloqueadas";
+"shield_appears" = "Aparece el escudo";
+"shield_appears_description" = "Si intentas abrir una app bloqueada, aparecerá un escudo";
+"session_ends" = "Sesión finaliza";
+"session_ends_description" = "Las apps se desbloquean automáticamente cuando termina la sesión";
+
+// MARK: - Chart Analytics
+"all_tags" = "Todas las etiquetas";
+
+// MARK: - Quick Actions Stats
+"time_today" = "Total hoy";
+"todays_sessions" = "Sesiones de hoy";
+"saved_to_yesterday" = "%@ → Ayer";
+
+// MARK: - Settings View
+"icloud_sync" = "Sincronización iCloud";
+"sync_status" = "Estado de sincronización";
+"icloud_sync_description" = "Tus datos de pomodoro se sincronizan en todos los dispositivos con tu cuenta de iCloud";
+"nearby_sync_section_title" = "Sincronización cercana";
+"nearby_sync_toggle_title" = "Sincronización entre dispositivos cercanos";
+"nearby_sync_toggle_subtitle" = "Sincroniza iniciar/finalizar/reiniciar el temporizador entre iPhone y Mac cercanos";
+"nearby_sync_permission_hint" = "Si lo rechazaste antes, activa Acceso a red local en la configuración de iOS.";
+"display" = "Pantalla";
+"appearance" = "Apariencia";
+"light_dark_automatic" = "Claro, oscuro o automático";
+"glow_effects" = "Efectos de brillo";
+"glow_effects_description" = "Efecto de brillo (consume más batería)";
+"language" = "Idioma";
+"language_description" = "Elige el idioma de la app";
+"language_restart_required" = "Reinicio necesario";
+"language_restart_message" = "Reinicia la app para aplicar el nuevo idioma.";
+"sound" = "Sonido";
+"session_complete_sound" = "Sonido de sesión completada";
+"play_sound_when_timer_finishes" = "Reproducir sonido al finalizar el temporizador";
+"native_alarm_overrides_sound" = "La alarma nativa está activada y anulará este sonido";
+"block_list" = "Block List";
+"hide_apps_during_focus" = "Ocultar aplicaciones durante la sesión";
+"review_and_rate" = "Reseñar y valorar";
+"focushero_socials" = "Redes sociales de FocusHero";
+"rate_pomodoro_timer" = "Calificar Pomodoro Timer";
+"share_app_store_feedback" = "Comparte tu opinión en el App Store";
+"alarm_permission_required" = "Permiso de alarma requerido";
+"open_settings" = "Abrir configuración";
+"alarm_permission_message" = "Para usar alarmas nativas, activa el permiso de Alarmas en Configuración.";
+"session_complete_notification" = "Notificación de sesión completada";
+"notify_when_session_finishes" = "Notificar cuando finalice la sesión";
+"native_alarm" = "Alarma nativa";
+"quiet_hours" = "Horas de silencio";
+"native_alarm_description" = "Suena la alarma incluso en modo silencioso";
+"session_end_alarm" = "Alarma de fin de sesión";
+"alarm_when_timer_completes" = "Alarma cuando el temporizador termina";
+"time_block_alarms" = "Alarmas de bloques de tiempo";
+"alarm_when_blocks_start" = "Alarma cuando comienzan los bloques programados";
+"reset_dialog_title" = "¿Restablecer %@?";
+"reset_dialog_button" = "Restablecer %@";
+"active_notifications_count" = "%d activas";
+
+// MARK: - Todo Overlay
+"add_new_todo_placeholder" = "Agregar una nueva tarea...";
+"no_tag_todos" = "No hay tareas de %@";
+"add_first_task_above" = "Agrega tu primera tarea arriba";
+"none" = "Ninguna";
+"deadline" = "Fecha límite";
+"set_deadline" = "Establecer fecha límite";
+"select_date_label" = "Seleccionar fecha";
+"created_date" = "Creado: %@";
+"completed_status" = "✓ Completado";
+"subtasks" = "Subtareas";
+"new_subtask_placeholder" = "Nueva subtarea...";
+"set_button" = "Establecer";
+
+// MARK: - Streak Stat Card
+"streak_current" = "Actual";
+"streak_best" = "Mejor";
+"streak_days" = "Días";
+
+// MARK: - Schedule View
+"schedule" = "Horario";
+"reset_all_time_blocks" = "Restablecer todos los bloques";
+"delete_all" = "Eliminar todo";
+"reset_time_blocks_message" = "Esto eliminará permanentemente todos los bloques de tiempo. Esta acción no se puede deshacer.";
+"never_miss_session" = "No te pierdas ninguna sesión";
+"enable_alarms_silent" = "Activa alarmas que suenan en modo silencio";
+"enable" = "Activar";
+
+// MARK: - Time Block Scheduler
+"auto_started" = "Inicio automático";
+"timer_busy" = "Temporizador en uso";
+"is_scheduled" = "está programado";
+"focus_session" = "Sesión de enfoque";
+
+// MARK: - Time Block Edit Sheet
+"create_time_block" = "Crear bloque de tiempo";
+"edit_time_block" = "Editar bloque de tiempo";
+"details" = "Detalles";
+"title_label" = "Título";
+"start_time" = "Hora de inicio";
+"duration" = "Duración";
+"repeat" = "Repetir";
+"alarm" = "Alarma";
+"alarm_native_ios_at_start" = "Alarma nativa de iOS en la hora de inicio";
+"alarm_enable_in_settings" = "Activar en Ajustes → Alarma nativa";
+"saving" = "Guardando...";
+"scheduling_conflict" = "Conflicto de programación";
+"time_block_overlap_message" = "Este bloque se superpone con %d bloque(s) existente(s). Por favor elige una hora diferente.";
+"delete_time_block" = "Eliminar bloque de tiempo";
+"delete_this_only" = "Eliminar solo este";
+"delete_all_recurring" = "Eliminar todos los recurrentes";
+"recurring_block_delete_message" = "Este es un bloque recurrente. ¿Quieres eliminar solo esta ocurrencia o todas las futuras?";
+"delete_time_block_confirmation" = "¿Estás seguro de que quieres eliminar este bloque de tiempo?";
+"enable_alarms" = "Activar alarmas";
+"not_now" = "Ahora no";
+"alarm_onboarding_message" = "Recibe alarmas nativas de iOS cuando comiencen tus sesiones programadas — sonarán incluso en modo silencio para que nunca te pierdas un bloque de concentración.";
+"enable_alarms_for_time_blocks_message" = "Para usar alarmas en bloques de tiempo, activa Alarma nativa en Ajustes. ¿Quieres activarla ahora?";
+
+// Duration options
+"duration_15_min" = "15 min";
+"duration_30_min" = "30 min";
+"duration_45_min" = "45 min";
+"duration_1_hour" = "1 hora";
+"duration_1_5_hours" = "1,5 horas";
+"duration_2_hours" = "2 horas";
+"duration_3_hours" = "3 horas";
+"duration_4_hours" = "4 horas";
+
+// iCloud Sync Toggle
+"ck_sync_toggle_title" = "Sincronizar con iCloud";
+"ck_sync_toggle_subtitle" = "Sincroniza en todos tus dispositivos";
+"ck_restart_required_title" = "Reinicio necesario";
+"ck_restart_required_message" = "Este cambio tendrá efecto la próxima vez que abras la aplicación.";
+
+// iCloud Sync Status
+"ck_status_syncing" = "Sincronizando…";
+"ck_status_error" = "Error de sincronización";
+"ck_status_active" = "iCloud Sync activo";
+"ck_status_no_account" = "Sin cuenta de iCloud";
+"ck_status_restricted" = "Sincronización restringida";
+"ck_status_temp_unavailable" = "Temporalmente no disponible";
+"ck_status_no_internet" = "Sin conexión a internet";
+"ck_status_checking" = "Verificando estado…";
+"ck_hero_no_account" = "Se requiere cuenta de iCloud";
+
+// iCloud Sync Subtitles
+"ck_sub_last_synced" = "Última sincronización %@";
+"ck_sub_waiting" = "Esperando primera sincronización";
+"ck_sub_sign_in" = "Inicia sesión en iCloud en Ajustes para sincronizar";
+"ck_sub_check_screen_time" = "Revisa el Tiempo en pantalla o controles parentales";
+"ck_sub_will_resume" = "Se reanudará cuando iCloud esté disponible";
+"ck_sub_will_sync" = "Se sincronizará cuando se restablezca la conexión";
+"ck_sub_please_wait" = "Por favor espera un momento";
+
+// iCloud Sync Detail Sheet
+"ck_progress_note" = "iCloud no comparte el conteo de registros — el progreso es indeterminado";
+"ck_last_synced_label" = "Última sincronización";
+"ck_never" = "Nunca";
+"ck_sync_now" = "Sincronizar ahora";
+"ck_check_again" = "Verificar de nuevo";
+"ck_button_syncing" = "Sincronizando…";
+
+// iCloud Sync Hero Descriptions
+"ck_desc_syncing" = "Tus datos de pomodoro se están sincronizando en todos tus dispositivos.";
+"ck_desc_error" = "El último intento de sincronización encontró un error. Toca Verificar de nuevo o prueba Sincronizar ahora.";
+"ck_desc_active" = "Tus datos de pomodoro se sincronizan automáticamente en todos los dispositivos con tu cuenta de iCloud.";
+"ck_desc_no_account" = "Inicia sesión en iCloud en Ajustes para sincronizar tus datos entre dispositivos.";
+"ck_desc_restricted" = "La sincronización de iCloud está restringida en este dispositivo. Revisa Tiempo en pantalla o controles parentales.";
+"ck_desc_temp_unavailable" = "iCloud no está disponible temporalmente. Tus datos se sincronizarán automáticamente cuando el servicio se restaure.";
+"ck_desc_no_internet" = "No se detectó conexión a internet. Tus datos se sincronizarán cuando se restaure la conectividad.";
+"ck_desc_checking" = "Estamos verificando tu estado de iCloud. Por favor espera un momento.";
+
+// iCloud Sync Activity Labels
+"ck_activity_syncing" = "Sincronizando con iCloud";
+"ck_activity_setup" = "Configurando iCloud";
+"ck_activity_importing" = "Descargando de iCloud";
+"ck_activity_exporting" = "Subiendo a iCloud";
+
+// iCloud Sync Relative Time
+"ck_time_just_now" = "ahora mismo";
+"ck_time_minutes_ago" = "hace %dm";
+"ck_time_hours_ago" = "hace %dh";
+"ck_time_days_ago" = "hace %dd";
+"ck_time_today_at" = "Hoy a las %@";
+"ck_time_yesterday_at" = "Ayer a las %@";
+"ck_time_date_at" = "%@ a las %@";
+"notification_action_start_now" = "Empezar ahora";
+"notification_action_snooze" = "Recordar en 5 min";
+
+// Level Up Badge
+"congratulations" = "¡Felicidades!";
+"level_up" = "¡Subiste de nivel!";
+
+// Timer Config Dropdown
+"auto_pilot" = "Piloto Automático";
+"auto_start_break" = "Iniciar descanso automáticamente";
+"auto_start_focus" = "Iniciar enfoque automáticamente";
+"short_break_every" = "Descanso corto cada";
+"long_break_every" = "Descanso largo cada";
+"sessions_done" = "Sesiones completadas";
+"never" = "Nunca";
+
+// MARK: - Notes List
+"copy" = "Copiar";
+"export" = "Exportar";
+"no_notes_yet" = "Aún no hay notas";
+"delete_note" = "Eliminar nota";
+"note_delete_confirmation" = "Esta nota se eliminará permanentemente.";
+"export_note" = "Exportar nota";
+"export_as_pdf" = "Exportar como PDF";
+"save_to_photos" = "Guardar en Fotos";
+"saved_to_photos" = "Guardado en Fotos";
+"note_card_saved" = "La tarjeta de nota se ha guardado en tu biblioteca de fotos.";
+"could_not_save" = "No se pudo guardar";
+"note_title_placeholder" = "Título";
+"new_note_placeholder" = "Nueva nota...";
+"write_note_placeholder" = "Escribe tu nota...";
+"note_render_failed" = "Error al renderizar la imagen de la nota.";
+"photo_access_denied" = "Acceso a la biblioteca de fotos denegado. Actívalo en Ajustes.";
+"unknown_error" = "Error desconocido";
+
+// MARK: - Time Since
+"ts_time_since" = "Tiempo transcurrido";
+"ts_countdown" = "Cuenta regresiva";
+"ts_no_trackers_yet" = "Aún no hay rastreadores";
+"ts_no_trackers_description" = "Haz seguimiento del tiempo transcurrido desde eventos, hábitos o hitos específicos.";
+"ts_create_tracker" = "Crear rastreador";
+"ts_no_overdue_trackers" = "No hay rastreadores vencidos";
+"ts_no_trackers_in_group" = "No hay rastreadores en \"%@\"";
+"ts_no_results" = "Sin resultados";
+"ts_search_trackers" = "Buscar rastreadores";
+"ts_new" = "Nuevo";
+"ts_overdue" = "Vencido";
+"ts_sort" = "Ordenar";
+"ts_recently_checked" = "Revisados recientemente";
+"ts_longest_elapsed" = "Mayor tiempo transcurrido";
+"ts_alphabetical" = "Alfabético";
+"ts_date_created" = "Fecha de creación";
+"ts_nearest_deadline" = "Fecha límite más cercana";
+"ts_rename_group" = "Renombrar grupo";
+"ts_new_name" = "Nuevo nombre";
+"ts_rename" = "Renombrar";
+"ts_reset_color" = "Restablecer color";
+"ts_add_item" = "Agregar elemento";
+"ts_color" = "Color";
+"ts_color_sky_blue" = "Azul cielo";
+"ts_color_soft_teal" = "Verde azulado suave";
+"ts_color_soft_violet" = "Violeta suave";
+"ts_color_warm_amber" = "Ámbar cálido";
+"ts_color_golden_yellow" = "Amarillo dorado";
+"ts_color_sage_green" = "Verde salvia";
+"ts_color_muted_coral" = "Coral apagado";
+"ts_color_soft_lavender" = "Lavanda suave";
+"ts_lock_screen_widgets" = "Widgets de pantalla de bloqueo (%d/3)";
+"ts_lock_screen_guide_toolbar_a11y" = "Guía de widgets en pantalla de bloqueo";
+"ts_lock_screen_guide_nav_title" = "Widget de pantalla de bloqueo";
+"ts_lock_screen_guide_hero_title" = "Añade Time Since a tu pantalla de bloqueo";
+"ts_lock_screen_guide_hero_subtitle" = "Sigue estos pasos en tu iPhone para colocar tu rastreador en segundos.";
+"ts_lock_screen_guide_preview_title" = "Vista previa de pantalla de bloqueo";
+"ts_lock_screen_guide_preview_a11y" = "Vista previa de pantalla de bloqueo con widgets de Time Since";
+"ts_lock_screen_guide_step_a11y" = "Paso %d: %@. %@";
+"ts_lock_screen_guide_step_1_title" = "Entra al modo de personalización";
+"ts_lock_screen_guide_step_1_detail" = "Mantén pulsada la pantalla de bloqueo y toca Personalizar.";
+"ts_lock_screen_guide_step_2_title" = "Selecciona el área de widgets";
+"ts_lock_screen_guide_step_2_detail" = "Toca el área de widgets debajo del reloj.";
+"ts_lock_screen_guide_step_3_title" = "Elige Focus Hero";
+"ts_lock_screen_guide_step_3_detail" = "Busca Focus Hero y elige un widget de pantalla de bloqueo de Time Since.";
+"ts_lock_screen_guide_step_4_title" = "Elige tu rastreador";
+"ts_lock_screen_guide_step_4_detail" = "Toca el widget y elige el rastreador que quieres ver en la pantalla de bloqueo.";
+"ts_lock_screen_guide_step_5_title" = "Guárdalo";
+"ts_lock_screen_guide_step_5_detail" = "Toca Listo para guardar tu pantalla de bloqueo.";
+"ts_available" = "Disponibles";
+"ts_when_did_this_happen" = "¿Cuándo pasó esto?";
+"ts_note" = "Nota";
+"ts_notes" = "Notas";
+"ts_whats_on_your_mind" = "¿Qué tienes en mente?";
+"ts_how_did_it_go" = "¿Cómo te fue?";
+"ts_add_note" = "Agregar nota";
+"ts_add_occurrence" = "Agregar registro";
+
+// Time Since Card
+"ts_pin" = "Fijar";
+"ts_unpin" = "Desfijar";
+"ts_remove_from_group" = "Quitar de \"%@\"";
+"ts_new_group" = "Nuevo grupo…";
+"ts_move_to_group" = "Mover al grupo";
+"ts_group_label" = "Grupo: %@";
+"ts_group_name" = "Nombre del grupo";
+"ts_create" = "Crear";
+"ts_now" = "Ahora";
+"ts_delete_confirm_title" = "¿Eliminar \"%@\"?";
+"ts_delete_confirm_message" = "Esto también eliminará todas las notificaciones y alarmas de este elemento.";
+"ts_completed" = "¡Completado!";
+"ts_until_date" = "Hasta %@";
+"ts_done" = "¡Listo!";
+
+// Edit Time Since Event
+"ts_details" = "Detalles";
+"ts_event_name" = "Nombre del evento";
+"ts_start_date" = "Fecha de inicio";
+"ts_target_date" = "Fecha objetivo";
+"ts_display_as" = "Mostrar como";
+"ts_start_time" = "Hora de inicio";
+"ts_group" = "Grupo";
+"ts_appearance" = "Apariencia";
+"ts_track_interval" = "Intervalo de seguimiento";
+"ts_auto" = "Auto";
+"ts_custom" = "Personalizado";
+"ts_interval" = "Intervalo";
+"ts_delete_tracker" = "Eliminar rastreador";
+"ts_delete_tracker_confirm" = "¿Eliminar este rastreador?";
+"ts_cannot_be_undone" = "Esto no se puede deshacer.";
+"ts_edit_tracker" = "Editar rastreador";
+"ts_new_tracker" = "Nuevo rastreador";
+"ts_seed_plant_a_seed" = "Plantar una semilla 🌱";
+"ts_seed_unhealthy_eating" = "Comida poco saludable 🍔";
+"ts_seed_change_air_filter" = "Cambiar filtro de aire";
+"ts_seed_group_break_habits" = "Romper hábitos";
+"ts_reflect_every" = "Reflexionar cada %@";
+"ts_notify_every" = "Notificar cada %@";
+"ts_icon" = "Icono";
+"ts_on" = "Activado";
+
+// Alert Unit
+"ts_minutes" = "Minutos";
+"ts_hours" = "Horas";
+"ts_days" = "Días";
+"ts_weeks" = "Semanas";
+"ts_months" = "Meses";
+"ts_years" = "Años";
+
+// Target Preset
+"ts_preset_week" = "Semana";
+"ts_preset_month" = "Mes";
+"ts_preset_quarter" = "Trimestre";
+"ts_preset_year" = "Año";
+"ts_preset_6_months" = "6 meses";
+"ts_preset_1_year" = "1 año";
+"ts_preset_2_years" = "2 años";
+
+// Time Since Detail
+"ts_history" = "Historial";
+"ts_swipe_hint" = "Desliza la tarjeta a la izquierda para capturar un pensamiento";
+"ts_show_all_occurrences" = "Mostrar los %d registros";
+"ts_occurrences_abbrev" = "%d reg.";
+"ts_average_format" = "prom. %@";
+"ts_occurrence" = "Registro";
+"ts_delete_tracker_detail" = "Eliminar rastreador";
+"ts_no_occurrences_yet" = "Aún no hay registros.";
+"ts_log_occurrence_hint" = "Usa el botón + o desliza una tarjeta a la izquierda para registrar uno.";
+"ts_gap_between_occurrences" = "Intervalo entre registros";
+"ts_past_gap" = "Intervalo anterior";
+"ts_current_ongoing" = "Actual (en curso)";
+"ts_view_notes" = "Ver notas";
+"ts_copy_notes" = "Copiar notas";
+"ts_copy_date" = "Copiar fecha";
+"ts_elapsed" = "transcurrido";
+"ts_started" = "Iniciado";
+"ts_edit" = "Editar";
+"ts_target" = "Objetivo";
+"ts_remaining" = "restante";
+"ts_percent_complete" = "%.1f%% completado";
