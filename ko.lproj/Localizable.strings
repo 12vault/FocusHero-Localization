@@ -1019,3 +1019,6 @@
 "ts_target" = "목표";
 "ts_remaining" = "남음";
 "ts_percent_complete" = "%.1f%% 완료";
+"ts_notif_reflection_body" = "되돌아보기: %@까지 %@ 남았습니다.";
+"ts_notif_elapsed_body" = "%@을(를) 기록한 지 %@ 지났습니다.";
+"ts_notif_alarm_title" = "%@ 간격";

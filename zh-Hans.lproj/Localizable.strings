@@ -1085,6 +1085,9 @@
 "ts_target" = "目标";
 "ts_remaining" = "剩余";
 "ts_percent_complete" = "%.1f%% 完成";
+"ts_notif_reflection_body" = "回顾：%@还剩%@。";
+"ts_notif_elapsed_body" = "距您记录%@已过%@。";
+"ts_notif_alarm_title" = "%@ 间隔";
 "nearby_sync_section_title" = "附近设备同步";
 "nearby_sync_toggle_title" = "附近设备同步";
 "nearby_sync_toggle_subtitle" = "在附近的 iPhone 和 Mac 之间同步计时器开始、结束和重置";

@@ -1063,6 +1063,9 @@
 "ts_target" = "Цель";
 "ts_remaining" = "осталось";
 "ts_percent_complete" = "%.1f%% выполнено";
+"ts_notif_reflection_body" = "Размышление: осталось %@ до %@.";
+"ts_notif_elapsed_body" = "Прошло %@ с момента записи %@.";
+"ts_notif_alarm_title" = "Интервал %@";
 "nearby_sync_section_title" = "Синхронизация рядом";
 "nearby_sync_toggle_title" = "Синхронизация ближайших устройств";
 "nearby_sync_toggle_subtitle" = "Синхронизируйте запуск, паузу, завершение и сброс таймера между расположенными рядом iPhone и Mac";

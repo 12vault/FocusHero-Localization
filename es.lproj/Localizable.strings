@@ -1088,3 +1088,6 @@
 "ts_target" = "Objetivo";
 "ts_remaining" = "restante";
 "ts_percent_complete" = "%.1f%% completado";
+"ts_notif_reflection_body" = "Reflexión: quedan %@ para %@.";
+"ts_notif_elapsed_body" = "Han pasado %@ desde que registraste %@.";
+"ts_notif_alarm_title" = "Intervalo de %@";

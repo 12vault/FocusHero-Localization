@@ -1092,6 +1092,9 @@
 "ts_target" = "Target";
 "ts_remaining" = "remaining";
 "ts_percent_complete" = "%.1f%% complete";
+"ts_notif_reflection_body" = "Reflection: %@ left for %@.";
+"ts_notif_elapsed_body" = "It's been %@ since you logged %@.";
+"ts_notif_alarm_title" = "%@ Interval";
 
 // Auto Pilot Summary
 "remove_session" = "Remove Session";

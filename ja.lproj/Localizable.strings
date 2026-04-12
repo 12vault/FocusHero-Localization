@@ -1089,3 +1089,6 @@
 "ts_target" = "目標";
 "ts_remaining" = "残り";
 "ts_percent_complete" = "%.1f%% 完了";
+"ts_notif_reflection_body" = "振り返り：%@の残り%@。";
+"ts_notif_elapsed_body" = "%@が%@を記録してから経過しました。";
+"ts_notif_alarm_title" = "%@ インターバル";
