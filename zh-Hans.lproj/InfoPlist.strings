@@ -1,0 +1,4 @@
+"CFBundleDisplayName" = "番茄计时器";
+"NSAlarmKitUsageDescription" = "FocusHero 使用闹钟提醒您专注和休息时段结束，即使在静音模式或专注模式下也能响铃。";
+"NSLocalNetworkUsageDescription" = "FocusHero 使用本地网络，在附近设备之间同步计时器的开始、结束和重置状态。";
+"NSUserTrackingUsageDescription" = "这有助于我们了解您是通过哪些活动来到这里的，并改进您的使用体验。";

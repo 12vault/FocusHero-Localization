@@ -1,0 +1,1153 @@
+/*
+   Localizable.strings (Korean)
+   pomodoro-timer
+*/
+
+// MARK: - General (used in onboarding flows)
+"yes" = "예";
+"no" = "아니요";
+"skip" = "건너뛰기";
+"back" = "뒤로";
+"continue" = "계속";
+"get_started" = "시작하기";
+
+// MARK: - Welcome Screen
+"welcome_to_focushero" = "FocusHero에 오신 것을 환영합니다";
+"welcome_subtitle" = "프리미엄 집중 툴로 꿈을 이루어보세요";
+"lets_go" = "시작해봐요!";
+
+// MARK: - Onboarding
+"welcome_to_your" = "당신만의";
+"hero_journey" = "영웅의 여정";
+"become_a_hero_in" = "분야의 영웅이";
+"your_craft" = "되세요";
+"master_multiple" = "여러";
+"skills_and_crafts" = "기술을 마스터하세요";
+"never_lose" = "잃지 마세요";
+"your_progress" = "당신의 진행 상황을";
+"your_10000_hours" = "당신의 10,000시간";
+"start_today" = "오늘 시작하세요";
+"of" = "/";
+
+// Onboarding descriptions
+"onboarding_1_description" = "검증된 10,000시간 이론으로 어떤 기술이든 마스터하세요. 포모도로 기법으로 집중 연습을 영웅적 전문성으로 변환하세요";
+"onboarding_2_description" = "모든 전문가는 한때 초보자였습니다. 집중 연습 시간을 쌓으며 레벨업하세요. 초보자에서 영웅으로 진화하는 모습을 지켜보세요";
+"onboarding_3_description" = "마스터하고 싶은 각 기술에 태그를 만드세요. 프로그래밍, 음악, 글쓰기, 예술 - 모든 분야에서 10,000시간 여정을 추적하세요";
+"onboarding_4_description" = "어디서나 숙달 여정을 계속하세요. 라이브 활동과 다이나믹 아일랜드가 멀티태스킹 중에도 진행 상황을 보여줍니다";
+"onboarding_5_description" = "모든 마스터는 단 한 시간으로 시작했습니다. 초보자에서 영웅으로의 변화를 시작하세요. 전설적인 여정이 기다리고 있습니다!";
+
+// Onboarding features
+"25_minute_sessions" = "25분 숙달 세션";
+"track_path_10000" = "10,000시간까지의 경로 추적";
+"proven_practice_method" = "검증된 의도적 연습 방법";
+"level_progression" = "매 시간마다 레벨 상승";
+"visual_journey_mastery" = "숙달까지의 시각적 여정";
+"track_multiple_skills" = "여러 기술 동시 추적";
+"separate_hero_journeys" = "기술별 별도 영웅 여정";
+"custom_skill_categories" = "사용자 정의 기술 카테고리";
+"individual_mastery_tracking" = "개별 숙달 추적";
+"always_visible_progress" = "항상 보이는 진행 상황";
+"seamless_session_tracking" = "원활한 세션 추적";
+"never_break_flow" = "흐름을 절대 끊지 마세요";
+"start_first_hour" = "첫 숙달 시간을 시작하세요";
+"choose_first_skill" = "첫 번째 기술을 선택하세요";
+"begin_hero_transformation" = "영웅 변신을 시작하세요";
+
+// MARK: - Hero Level Titles
+"hero_level_0_title" = "지망생";
+"hero_level_1_title" = "초보 집중가";
+"hero_level_2_title" = "견습생";
+"hero_level_3_title" = "숙련 전사";
+"hero_level_4_title" = "정예 전사";
+"hero_level_5_title" = "챔피언";
+"hero_level_6_title" = "전설";
+"hero_level_7_title" = "마스터";
+"hero_level_8_title" = "그랜드마스터";
+"hero_level_9_title" = "현자";
+"hero_level_10_title" = "거장";
+"hero_level_11_title" = "깨달은 자";
+"hero_level_12_title" = "초월자";
+
+// MARK: - Hero Level Descriptions
+"hero_level_0_description" = "여정을 시작할 준비가 되었습니다";
+"hero_level_1_description" = "모든 영웅은 어딘가에서 시작합니다";
+"hero_level_2_description" = "집중의 방법을 배우는 중";
+"hero_level_3_description" = "규율을 키워가는 중";
+"hero_level_4_description" = "집중력을 마스터하는 중";
+"hero_level_5_description" = "모범을 보이며 이끌어가는 중";
+"hero_level_6_description" = "위대함을 이루어가는 중";
+"hero_level_7_description" = "한계를 초월하는 중";
+"hero_level_8_description" = "진정한 숙달에 다가서는 중";
+"hero_level_9_description" = "헌신을 통한 지혜";
+"hero_level_10_description" = "연습의 탁월함";
+"hero_level_11_description" = "궁극의 목표에 가까워지는 중";
+"hero_level_12_description" = "10,000시간 숙달";
+
+// MARK: - Questionnaire Onboarding
+"questionnaire_finish" = "내 계획 만들기";
+
+// Question 0 - Name
+"questionnaire_name_title" = "어떻게 불러드리면 될까요?";
+"questionnaire_name_subtitle" = "여기에 당신의 이름을 담아보세요. 이제부터 당신의 꿈을 중심으로 만들어갈게요.";
+"questionnaire_name_placeholder" = "이름";
+
+// Question 1 - Motivation
+"questionnaire_motivation_title" = "왜 이 꿈을 위해 계속 나아가고 싶나요?";
+"questionnaire_motivation_subtitle" = "이 꿈을 지켜나가게 하는 이유를 골라보세요.";
+"motivation_achievement" = "진실한 삶을 살고 싶어서";
+"motivation_achievement_desc" = "내 행동이 내가 중요하게 여기는 것과 일치하길 바라요";
+"motivation_growth" = "내가 되고 싶은 사람이 되고 싶어서";
+"motivation_growth_desc" = "이 꿈은 저를 더 강하고 더 진실한 모습으로 이끌어줘요";
+"motivation_freedom" = "내 가치관에 맞게 살고 싶어서";
+"motivation_freedom_desc" = "내 하루가 내가 진심으로 소중히 여기는 것을 담고 있길 바라요";
+"motivation_creativity" = "진짜 내 안의 것을 표현하고 싶어서";
+"motivation_creativity_desc" = "이 꿈은 내 안에 있는 것을 만들고, 말하고, 세상에 꺼내도록 도와줘요";
+"motivation_knowledge" = "의미 있는 것을 깊이 있게 익히고 싶어서";
+"motivation_knowledge_desc" = "얕은 이해가 아니라 깊이, 실력, 그리고 진짜 이해를 원해요";
+"motivation_honor_life" = "내게 주어진 삶을 소중히 살고 싶어서";
+"motivation_honor_life_desc" = "내게 맡겨진 삶을 헛되이 쓰지 않고 의미 있게 살아가고 싶어요";
+"motivation_impact" = "사랑하는 사람들을 위해 더 나은 내가 되고 싶어서";
+"motivation_impact_desc" = "더 곁에 있어 주고, 더 믿음직한 사람이 되고 싶어요";
+"motivation_health" = "가장 중요한 것에 충실하고 싶어서";
+"motivation_health_desc" = "정말 중요하다고 알면서도 계속 미루고 싶지 않아요";
+
+// Question 2 - Peak Time
+"questionnaire_peak_title" = "이 꿈을 위해 가장 좋은 에너지가 생기는 때는 언제인가요?";
+"questionnaire_peak_subtitle" = "그 시간을 지킬 수 있도록 도와드릴게요.";
+"peak_morning" = "아침";
+"peak_morning_hours" = "오전 6시 - 12시";
+"peak_afternoon" = "오후";
+"peak_afternoon_hours" = "12시 - 오후 5시";
+"peak_evening" = "저녁";
+"peak_evening_hours" = "오후 5시 - 10시";
+"peak_night" = "심야";
+"peak_night_hours" = "오후 10시 이후";
+
+// Question 3 - Outcomes
+"questionnaire_apps_title" = "끝까지 해낸다면 삶에서 무엇이 달라질까요?";
+"questionnaire_apps_subtitle" = "실제로 느끼고 싶은 변화를 모두 골라보세요.";
+"questionnaire_apps_field_placeholder" = "이게 당신에게 어떤 의미인지, 정말 이루고 싶은 것이 무엇인지 적어보세요.";
+"questionnaire_outcome_peace" = "평화";
+"questionnaire_outcome_peace_desc" = "삶이 차분하고, 덜 소란스럽고, 안정감 있게 느껴질 거예요";
+"questionnaire_outcome_confidence" = "스스로에 대한 신뢰";
+"questionnaire_outcome_confidence_desc" = "내가 한 약속을 지켰다는 사실이 스스로를 더 믿게 해줄 거예요";
+"questionnaire_outcome_freedom" = "자유와 유연함";
+"questionnaire_outcome_freedom_desc" = "삶이 덜 답답하고, 가능성이 열려 있는 것처럼 느껴질 거예요";
+"questionnaire_outcome_stability" = "안정적인 삶";
+"questionnaire_outcome_stability_desc" = "삶이 안정적이고, 중심이 잡혀 있고, 오래 이어질 수 있게 느껴질 거예요";
+"questionnaire_outcome_clarity" = "죄책감은 줄고 마음이 가벼워짐";
+"questionnaire_outcome_clarity_desc" = "회피에서 오는 죄책감이 줄어들고, 마음이 더 가벼워질 거예요";
+"questionnaire_outcome_pride" = "분명한 삶의 방향성";
+"questionnaire_outcome_pride_desc" = "내가 어디로 가고 있는지 더 분명해질 거예요";
+"questionnaire_outcome_possibility" = "더 많은 가능성";
+"questionnaire_outcome_possibility_desc" = "미래가 더 크고, 열려 있다고 느껴질 거예요";
+
+// Question 4 - Support
+"questionnaire_best_feature_title" = "꾸준함을 유지하려면 어떤 도움이 필요할까요?";
+"questionnaire_best_feature_subtitle" = "이 꿈으로 다시 돌아오기 쉬워지게 해 줄 지원을 골라보세요.";
+"prod_feature_time_tracking" = "시간 추적";
+"prod_feature_time_tracking_desc" = "내 시간이 실제로 어디로 가는지 보기";
+"prod_feature_goal_setting" = "분명한 목표";
+"prod_feature_goal_setting_desc" = "꿈을 눈에 보이는 이정표로 바꾸기";
+"prod_feature_habit_building" = "꾸준함";
+"prod_feature_habit_building_desc" = "규칙적으로 지켜나갈 수 있는 리듬 만들기";
+"prod_feature_analytics" = "성찰하기";
+"prod_feature_analytics_desc" = "지난 패턴이 어떻게 나타나는지 확인하기";
+"prod_feature_reminders" = "푸시 알림";
+"prod_feature_reminders_desc" = "집중해야 할 일로 돌아올 수 있게 해주는 신호";
+"prod_feature_gamification" = "추진력 상승";
+"prod_feature_gamification_desc" = "지속적으로 나아가게 해주는 격려";
+
+// Question 5 - Goal
+"questionnaire_goal_title" = "당신의 꿈은 무엇인가요?";
+"questionnaire_goal_subtitle" = "지금은 짧게 적어도 괜찮아요.";
+"questionnaire_goal_placeholder" = "1~2단어";
+"questionnaire_not_sure" = "아직 잘 모르겠어요";
+
+// Question 6 - Time Commitment
+"questionnaire_time_title" = "매일 이 꿈에 얼마나 시간을 투자할 수 있나요?";
+"questionnaire_time_subtitle" = "작은 시간도 꾸준히 쌓이면 의미가 있습니다.";
+"time_15_minutes" = "15분";
+"time_30_minutes" = "30분";
+"time_1_hour" = "1시간";
+"time_2_hours" = "2시간";
+"time_3_hours" = "3시간";
+"time_7_plus_hours" = "7시간 이상";
+
+// Question 7 - Obstacles
+"questionnaire_obstacles_title" = "중요한 일을 할 때 보통 무엇이 당신을 멀어지게 하나요?";
+"questionnaire_obstacles_subtitle" = "마찰을 무시하지 않고, 그에 맞춰 설계하고 싶어요.";
+"obstacle_distractions_title" = "방해 요소";
+"obstacle_distractions_desc" = "휴대폰, 소셜 미디어, 방해";
+"obstacle_motivation_title" = "동기 부족";
+"obstacle_motivation_desc" = "에너지가 낮을 때 시작하기가 어려움";
+"obstacle_perfectionism_title" = "완벽주의";
+"obstacle_perfectionism_desc" = "완벽하게 할 수 있을 때까지 기다리게 됨";
+"obstacle_overwhelm_title" = "압도감";
+"obstacle_overwhelm_desc" = "감당할 것이 너무 많아 첫걸음이 보이지 않음";
+"obstacle_procrastination_title" = "미루기";
+"obstacle_procrastination_desc" = "중요한 일인데도 자꾸 뒤로 미루게 됨";
+"obstacle_time_management_title" = "시간 관리";
+"obstacle_time_management_desc" = "꿈보다 일정이 먼저 하루를 채워 버림";
+"obstacle_other_title" = "기타";
+"obstacle_other_desc" = "다른 이유";
+
+// News screens
+"questionnaire_news_intro" = "당신의 꿈에는 시스템이 필요해요";
+"questionnaire_bad_news_label" = "불편한 진실";
+"questionnaire_bad_news_content" = "시간을 잘 쓰지 않으면, 아무리 의미 있는 목표라도 ";
+"questionnaire_bad_news_highlight" = "조금씩 일상 뒤편으로 밀려날 수 있어요";
+"questionnaire_good_news_label" = "희망적인 부분";
+"questionnaire_good_news_start" = "잘 설계된 시스템은 당신의 꿈이 ";
+"questionnaire_good_news_highlight" = "일상 속에서도 살아남도록 도와줄 수 있어요";
+"questionnaire_good_news_end" = "";
+
+// Achievement screen
+"questionnaire_achievement_title" = "당신만의 첫 번째 설계도가 준비됐어요";
+"questionnaire_achievement_subtitle" = "꿈은 매일 규칙적인 리듬이 되어 흐트러짐으로부터 보호될 때 비로소 현실이 됩니다.";
+"questionnaire_achievement_earned" = "완성";
+
+// Features overview screen
+"questionnaire_features_title" = "FocusHero가 당신을 지원하는 방법";
+"questionnaire_feature_goals" = "꿈을 시각화화여 모든 세션이 분명한 목적을 갖게 하기";
+"questionnaire_feature_growth" = "진전을 알아차리기";
+"questionnaire_feature_growth_detail" = " - 돌아보는 과정은 느리지만 의미 있는 성장을 믿게 해줘요";
+"questionnaire_feature_blocking" = "집중을 깨뜨리던 방해 요소로부터 세션을 지키기";
+"questionnaire_feature_adventure" = "압박 없이 꾸준한 연습으로 추진력을 향상시키기";
+"questionnaire_callout_stat" = "가볍게 시작하세요";
+"questionnaire_callout_text" = "완벽한 루틴은 필요하지 않아요. 필요한 건 반복 가능한 다음 한 걸음입니다. 예를 들면 ";
+"questionnaire_callout_habit" = "\"20분의 진짜 몰입\"";
+
+// App blocking prompt
+"app_blocking_title" = "꿈을 위한 시간을 지킬까요?";
+"app_blocking_subtitle" = "방해 요소가 가장 큰 마찰 중 하나라면, 집중 세션이 진행되는 동안 방해되는 앱을 자동으로 숨길 수 있어요.";
+"app_blocking_set_up" = "앱 차단 설정";
+"app_blocking_skip" = "지금은 건너뛰기";
+
+// MARK: - Feature Slides
+"feature_slide1_title" = "FocusHero로\n자기 개발을 쉽게";
+"feature_slide1_desc" = "작은 행동이 큰 결과로 이어지는 모습을 확인해 보세요.";
+"feature_slide2_title" = "FocusHero는 더 나은\n습관 형성을 도와줘요";
+"feature_slide2_desc" = "습관 트래커와 사용하기 쉬운 도구로 목표를 꾸준히 이어가세요.";
+"feature_slide3_title" = "FocusHero가\n성장을 지원해요";
+"feature_slide3_desc" = "함께 지속적인 습관을 만들고 당신의 잠재력을 최대한 발휘하세요.";
+"feature_slide_theory_cta" = "왜 1만 시간일까요?";
+
+// MARK: - Theory Explainer
+"theory_flow_title_1" = "숙련에는 시간이 걸립니다";
+"theory_flow_lead_1" = "의미 있는 실력은 대개 여러 해에 걸쳐 쌓입니다.";
+"theory_flow_body_1" = "1만 시간이라는 개념은 말콤 글래드웰의 아웃라이어를 통해 유명해졌습니다. 실제를 어느 정도 담고 있었기 때문입니다.";
+"theory_flow_title_2" = "중요한 건 숫자가 아닙니다";
+"theory_flow_lead_2" = "숫자가 핵심이 아닙니다.";
+"theory_flow_body_2" = "더 중요한 것은 그 시간 안의 연습입니다.\n분명한 의도, 깊은 집중, 반복, 그리고 꾸준한 개선이 단순한 시간 채우기보다 중요합니다.";
+"theory_flow_title_3" = "작은 세션도 의미가 있습니다";
+"theory_flow_lead_3" = "집중한 노력은 조용히 쌓입니다.";
+"theory_flow_body_3" = "진전은 그 순간에는 극적으로 느껴지지 않는 경우가 많습니다.\n한 번의 세션은 작아 보여도, 몇 주와 몇 해 동안 반복되면 의미 있는 결과가 됩니다.";
+"theory_flow_title_4" = "당신의 길은 당신만의 것입니다";
+"theory_flow_lead_4" = "연습은 중요하지만 모든 것을 설명하지는 않습니다.";
+"theory_flow_body_4" = "그 영향은 분야마다 다릅니다.\n1만 시간이라는 개념은 약속이라기보다 하나의 관점으로 받아들이는 편이 좋습니다.";
+"theory_flow_title_5" = "계속 돌아오세요";
+"theory_flow_lead_5" = "오늘 모든 여정을 끝낼 필요는 없습니다.";
+"theory_flow_body_5" = "다시 돌아오기만 하면 됩니다.\nFocusHero는 중요한 것을 쌓아 가는 시간을 지켜 줍니다.";
+"theory_flow_footnote" = "전문가 수행 연구에서 영감을 받았습니다. 1만 시간은 고정된 법칙이 아니라 동기를 주는 관점입니다.";
+"theory_flow_primary_cta" = "1만 시간을 투자하세요";
+
+// MARK: - Calculating Review
+"calculating_step1" = "계산 중";
+"calculating_step2" = "당신에게 맞게 앱을 조정하고 있어요";
+"apps_we_love" = "우리가 사랑하는\n앱";
+
+// MARK: - Contract Onboarding
+"contract_word" = "계약";
+"contract_your_fallback" = "당신의";
+"contract_bullet1" = "**하루의 어떤 시간에도 유연하게 적응하며** 계속 나아가겠습니다!";
+"contract_bullet2" = "**다양한 방식으로 진행 상황을 기록하며** 내게 가장 잘 맞는 방법을 찾겠습니다!";
+"contract_bullet3" = "**좋지 않은 습관을 내려놓고** 앞으로 나아갈 길을 열겠습니다!";
+"contract_bullet4" = "어떤 **장애물이 생겨도 마주하고** 계속 나아갈 방법을 찾겠습니다!";
+"contract_bullet5" = "**더 건강한 라이프스타일을 받아들이고** 가장 좋은 모습의 나로 살아가겠습니다!";
+"contract_agreed" = "계약에 동의했어요!";
+"contract_keep_holding" = "계속 누르고 계세요...";
+"contract_hold_to_agree" = "길게 눌러 동의하기";
+"contract_research_note" = "연구에 따르면 이런 계약에 동의하는 것은 실행력과 책임감을 높이는 데 도움이 됩니다";
+"contract_lets_get_started" = "시작해봐요!";
+
+// MARK: - General UI
+"done" = "완료";
+"cancel" = "취소";
+"ok" = "확인";
+"settings" = "설정";
+"delete" = "삭제";
+"edit" = "편집";
+"save" = "저장";
+"reset" = "초기화";
+"reload" = "다시 로드";
+"close" = "닫기";
+"add" = "추가";
+"remove" = "제거";
+"update" = "업데이트";
+"confirm" = "확인";
+"loading" = "로딩 중...";
+"please_wait" = "잠시 기다려 주세요...";
+"success" = "성공";
+"error" = "오류";
+"warning" = "경고";
+"info" = "정보";
+"optional" = "선택사항";
+"select" = "선택";
+"completed" = "완료됨";
+"incomplete" = "미완료";
+"discard" = "버리기";
+
+"focus_time" = "집중 시간";
+"short_break" = "짧은 휴식";
+"long_break" = "긴 휴식";
+"focus" = "집중";
+"break" = "휴식";
+"long" = "긴 휴식";
+
+"running" = "진행 중";
+"stopped" = "정지됨";
+"session" = "세션";
+"sessions" = "세션";
+"completed_sessions" = "완료된 세션";
+"total_sessions" = "총 세션";
+"total_time_minutes" = "총 시간\n(분)";
+
+"start_journey" = "여정 시작";
+"level" = "레벨";
+"hero_journeys" = "영웅 여정";
+"select_hero_journey" = "영웅 여정 선택";
+"general" = "일반";
+"next_level_progress" = "다음 레벨 진행도";
+"hours" = "시간";
+"maximum_level_reached" = "🎉 최대 레벨 달성!";
+"complete_first_session" = "첫 번째 세션을 완료하세요";
+"to_unlock_level_1" = "레벨 1을 잠금 해제하려면";
+"complete_1_session_to_reach_level_1" = "레벨 1에 도달하려면 1개의 세션을 완료하세요";
+"preview" = "미리보기";
+"level_reference" = "레벨 참고";
+"all_tag_journeys" = "모든 태그 여정";
+"no_tag_journeys_yet" = "태그 여정이 없습니다";
+"complete_sessions_with_tags" = "태그와 함께 세션을 완료하여 영웅 여정을 시작하세요";
+"long_press_for_options" = "옵션은 길게 누르세요";
+"reset_journey" = "여정 초기화";
+"copy_stats" = "통계 복사";
+"reset_hero_journey" = "영웅 여정 초기화";
+"reset_journey_confirmation" = "\"%@\" 영웅 여정을 완전히 초기화하시겠습니까?\n\n모든 진행 상황(%@)이 삭제됩니다. 이 태그로 새 세션을 완료할 때만 여정이 다시 나타납니다.";
+"edit_hours_required" = "필요 시간 편집";
+"reset_to_default" = "기본값으로 재설정";
+"edit_hours_message" = "레벨 %d: %@에 도달하는 데 필요한 사용자 지정 시간 설정";
+
+"select_tag" = "태그 선택";
+"session_tags" = "집중 분야";
+"create_custom_tag" = "커스텀 태그 만들기";
+"tag_name" = "태그 이름";
+"tag_emoji" = "태그 이모지";
+"tag_color" = "태그 색상";
+"create_tag" = "새로운 여정";
+"edit_tag" = "집중 분야 편집";
+"update_tag" = "태그 업데이트";
+"delete_tag" = "태그 삭제";
+"duplicate_tag_key" = "이미 같은 이름과 이모지의 태그가 존재합니다";
+"delete_tag_confirmation" = "이 태그와 세션 기록 및 통계를 포함한 모든 관련 데이터가 영구적으로 삭제됩니다. 이 작업은 취소할 수 없습니다.";
+"tags" = "태그";
+"tag" = "태그";
+"organize_sessions_with_tags" = "커스텀 태그로 집중 세션을 정리하세요";
+"current_selection" = "현재 선택";
+"active_tag" = "활성 태그";
+"unnamed_tag" = "이름 없는 태그";
+"no_tag_selected" = "태그 선택 없음";
+"choose_tag_to_organize" = "집중 세션을 정리할 태그를 선택하세요";
+"available_tags" = "사용 가능한 여정";
+"create_new_tag" = "새 태그 만들기";
+"choose_existing_tag" = "기존 태그 선택";
+"tag_already_exists" = "태그가 이미 존재합니다";
+"enter_tag_name" = "태그 이름 입력";
+"select_emoji" = "이모지 선택";
+"choose_color" = "색상 선택";
+"name_optional" = "이름 (선택사항)";
+"default_tags" = "기본 태그";
+"custom_tags" = "커스텀 태그";
+"no_custom_tags" = "아직 커스텀 태그 없음";
+"tap_to_create" = "+ 버튼을 탭하여 첫 커스텀 태그를 만드세요";
+"tap_to_open_emoji_keyboard" = "위를 탭하여 이모지를 입력하세요";
+"add_tag" = "새로 만들기";
+"create_custom_tag_description" = "커스텀 태그를 만들어 집중 세션을 정리하세요";
+"edit_custom_tag_description" = "커스텀 태그 설정 편집";
+"select_color" = "색상 선택";
+
+"default_tag_ai_literacy" = "AI 리터러시";
+"default_tag_spanish" = "스페인어";
+"default_tag_piano" = "피아노";
+
+"todo" = "투두";
+"todos" = "투두";
+"add_todo" = "투두 추가";
+"edit_todo" = "투두 편집";
+"todo_title" = "투두 제목";
+"todo_description" = "투두 설명";
+"complete_todo" = "투두 완료";
+"incomplete_todo" = "투두 미완료";
+"delete_todo" = "투두 삭제";
+"no_todos" = "아직 투두 없음";
+"add_todo_description" = "집중 세션 중 정리를 위해 투두을 추가하세요";
+"quick_todos" = "빠른 투두";
+"all" = "전체";
+"type_new_todo" = "새 투두 입력...";
+"what_are_you_working_on" = "지금 무엇을 하고 있나요?";
+"add_your_tasks" = "작업 추가";
+"create_new_todo" = "새 투두 만들기";
+"enter_title" = "제목 입력";
+"enter_description_optional" = "설명 입력 (선택사항)";
+"mark_complete" = "완료로 표시";
+"mark_incomplete" = "미완료로 표시";
+"empty_todo_list" = "투두 목록이 비어있습니다";
+"add_first_todo" = "시작하려면 첫 번째 투두을 추가하세요";
+"completed_todos" = "완료된 투두";
+"incomplete_todos" = "미완료 투두";
+"all_todos" = "모든 투두";
+"no_todos_for_tag" = "이 태그에 아직 투두 없음";
+"tap_to_add_first_todo" = "+ 버튼을 탭하여 첫 투두을 추가하세요";
+"complete_selected" = "선택 항목 완료";
+"delete_selected" = "선택 항목 삭제";
+
+"statistics" = "통계";
+"chart" = "차트";
+"calendar" = "캘린더";
+"analytics" = "분석";
+"tag_usage" = "태그 사용";
+"most_used" = "가장 많이 사용";
+"patterns" = "패턴";
+"reports" = "보고서";
+"productivity_patterns" = "생산성 패턴";
+"visual_reports" = "시각적 보고서";
+"no_reports_available" = "보고서 없음";
+"week" = "주";
+"month" = "월";
+"year" = "연";
+"sessions_this_week" = "이번 주 세션";
+"sessions_this_year" = "올해 세션";
+"week_summary" = "주간 요약";
+"month_summary" = "월간 요약";
+"year_summary" = "연간 요약";
+"summary" = "요약";
+"total" = "합계";
+"average" = "평균";
+"peak" = "최고";
+"no_tag_data_yet" = "아직 태그 데이터 없음";
+"start_using_tags" = "태그를 사용하여 분석 보기";
+"start_using_tags_to_generate" = "태그를 사용하여 보고서 생성";
+"activity_levels" = "활동 수준";
+"light" = "가벼움";
+"moderate" = "보통";
+"high" = "높음";
+"no_activity_recorded" = "기록된 활동 없음";
+"start_session_to_see_progress" = "세션을 시작하여 진행 상황 보기";
+"completion_rate" = "완료율";
+"weekly_progress" = "주간 진행도";
+"monthly_progress" = "월간 진행도";
+"focus_sessions" = "집중 세션";
+"break_sessions" = "휴식 세션";
+"total_hours" = "총 시간";
+"average_per_day" = "일일 평균";
+"best_day" = "최고의 날";
+"this_week" = "이번 주";
+"last_week" = "지난 주";
+"this_month" = "이번 달";
+"last_month" = "지난 달";
+"no_data" = "데이터 없음";
+"start_timer_to_see_stats" = "타이머를 사용하여 통계 보기";
+
+"sessions_this_month" = "이번 달 세션";
+"total_time_this_month" = "이번 달 총 시간";
+"longest_streak" = "최장 연속";
+"current_streak" = "현재 연속";
+"days" = "일";
+"day" = "일";
+"today" = "오늘";
+"yesterday" = "어제";
+"sessions_on" = "세션";
+
+"session_times" = "세션 시간";
+"configure_times" = "시간 설정";
+"customize_focus_break_durations" = "집중 및 휴식 시간 설정";
+"notifications" = "알림";
+"notification_settings" = "알림 설정";
+"configure_alerts" = "알림 및 리마인더 설정";
+"session_history" = "세션 기록";
+"view_history" = "기록 보기";
+"see_completed_sessions" = "완료된 세션 및 진행 상황 보기";
+"onboarding" = "온보딩";
+"show_onboarding" = "온보딩 보기";
+"review_getting_started" = "시작 가이드 다시 보기";
+"reset_options" = "초기화 옵션";
+"review_past_focus_sessions" = "지난 집중 세션 돌아보기";
+"how_it_works" = "작동 방식";
+"learn_how_to_become_hero" = "영웅이 되는 방법 알아보기";
+
+"reset_all_data" = "모든 데이터 초기화";
+"reset_session_counts" = "세션 횟수 초기화";
+"reset_onboarding" = "온보딩 초기화";
+"reset_all_data_description" = "세션 기록 및 진행 상황을 포함한 모든 데이터 삭제";
+"reset_session_counts_description" = "세션 횟수를 0으로 초기화하고 기록은 유지";
+"reset_onboarding_description" = "다음 실행 시 온보딩 다시 표시";
+"reset_confirmation_title" = "%@ 초기화?";
+
+"focus_time_minutes" = "집중 시간 (분)";
+"short_break_minutes" = "짧은 휴식 (분)";
+"long_break_minutes" = "긴 휴식 (분)";
+"custom_times_enabled" = "커스텀 시간 활성화됨";
+"premium_required" = "프리미엄 필요";
+"upgrade_for_custom_times" = "세션 시간을 설정하려면 업그레이드";
+"current_configuration" = "현재 설정";
+"quick_presets" = "빠른 프리셋";
+"classic" = "클래식";
+"short" = "짧게";
+"deep" = "집중";
+"custom_times" = "커스텀 시간";
+"unlock" = "잠금 해제";
+"deep_work_sessions" = "심층 작업 세션";
+"quick_refresher" = "빠른 기분 전환";
+"extended_rest" = "긴 휴식";
+"minutes" = "분";
+"premium_feature" = "프리미엄 기능";
+"customize_session_durations" = "생산성 스타일에 맞게 세션 시간 설정";
+"classic_pomodoro" = "클래식 포모도로";
+"use_classic_times" = "클래식 포모도로 시간 사용 (25/5/15분)";
+"customize_session_lengths" = "작업 흐름에 맞게 세션 길이 설정";
+"enable_custom_times" = "커스텀 시간 활성화";
+"requires_premium" = "프리미엄 필요";
+
+"choose_custom_color" = "커스텀 색상 선택";
+"custom_color" = "커스텀 색상";
+"custom_emoji" = "커스텀 이모지";
+
+"unlock_premium" = "프리미엄 잠금 해제";
+"start_free_trial" = "무료 체험 시작";
+"yearly_plan" = "연간 플랜";
+"lifetime_plan" = "평생 이용권";
+"weekly_plan" = "주간 플랜";
+"3_day_trial" = "3일 무료 체험";
+"best_value" = "최고의 가성비";
+"most_popular" = "가장 인기";
+"pay_once" = "일회성 결제";
+"custom_session_times" = "맞춤 세션 시간";
+"unlimited_tags" = "무제한 태그";
+"advanced_statistics" = "상세 통계";
+"privacy_policy" = "개인정보 처리방침";
+"terms_of_service" = "서비스 이용약관";
+"restore_purchases" = "구매 복원";
+"no_commitment" = "약정 없음, 언제든지 취소";
+"free_for_3_days" = "3일 무료";
+"free_for_7_days" = "7일 무료";
+"enhanced_productivity_features" = "향상된 생산성 기능";
+"advanced_analytics" = "상세 분석";
+"unlimited_journeys" = "무제한 여정";
+"custom_session_time" = "맞춤 세션 시간";
+"3_days_free_then" = "3일 무료, 이후 %@/%@";
+"save_percentage" = "%d%% 절약";
+"start_with_free_trial" = "무료 체험으로 시작";
+"terms_and_privacy" = "이용약관 및 개인정보";
+"terms_of_use" = "이용약관";
+"cancel_anytime_no_commitment" = "언제든지 취소 • 약정 없음";
+"restore" = "복원";
+"no_purchases_restored" = "복원된 구매가 없습니다";
+"tap_to_unlock" = "탭하여 잠금 해제";
+"premium_features" = "프리미엄 기능";
+"upgrade_now" = "지금 업그레이드";
+"subscription_required" = "구독 필요";
+"paywall_feature_analytics" = "상세한 집중 분석 및 인사이트";
+"paywall_feature_unlimited_tags" = "세션 정리를 위한 무제한 태그";
+"paywall_feature_unlimited_journeys" = "무제한 집중 여정 및 목표";
+"paywall_feature_achieve_dreams" = "꿈을 향한 길에 방해 없이";
+"paywall_feature_achieve_dreams_personalized" = "%@님의 꿈을 향한 길에 방해 없이";
+"paywall_dream_highlight_word" = "꿈";
+"paywall_feature_remove_paywall" = "페이월 제거";
+"paywall_feature_support_developer" = "개발자 지원";
+"paywall_rating" = "App Store 4.9점";
+"paywall_unable_to_load_pricing" = "가격을 불러올 수 없습니다";
+"paywall_check_connection_retry" = "연결을 확인하고 다시 시도해 주세요";
+"paywall_intro_offer" = "인트로 가격: %@";
+"paywall_per_month_format" = "(%@/월)";
+"paywall_per_day_format" = "(%@/일)";
+"paywall_per_year_format" = "%@/년";
+"paywall_limited_offer" = "기간 한정 오퍼";
+"paywall_special_offer" = "스페셜 오퍼";
+"paywall_legal" = "법적 고지";
+"paywall_redeem_code" = "코드 사용";
+
+"session_complete" = "세션 완료!";
+"great_job" = "잘했어요!";
+"time_for_break" = "휴식 시간";
+"break_complete" = "휴식 완료!";
+"ready_to_focus" = "집중 준비가 됐나요?";
+"session_completed" = "세션 완료됨";
+"take_break" = "휴식 취하기";
+"continue_working" = "계속 작업하기";
+"well_done" = "잘했어요!";
+"keep_going" = "계속하세요!";
+"session_save_with_extra" = "추가 시간 포함 저장";
+"session_message_focus" = "잘 하셨습니다! 집중 세션을 완료했습니다.";
+"session_message_break" = "휴식이 끝났습니다! 다시 집중할 준비가 됐나요?";
+"session_message_long_break" = "긴 휴식이 끝났습니다! 새로운 활력으로 준비됐습니다.";
+
+"daily_reminder" = "일일 리마인더";
+"get_reminded_stay_focused" = "집중하도록 리마인더 받기";
+"multiple_reminders" = "여러 리마인더";
+"set_multiple_reminder_times" = "여러 리마인더 시간 설정";
+"reminder_time" = "리마인더 시간";
+"reminder_1" = "리마인더 1";
+"reminder_2" = "리마인더 2";
+"reminder_3" = "리마인더 3";
+"notification_permission_required" = "알림 권한 필요";
+"enable_notifications_settings" = "설정에서 알림 활성화";
+"focus_reminder_title" = "집중할 시간이에요!";
+"focus_reminder_body" = "미래의 당신이 이 세션에 감사할 거예요. 목표를 향해 달려봐요! 🚀";
+"session_complete_title" = "세션 완료!";
+"focus_session_complete_body" = "잘했어요! 휴식 시간이에요.";
+"break_session_complete_body" = "휴식이 끝났어요. 집중 준비가 됐나요?";
+"autopilot_session_progress" = "세션 %d / %d";
+"countdown_seconds_remaining" = "⏰ %d초 남았습니다!";
+"countdown_body_focus" = "집중 세션이 곧 끝납니다.";
+"countdown_body_break" = "휴식 시간이 곧 끝납니다.";
+"countdown_body_long_break" = "긴 휴식 시간이 곧 끝납니다.";
+
+"session_history_title" = "세션 기록";
+"filter_by_tag" = "태그로 필터";
+"all_tags" = "모든 태그";
+"export_data" = "데이터 내보내기";
+"clear_history" = "기록 지우기";
+"clear_history_confirmation" = "모든 세션 기록을 지우시겠습니까? 이 작업은 취소할 수 없습니다.";
+"clear" = "지우기";
+"no_sessions_found" = "세션을 찾을 수 없습니다";
+"start_timer_to_build_history" = "타이머를 사용하여 세션 기록 쌓기";
+"completed_at" = "완료 시간";
+"no_sessions_yet" = "아직 세션 없음";
+"start_first_pomodoro_session" = "첫 번째 포모도로 세션을 시작하여 여기서 기록을 확인하세요!";
+
+"record_this_session" = "이 세션을 기록할까요?";
+"save_progress_or_start_fresh" = "진행 상황을 저장하거나 새로 시작하세요";
+"save_progress" = "진행 상황 저장";
+"end_session" = "종료";
+
+"field_required" = "이 필드는 필수입니다";
+"invalid_input" = "잘못된 입력";
+"name_too_short" = "이름이 너무 짧습니다";
+"name_too_long" = "이름이 너무 깁니다";
+"emoji_required" = "이모지를 선택해 주세요";
+"error_occurred" = "오류가 발생했습니다";
+"try_again" = "다시 시도";
+"network_error" = "네트워크 오류";
+"please_check_connection" = "인터넷 연결을 확인해 주세요";
+
+"minutes_short" = "분";
+"hours_short" = "시간";
+"seconds_short" = "초";
+"sessions_completed_count" = "%d";
+"level_abbreviation" = "Lv.%d";
+
+"pomodoro" = "포모도로";
+"break_time" = "휴식 시간";
+
+"play_button" = "재생";
+"pause_button" = "일시정지";
+"reset_button" = "초기화";
+"timer_progress" = "타이머 진행도";
+"session_selector" = "세션 선택기";
+"timer_display" = "타이머 디스플레이";
+"session_type_button" = "세션 유형 버튼";
+"tag_selection_button" = "태그 선택 버튼";
+"todo_list_button" = "투두 목록 버튼";
+"settings_button" = "설정 버튼";
+"calendar_button" = "캘린더 버튼";
+"statistics_button" = "통계 버튼";
+"level_progress_indicator" = "레벨 진행도 표시";
+
+// MARK: - Habit Tracker
+"habit_tracker" = "습관 트래커";
+"complete_focus_to_build_streaks" = "집중 세션을 완료해서 연속 기록을 쌓으세요";
+"habits" = "습관";
+"tracked" = "추적 중";
+"available" = "사용 가능";
+"unnamed" = "이름 없음";
+"no_tags_yet" = "태그 없음";
+"no_tags_description" = "습관을 추적하려면 태그를 만드세요.\n완료된 세션마다 연속 기록이 쌓입니다!";
+"hide" = "숨기기";
+"current_streak_title" = "현재 연속";
+"best_streak" = "최고 연속";
+"total_time" = "총 시간";
+"no_sessions_activity" = "세션 없음";
+"one_session_activity" = "1 세션";
+"two_three_sessions" = "2-3 세션";
+"four_plus_sessions" = "4+ 세션";
+"less" = "적음";
+"more" = "많음";
+
+// MARK: - App Blocking Settings
+"focus_shield" = "Focus Shield";
+"focus_duration_too_short" = "집중 시간이 너무 짧습니다";
+"fifteen_minutes_minimum" = "최소 15분 필요";
+"app_blocking_requirement" = "앱 차단은 최소 15분 이상의 집중 세션이 필요합니다. 이는 세션이 끝날 때 앱이 자동으로 차단 해제되도록 하기 위한 시스템 요구사항입니다.";
+"current_focus_duration" = "현재 집중 시간: %d분";
+"increase_focus_time_instruction" = "앱 차단을 활성화하려면 세션 시간 설정에서 집중 시간을 15분 이상으로 늘려주세요.";
+"authorization_required" = "권한 필요";
+"screen_time_access" = "스크린 타임 접근";
+"screen_time_access_description" = "집중 세션 중 방해되는 앱을 차단하려면 스크린 타임 접근이 필요합니다. 이를 통해 집중하는 동안 선택한 앱을 일시적으로 숨길 수 있습니다.";
+"grant_access" = "접근 허용";
+"screen_time_denied" = "접근이 거부되었습니다. 설정 > 스크린 타임에서 스크린 타임 접근을 활성화해 주세요.";
+"activate" = "활성화";
+"focus_shield_description" = "집중 세션 중 선택한 앱이 제한됩니다";
+"apps_to_block" = "차단할 앱";
+"select_apps_categories" = "앱 및 카테고리 선택";
+"clear_selection" = "선택 초기화";
+"start_focus" = "집중 시작";
+"start_focus_description" = "집중 세션을 시작하면 선택한 앱이 차단됩니다";
+"shield_appears" = "차단 화면 표시";
+"shield_appears_description" = "차단된 앱을 열려고 하면 차단 화면이 표시됩니다";
+"session_ends" = "세션 종료";
+"session_ends_description" = "세션이 완료되면 앱이 자동으로 차단 해제됩니다";
+
+// MARK: - Chart Analytics
+"all_tags" = "모든 태그";
+
+// MARK: - Quick Actions Stats
+"time_today" = "오늘 총 시간";
+"todays_sessions" = "오늘 총 세션";
+"saved_to_yesterday" = "%@ → 어제";
+
+// MARK: - Settings View
+"icloud_sync" = "iCloud 동기화";
+"sync_status" = "동기화 상태";
+"icloud_sync_description" = "포모도로 데이터가 iCloud 계정으로 로그인된 모든 기기에서 동기화됩니다";
+"nearby_sync_section_title" = "근거리 동기화";
+"nearby_sync_toggle_title" = "근처 기기 동기화";
+"nearby_sync_toggle_subtitle" = "근처 iPhone과 Mac 사이에서 타이머 시작/일시정지/종료/재설정을 동기화합니다";
+"nearby_sync_permission_hint" = "이전에 거부했다면 iOS 설정에서 로컬 네트워크 접근을 허용하세요.";
+"display" = "디스플레이";
+"appearance" = "외관";
+"light_dark_automatic" = "라이트, 다크 또는 자동";
+"glow_effects" = "글로우 효과";
+"glow_effects_description" = "글로우 효과 (배터리 소모 증가)";
+"theme" = "테마";
+"theme_option_paper" = "페이퍼";
+"theme_option_default" = "기본";
+"language" = "언어";
+"language_description" = "앱 언어를 선택하세요";
+"language_restart_required" = "재시작 필요";
+"language_restart_message" = "새 언어를 적용하려면 앱을 재시작하세요.";
+"sound" = "소리";
+"session_complete_sound" = "세션 완료 소리";
+"play_sound_when_timer_finishes" = "타이머 종료 시 소리 재생";
+"native_alarm_overrides_sound" = "네이티브 알람이 활성화되어 이 소리를 대체합니다";
+"block_list" = "Block List";
+"hide_apps_during_focus" = "집중 세션 중 앱 숨기기";
+"review_and_rate" = "리뷰 및 평가";
+"focushero_socials" = "FocusHero 소셜";
+"rate_focushero" = "FocusHero 평가하기";
+"share_app_store_feedback" = "앱스토어에서 의견 공유";
+"app_icon" = "앱 아이콘";
+"app_icon_classic" = "클래식";
+"app_icon_classic_subtitle" = "오리지널";
+"app_icon_aurora" = "오로라";
+"app_icon_aurora_subtitle" = "산뜻한 에너지";
+"app_icon_light" = "라이트";
+"app_icon_light_subtitle" = "라이트 테마";
+"app_icon_change_failed" = "아이콘을 변경할 수 없음";
+"app_icon_unsupported" = "이 기기에서는 대체 앱 아이콘을 사용할 수 없습니다.";
+"alarm_permission_required" = "알람 권한 필요";
+"open_settings" = "설정 열기";
+"alarm_permission_message" = "네이티브 알람을 사용하려면 설정에서 알람 권한을 활성화해 주세요.";
+"session_complete_notification" = "세션 완료 알림";
+"notify_when_session_finishes" = "세션 완료 시 알림";
+"native_alarm" = "네이티브 알람";
+"quiet_hours" = "방해 금지 시간";
+"native_alarm_description" = "무음 모드에서도 알람 소리 재생";
+"session_end_alarm" = "세션 종료 알람";
+"alarm_when_timer_completes" = "타이머 완료 시 알람";
+"time_block_alarms" = "타임 블록 알람";
+"alarm_when_blocks_start" = "예약된 블록 시작 시 알람";
+"reset_dialog_title" = "%@ 초기화?";
+"reset_dialog_button" = "%@ 초기화";
+"active_notifications_count" = "%d개 활성";
+
+// MARK: - Todo Overlay
+"add_new_todo_placeholder" = "새로운 투두 추가...";
+"no_tag_todos" = "%@ 투두 없음";
+"add_first_task_above" = "위에 첫 번째 투두를 추가하세요";
+"none" = "없음";
+"deadline" = "마감일";
+"set_deadline" = "마감일 설정";
+"select_date_label" = "날짜 선택";
+"created_date" = "생성: %@";
+"completed_status" = "✓ 완료";
+"subtasks" = "하위 투두";
+"new_subtask_placeholder" = "새 하위 투두...";
+"set_button" = "설정";
+
+// MARK: - Streak Stat Card
+"streak_current" = "현재";
+"streak_best" = "최고";
+"streak_days" = "일";
+
+// MARK: - Streak Share Card
+"share_streak_hero_subtitle_steady" = "꾸준하고 반복 가능한 집중으로 만든 기록.";
+"share_streak_hero_subtitle_momentum" = "나타날 때마다 흐름은 더 강해져요.";
+"share_streak_hero_subtitle_start" = "모든 연속 기록은 지켜낸 한 번의 세션에서 시작돼요.";
+"share_streak_label_active" = "연속 기록";
+"share_streak_label_day_one" = "첫날";
+"share_streak_momentum_locked_in" = "완전 몰입";
+"share_streak_momentum_building" = "쌓는 중";
+"share_streak_momentum_in_motion" = "시동 중";
+"share_streak_momentum_start" = "시작";
+"share_streak_milestone_start_format" = "오늘 시작해서 첫 %d일 기록을 노려보세요.";
+"share_streak_milestone_unlocked" = "마일스톤 달성. 이 리듬을 이어가세요.";
+"share_streak_milestone_remaining_format" = "%d일만 더 가면 %d일 달성.";
+"share_streak_focus_snapshot" = "집중 스냅샷";
+"share_streak_total_focused" = "총 집중일";
+"share_streak_this_week" = "이번 주";
+"share_streak_first_milestone" = "첫 마일스톤";
+"share_streak_next_milestone" = "다음 마일스톤";
+"share_streak_days_format" = "%d일";
+"share_streak_start" = "시작";
+"share_streak_last_7_days" = "최근 7일";
+"share_streak_next_seven_days_start_now" = "다음 7일은 지금부터 시작이에요.";
+"share_streak_last_7_days_lit_format" = "최근 7일 중 %d일 동안 불이 켜졌어요.";
+"share_streak_sheet_title" = "연속 기록 공유";
+"share_streak_instagram_stories" = "스토리";
+"share_streak_tiktok" = "TikTok";
+"share_streak_more" = "더보기";
+"share_streak_open_card_hint" = "연속 기록 공유 카드를 엽니다.";
+
+// MARK: - Schedule View
+"schedule" = "스케줄";
+"reset_all_time_blocks" = "모든 타임 블록 초기화";
+"delete_all" = "전체 삭제";
+"reset_time_blocks_message" = "모든 타임 블록이 영구적으로 삭제됩니다. 이 작업은 취소할 수 없습니다.";
+"never_miss_session" = "세션을 놓치지 마세요";
+"enable_alarms_silent" = "무음 모드에서도 알람 활성화";
+"enable" = "활성화";
+
+// MARK: - Time Block Scheduler
+"auto_started" = "자동 시작됨";
+"timer_busy" = "타이머 사용 중";
+"is_scheduled" = "예약됨";
+"focus_session" = "집중 세션";
+
+// MARK: - Time Block Edit Sheet
+"create_time_block" = "타임 블록 만들기";
+"edit_time_block" = "타임 블록 편집";
+"details" = "세부 사항";
+"title_label" = "제목";
+"start_time" = "시작 시간";
+"duration" = "시간";
+"repeat" = "반복";
+"alarm" = "알람";
+"alarm_native_ios_at_start" = "시작 시간에 iOS 기본 알람";
+"alarm_enable_in_settings" = "설정 → 기본 알람에서 활성화";
+"saving" = "저장 중...";
+"scheduling_conflict" = "일정 충돌";
+"time_block_overlap_message" = "이 타임 블록은 %d개의 기존 블록과 겹칩니다. 다른 시간을 선택하세요.";
+"delete_time_block" = "타임 블록 삭제";
+"delete_this_only" = "이것만 삭제";
+"delete_all_recurring" = "모든 반복 삭제";
+"recurring_block_delete_message" = "반복 타임 블록입니다. 이번 항목만 삭제하시겠습니까, 아니면 모든 반복 항목을 삭제하시겠습니까?";
+"delete_time_block_confirmation" = "이 타임 블록을 삭제하시겠습니까?";
+"enable_alarms" = "알람 활성화";
+"not_now" = "나중에";
+"alarm_onboarding_message" = "예약된 세션이 시작될 때 iOS 기본 알람을 받으세요 — 무음 모드에서도 울려 집중 블록을 놓치지 않습니다.";
+"enable_alarms_for_time_blocks_message" = "타임 블록에 알람을 사용하려면 설정에서 기본 알람을 활성화하세요. 지금 활성화하시겠습니까?";
+
+// Duration options
+"duration_15_min" = "15분";
+"duration_30_min" = "30분";
+"duration_45_min" = "45분";
+"duration_1_hour" = "1시간";
+"duration_1_5_hours" = "1.5시간";
+"duration_2_hours" = "2시간";
+"duration_3_hours" = "3시간";
+"duration_4_hours" = "4시간";
+
+// iCloud Sync Toggle
+"ck_sync_toggle_title" = "iCloud와 동기화";
+"ck_sync_toggle_subtitle" = "모든 기기에서 동기화";
+"ck_restart_required_title" = "재시작 필요";
+"ck_restart_required_message" = "이 변경 사항은 다음에 앱을 열 때 적용됩니다.";
+
+// iCloud Sync Status
+"ck_status_syncing" = "동기화 중…";
+"ck_status_error" = "동기화 오류";
+"ck_status_active" = "iCloud 동기화 활성";
+"ck_status_no_account" = "iCloud 계정 없음";
+"ck_status_restricted" = "동기화 제한됨";
+"ck_status_temp_unavailable" = "일시적으로 사용 불가";
+"ck_status_no_internet" = "인터넷 연결 없음";
+"ck_status_checking" = "상태 확인 중…";
+"ck_hero_no_account" = "iCloud 계정 필요";
+
+// iCloud Sync Subtitles
+"ck_sub_last_synced" = "%@ 동기화됨";
+"ck_sub_waiting" = "첫 번째 동기화 대기 중";
+"ck_sub_sign_in" = "동기화하려면 설정에서 iCloud에 로그인하세요";
+"ck_sub_check_screen_time" = "스크린 타임 또는 자녀 보호 설정 확인";
+"ck_sub_will_resume" = "iCloud 사용 가능 시 재개됩니다";
+"ck_sub_will_sync" = "연결이 복원되면 동기화됩니다";
+"ck_sub_please_wait" = "잠시 기다려 주세요";
+
+// iCloud Sync Detail Sheet
+"ck_progress_note" = "iCloud는 레코드 수를 공유하지 않아 진행 상황을 알 수 없습니다";
+"ck_last_synced_label" = "마지막 동기화";
+"ck_never" = "없음";
+"ck_sync_now" = "지금 동기화";
+"ck_check_again" = "다시 확인";
+"ck_button_syncing" = "동기화 중…";
+
+// iCloud Sync Hero Descriptions
+"ck_desc_syncing" = "포모도로 데이터를 모든 기기에서 동기화하고 있습니다.";
+"ck_desc_error" = "마지막 동기화 시도에서 오류가 발생했습니다. 다시 확인하거나 지금 동기화를 시도해 보세요.";
+"ck_desc_active" = "포모도로 데이터는 이 iCloud 계정으로 로그인된 모든 기기에서 자동으로 동기화됩니다.";
+"ck_desc_no_account" = "기기 간에 데이터를 동기화하려면 설정에서 iCloud에 로그인하세요.";
+"ck_desc_restricted" = "이 기기에서 iCloud 동기화가 제한되어 있습니다. 스크린 타임 또는 자녀 보호 설정을 확인하세요.";
+"ck_desc_temp_unavailable" = "iCloud를 일시적으로 사용할 수 없습니다. 서비스가 복원되면 자동으로 동기화됩니다.";
+"ck_desc_no_internet" = "인터넷 연결이 감지되지 않습니다. 연결이 복원되면 동기화됩니다.";
+"ck_desc_checking" = "iCloud 상태를 확인하고 있습니다. 잠시 기다려 주세요.";
+
+// iCloud Sync Activity Labels
+"ck_activity_syncing" = "iCloud와 동기화 중";
+"ck_activity_setup" = "iCloud 구성 중";
+"ck_activity_importing" = "iCloud에서 다운로드 중";
+"ck_activity_exporting" = "iCloud에 업로드 중";
+
+// iCloud Sync Relative Time
+"ck_time_just_now" = "방금";
+"ck_time_minutes_ago" = "%d분 전";
+"ck_time_hours_ago" = "%d시간 전";
+"ck_time_days_ago" = "%d일 전";
+"ck_time_today_at" = "오늘 %@";
+"ck_time_yesterday_at" = "어제 %@";
+"ck_time_date_at" = "%@ %@";
+"notification_action_start_now" = "지금 시작";
+"notification_action_snooze" = "5분 후 알림";
+"notification_action_complete_now" = "완료";
+
+// Level Up Badge
+"congratulations" = "축하합니다!";
+"level_up" = "레벨 업!";
+
+// Timer Config Dropdown
+"auto_pilot" = "자동 조종";
+"auto_start_break" = "휴식 자동 시작";
+"auto_start_focus" = "집중 자동 시작";
+"short_break_every" = "짧은 휴식 간격";
+"long_break_every" = "긴 휴식 간격";
+"sessions_done" = "완료된 세션";
+"never" = "없음";
+
+// MARK: - Notes List
+"copy" = "복사";
+"export" = "내보내기";
+"no_notes_yet" = "메모가 없습니다";
+"delete_note" = "메모 삭제";
+"note_delete_confirmation" = "이 메모는 영구적으로 삭제됩니다.";
+"export_note" = "메모 내보내기";
+"export_as_pdf" = "PDF로 내보내기";
+"save_to_photos" = "사진에 저장";
+"saved_to_photos" = "사진에 저장됨";
+"note_card_saved" = "메모 카드가 사진 라이브러리에 저장되었습니다.";
+"could_not_save" = "저장할 수 없음";
+"note_title_placeholder" = "제목";
+"new_note_placeholder" = "새 메모...";
+"write_note_placeholder" = "메모를 작성하세요...";
+"note_render_failed" = "메모 이미지 렌더링에 실패했습니다.";
+"photo_access_denied" = "사진 라이브러리 액세스가 거부되었습니다. 설정에서 활성화하세요.";
+"unknown_error" = "알 수 없는 오류";
+
+// MARK: - Time Since
+"ts_time_since" = "경과 시간";
+"ts_countdown" = "카운트다운";
+"ts_no_trackers_yet" = "아직 트래커가 없습니다";
+"ts_no_trackers_description" = "특정 이벤트, 습관 또는 마일스톤 이후 경과한 시간을 추적하세요.";
+"ts_create_tracker" = "트래커 만들기";
+"ts_no_overdue_trackers" = "기한 지난 트래커가 없습니다";
+"ts_no_trackers_in_group" = "\"%@\" 그룹에 트래커가 없습니다";
+"ts_no_results" = "결과 없음";
+"ts_search_trackers" = "트래커 검색";
+"ts_new" = "새로 만들기";
+"ts_overdue" = "기한 지남";
+"ts_sort" = "정렬";
+"ts_recently_checked" = "최근 확인순";
+"ts_longest_elapsed" = "가장 오래 경과";
+"ts_alphabetical" = "가나다순";
+"ts_date_created" = "생성일순";
+"ts_nearest_deadline" = "가장 가까운 마감";
+"ts_rename_group" = "그룹 이름 변경";
+"ts_new_name" = "새 이름";
+"ts_rename" = "이름 변경";
+"ts_reset_color" = "색상 초기화";
+"ts_add_item" = "항목 추가";
+"ts_color" = "색상";
+"ts_color_sky_blue" = "하늘색";
+"ts_color_soft_teal" = "부드러운 청록색";
+"ts_color_soft_violet" = "부드러운 보라색";
+"ts_color_warm_amber" = "따뜻한 호박색";
+"ts_color_golden_yellow" = "황금빛 노란색";
+"ts_color_sage_green" = "세이지 그린";
+"ts_color_muted_coral" = "차분한 코랄";
+"ts_color_soft_lavender" = "부드러운 라벤더";
+"ts_lock_screen_widgets" = "잠금 화면 위젯 (%d/3)";
+"ts_lock_screen_guide_toolbar_a11y" = "잠금 화면 위젯 가이드";
+"ts_lock_screen_guide_nav_title" = "잠금 화면 위젯";
+"ts_lock_screen_guide_hero_title" = "잠금 화면에 Time Since 추가하기";
+"ts_lock_screen_guide_hero_subtitle" = "iPhone에서 아래 단계를 따라 몇 초 만에 트래커를 배치하세요.";
+"ts_lock_screen_guide_preview_title" = "잠금 화면 미리보기";
+"ts_lock_screen_guide_preview_a11y" = "Time Since 위젯이 있는 잠금 화면 미리보기";
+"ts_lock_screen_guide_step_a11y" = "%d단계: %@. %@";
+"ts_lock_screen_guide_step_1_title" = "사용자화 모드 진입";
+"ts_lock_screen_guide_step_1_detail" = "잠금 화면을 길게 누른 다음 사용자화를 탭하세요.";
+"ts_lock_screen_guide_step_2_title" = "위젯 영역 선택";
+"ts_lock_screen_guide_step_2_detail" = "시계 아래의 위젯 영역을 탭하세요.";
+"ts_lock_screen_guide_step_3_title" = "Focus Hero 선택";
+"ts_lock_screen_guide_step_3_detail" = "Focus Hero를 검색하고 Time Since 잠금 화면 위젯을 선택하세요.";
+"ts_lock_screen_guide_step_4_title" = "트래커 선택";
+"ts_lock_screen_guide_step_4_detail" = "위젯을 탭한 뒤 잠금 화면에 표시할 트래커를 고르세요.";
+"ts_lock_screen_guide_step_5_title" = "저장하기";
+"ts_lock_screen_guide_step_5_detail" = "완료를 탭해 잠금 화면을 저장하세요.";
+"ts_available" = "사용 가능";
+"ts_when_did_this_happen" = "언제 일어났나요?";
+"ts_note" = "메모";
+"ts_notes" = "메모";
+"ts_whats_on_your_mind" = "무슨 생각이 드나요?";
+"ts_how_did_it_go" = "어땠나요?";
+"ts_add_note" = "메모 추가";
+"ts_add_occurrence" = "기록 추가";
+
+// Time Since Card
+"ts_pin" = "고정";
+"ts_unpin" = "고정 해제";
+"ts_remove_from_group" = "\"%@\"에서 제거";
+"ts_new_group" = "새 그룹…";
+"ts_move_to_group" = "그룹으로 이동";
+"ts_group_label" = "그룹: %@";
+"ts_group_name" = "그룹 이름";
+"ts_create" = "생성";
+"ts_now" = "지금";
+"ts_delete_confirm_title" = "\"%@\"을(를) 삭제할까요?";
+"ts_delete_confirm_message" = "이 항목의 모든 알림과 경고도 함께 삭제됩니다.";
+"ts_completed" = "완료!";
+"ts_until_date" = "%@까지";
+"ts_done" = "완료!";
+
+// Edit Time Since Event
+"ts_details" = "세부 정보";
+"ts_event_name" = "이벤트 이름";
+"ts_start_date" = "시작 날짜";
+"ts_target_date" = "목표 날짜";
+"ts_display_as" = "표시 방식";
+"ts_start_time" = "시작 시간";
+"ts_group" = "그룹";
+"ts_appearance" = "모양";
+"ts_track_interval" = "추적 간격";
+"ts_auto" = "자동";
+"ts_custom" = "사용자 지정";
+"ts_interval" = "간격";
+"ts_delete_tracker" = "트래커 삭제";
+"ts_delete_tracker_confirm" = "이 트래커를 삭제할까요?";
+"ts_cannot_be_undone" = "이 작업은 되돌릴 수 없습니다.";
+"ts_edit_tracker" = "트래커 편집";
+"ts_new_tracker" = "새 트래커";
+"ts_seed_plant_a_seed" = "씨앗 심기 🌱";
+"ts_seed_unhealthy_eating" = "불건강한 식습관 🍔";
+"ts_seed_change_air_filter" = "에어 필터 교체";
+"ts_seed_group_break_habits" = "나쁜 습관 끊기";
+"ts_reflect_every" = "%@마다 되돌아보기";
+"ts_notify_every" = "%@마다 알림";
+"ts_icon" = "아이콘";
+"ts_on" = "켜기";
+
+// Alert Unit
+"ts_minutes" = "분";
+"ts_hours" = "시간";
+"ts_days" = "일";
+"ts_weeks" = "주";
+"ts_months" = "월";
+"ts_years" = "년";
+
+// Target Preset
+"ts_preset_week" = "1주";
+"ts_preset_month" = "1개월";
+"ts_preset_quarter" = "분기";
+"ts_preset_year" = "1년";
+"ts_preset_6_months" = "6개월";
+"ts_preset_1_year" = "1년";
+"ts_preset_2_years" = "2년";
+
+// Time Since Detail
+"ts_history" = "기록";
+"ts_swipe_hint" = "생각을 기록하려면 카드에서 왼쪽으로 스와이프하세요";
+"ts_show_all_occurrences" = "모든 기록 %d개 보기";
+"ts_occurrences_abbrev" = "%d개 기록";
+"ts_average_format" = "평균 %@";
+"ts_occurrence" = "기록";
+"ts_delete_tracker_detail" = "트래커 삭제";
+"ts_no_occurrences_yet" = "아직 기록된 항목이 없습니다.";
+"ts_log_occurrence_hint" = "+ 버튼 또는 카드 왼쪽 스와이프로 기록할 수 있습니다.";
+"ts_gap_between_occurrences" = "기록 간 간격";
+"ts_past_gap" = "지난 간격";
+"ts_current_ongoing" = "현재(진행 중)";
+"ts_view_notes" = "메모 보기";
+"ts_copy_notes" = "메모 복사";
+"ts_copy_date" = "날짜 복사";
+"ts_elapsed" = "경과";
+"ts_started" = "시작";
+"ts_edit" = "편집";
+"ts_target" = "목표";
+"ts_remaining" = "남음";
+"ts_percent_complete" = "%.1f%% 완료";
+"ts_notif_reflection_body" = "되돌아보기: %@까지 %@ 남았습니다.";
+"ts_notif_elapsed_body" = "%@을(를) 기록한 지 %@ 지났습니다.";
+"ts_notif_alarm_title" = "%@ 간격";
+
+// MARK: - Hero Quotes
+"hero_day_streak_title" = "%d일 연속";
+"hero_day_streak_title_named" = "%1$@님의 %2$d일 연속";
+"hero_quote_inline_format" = "\"%@\" — %@";
+"hero_quote_aristotle_text" = "우리는 반복적으로 하는 행동 그 자체다. 그러므로 탁월함은 한 번의 행동이 아니라 습관이다.";
+"hero_quote_aristotle_author" = "아리스토텔레스";
+"hero_quote_jobs_great_work_text" = "위대한 일을 하는 유일한 방법은 자신이 하는 일을 사랑하는 것이다.";
+"hero_quote_jobs_great_work_author" = "스티브 잡스";
+"hero_quote_kobe_rise_text" = "부정적인 모든 것, 즉 압박과 도전은 내가 더 높이 올라설 기회다.";
+"hero_quote_kobe_rise_author" = "코비 브라이언트";
+"hero_quote_jobs_hungry_text" = "항상 갈망하라. 언제나 우직하게.";
+"hero_quote_jobs_hungry_author" = "스티브 잡스";
+"hero_quote_jordan_expect_text" = "위대한 일을 해내기 전에 먼저 스스로에게 위대한 것을 기대해야 한다.";
+"hero_quote_jordan_expect_author" = "마이클 조던";
+"hero_quote_jocko_discipline_text" = "규율이 곧 자유다.";
+"hero_quote_jocko_discipline_author" = "조코 윌링크";
+"hero_quote_bruce_focus_text" = "성공한 전사는 평범한 사람이지만, 레이저 같은 집중력을 가진 사람이다.";
+"hero_quote_bruce_focus_author" = "브루스 리";
+"hero_quote_mandela_courage_text" = "용기란 두려움이 없는 것이 아니라, 두려움을 이겨 내는 것이다.";
+"hero_quote_mandela_courage_author" = "넬슨 만델라";
+"hero_quote_ford_think_text" = "할 수 있다고 생각하든 할 수 없다고 생각하든, 당신 생각이 맞다.";
+"hero_quote_ford_think_author" = "헨리 포드";
+"hero_quote_proverbs_text" = "너는 마음을 다하여 여호와를 신뢰하고 네 명철을 의지하지 말라. 너는 범사에 그를 인정하라 그리하면 네 길을 지도하시리라.";
+"hero_quote_proverbs_author" = "잠언 3:5-6";
+"hero_quote_joshua_text" = "강하고 담대하라. 두려워하지 말며 놀라지 말라. 네가 어디로 가든지 네 하나님 여호와가 너와 함께하느니라.";
+"hero_quote_joshua_author" = "여호수아 1:9";
+"hero_quote_john_peace_text" = "평안을 너희에게 끼치노니 곧 나의 평안을 너희에게 주노라… 너희는 마음에 근심하지도 말고 두려워하지도 말라.";
+"hero_quote_john_peace_author" = "요한복음 14:27";
+"hero_quote_first_john_text" = "우리가 사랑함은 그가 먼저 우리를 사랑하셨음이라.";
+"hero_quote_first_john_author" = "요한일서 4:19";
+"hero_quote_jeremiah_text" = "너희를 향한 나의 생각을 내가 아나니… 재앙이 아니라 평안이요 너희에게 미래와 희망을 주는 것이니라.";
+"hero_quote_jeremiah_author" = "예레미야 29:11";
+"hero_quote_psalm_text" = "내가 사망의 음침한 골짜기로 다닐지라도 해를 두려워하지 않을 것은 주께서 나와 함께하심이라.";
+"hero_quote_psalm_author" = "시편 23:4";
+"hero_quote_john_word_text" = "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라.";
+"hero_quote_john_word_author" = "요한복음 1:1";
+"hero_quote_simon_dream_text" = "당신의 꿈은 무엇인가요?";
+"hero_quote_simon_dream_author" = "사이먼 스퀴브";
+
+// MARK: - Notes & Session Removal
+"notes" = "메모";
+"stop_timer_to_adjust" = "조정하려면 타이머를 멈추세요";
+"session_note_placeholder" = "지금 무엇을 하고 있나요?";
+"remove_session" = "세션 삭제";
+"remove_session_message" = "이 작업을 하면 세션이 삭제되고 진행 상황이 되돌아갑니다.";

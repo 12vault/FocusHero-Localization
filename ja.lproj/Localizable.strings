@@ -1,0 +1,1224 @@
+/* 
+   Localizable.strings (English)
+   pomodoro-timer
+*/
+
+// MARK: - General
+"done" = "完了";
+"cancel" = "キャンセル";
+"ok" = "OK";
+"settings" = "設定";
+"delete" = "削除";
+"edit" = "編集";
+"save" = "保存";
+"reset" = "リセット";
+"reload" = "再読み込み";
+
+// MARK: - Sessions
+"focus_time" = "集中時間";
+"short_break" = "短い休憩";
+"long_break" = "長い休憩";
+"focus" = "集中";
+"break" = "休憩";
+"long" = "長め";
+
+// MARK: - Timer
+"running" = "実行中";
+"stopped" = "停止中";
+"session" = "セッション";
+"sessions" = "セッション";
+"completed_sessions" = "完了セッション";
+"total_sessions" = "合計セッション";
+"total_time_minutes" = "合計時間\n（分）";
+
+// MARK: - Hero System
+"start_journey" = "旅を始める";
+"level" = "レベル";
+"hero_journeys" = "ヒーロージャーニー";
+"select_hero_journey" = "ヒーロージャーニーを選択";
+"general" = "一般";
+"next_level_progress" = "次のレベルへの進捗";
+"hours" = "時間";
+"maximum_level_reached" = "🎉 最高レベルに到達！";
+"complete_first_session" = "最初のセッションを完了して";
+"to_unlock_level_1" = "レベル1を解除";
+"get_started" = "始める";
+"complete_1_session_to_reach_level_1" = "1セッション完了でレベル1に到達";
+"preview" = "プレビュー";
+"level_reference" = "レベル参照";
+"all_tag_journeys" = "すべてのタグジャーニー";
+"no_tag_journeys_yet" = "タグジャーニーはまだありません";
+"complete_sessions_with_tags" = "タグを使ってセッションを完了し、ヒーロージャーニーを始めましょう";
+"long_press_for_options" = "長押しでオプション表示";
+"reset_journey" = "ジャーニーをリセット";
+"copy_stats" = "統計をコピー";
+"reset_hero_journey" = "ヒーロージャーニーをリセット";
+"reset_journey_confirmation" = "「%@」のヒーロージャーニーを完全にリセットしますか？\n\nすべての進捗（%@）が削除されます。このジャーニーはこのタグで新しいセッションを完了したときのみ再表示されます。";
+"edit_hours_required" = "必要時間を編集";
+"reset_to_default" = "デフォルトにリセット";
+"edit_hours_message" = "レベル%d（%@）に必要なカスタム時間を設定";
+
+// MARK: - Tags
+"select_tag" = "タグを選択";
+"session_tags" = "取り組み";
+"create_custom_tag" = "カスタムタグを作成";
+"tag_name" = "タグ名";
+"tag_emoji" = "タグ絵文字";
+"tag_color" = "タグカラー";
+"create_tag" = "新しい旅";
+"edit_tag" = "取り組みを編集";
+"update_tag" = "タグを更新";
+"delete_tag" = "タグを削除";
+"duplicate_tag_key" = "この名前と絵文字のタグはすでに存在します";
+"delete_tag_confirmation" = "このタグとすべての関連データ（セッション履歴や统計を含む）が完全に削除されます。この操作は取り消せません。";
+"tags" = "タグ";
+
+// MARK: - Todos
+"todo" = "Todo";
+"todos" = "Todo";
+"add_todo" = "Todoを追加";
+"edit_todo" = "Todoを編集";
+"todo_title" = "Todoタイトル";
+"todo_description" = "Todo説明";
+"complete_todo" = "Todoを完了";
+"incomplete_todo" = "Todoを未完了に戻す";
+"delete_todo" = "Todoを削除";
+"no_todos" = "Todoはまだありません";
+"add_todo_description" = "集中セッション中に整理するためにTodoを追加しましょう";
+
+// MARK: - Statistics
+"statistics" = "統計";
+"chart" = "チャート";
+"calendar" = "カレンダー";
+
+// MARK: - Settings
+"session_times" = "セッション時間";
+"configure_times" = "時間を設定";
+"customize_focus_break_durations" = "集中と休憩の時間をカスタマイズ";
+"notifications" = "通知";
+"notification_settings" = "通知設定";
+"configure_alerts" = "アラートとリマインダーを設定";
+"session_history" = "セッション履歴";
+"view_history" = "履歴を見る";
+"see_completed_sessions" = "完了したセッションと進捗を確認";
+"onboarding" = "オンボーディング";
+"show_onboarding" = "オンボーディングを表示";
+"review_getting_started" = "はじめる手順を確認";
+"reset_options" = "リセットオプション";
+"review_past_focus_sessions" = "過去の集中セッションを確認";
+"how_it_works" = "使い方";
+"learn_how_to_become_hero" = "ヒーローになる方法を学ぶ";
+
+// MARK: - Reset Options
+"reset_all_data" = "すべてのデータをリセット";
+"reset_session_counts" = "セッション数をリセット";
+"reset_onboarding" = "オンボーディングをリセット";
+"reset_all_data_description" = "セッション履歴と進捗を含むすべてのデータを削除";
+"reset_session_counts_description" = "セッション数をゼロにリセット、履歴は保持";
+"reset_onboarding_description" = "次回起動時にオンボーディングを再表示";
+"reset_confirmation_title" = "%@をリセットしますか？";
+
+// MARK: - Session Times Settings
+"focus_time_minutes" = "集中時間（分）";
+"short_break_minutes" = "短い休憩（分）";
+"long_break_minutes" = "長い休憩（分）";
+"custom_times_enabled" = "カスタム時間を有効化";
+"premium_required" = "プレミアムが必要";
+"upgrade_for_custom_times" = "セッション時間をカスタマイズするにはアップグレード";
+
+// MARK: - Quick Actions
+"sessions_completed_count" = "%d";
+"level_abbreviation" = "Lv.%d";
+
+// MARK: - Accessibility
+"play_button" = "再生";
+"pause_button" = "一時停止";
+"reset_button" = "リセット";
+"timer_progress" = "タイマーの進捗";
+"session_selector" = "セッションセレクター";
+
+// MARK: - Notifications
+"session_complete_title" = "セッション完了！";
+"focus_session_complete_body" = "お疲れ様です！休憩の時間です。";
+"break_session_complete_body" = "休憩時間が終わりました。集中する準備はできていますか？";
+"autopilot_session_progress" = "セッション %d / %d";
+"countdown_seconds_remaining" = "⏰ 残り%d秒！";
+"countdown_body_focus" = "フォーカスセッションがまもなく終了します。";
+"countdown_body_break" = "休憩がまもなく終わります。";
+"countdown_body_long_break" = "長い休憩がまもなく終わります。";
+
+// MARK: - Premium/Paywall
+"premium_features" = "プレミアム機能";
+"upgrade_now" = "今すぐアップグレード";
+"subscription_required" = "サブスクリプションが必要";
+
+// MARK: - Error Messages
+"error_occurred" = "エラーが発生しました";
+"try_again" = "もう一度試す";
+"network_error" = "ネットワークエラー";
+"please_check_connection" = "インターネット接続を確認してください";
+
+// MARK: - Time Formatting
+"minutes_short" = "分";
+"hours_short" = "時間";
+"seconds_short" = "秒";
+
+// MARK: - Welcome Screen
+"welcome_to_focushero" = "FocusHeroへようこそ";
+"welcome_subtitle" = "集中した一回のセッションから、マスターへの道が始まる";
+"lets_go" = "始めよう！";
+
+// MARK: - Onboarding
+"welcome_to_your" = "ようこそ";
+"hero_journey" = "ヒーローの旅へ";
+"become_a_hero_in" = "ヒーローになろう";
+"your_craft" = "あなたの技術で";
+"master_multiple" = "複数の";
+"skills_and_crafts" = "スキルを極める";
+"never_lose" = "進捗を";
+"your_progress" = "失わない";
+"your_10000_hours" = "1万時間への道";
+"start_today" = "今日から始める";
+"skip" = "スキップ";
+"back" = "戻る";
+"continue" = "続ける";
+"get_started" = "始める";
+"of" = "/";
+
+// Onboarding descriptions
+"onboarding_1_description" = "実証済みの1万時間理論であらゆるスキルを習得。ポモドーロテクニックで集中練習をヒーロー級の専門性へ変えよう";
+"onboarding_2_description" = "すべての達人もかつては初心者だった。集中練習の時間を積み重ねるごとにレベルアップ。初心者からヒーローへと進化しよう";
+"onboarding_3_description" = "習得したいスキルごとにタグを作成。プログラミング、音楽、執筆、アート — あらゆる分野で1万時間の旅を記録しよう";
+"onboarding_4_description" = "習熟の旅はどこでも続く。ライブアクティビティとダイナミックアイランドがマルチタスク中も進捗を表示し続ける";
+"onboarding_5_description" = "すべての達人も最初の1時間から始まった。初心者からヒーローへの変革を今すぐ始めよう。伝説の旅があなたを待っている！";
+
+// Onboarding features
+"25_minute_sessions" = "25分の習得セッション";
+"track_path_10000" = "1万時間への道を記録";
+"proven_practice_method" = "実証済みの意図的練習法";
+"level_progression" = "1時間ごとにレベルアップ";
+"visual_journey_mastery" = "習得への視覚的な旅";
+"track_multiple_skills" = "複数スキルを同時に追跡";
+"separate_hero_journeys" = "スキルごとの独立したヒーローの旅";
+"custom_skill_categories" = "カスタムスキルカテゴリ";
+"individual_mastery_tracking" = "個別習熟度トラッキング";
+"always_visible_progress" = "常に表示される進捗";
+"seamless_session_tracking" = "シームレスなセッション記録";
+"never_break_flow" = "フローを途切れさせない";
+"start_first_hour" = "最初の習得時間を始める";
+"choose_first_skill" = "最初のスキルを選ぶ";
+"begin_hero_transformation" = "ヒーロー変革を始める";
+
+// MARK: - Hero Level Titles
+"hero_level_0_title" = "入門者";
+"hero_level_1_title" = "初心者フォーカス";
+"hero_level_2_title" = "見習い";
+"hero_level_3_title" = "熟練の戦士";
+"hero_level_4_title" = "エリート戦士";
+"hero_level_5_title" = "チャンピオン";
+"hero_level_6_title" = "レジェンド";
+"hero_level_7_title" = "マスター";
+"hero_level_8_title" = "グランドマスター";
+"hero_level_9_title" = "賢者";
+"hero_level_10_title" = "ヴィルトゥオーゾ";
+"hero_level_11_title" = "悟りを開いた者";
+"hero_level_12_title" = "超越者";
+
+// MARK: - Hero Level Descriptions
+"hero_level_0_description" = "旅を始める準備ができている";
+"hero_level_1_description" = "すべてのヒーローはどこかから始まる";
+"hero_level_2_description" = "集中の道を学んでいる";
+"hero_level_3_description" = "規律を培っている";
+"hero_level_4_description" = "集中力を極めている";
+"hero_level_5_description" = "模範を示してリードしている";
+"hero_level_6_description" = "偉大さを達成している";
+"hero_level_7_description" = "限界を超えている";
+"hero_level_8_description" = "真のマスターに近づいている";
+"hero_level_9_description" = "献身を通じた知恵";
+"hero_level_10_description" = "実践における卓越性";
+"hero_level_11_description" = "究極の目標に近づいている";
+"hero_level_12_description" = "1万時間のマスタリー";
+
+// MARK: - Default Session Tags
+"default_tag_ai_literacy" = "AIリテラシー";
+"default_tag_spanish" = "スペイン語";
+"default_tag_piano" = "ピアノ";
+
+// MARK: - Session Tag View
+"available_tags" = "利用可能な旅";
+"add_tag" = "新規";
+"select" = "選択";
+"edit" = "編集";
+"delete" = "削除";
+"create_tag" = "新しい旅";
+"edit_tag" = "取り組みを編集";
+"cancel" = "キャンセル";
+"save" = "保存";
+"tag_name" = "タグ名";
+"optional" = "任意";
+"enter_tag_name" = "タグ名を入力";
+"select_emoji" = "絵文字を選択";
+"select_color" = "色を選択";
+"create_custom_tag_description" = "カスタムタグを作成して集中セッションを整理";
+"edit_custom_tag_description" = "カスタムタグの設定を編集";
+"tag_already_exists" = "タグはすでに存在します";
+
+// MARK: - Session Times Settings
+"session_times" = "セッション時間";
+"current_configuration" = "現在の設定";
+"focus" = "集中";
+"short_break" = "短い休憩";
+"long_break" = "長い休憩";
+"quick_presets" = "クイックプリセット";
+"classic" = "クラシック";
+"short" = "短め";
+"deep" = "ディープ";
+"custom_times" = "カスタム時間";
+"unlock" = "解除";
+"focus_time" = "集中時間";
+"deep_work_sessions" = "深い作業セッション";
+"quick_refresher" = "クイックリフレッシャー";
+"extended_rest" = "延長休憩";
+"minutes" = "分";
+"premium_feature" = "プレミアム機能";
+"customize_session_durations" = "生産性スタイルに合わせてセッション時間をカスタマイズ";
+
+// MARK: - Color Picker
+"choose_custom_color" = "カスタムカラーを選択";
+"custom_color" = "カスタムカラー";
+"custom_emoji" = "カスタム絵文字";
+"select_color" = "色を選択";
+"done" = "完了";
+
+// MARK: - Paywall
+"unlock_premium" = "プレミアムを解除";
+"start_free_trial" = "無料トライアルを開始";
+"yearly_plan" = "年間プラン";
+"lifetime_plan" = "ライフタイムアクセス";
+"weekly_plan" = "週間プラン";
+"3_day_trial" = "3日間トライアル";
+"best_value" = "最高コスパ";
+"most_popular" = "人気No.1";
+"pay_once" = "一度だけお支払い";
+"custom_session_times" = "カスタムセッション時間";
+"unlimited_tags" = "無制限タグ";
+"advanced_statistics" = "詳細な統計";
+"privacy_policy" = "プライバシーポリシー";
+"terms_of_service" = "利用規約";
+"restore_purchases" = "購入を復元";
+"no_commitment" = "コミットなし、いつでもキャンセル";
+"free_for_3_days" = "3日間無料";
+"free_for_7_days" = "7日間無料";
+"enhanced_productivity_features" = "生産性向上機能";
+"advanced_analytics" = "詳細な分析";
+"unlimited_journeys" = "無制限のジャーニー";
+"custom_session_time" = "カスタムセッション時間";
+"3_days_free_then" = "3日間無料、その後%@/%@";
+"save_percentage" = "%d%%お得";
+"start_with_free_trial" = "無料トライアルで始める";
+"terms_and_privacy" = "利用規約とプライバシー";
+"terms_of_use" = "利用規約";
+"cancel_anytime_no_commitment" = "いつでもキャンセル • 縛りなし";
+"restore" = "復元";
+"no_purchases_restored" = "復元できる購入がありません";
+"tap_to_unlock" = "タップして解除";
+"premium_feature" = "プレミアム機能";
+"paywall_feature_analytics" = "詳細なフォーカス分析と洞察";
+"paywall_feature_unlimited_tags" = "無制限のタグでセッションを整理";
+"paywall_feature_unlimited_journeys" = "無制限のフォーカスジャーニーと目標";
+"paywall_feature_achieve_dreams" = "夢への道を邪魔されずに";
+"paywall_feature_achieve_dreams_personalized" = "%@の夢への道を邪魔されずに";
+"paywall_dream_highlight_word" = "夢";
+"paywall_feature_remove_paywall" = "ペイウォールを削除";
+"paywall_feature_support_developer" = "開発者をサポート";
+"paywall_rating" = "App Storeで4.9";
+"paywall_unable_to_load_pricing" = "価格を読み込めません";
+"paywall_check_connection_retry" = "接続を確認してもう一度お試しください";
+"paywall_intro_offer" = "イントロ価格: %@";
+"paywall_per_month_format" = "(%@/月)";
+"paywall_per_day_format" = "(%@/日)";
+"paywall_per_year_format" = "%@/年";
+"paywall_limited_offer" = "期間限定オファー";
+"paywall_special_offer" = "スペシャルオファー";
+"paywall_legal" = "法的情報";
+"paywall_redeem_code" = "コードを使用";
+
+// MARK: - Session Complete
+"session_complete" = "セッション完了！";
+"great_job" = "よくできました！";
+"time_for_break" = "休憩の時間";
+"break_complete" = "休憩完了！";
+"ready_to_focus" = "集中する準備はできていますか？";
+"session_completed" = "セッション完了";
+"take_break" = "休憩を取る";
+"continue_working" = "作業を続ける";
+"well_done" = "よくできました！";
+"keep_going" = "続けて！";
+"session_save_with_extra" = "余分な時間も保存";
+"session_message_focus" = "よくできました！集中セッションが完了しました。";
+"session_message_break" = "休憩が終わりました！また集中する準備はできましたか？";
+"session_message_long_break" = "長い休憩が終わりました！リフレッシュして準備ができました。";
+
+// MARK: - Session Tags
+"tag" = "タグ";
+"organize_sessions_with_tags" = "カスタムタグで集中セッションを整理";
+"current_selection" = "現在の選択";
+"active_tag" = "アクティブタグ";
+"unnamed_tag" = "名称未設定タグ";
+"no_tag_selected" = "タグが選択されていません";
+"choose_tag_to_organize" = "集中セッションを整理するタグを選択";
+"available_tags" = "利用可能な旅";
+"create_new_tag" = "新しいタグを作成";
+"choose_existing_tag" = "既存のタグを選択";
+"tag_already_exists" = "タグはすでに存在します";
+"enter_tag_name" = "タグ名を入力";
+"select_emoji" = "絵文字を選択";
+"choose_color" = "色を選択";
+"name_optional" = "名前（任意）";
+"default_tags" = "デフォルトタグ";
+"custom_tags" = "カスタムタグ";
+"no_custom_tags" = "カスタムタグはまだありません";
+"tap_to_create" = "「+」をタップして最初のカスタムタグを作成";
+"tap_to_open_emoji_keyboard" = "上をタップして絵文字を入力";
+
+// MARK: - Todos
+"quick_todos" = "クイックTodo";
+"all" = "すべて";
+"type_new_todo" = "新しいTodoを入力...";
+"what_are_you_working_on" = "何に取り組んでいますか？";
+"add_your_tasks" = "タスクを追加";
+"create_new_todo" = "新しいTodoを作成";
+"enter_title" = "タイトルを入力";
+"enter_description_optional" = "説明を入力（任意）";
+"mark_complete" = "完了にする";
+"mark_incomplete" = "未完了にする";
+"empty_todo_list" = "Todoリストは空です";
+"add_first_todo" = "最初のTodoを追加して始めましょう";
+"completed_todos" = "完了したTodo";
+"incomplete_todos" = "未完了のTodo";
+"all_todos" = "すべてのTodo";
+"no_todos_for_tag" = "このタグのTodoはまだありません";
+"tap_to_add_first_todo" = "「+」をタップして最初のTodoを追加";
+"complete_selected" = "選択項目を完了";
+"delete_selected" = "選択項目を削除";
+
+// MARK: - Calendar
+"this_month" = "今月";
+"sessions_this_month" = "今月のセッション";
+"total_time_this_month" = "今月の合計時間";
+"longest_streak" = "最長ストリーク";
+"current_streak" = "現在のストリーク";
+"days" = "日";
+"day" = "日";
+"today" = "今日";
+"yesterday" = "昨日";
+"sessions_on" = "セッション：";
+
+// MARK: - Chart/Statistics
+"weekly_progress" = "週間進捗";
+"monthly_progress" = "月間進捗";
+"focus_sessions" = "集中セッション";
+"break_sessions" = "休憩セッション";
+"total_hours" = "合計時間";
+"average_per_day" = "1日の平均";
+"best_day" = "最良の日";
+"this_week" = "今週";
+"last_week" = "先週";
+"this_month" = "今月";
+"last_month" = "先月";
+"no_data" = "データがありません";
+"start_timer_to_see_stats" = "タイマーを使って統計を確認しましょう";
+
+// MARK: - Session Times Settings
+"classic_pomodoro" = "クラシックポモドーロ";
+"use_classic_times" = "クラシックポモドーロ時間を使用（25/5/15分）";
+"custom_times" = "カスタム時間";
+"customize_session_lengths" = "ワークフローに合わせてセッション長をカスタマイズ";
+"minutes" = "分";
+"enable_custom_times" = "カスタム時間を有効化";
+"requires_premium" = "プレミアムが必要";
+
+// MARK: - Notifications Settings
+"daily_reminder" = "毎日のリマインダー";
+"get_reminded_stay_focused" = "集中を促すリマインダーを設定";
+"multiple_reminders" = "複数のリマインダー";
+"set_multiple_reminder_times" = "複数のリマインダー時間を設定";
+"reminder_time" = "リマインダー時間";
+"reminder_1" = "リマインダー1";
+"reminder_2" = "リマインダー2";
+"reminder_3" = "リマインダー3";
+"notification_permission_required" = "通知の許可が必要";
+"enable_notifications_settings" = "設定で通知を有効にする";
+"focus_reminder_title" = "集中する時間です！";
+"focus_reminder_body" = "将来の自分がこのセッションに感謝します。目標を達成しましょう！🚀";
+
+// MARK: - Session History
+"session_history_title" = "セッション履歴";
+"filter_by_tag" = "タグでフィルター";
+"all_tags" = "すべてのタグ";
+"export_data" = "データをエクスポート";
+"clear_history" = "履歴をクリア";
+"clear_history_confirmation" = "すべてのセッション履歴をクリアしますか？この操作は元に戻せません。";
+"clear" = "クリア";
+"no_sessions_found" = "セッションが見つかりません";
+"start_timer_to_build_history" = "タイマーを使ってセッション履歴を作りましょう";
+"completed_at" = "完了時刻：";
+"no_sessions_yet" = "セッションはまだありません";
+"start_first_pomodoro_session" = "最初のポモドーロセッションを開始して履歴を確認しましょう！";
+
+// MARK: - Common UI Elements
+"close" = "閉じる";
+"add" = "追加";
+"remove" = "削除";
+"update" = "更新";
+"confirm" = "確認";
+"yes" = "はい";
+"no" = "いいえ";
+"loading" = "読み込み中...";
+"please_wait" = "しばらくお待ちください...";
+"success" = "成功";
+"error" = "エラー";
+"warning" = "警告";
+"info" = "情報";
+"record_this_session" = "このセッションを記録しますか？";
+"save_progress_or_start_fresh" = "進捗を保存するか新しく始める";
+"discard" = "破棄";
+"save_progress" = "進捗を保存";
+"end_session" = "終了";
+"completed" = "完了";
+
+// MARK: - Validation Messages
+"field_required" = "このフィールドは必須です";
+"invalid_input" = "無効な入力";
+"name_too_short" = "名前が短すぎます";
+"name_too_long" = "名前が長すぎます";
+"emoji_required" = "絵文字を選択してください";
+
+// MARK: - Widget & Live Activity
+"pomodoro" = "ポモドーロ";
+"break_time" = "休憩タイム";
+"long_break" = "長い休憩";
+
+// MARK: - Accessibility Labels
+"timer_display" = "タイマー表示";
+"session_type_button" = "セッションタイプボタン";
+"tag_selection_button" = "タグ選択ボタン";
+"todo_list_button" = "Todoリストボタン";
+"settings_button" = "設定ボタン";
+"calendar_button" = "カレンダーボタン";
+"statistics_button" = "統計ボタン";
+"level_progress_indicator" = "レベル進捗インジケーター";
+
+"completed" = "完了";
+"incomplete" = "未完了";
+
+// MARK: - Analytics
+"analytics" = "分析";
+"sessions" = "セッション";
+"tags" = "タグ";
+"tag_usage" = "タグ使用状況";
+"most_used" = "最も使用";
+"patterns" = "パターン";
+"reports" = "レポート";
+"productivity_patterns" = "生産性パターン";
+"visual_reports" = "ビジュアルレポート";
+"no_reports_available" = "レポートがありません";
+"week" = "週";
+"month" = "月";
+"year" = "年";
+"sessions_this_week" = "今週のセッション";
+"sessions_this_year" = "今年のセッション";
+"week_summary" = "週間サマリー";
+"month_summary" = "月間サマリー";
+"year_summary" = "年間サマリー";
+"summary" = "サマリー";
+"total" = "合計";
+"average" = "平均";
+"peak" = "ピーク";
+"no_tag_data_yet" = "タグデータはまだありません";
+"start_using_tags" = "タグを使用して分析を表示";
+"start_using_tags_to_generate" = "タグを使用してレポートを生成";
+"activity_levels" = "活動レベル";
+"light" = "低";
+"moderate" = "中";
+"high" = "高";
+"no_activity_recorded" = "活動が記録されていません";
+"start_session_to_see_progress" = "セッションを開始して進捗を確認";
+"completion_rate" = "完了率";
+
+// MARK: - Questionnaire Onboarding
+"questionnaire_finish" = "プランを作る";
+
+// Question 0 - Name
+"questionnaire_name_title" = "何とお呼びすればいいですか？";
+"questionnaire_name_subtitle" = "ここにあなたの名前を入れましょう。これからはあなたの夢に合わせて整えていきます。";
+"questionnaire_name_placeholder" = "あなたの名前";
+
+// Question 1 - Motivation
+"questionnaire_motivation_title" = "なぜこの夢のために向き合い続けたいのですか？";
+"questionnaire_motivation_subtitle" = "この夢を守るだけの価値がある理由を選んでください。";
+"motivation_achievement" = "誠実に生きたい";
+"motivation_achievement_desc" = "自分の行動を、自分が大切だと言うものに一致させたい";
+"motivation_growth" = "自分がなれると知っている姿になりたい";
+"motivation_growth_desc" = "この夢は、自分をもっと強く、もっと本当の姿へと呼び出してくれる";
+"motivation_freedom" = "自分の価値観に沿って生きたい";
+"motivation_freedom_desc" = "自分の日々が、本当に大切にしているものを映していてほしい";
+"motivation_creativity" = "本音を形にしたい";
+"motivation_creativity_desc" = "この夢は、心の中にあるものを作り、伝え、形にする助けになる";
+"motivation_knowledge" = "意味のあることを極めたい";
+"motivation_knowledge_desc" = "表面的ではなく、深さと技術、本当の理解がほしい";
+"motivation_honor_life" = "与えられた人生を大切に生きたい";
+"motivation_honor_life_desc" = "託された人生を無駄にせず、きちんと生きたい";
+"motivation_impact" = "大切な人のためにちゃんと在りたい";
+"motivation_impact_desc" = "もっとそばにいて、頼れる存在でいたいから大切だ";
+"motivation_health" = "本当に大切なものに誠実でいたい";
+"motivation_health_desc" = "大事だと分かっていることを、もうこれ以上後回しにしたくない";
+
+// Question 2 - Peak Time
+"questionnaire_peak_title" = "このために一番いいエネルギーがあるのはいつですか？";
+"questionnaire_peak_subtitle" = "その時間帯を守れるようにお手伝いします。";
+"peak_morning" = "朝";
+"peak_morning_hours" = "6時〜12時";
+"peak_afternoon" = "午後";
+"peak_afternoon_hours" = "12時〜17時";
+"peak_evening" = "夕方";
+"peak_evening_hours" = "17時〜22時";
+"peak_night" = "深夜";
+"peak_night_hours" = "22時以降";
+
+// Question 3 - Outcomes
+"questionnaire_apps_title" = "本当にやり切れたら、人生で何が違って感じられますか？";
+"questionnaire_apps_subtitle" = "実際に感じたい変化をすべて選んでください。";
+"questionnaire_apps_field_placeholder" = "それはあなたにとって何を意味しますか？本当は何を築きたいですか？";
+"questionnaire_outcome_peace" = "もっと心が穏やかになる";
+"questionnaire_outcome_peace_desc" = "暮らしがより静かで落ち着き、地に足のついたものになる";
+"questionnaire_outcome_confidence" = "自分への信頼が増す";
+"questionnaire_outcome_confidence_desc" = "自分との約束を守れたことで、もっと自分を信じられるようになる";
+"questionnaire_outcome_freedom" = "もっと自由と柔軟さが増す";
+"questionnaire_outcome_freedom_desc" = "人生が窮屈さを減らし、選べる余地が広がって感じられる";
+"questionnaire_outcome_stability" = "もっと安定した暮らしになる";
+"questionnaire_outcome_stability_desc" = "暮らしがより安心できて、地に足がつき、続けやすくなる";
+"questionnaire_outcome_clarity" = "罪悪感が減り、もっとクリアになる";
+"questionnaire_outcome_clarity_desc" = "先延ばしの重さが薄れて、気持ちがもっと軽く、はっきりする";
+"questionnaire_outcome_pride" = "進む方向がもっとはっきりする";
+"questionnaire_outcome_pride_desc" = "散らばった感じが減って、自分がどこへ向かっているかがもっと明確になる";
+"questionnaire_outcome_possibility" = "もっと可能性を感じられる";
+"questionnaire_outcome_possibility_desc" = "未来がもっと大きく、ひらかれたものに感じられる";
+
+// Question 4 - Support
+"questionnaire_best_feature_title" = "続けやすくするために、どんな支えがあると助かりますか？";
+"questionnaire_best_feature_subtitle" = "この夢に戻ってきやすくなる支えを選んでください。";
+"prod_feature_time_tracking" = "時間の見える化";
+"prod_feature_time_tracking_desc" = "自分の時間がどこへ流れているかを把握する";
+"prod_feature_goal_setting" = "明確な目標";
+"prod_feature_goal_setting_desc" = "夢を目に見える節目へ変える";
+"prod_feature_habit_building" = "継続";
+"prod_feature_habit_building_desc" = "実際に続けられるリズムを作る";
+"prod_feature_analytics" = "振り返り";
+"prod_feature_analytics_desc" = "パターンや進歩、ズレに気づく";
+"prod_feature_reminders" = "やさしいリマインド";
+"prod_feature_reminders_desc" = "生活が騒がしくなったときの、やわらかな後押し";
+"prod_feature_gamification" = "勢いづけ";
+"prod_feature_gamification_desc" = "前に進み続けやすくする励まし";
+
+// Question 5 - Goal
+"questionnaire_goal_title" = "あなたの夢は何ですか？";
+"questionnaire_goal_subtitle" = "今は短くで大丈夫です。";
+"questionnaire_goal_placeholder" = "1〜2語";
+"questionnaire_not_sure" = "まだわからない";
+
+// Question 6 - Time Commitment
+"questionnaire_time_title" = "この夢のために、毎日どれくらい守られた時間を使えますか？";
+"questionnaire_time_subtitle" = "小さな時間でも、続けば大きな意味を持ちます。";
+"time_15_minutes" = "15分";
+"time_30_minutes" = "30分";
+"time_1_hour" = "1時間";
+"time_2_hours" = "2時間";
+"time_3_hours" = "3時間";
+"time_7_plus_hours" = "7時間以上";
+
+// Question 7 - Obstacles
+"questionnaire_obstacles_title" = "本当に大切なことから、あなたを遠ざけるものは何ですか？";
+"questionnaire_obstacles_subtitle" = "摩擦を無視するのではなく、そこに合わせて設計したいのです。";
+"obstacle_distractions_title" = "気散らし";
+"obstacle_distractions_desc" = "スマホ、SNS、割り込み";
+"obstacle_motivation_title" = "モチベーション不足";
+"obstacle_motivation_desc" = "エネルギーが低いと始めるのが難しい";
+"obstacle_perfectionism_title" = "完璧主義";
+"obstacle_perfectionism_desc" = "完璧にできるまで待ってしまう";
+"obstacle_overwhelm_title" = "圧倒感";
+"obstacle_overwhelm_desc" = "抱えることが多すぎて、最初の一歩が見えない";
+"obstacle_procrastination_title" = "先延ばし";
+"obstacle_procrastination_desc" = "大切だと分かっていても後回しにしてしまう";
+"obstacle_time_management_title" = "時間管理";
+"obstacle_time_management_desc" = "夢より先に予定で一日が埋まってしまう";
+"obstacle_other_title" = "その他";
+"obstacle_other_desc" = "別の理由";
+
+// News screens
+"questionnaire_news_intro" = "あなたの夢には、仕組みが必要です";
+"questionnaire_bad_news_label" = "厳しい現実";
+"questionnaire_bad_news_content" = "守られた時間がないと、どれほど大切な目標でも ";
+"questionnaire_bad_news_highlight" = "少しずつ日常の奥へ埋もれてしまいます";
+"questionnaire_good_news_label" = "希望があるのは";
+"questionnaire_good_news_start" = "丁寧に作られた仕組みがあれば、あなたの夢を ";
+"questionnaire_good_news_highlight" = "日常の中で生き続けさせられる";
+"questionnaire_good_news_end" = " 少しずつの集中、摩擦の少なさ、繰り返せる小さなセッションによって";
+
+// Achievement screen
+"questionnaire_achievement_title" = "これがあなたの設計図の最初の版です";
+"questionnaire_achievement_subtitle" = "夢は、日々の中に居場所ができ、リズムを持ち、流されにくくなったときに現実になります。";
+"questionnaire_achievement_earned" = "作成済み";
+
+// Features overview screen
+"questionnaire_features_title" = "FocusHeroがあなたを支える方法";
+"questionnaire_feature_goals" = "夢を見失わないようにして、毎回のセッションに本当の意味を持たせる";
+"questionnaire_feature_growth" = "進歩に気づく";
+"questionnaire_feature_growth_detail" = " - 振り返りがあると、ゆっくりでも意味のある成長を信じやすくなる";
+"questionnaire_feature_blocking" = "集中を壊しやすい誘惑からセッションを守る";
+"questionnaire_feature_adventure" = "プレッシャーではなく、着実な練習で勢いを育てる";
+"questionnaire_callout_stat" = "小さく始める";
+"questionnaire_callout_text" = "完璧なルーティンは必要ありません。必要なのは繰り返せる次の一歩です。たとえば ";
+"questionnaire_callout_habit" = "「20分の本気の作業」";
+
+// App blocking prompt
+"app_blocking_title" = "夢のための時間を守りますか？";
+"app_blocking_subtitle" = "気が散ることが大きな摩擦のひとつなので、フォーカスセッション中は気になるアプリを自動で隠せます。";
+"app_blocking_set_up" = "アプリブロックを設定";
+"app_blocking_skip" = "今はスキップ";
+
+// MARK: - Feature Slides
+"feature_slide1_title" = "FocusHeroで\n自己改善をシンプルに";
+"feature_slide1_desc" = "小さな行動が大きな成果につながることを実感しましょう。";
+"feature_slide2_title" = "FocusHeroで\nより良い習慣を築く";
+"feature_slide2_desc" = "習慣グリッドと使いやすいツールで、目標を継続的に達成しましょう。";
+"feature_slide3_title" = "FocusHeroが\n私の成長を支える";
+"feature_slide3_desc" = "一緒に長く続く習慣を築き、あなたの可能性を最大限に引き出しましょう。";
+"feature_slide_theory_cta" = "なぜ「1万時間」なの？";
+
+// MARK: - Theory Explainer
+"theory_flow_title_1" = "熟達には時間がかかる";
+"theory_flow_lead_1" = "意味のある技能は、たいてい何年もかけて育っていきます。";
+"theory_flow_body_1" = "「1万時間」という考え方は、マルコム・グラッドウェルの『天才!』を通じて広まりました。現実の一面を捉えていたからです。";
+"theory_flow_title_2" = "大事なのは数字ではない";
+"theory_flow_lead_2" = "数字が大事なのではありません。";
+"theory_flow_body_2" = "より大切なのは、その時間の中身です。\n明確な意図、深い集中、反復、そして着実な改善が、単なるカウントよりも重要です。";
+"theory_flow_title_3" = "小さなセッションにも意味がある";
+"theory_flow_lead_3" = "集中した努力は静かに積み重なります。";
+"theory_flow_body_3" = "進歩は、その瞬間には劇的に感じられないことがほとんどです。\n1回のセッションは小さく見えても、週や年を重ねるうちに意味のあるものになります。";
+"theory_flow_title_4" = "道のりは人それぞれ";
+"theory_flow_lead_4" = "練習は大切ですが、すべてを説明するわけではありません。";
+"theory_flow_body_4" = "その影響は分野によっても変わります。\n1万時間の考え方は、約束というより視点として受け取るのが適切です。";
+"theory_flow_title_5" = "続けよう";
+"theory_flow_lead_5" = "今日ですべてをやり切る必要はありません。";
+"theory_flow_body_5" = "必要なのは、また戻ってくることです。\nFocusHeroは、大切なものを育てる時間を守るお手伝いをします。";
+"theory_flow_footnote" = "専門的パフォーマンス研究に着想を得ています。「1万時間」は固定的な法則ではなく、モチベーションのための見方です。";
+"theory_flow_primary_cta" = "1万時間を投じる";
+
+// MARK: - Calculating Review
+"calculating_step1" = "計算中";
+"calculating_step2" = "あなたに合わせてアプリを調整中";
+"apps_we_love" = "私たちの好きな\nアプリ";
+
+// MARK: - Contract Onboarding
+"contract_word" = "コントラクト";
+"contract_your_fallback" = "あなたの";
+"contract_bullet1" = "どんな時間帯にも**柔軟に合わせて**、前に進み続けます！";
+"contract_bullet2" = "**いろいろな方法で進捗を記録し**、自分に合う形を見つけます！";
+"contract_bullet3" = "**悪い習慣を手放し**、成長への道を切り開きます！";
+"contract_bullet4" = "どんな**障害が現れても向き合い**、前に進む道を見つけます！";
+"contract_bullet5" = "**より健康的な暮らしを受け入れて**、いちばんいい自分でいます！";
+"contract_agreed" = "コントラクトに同意しました！";
+"contract_keep_holding" = "そのまま長押ししてください...";
+"contract_hold_to_agree" = "長押しして同意";
+"contract_research_note" = "研究によると、このような契約へのコミットメントは、やり遂げる力と責任感を高めます";
+"contract_lets_get_started" = "さあ、始めましょう！";
+
+// MARK: - Habit Tracker
+"habit_tracker" = "習慣トラッカー";
+"complete_focus_to_build_streaks" = "集中セッションを完了してストリークを積み上げよう";
+"habits" = "習慣";
+"tracked" = "追跡中";
+"available" = "利用可能";
+"unnamed" = "名称未設定";
+"no_tags_yet" = "タグなし";
+"no_tags_description" = "習慣を追跡するにはタグを作成してください。\n完了したセッションごとにストリークが積み上がります！";
+"hide" = "非表示";
+"current_streak_title" = "現在のストリーク";
+"best_streak" = "最高ストリーク";
+"total_time" = "合計時間";
+"no_sessions_activity" = "セッションなし";
+"one_session_activity" = "1回のセッション";
+"two_three_sessions" = "2〜3回のセッション";
+"four_plus_sessions" = "4回以上のセッション";
+"less" = "少";
+"more" = "多";
+
+// MARK: - App Blocking Settings
+"focus_shield" = "Focus Shield";
+"focus_duration_too_short" = "集中時間が短すぎます";
+"fifteen_minutes_minimum" = "最低15分必要";
+"app_blocking_requirement" = "アプリブロックには15分以上の集中セッションが必要です。これはセッション終了時にアプリが自動的にブロック解除されるようにするためのシステム要件です。";
+"current_focus_duration" = "現在の集中時間：%d分";
+"increase_focus_time_instruction" = "アプリブロックを有効にするには、セッション時間の設定で集中時間を15分以上に設定してください。";
+"authorization_required" = "認証が必要";
+"screen_time_access" = "スクリーンタイムへのアクセス";
+"screen_time_access_description" = "集中セッション中に気を散らすアプリをブロックするには、スクリーンタイムへのアクセスが必要です。これにより、集中している間、選択したアプリを一時的に非表示にすることができます。";
+"grant_access" = "アクセスを許可";
+"screen_time_denied" = "アクセスが拒否されました。設定 > スクリーンタイムでスクリーンタイムアクセスを有効にしてください。";
+"activate" = "有効にする";
+"focus_shield_description" = "集中セッション中は選択したアプリが制限されます";
+"apps_to_block" = "ブロックするアプリ";
+"select_apps_categories" = "アプリとカテゴリを選択";
+"clear_selection" = "選択をクリア";
+"start_focus" = "集中を開始";
+"start_focus_description" = "集中セッションを開始すると、選択したアプリがブロックされます";
+"shield_appears" = "シールドが表示されます";
+"shield_appears_description" = "ブロックされたアプリを開こうとすると、シールドが表示されます";
+"session_ends" = "セッション終了";
+"session_ends_description" = "セッションが完了すると、アプリは自動的にブロック解除されます";
+
+// MARK: - Chart Analytics
+"all_tags" = "すべてのタグ";
+
+// MARK: - Quick Actions Stats
+"time_today" = "本日の合計";
+"todays_sessions" = "本日のセッション";
+"saved_to_yesterday" = "%@ → 昨日";
+
+// MARK: - Settings View
+"icloud_sync" = "iCloud同期";
+"sync_status" = "同期状態";
+"icloud_sync_description" = "ポモドーロデータはiCloudアカウントにサインインしたすべてのデバイスで同期されます";
+"nearby_sync_section_title" = "近距離同期";
+"nearby_sync_toggle_title" = "近くのデバイス同期";
+"nearby_sync_toggle_subtitle" = "近くのiPhoneとMacでタイマーの開始・終了・リセットを同期します";
+"nearby_sync_permission_hint" = "以前に拒否した場合は、iOSの設定でローカルネットワークを許可してください。";
+"display" = "表示";
+"appearance" = "外観";
+"light_dark_automatic" = "ライト、ダーク、または自動";
+"glow_effects" = "グロー効果";
+"glow_effects_description" = "グロー効果（バッテリー消費増）";
+"theme" = "テーマ";
+"theme_option_paper" = "ペーパー";
+"theme_option_default" = "デフォルト";
+"language" = "言語";
+"language_description" = "アプリの言語を選択";
+"language_restart_required" = "再起動が必要";
+"language_restart_message" = "新しい言語を適用するには、アプリを再起動してください。";
+"sound" = "サウンド";
+"session_complete_sound" = "セッション完了サウンド";
+"play_sound_when_timer_finishes" = "タイマー終了時にサウンドを再生";
+"native_alarm_overrides_sound" = "ネイティブアラームが有効でこのサウンドを上書きします";
+"block_list" = "Block List";
+"hide_apps_during_focus" = "集中セッション中にアプリを非表示";
+"review_and_rate" = "レビュー＆評価";
+"focushero_socials" = "FocusHero ソーシャル";
+"rate_focushero" = "タイマー:ヒーローを評価";
+"share_app_store_feedback" = "App Storeでフィードバックを共有";
+"app_icon" = "アプリアイコン";
+"app_icon_classic" = "クラシック";
+"app_icon_classic_subtitle" = "オリジナル";
+"app_icon_aurora" = "オーロラ";
+"app_icon_aurora_subtitle" = "新鮮な活力";
+"app_icon_light" = "ライト";
+"app_icon_light_subtitle" = "ライトテーマ";
+"app_icon_change_failed" = "アイコンを変更できませんでした";
+"app_icon_unsupported" = "このデバイスでは代替アプリアイコンを利用できません。";
+"alarm_permission_required" = "アラーム権限が必要";
+"open_settings" = "設定を開く";
+"alarm_permission_message" = "ネイティブアラームを使用するには、設定でアラーム権限を有効にしてください。";
+"session_complete_notification" = "セッション完了通知";
+"notify_when_session_finishes" = "セッション終了時に通知";
+"native_alarm" = "ネイティブアラーム";
+"quiet_hours" = "静かな時間";
+"native_alarm_description" = "サイレントモードでもアラームを鳴らします";
+"session_end_alarm" = "セッション終了アラーム";
+"alarm_when_timer_completes" = "タイマー完了時にアラーム";
+"time_block_alarms" = "タイムブロックアラーム";
+"alarm_when_blocks_start" = "スケジュールされたブロック開始時にアラーム";
+"reset_dialog_title" = "%@をリセットしますか？";
+"reset_dialog_button" = "%@をリセット";
+"active_notifications_count" = "%d件が有効";
+
+// MARK: - Todo Overlay
+"add_new_todo_placeholder" = "新しいTodoを追加...";
+"no_tag_todos" = "%@のTodoはありません";
+"add_first_task_above" = "上に最初のタスクを追加";
+"none" = "なし";
+"deadline" = "期限";
+"set_deadline" = "期限を設定";
+"select_date_label" = "日付を選択";
+"created_date" = "作成：%@";
+"completed_status" = "✓ 完了";
+"subtasks" = "サブタスク";
+"new_subtask_placeholder" = "新しいサブタスク...";
+"set_button" = "設定";
+
+// MARK: - Streak Stat Card
+"streak_current" = "現在";
+"streak_best" = "最高";
+
+// MARK: - Streak Share Card
+"share_streak_hero_subtitle_steady" = "着実で再現できる集中の積み重ね。";
+"share_streak_hero_subtitle_momentum" = "続けるたびに勢いが増していく。";
+"share_streak_hero_subtitle_start" = "どんな連続記録も、守り抜いた1セッションから始まる。";
+"share_streak_label_active" = "連続日数";
+"share_streak_label_day_one" = "初日";
+"share_streak_momentum_locked_in" = "絶好調";
+"share_streak_momentum_building" = "順調";
+"share_streak_momentum_in_motion" = "始動中";
+"share_streak_momentum_start" = "スタート";
+"share_streak_milestone_start_format" = "今日から始めて、まずは%d日達成を目指そう。";
+"share_streak_milestone_unlocked" = "マイルストーン達成。このリズムを保とう。";
+"share_streak_milestone_remaining_format" = "あと%d日で%d日達成。";
+"share_streak_focus_snapshot" = "集中スナップショット";
+"share_streak_total_focused" = "合計集中日数";
+"share_streak_this_week" = "今週";
+"share_streak_first_milestone" = "最初のマイルストーン";
+"share_streak_next_milestone" = "次のマイルストーン";
+"share_streak_days_format" = "%d日";
+"share_streak_start" = "スタート";
+"share_streak_last_7_days" = "直近7日";
+"share_streak_next_seven_days_start_now" = "次の7日間はここから始まる。";
+"share_streak_last_7_days_lit_format" = "直近7日のうち%d日で火が灯った。";
+"share_streak_sheet_title" = "連続記録を共有";
+"share_streak_instagram_stories" = "ストーリーズ";
+"share_streak_tiktok" = "TikTok";
+"share_streak_more" = "その他";
+"share_streak_open_card_hint" = "連続記録の共有カードを開きます。";
+
+// MARK: - Schedule View
+"schedule" = "スケジュール";
+"reset_all_time_blocks" = "すべてのタイムブロックをリセット";
+"delete_all" = "すべて削除";
+"reset_time_blocks_message" = "すべてのタイムブロックが完全に削除されます。この操作は取り消せません。";
+"never_miss_session" = "セッションを見逃さない";
+"enable_alarms_silent" = "サイレントモードでも鳴るアラームを有効化";
+"enable" = "有効にする";
+
+// MARK: - Time Block Scheduler
+"auto_started" = "自動開始";
+"timer_busy" = "タイマー使用中";
+"is_scheduled" = "が予定されています";
+"focus_session" = "集中セッション";
+"streak_days" = "日";
+
+// MARK: - Time Block Edit Sheet
+"create_time_block" = "タイムブロックを作成";
+"edit_time_block" = "タイムブロックを編集";
+"details" = "詳細";
+"title_label" = "タイトル";
+"start_time" = "開始時刻";
+"duration" = "時間";
+"repeat" = "繰り返し";
+"alarm" = "アラーム";
+"alarm_native_ios_at_start" = "開始時刻にiOSネイティブアラーム";
+"alarm_enable_in_settings" = "設定→ネイティブアラームで有効化";
+"saving" = "保存中...";
+"scheduling_conflict" = "スケジュールの競合";
+"time_block_overlap_message" = "このタイムブロックは%d個の既存ブロックと重複しています。別の時間を選択してください。";
+"delete_time_block" = "タイムブロックを削除";
+"delete_this_only" = "これのみ削除";
+"delete_all_recurring" = "すべての繰り返しを削除";
+"recurring_block_delete_message" = "これは繰り返しタイムブロックです。この回だけ削除しますか、それとも今後すべての回を削除しますか？";
+"delete_time_block_confirmation" = "このタイムブロックを削除してもよろしいですか？";
+"enable_alarms" = "アラームを有効化";
+"not_now" = "あとで";
+"alarm_onboarding_message" = "予定セッション開始時にiOSネイティブアラームを受け取る — サイレントモードでも鳴るので集中ブロックを見逃しません。";
+"enable_alarms_for_time_blocks_message" = "タイムブロックにアラームを使うには、設定でネイティブアラームを有効にしてください。今すぐ有効にしますか？";
+
+// Duration options
+"duration_15_min" = "15分";
+"duration_30_min" = "30分";
+"duration_45_min" = "45分";
+"duration_1_hour" = "1時間";
+"duration_1_5_hours" = "1.5時間";
+"duration_2_hours" = "2時間";
+"duration_3_hours" = "3時間";
+"duration_4_hours" = "4時間";
+
+// iCloud Sync Toggle
+"ck_sync_toggle_title" = "iCloudと同期";
+"ck_sync_toggle_subtitle" = "すべてのデバイスで同期";
+"ck_restart_required_title" = "再起動が必要です";
+"ck_restart_required_message" = "この変更は次回アプリを起動したときに反映されます。";
+
+// iCloud Sync Status
+"ck_status_syncing" = "同期中…";
+"ck_status_error" = "同期エラー";
+"ck_status_active" = "iCloud同期中";
+"ck_status_no_account" = "iCloudアカウントなし";
+"ck_status_restricted" = "同期が制限されています";
+"ck_status_temp_unavailable" = "一時的に利用できません";
+"ck_status_no_internet" = "インターネット接続なし";
+"ck_status_checking" = "状態を確認中…";
+"ck_hero_no_account" = "iCloudアカウントが必要です";
+
+// iCloud Sync Subtitles
+"ck_sub_last_synced" = "%@に同期済み";
+"ck_sub_waiting" = "初回同期を待っています";
+"ck_sub_sign_in" = "同期するには設定でiCloudにサインイン";
+"ck_sub_check_screen_time" = "スクリーンタイムまたはペアレンタルコントロールを確認";
+"ck_sub_will_resume" = "iCloudが利用可能になったら再開します";
+"ck_sub_will_sync" = "接続が回復したら同期します";
+"ck_sub_please_wait" = "少々お待ちください";
+
+// iCloud Sync Detail Sheet
+"ck_progress_note" = "iCloudはレコード数を共有しないため、進行状況は不確定です";
+"ck_last_synced_label" = "最終同期";
+"ck_never" = "なし";
+"ck_sync_now" = "今すぐ同期";
+"ck_check_again" = "再確認";
+"ck_button_syncing" = "同期中…";
+
+// iCloud Sync Hero Descriptions
+"ck_desc_syncing" = "ポモドーロデータをすべてのデバイスで同期しています。";
+"ck_desc_error" = "最後の同期中にエラーが発生しました。再確認するか今すぐ同期をお試しください。";
+"ck_desc_active" = "ポモドーロデータはiCloudアカウントでサインインしたすべてのデバイスで自動同期されます。";
+"ck_desc_no_account" = "デバイス間でデータを同期するには、設定でiCloudにサインインしてください。";
+"ck_desc_restricted" = "このデバイスではiCloud同期が制限されています。スクリーンタイムまたはペアレンタルコントロール設定を確認してください。";
+"ck_desc_temp_unavailable" = "iCloudは一時的に利用できません。サービスが回復したら自動的に同期されます。";
+"ck_desc_no_internet" = "インターネット接続が検出されません。接続が回復したら同期されます。";
+"ck_desc_checking" = "iCloudの状態を確認しています。少々お待ちください。";
+
+// iCloud Sync Activity Labels
+"ck_activity_syncing" = "iCloudと同期中";
+"ck_activity_setup" = "iCloudを設定中";
+"ck_activity_importing" = "iCloudからダウンロード中";
+"ck_activity_exporting" = "iCloudにアップロード中";
+
+// iCloud Sync Relative Time
+"ck_time_just_now" = "たった今";
+"ck_time_minutes_ago" = "%d分前";
+"ck_time_hours_ago" = "%d時間前";
+"ck_time_days_ago" = "%d日前";
+"ck_time_today_at" = "今日 %@";
+"ck_time_yesterday_at" = "昨日 %@";
+"ck_time_date_at" = "%@ %@";
+"notification_action_start_now" = "今すぐ開始";
+"notification_action_snooze" = "5分後に通知";
+"notification_action_complete_now" = "完了";
+
+// Level Up Badge
+"congratulations" = "おめでとうございます！";
+"level_up" = "レベルアップ！";
+
+// Timer Config Dropdown
+"auto_pilot" = "オートパイロット";
+"auto_start_break" = "休憩を自動開始";
+"auto_start_focus" = "集中を自動開始";
+"short_break_every" = "短い休憩の間隔";
+"long_break_every" = "長い休憩の間隔";
+"sessions_done" = "完了セッション数";
+"never" = "なし";
+
+// MARK: - Notes List
+"copy" = "コピー";
+"export" = "エクスポート";
+"no_notes_yet" = "メモはまだありません";
+"delete_note" = "メモを削除";
+"note_delete_confirmation" = "このメモは完全に削除されます。";
+"export_note" = "メモをエクスポート";
+"export_as_pdf" = "PDFとしてエクスポート";
+"save_to_photos" = "写真に保存";
+"saved_to_photos" = "写真に保存しました";
+"note_card_saved" = "メモカードが写真ライブラリに保存されました。";
+"could_not_save" = "保存できませんでした";
+"note_title_placeholder" = "タイトル";
+"new_note_placeholder" = "新しいメモ...";
+"write_note_placeholder" = "メモを書く...";
+"note_render_failed" = "メモ画像のレンダリングに失敗しました。";
+"photo_access_denied" = "写真ライブラリへのアクセスが拒否されました。設定で有効にしてください。";
+"unknown_error" = "不明なエラー";
+
+// MARK: - Time Since
+"ts_time_since" = "経過時間";
+"ts_countdown" = "カウントダウン";
+"ts_no_trackers_yet" = "トラッカーはまだありません";
+"ts_no_trackers_description" = "特定の出来事、習慣、または節目からの経過時間を記録します。";
+"ts_create_tracker" = "トラッカーを作成";
+"ts_no_overdue_trackers" = "期限超過のトラッカーはありません";
+"ts_no_trackers_in_group" = "\"%@\" にトラッカーはありません";
+"ts_no_results" = "結果がありません";
+"ts_search_trackers" = "トラッカーを検索";
+"ts_new" = "新規";
+"ts_overdue" = "期限超過";
+"ts_sort" = "並び替え";
+"ts_recently_checked" = "最近確認した順";
+"ts_longest_elapsed" = "経過が長い順";
+"ts_alphabetical" = "名前順";
+"ts_date_created" = "作成日順";
+"ts_nearest_deadline" = "期限が近い順";
+"ts_rename_group" = "グループ名を変更";
+"ts_new_name" = "新しい名前";
+"ts_rename" = "名前を変更";
+"ts_reset_color" = "色をリセット";
+"ts_add_item" = "項目を追加";
+"ts_color" = "色";
+"ts_color_sky_blue" = "スカイブルー";
+"ts_color_soft_teal" = "ソフトティール";
+"ts_color_soft_violet" = "ソフトバイオレット";
+"ts_color_warm_amber" = "ウォームアンバー";
+"ts_color_golden_yellow" = "ゴールデンイエロー";
+"ts_color_sage_green" = "セージグリーン";
+"ts_color_muted_coral" = "ミューテッドコーラル";
+"ts_color_soft_lavender" = "ソフトラベンダー";
+"ts_lock_screen_widgets" = "ロック画面ウィジェット (%d/3)";
+"ts_lock_screen_guide_toolbar_a11y" = "ロック画面ウィジェットガイド";
+"ts_lock_screen_guide_nav_title" = "ロック画面ウィジェット";
+"ts_lock_screen_guide_hero_title" = "ロック画面に Time Since を追加";
+"ts_lock_screen_guide_hero_subtitle" = "iPhoneで次の手順に従うと、数秒でトラッカーを配置できます。";
+"ts_lock_screen_guide_preview_title" = "ロック画面プレビュー";
+"ts_lock_screen_guide_preview_a11y" = "Time Since ウィジェット付きロック画面のプレビュー";
+"ts_lock_screen_guide_step_a11y" = "ステップ%d: %@。%@";
+"ts_lock_screen_guide_step_1_title" = "カスタマイズモードに入る";
+"ts_lock_screen_guide_step_1_detail" = "ロック画面を長押しして、「カスタマイズ」をタップします。";
+"ts_lock_screen_guide_step_2_title" = "ウィジェットエリアを選択";
+"ts_lock_screen_guide_step_2_detail" = "時計の下にあるウィジェットエリアをタップします。";
+"ts_lock_screen_guide_step_3_title" = "Focus Hero を選ぶ";
+"ts_lock_screen_guide_step_3_detail" = "Focus Hero を検索して、Time Since のロック画面ウィジェットを選択します。";
+"ts_lock_screen_guide_step_4_title" = "トラッカーを選ぶ";
+"ts_lock_screen_guide_step_4_detail" = "ウィジェットをタップし、ロック画面に表示したいトラッカーを選択します。";
+"ts_lock_screen_guide_step_5_title" = "保存する";
+"ts_lock_screen_guide_step_5_detail" = "「完了」をタップしてロック画面を保存します。";
+"ts_available" = "利用可能";
+"ts_when_did_this_happen" = "これはいつ起きましたか？";
+"ts_note" = "メモ";
+"ts_notes" = "メモ";
+"ts_whats_on_your_mind" = "何を考えていますか？";
+"ts_how_did_it_go" = "どうでしたか？";
+"ts_add_note" = "メモを追加";
+"ts_add_occurrence" = "記録を追加";
+
+// Time Since Card
+"ts_pin" = "ピン留め";
+"ts_unpin" = "ピン留め解除";
+"ts_remove_from_group" = "\"%@\" から削除";
+"ts_new_group" = "新しいグループ…";
+"ts_move_to_group" = "グループに移動";
+"ts_group_label" = "グループ: %@";
+"ts_group_name" = "グループ名";
+"ts_create" = "作成";
+"ts_now" = "今";
+"ts_delete_confirm_title" = "\"%@\" を削除しますか？";
+"ts_delete_confirm_message" = "この項目のすべての通知とアラームも削除されます。";
+"ts_completed" = "完了！";
+"ts_until_date" = "%@ まで";
+"ts_done" = "完了！";
+
+// Edit Time Since Event
+"ts_details" = "詳細";
+"ts_event_name" = "イベント名";
+"ts_start_date" = "開始日";
+"ts_target_date" = "目標日";
+"ts_display_as" = "表示形式";
+"ts_start_time" = "開始時刻";
+"ts_group" = "グループ";
+"ts_appearance" = "外観";
+"ts_track_interval" = "記録間隔";
+"ts_auto" = "自動";
+"ts_custom" = "カスタム";
+"ts_interval" = "間隔";
+"ts_delete_tracker" = "トラッカーを削除";
+"ts_delete_tracker_confirm" = "このトラッカーを削除しますか？";
+"ts_cannot_be_undone" = "この操作は取り消せません。";
+"ts_edit_tracker" = "トラッカーを編集";
+"ts_new_tracker" = "新しいトラッカー";
+"ts_seed_plant_a_seed" = "種をまく 🌱";
+"ts_seed_unhealthy_eating" = "不健康な食生活 🍔";
+"ts_seed_change_air_filter" = "エアフィルターを交換";
+"ts_seed_group_break_habits" = "悪い習慣を断つ";
+"ts_reflect_every" = "%@ ごとに振り返る";
+"ts_notify_every" = "%@ ごとに通知";
+"ts_icon" = "アイコン";
+"ts_on" = "オン";
+
+// Alert Unit
+"ts_minutes" = "分";
+"ts_hours" = "時間";
+"ts_days" = "日";
+"ts_weeks" = "週";
+"ts_months" = "か月";
+"ts_years" = "年";
+
+// Target Preset
+"ts_preset_week" = "1週間";
+"ts_preset_month" = "1か月";
+"ts_preset_quarter" = "3か月";
+"ts_preset_year" = "1年";
+"ts_preset_6_months" = "6か月";
+"ts_preset_1_year" = "1年";
+"ts_preset_2_years" = "2年";
+
+// Time Since Detail
+"ts_history" = "履歴";
+"ts_swipe_hint" = "カードを左にスワイプしてメモを記録";
+"ts_show_all_occurrences" = "すべての記録 %d 件を表示";
+"ts_occurrences_abbrev" = "%d件";
+"ts_average_format" = "平均 %@";
+"ts_occurrence" = "記録";
+"ts_delete_tracker_detail" = "トラッカーを削除";
+"ts_no_occurrences_yet" = "まだ記録がありません。";
+"ts_log_occurrence_hint" = "+ ボタンまたはカードの左スワイプで記録できます。";
+"ts_gap_between_occurrences" = "記録間の間隔";
+"ts_past_gap" = "過去の間隔";
+"ts_current_ongoing" = "現在（進行中）";
+"ts_view_notes" = "メモを見る";
+"ts_copy_notes" = "メモをコピー";
+"ts_copy_date" = "日付をコピー";
+"ts_elapsed" = "経過";
+"ts_started" = "開始";
+"ts_edit" = "編集";
+"ts_target" = "目標";
+"ts_remaining" = "残り";
+"ts_percent_complete" = "%.1f%% 完了";
+"ts_notif_reflection_body" = "振り返り：%@の残り%@。";
+"ts_notif_elapsed_body" = "%@が%@を記録してから経過しました。";
+"ts_notif_alarm_title" = "%@ インターバル";
+
+// MARK: - Hero Quotes
+"hero_day_streak_title" = "%d日連続";
+"hero_day_streak_title_named" = "%1$@さんの%2$d日連続";
+"hero_quote_inline_format" = "「%@」 — %@";
+"hero_quote_aristotle_text" = "私たちは繰り返し行うことの結果である。ゆえに卓越とは行為ではなく、習慣である。";
+"hero_quote_aristotle_author" = "アリストテレス";
+"hero_quote_jobs_great_work_text" = "素晴らしい仕事をする唯一の方法は、自分のしていることを愛することだ。";
+"hero_quote_jobs_great_work_author" = "スティーブ・ジョブズ";
+"hero_quote_kobe_rise_text" = "ネガティブなものすべて、つまりプレッシャーや困難は、私にとって成長する機会だ。";
+"hero_quote_kobe_rise_author" = "コービー・ブライアント";
+"hero_quote_jobs_hungry_text" = "ハングリーであれ。愚か者であれ。";
+"hero_quote_jobs_hungry_author" = "スティーブ・ジョブズ";
+"hero_quote_jordan_expect_text" = "偉大なことを成し遂げる前に、まず自分にそれを期待しなければならない。";
+"hero_quote_jordan_expect_author" = "マイケル・ジョーダン";
+"hero_quote_jocko_discipline_text" = "規律こそ自由だ。";
+"hero_quote_jocko_discipline_author" = "ジョッコ・ウィリンク";
+"hero_quote_bruce_focus_text" = "成功する戦士とは、レーザーのような集中力を持つ普通の人間だ。";
+"hero_quote_bruce_focus_author" = "ブルース・リー";
+"hero_quote_mandela_courage_text" = "勇気とは恐れがないことではなく、それに打ち勝つことだ。";
+"hero_quote_mandela_courage_author" = "ネルソン・マンデラ";
+"hero_quote_ford_think_text" = "できると思おうと、できないと思おうと、その通りになる。";
+"hero_quote_ford_think_author" = "ヘンリー・フォード";
+"hero_quote_proverbs_text" = "心を尽くして主に信頼し、自分の悟りに頼るな。あなたの行く道すべてで主を認めよ。そうすれば、主はあなたの道をまっすぐにされる。";
+"hero_quote_proverbs_author" = "箴言 3:5-6";
+"hero_quote_joshua_text" = "強く、雄々しくあれ。恐れてはならない。おののいてはならない。あなたがどこへ行っても、あなたの神、主が共におられるからである。";
+"hero_quote_joshua_author" = "ヨシュア記 1:9";
+"hero_quote_john_peace_text" = "わたしはあなたがたに平安を残し、わたしの平安を与える。… 心を騒がせるな。恐れるな。";
+"hero_quote_john_peace_author" = "ヨハネ 14:27";
+"hero_quote_first_john_text" = "私たちが愛するのは、神がまず私たちを愛してくださったからである。";
+"hero_quote_first_john_author" = "ヨハネの手紙一 4:19";
+"hero_quote_jeremiah_text" = "わたしはあなたがたのために立てている計画を知っている。… それは災いではなく平安を与え、将来と希望を与える計画である。";
+"hero_quote_jeremiah_author" = "エレミヤ書 29:11";
+"hero_quote_psalm_text" = "たとえ死の陰の谷を歩むことがあっても、私はわざわいを恐れない。あなたが私と共におられるからだ。";
+"hero_quote_psalm_author" = "詩篇 23:4";
+"hero_quote_john_word_text" = "初めに言があった。言は神と共にあった。言は神であった。";
+"hero_quote_john_word_author" = "ヨハネ 1:1";
+"hero_quote_simon_dream_text" = "あなたの夢は何ですか？";
+"hero_quote_simon_dream_author" = "サイモン・スクイブ";
+
+// MARK: - Notes & Session Removal
+"notes" = "メモ";
+"stop_timer_to_adjust" = "調整するにはタイマーを停止してください";
+"session_note_placeholder" = "今取り組んでいることは？";
+"remove_session" = "セッションを削除";
+"remove_session_message" = "この操作によりセッションが削除され、進捗が巻き戻されます。";
