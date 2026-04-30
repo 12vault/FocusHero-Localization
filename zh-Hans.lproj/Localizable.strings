@@ -292,6 +292,7 @@
 
 // MARK: - Paywall
 "unlock_premium" = "解锁高级版";
+"get_full_access" = "Get Full Access";
 "start_free_trial" = "开始免费试用";
 "yearly_plan" = "年度计划";
 "lifetime_plan" = "终身访问";
@@ -319,6 +320,7 @@
 "terms_and_privacy" = "条款与隐私";
 "terms_of_use" = "使用条款";
 "cancel_anytime_no_commitment" = "随时取消 • 无约束";
+"cancel_at_any_time" = "随时取消";
 "restore" = "恢复";
 "no_purchases_restored" = "未找到可恢复的购买";
 "tap_to_unlock" = "点击解锁";
@@ -342,6 +344,39 @@
 "paywall_special_offer" = "特别优惠";
 "paywall_legal" = "法律信息";
 "paywall_redeem_code" = "兑换码";
+"creator_pass" = "创作者通行证";
+"creator_premium" = "创作者 Premium";
+"creator_pass_premium_badge" = "PREMIUM";
+"creator_pass_turn_tiktok_into_premium" = "用 TikTok 换取 Premium";
+"creator_pass_hero_description" = "制作一条 FocusHero TikTok，将帖子链接私信给 @pomodoro_hero，入选帖子可获得 Premium 优惠码。";
+"creator_pass_creator_kit" = "创作者工具包";
+"creator_pass_dm_review" = "私信审核";
+"creator_pass_offer_code" = "优惠码";
+"creator_pass_how_it_works" = "使用方式";
+"creator_pass_open_creator_kit" = "打开创作者工具包";
+"creator_pass_open_creator_kit_text" = "选择一个内容创意，查看活动详情，并确保你的帖子包含正确的提及。";
+"creator_pass_post_tiktok" = "发布 FocusHero TikTok";
+"creator_pass_post_tiktok_text" = "展示真实的专注时刻：连续打卡、升级、学习布置、会话结果，或应用如何帮你开始。";
+"creator_pass_dm_title" = "私信 @pomodoro_hero";
+"creator_pass_dm_text" = "发送你的帖子链接并提及创作者通行证。审核通过的帖子可获得 Premium 优惠码。";
+"creator_pass_post_ideas" = "帖子创意";
+"creator_pass_streak_check" = "连续打卡";
+"creator_pass_level_up" = "升级";
+"creator_pass_focus_setup" = "专注布置";
+"creator_pass_session_result" = "会话结果";
+"creator_pass_dm_template" = "私信模板";
+"creator_pass_copied_dm_template" = "已复制私信模板";
+"creator_pass_copy_dm_template" = "复制私信模板";
+"creator_pass_dm_template_line_1" = "你好 FocusHero，我为创作者通行证制作了一条 TikTok：";
+"creator_pass_dm_template_paste_link" = "[粘贴你的 TikTok 链接]";
+"creator_pass_dm_template_line_3" = "可以帮我审核以获取 Premium 优惠码吗？";
+"creator_pass_kit_includes" = "创作者工具包包含";
+"creator_pass_ideas" = "创意";
+"creator_pass_pick_hook" = "选择开头钩子";
+"creator_pass_mention" = "提及";
+"creator_pass_link" = "链接";
+"creator_pass_send_proof" = "发送证明";
+"creator_pass_get_code" = "代码";
 
 // MARK: - Session Complete
 "session_complete" = "会话完成！";
@@ -795,6 +830,14 @@
 "light_dark_automatic" = "浅色、深色或自动";
 "glow_effects" = "发光效果";
 "glow_effects_description" = "发光效果（耗电更多）";
+"confetti" = "彩纸";
+"confetti_description" = "庆祝连续打卡和会话完成";
+"high_contrast_chips" = "高对比度标签";
+"high_contrast_chips_description" = "为计时器按钮使用更强的背景";
+"left_handed" = "左手模式";
+"left_handed_description" = "将计时器控件移到左侧";
+"time_since_indicator" = "Time Since 指示器";
+"time_since_indicator_description" = "在 Time Since 按钮上显示逾期圆点";
 "theme" = "主题";
 "theme_option_paper" = "纸张";
 "theme_option_default" = "默认";

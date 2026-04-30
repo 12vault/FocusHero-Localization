@@ -292,6 +292,7 @@
 
 // MARK: - Paywall
 "unlock_premium" = "プレミアムを解除";
+"get_full_access" = "Get Full Access";
 "start_free_trial" = "無料トライアルを開始";
 "yearly_plan" = "年間プラン";
 "lifetime_plan" = "ライフタイムアクセス";
@@ -319,6 +320,7 @@
 "terms_and_privacy" = "利用規約とプライバシー";
 "terms_of_use" = "利用規約";
 "cancel_anytime_no_commitment" = "いつでもキャンセル • 縛りなし";
+"cancel_at_any_time" = "いつでもキャンセル";
 "restore" = "復元";
 "no_purchases_restored" = "復元できる購入がありません";
 "tap_to_unlock" = "タップして解除";
@@ -342,6 +344,39 @@
 "paywall_special_offer" = "スペシャルオファー";
 "paywall_legal" = "法的情報";
 "paywall_redeem_code" = "コードを使用";
+"creator_pass" = "クリエイターパス";
+"creator_premium" = "クリエイター Premium";
+"creator_pass_premium_badge" = "PREMIUM";
+"creator_pass_turn_tiktok_into_premium" = "TikTokでPremiumを手に入れよう";
+"creator_pass_hero_description" = "FocusHeroのTikTokを作成し、投稿リンクを添えて@pomodoro_heroにDMしてください。選ばれた投稿にはPremiumオファーコードをお送りします。";
+"creator_pass_creator_kit" = "クリエイターキット";
+"creator_pass_dm_review" = "DM審査";
+"creator_pass_offer_code" = "オファーコード";
+"creator_pass_how_it_works" = "流れ";
+"creator_pass_open_creator_kit" = "クリエイターキットを開く";
+"creator_pass_open_creator_kit_text" = "コンテンツ案を選び、キャンペーン詳細を確認して、投稿に正しいメンションが含まれていることを確かめましょう。";
+"creator_pass_post_tiktok" = "FocusHeroのTikTokを投稿";
+"creator_pass_post_tiktok_text" = "ストリーク、レベルアップ、勉強環境、セッション結果、アプリが始めるきっかけになる場面など、実際の集中シーンを見せましょう。";
+"creator_pass_dm_title" = "@pomodoro_heroにDM";
+"creator_pass_dm_text" = "投稿リンクを送り、クリエイターパスについて伝えてください。承認された投稿にはPremiumオファーコードをお送りします。";
+"creator_pass_post_ideas" = "投稿アイデア";
+"creator_pass_streak_check" = "ストリーク確認";
+"creator_pass_level_up" = "レベルアップ";
+"creator_pass_focus_setup" = "集中セットアップ";
+"creator_pass_session_result" = "セッション結果";
+"creator_pass_dm_template" = "DMテンプレート";
+"creator_pass_copied_dm_template" = "DMテンプレートをコピーしました";
+"creator_pass_copy_dm_template" = "DMテンプレートをコピー";
+"creator_pass_dm_template_line_1" = "こんにちはFocusHero、クリエイターパス用のTikTokを作りました:";
+"creator_pass_dm_template_paste_link" = "[TikTokリンクを貼り付け]";
+"creator_pass_dm_template_line_3" = "Premiumオファーコードの対象として確認してもらえますか？";
+"creator_pass_kit_includes" = "クリエイターキットの内容";
+"creator_pass_ideas" = "アイデア";
+"creator_pass_pick_hook" = "フックを選ぶ";
+"creator_pass_mention" = "メンション";
+"creator_pass_link" = "リンク";
+"creator_pass_send_proof" = "証明を送信";
+"creator_pass_get_code" = "コード";
 
 // MARK: - Session Complete
 "session_complete" = "セッション完了！";
@@ -799,6 +834,14 @@
 "light_dark_automatic" = "ライト、ダーク、または自動";
 "glow_effects" = "グロー効果";
 "glow_effects_description" = "グロー効果（バッテリー消費増）";
+"confetti" = "紙吹雪";
+"confetti_description" = "ストリークやセッション完了をお祝いします";
+"high_contrast_chips" = "高コントラストチップ";
+"high_contrast_chips_description" = "タイマーボタンの背景を強調します";
+"left_handed" = "左利きモード";
+"left_handed_description" = "タイマー操作を左側に移動します";
+"time_since_indicator" = "Time Sinceインジケーター";
+"time_since_indicator_description" = "Time Sinceボタンに期限超過の点を表示します";
 "theme" = "テーマ";
 "theme_option_paper" = "ペーパー";
 "theme_option_default" = "デフォルト";

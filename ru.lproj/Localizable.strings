@@ -281,6 +281,7 @@
 
 // MARK: - Paywall
 "unlock_premium" = "Разблокировать Премиум";
+"get_full_access" = "Get Full Access";
 "start_free_trial" = "Начать бесплатный пробный период";
 "yearly_plan" = "Годовой план";
 "lifetime_plan" = "Пожизненный доступ";
@@ -308,6 +309,7 @@
 "terms_and_privacy" = "Условия и конфиденциальность";
 "terms_of_use" = "Условия использования";
 "cancel_anytime_no_commitment" = "Отмена в любое время • Без обязательств";
+"cancel_at_any_time" = "Отмена в любое время";
 "restore" = "Восстановить";
 "no_purchases_restored" = "Покупки не найдены";
 "tap_to_unlock" = "Нажмите для разблокировки";
@@ -330,6 +332,39 @@
 "paywall_special_offer" = "СПЕЦИАЛЬНОЕ ПРЕДЛОЖЕНИЕ";
 "paywall_legal" = "Правовая информация";
 "paywall_redeem_code" = "Активировать код";
+"creator_pass" = "Creator Pass";
+"creator_premium" = "Creator Premium";
+"creator_pass_premium_badge" = "PREMIUM";
+"creator_pass_turn_tiktok_into_premium" = "Превратите TikTok в Premium";
+"creator_pass_hero_description" = "Создайте TikTok о FocusHero, отправьте ссылку на пост в DM @pomodoro_hero, и выбранные публикации получат промокод Premium.";
+"creator_pass_creator_kit" = "Набор автора";
+"creator_pass_dm_review" = "Проверка в DM";
+"creator_pass_offer_code" = "Промокод";
+"creator_pass_how_it_works" = "Как это работает";
+"creator_pass_open_creator_kit" = "Открыть набор автора";
+"creator_pass_open_creator_kit_text" = "Выберите идею для контента, изучите детали кампании и убедитесь, что в публикации есть нужное упоминание.";
+"creator_pass_post_tiktok" = "Опубликуйте TikTok о FocusHero";
+"creator_pass_post_tiktok_text" = "Покажите реальный момент фокуса: серию, повышение уровня, учебное место, результат сессии или как приложение помогает начать.";
+"creator_pass_dm_title" = "DM @pomodoro_hero";
+"creator_pass_dm_text" = "Отправьте ссылку на пост и упомяните Creator Pass. Одобренные публикации получают промокод Premium.";
+"creator_pass_post_ideas" = "Идеи для поста";
+"creator_pass_streak_check" = "Проверка серии";
+"creator_pass_level_up" = "Повышение уровня";
+"creator_pass_focus_setup" = "Место для фокуса";
+"creator_pass_session_result" = "Результат сессии";
+"creator_pass_dm_template" = "Шаблон DM";
+"creator_pass_copied_dm_template" = "Шаблон DM скопирован";
+"creator_pass_copy_dm_template" = "Скопировать шаблон DM";
+"creator_pass_dm_template_line_1" = "Привет, FocusHero! Я сделал TikTok для Creator Pass:";
+"creator_pass_dm_template_paste_link" = "[вставьте ссылку на TikTok]";
+"creator_pass_dm_template_line_3" = "Можете проверить его для получения промокода Premium?";
+"creator_pass_kit_includes" = "В набор автора входит";
+"creator_pass_ideas" = "Идеи";
+"creator_pass_pick_hook" = "Выберите хук";
+"creator_pass_mention" = "Упоминание";
+"creator_pass_link" = "Ссылка";
+"creator_pass_send_proof" = "Отправить подтверждение";
+"creator_pass_get_code" = "код";
 
 // MARK: - Session Complete
 "session_complete" = "Сессия завершена!";
@@ -773,6 +808,14 @@
 "light_dark_automatic" = "Светлая, тёмная или автоматическая";
 "glow_effects" = "Эффекты свечения";
 "glow_effects_description" = "Эффект свечения (повышенный расход батареи)";
+"confetti" = "Конфетти";
+"confetti_description" = "Празднуйте серии и завершение сессий";
+"high_contrast_chips" = "Контрастные чипы";
+"high_contrast_chips_description" = "Более заметный фон для кнопок таймера";
+"left_handed" = "Для левшей";
+"left_handed_description" = "Переместить элементы управления таймером влево";
+"time_since_indicator" = "Индикатор Time Since";
+"time_since_indicator_description" = "Показывать точку просрочки на кнопке Time Since";
 "theme" = "Тема";
 "theme_option_paper" = "Бумага";
 "theme_option_default" = "По умолчанию";

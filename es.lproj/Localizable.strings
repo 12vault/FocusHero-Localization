@@ -291,6 +291,7 @@
 
 // MARK: - Paywall
 "unlock_premium" = "Desbloquear Premium";
+"get_full_access" = "Get Full Access";
 "start_free_trial" = "Iniciar prueba gratuita";
 "yearly_plan" = "Plan anual";
 "lifetime_plan" = "Acceso de por vida";
@@ -318,6 +319,7 @@
 "terms_and_privacy" = "Términos y privacidad";
 "terms_of_use" = "Términos de uso";
 "cancel_anytime_no_commitment" = "Cancela cuando quieras • Sin compromiso";
+"cancel_at_any_time" = "Cancela cuando quieras";
 "restore" = "Restaurar";
 "no_purchases_restored" = "No se encontraron compras";
 "tap_to_unlock" = "Toca para desbloquear";
@@ -341,6 +343,39 @@
 "paywall_special_offer" = "OFERTA ESPECIAL";
 "paywall_legal" = "Legal";
 "paywall_redeem_code" = "Canjear código";
+"creator_pass" = "Pase de creador";
+"creator_premium" = "Premium para creadores";
+"creator_pass_premium_badge" = "PREMIUM";
+"creator_pass_turn_tiktok_into_premium" = "Convierte TikTok en Premium";
+"creator_pass_hero_description" = "Crea un TikTok de FocusHero, envía un DM a @pomodoro_hero con el enlace de tu publicación y las publicaciones seleccionadas recibirán un código de oferta Premium.";
+"creator_pass_creator_kit" = "Kit de creador";
+"creator_pass_dm_review" = "Revisión por DM";
+"creator_pass_offer_code" = "Código de oferta";
+"creator_pass_how_it_works" = "Cómo funciona";
+"creator_pass_open_creator_kit" = "Abrir kit de creador";
+"creator_pass_open_creator_kit_text" = "Elige una idea de contenido, revisa los detalles de la campaña y asegúrate de que tu publicación incluya la mención correcta.";
+"creator_pass_post_tiktok" = "Publica un TikTok de FocusHero";
+"creator_pass_post_tiktok_text" = "Muestra un momento real de concentración: una racha, una subida de nivel, tu setup de estudio, el resultado de una sesión o cómo la app te ayuda a empezar.";
+"creator_pass_dm_title" = "DM a @pomodoro_hero";
+"creator_pass_dm_text" = "Envía el enlace de tu publicación y menciona el Pase de creador. Las publicaciones aprobadas reciben un código de oferta Premium.";
+"creator_pass_post_ideas" = "Ideas para publicar";
+"creator_pass_streak_check" = "Revisa tu racha";
+"creator_pass_level_up" = "Subida de nivel";
+"creator_pass_focus_setup" = "Setup de enfoque";
+"creator_pass_session_result" = "Resultado de sesión";
+"creator_pass_dm_template" = "Plantilla de DM";
+"creator_pass_copied_dm_template" = "Plantilla de DM copiada";
+"creator_pass_copy_dm_template" = "Copiar plantilla de DM";
+"creator_pass_dm_template_line_1" = "Hola FocusHero, hice un TikTok para el Pase de creador:";
+"creator_pass_dm_template_paste_link" = "[pega tu enlace de TikTok]";
+"creator_pass_dm_template_line_3" = "¿Podrían revisarlo para recibir un código de oferta Premium?";
+"creator_pass_kit_includes" = "El kit de creador incluye";
+"creator_pass_ideas" = "Ideas";
+"creator_pass_pick_hook" = "Elige un gancho";
+"creator_pass_mention" = "Mención";
+"creator_pass_link" = "Enlace";
+"creator_pass_send_proof" = "Enviar prueba";
+"creator_pass_get_code" = "código";
 
 // MARK: - Session Complete
 "session_complete" = "¡Sesión completada!";
@@ -798,6 +833,14 @@
 "light_dark_automatic" = "Claro, oscuro o automático";
 "glow_effects" = "Efectos de brillo";
 "glow_effects_description" = "Efecto de brillo (consume más batería)";
+"confetti" = "Confeti";
+"confetti_description" = "Celebra rachas y sesiones completadas";
+"high_contrast_chips" = "Chips de alto contraste";
+"high_contrast_chips_description" = "Fondo más fuerte para los botones del temporizador";
+"left_handed" = "Modo zurdo";
+"left_handed_description" = "Mueve los controles del temporizador al lado izquierdo";
+"time_since_indicator" = "Indicador de Time Since";
+"time_since_indicator_description" = "Muestra un punto de atraso en el botón Time Since";
 "theme" = "Tema";
 "theme_option_paper" = "Papel";
 "theme_option_default" = "Predeterminado";
