@@ -56,6 +56,7 @@
 "reset_journey_confirmation" = "「%@」のヒーロージャーニーを完全にリセットしますか？\n\nすべての進捗（%@）が削除されます。このジャーニーはこのタグで新しいセッションを完了したときのみ再表示されます。";
 "edit_hours_required" = "必要時間を編集";
 "reset_to_default" = "デフォルトにリセット";
+"auto_adjust_levels" = "レベルを自動調整";
 "edit_hours_message" = "レベル%d（%@）に必要なカスタム時間を設定";
 
 // MARK: - Tags
@@ -83,6 +84,7 @@
 "complete_todo" = "Todoを完了";
 "incomplete_todo" = "Todoを未完了に戻す";
 "delete_todo" = "Todoを削除";
+"todo_delete_confirmation" = "選択したTodoは完全に削除されます。";
 "no_todos" = "Todoはまだありません";
 "add_todo_description" = "集中セッション中に整理するためにTodoを追加しましょう";
 
@@ -90,6 +92,9 @@
 "statistics" = "統計";
 "chart" = "チャート";
 "calendar" = "カレンダー";
+"demo_chart_premium_banner" = "これはデモチャートです。FocusHero Premiumで解除できます。";
+"demo_habit_tracker_premium_banner" = "これはデモ習慣トラッカーです。FocusHero Premiumで解除できます。";
+"try_free" = "無料で試す";
 
 // MARK: - Settings
 "session_times" = "セッション時間";
@@ -104,7 +109,7 @@
 "onboarding" = "オンボーディング";
 "show_onboarding" = "オンボーディングを表示";
 "review_getting_started" = "はじめる手順を確認";
-"reset_options" = "リセットオプション";
+"reset_options" = "危険ゾーン";
 "review_past_focus_sessions" = "過去の集中セッションを確認";
 "how_it_works" = "使い方";
 "learn_how_to_become_hero" = "ヒーローになる方法を学ぶ";

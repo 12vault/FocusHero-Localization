@@ -56,6 +56,7 @@
 "reset_journey_confirmation" = "确定要完全重置你的\"%@\"英雄旅程吗？\n\n这将删除所有进度（%@）。只有当你用此标签完成新会话时，旅程才会重新出现。";
 "edit_hours_required" = "编辑所需时间";
 "reset_to_default" = "重置为默认";
+"auto_adjust_levels" = "自动调整等级";
 "edit_hours_message" = "设置达到第%d级（%@）所需的自定义时间";
 
 // MARK: - Tags
@@ -83,6 +84,7 @@
 "complete_todo" = "完成待办";
 "incomplete_todo" = "未完成待办";
 "delete_todo" = "删除待办";
+"todo_delete_confirmation" = "所选待办将被永久删除。";
 "no_todos" = "暂无待办事项";
 "add_todo_description" = "添加待办事项，让专注时段更有条理";
 
@@ -90,6 +92,9 @@
 "statistics" = "统计";
 "chart" = "图表";
 "calendar" = "日历";
+"demo_chart_premium_banner" = "这是演示图表。使用 FocusHero Premium 解锁。";
+"demo_habit_tracker_premium_banner" = "这是演示习惯追踪器。使用 FocusHero Premium 解锁。";
+"try_free" = "免费试用";
 
 // MARK: - Settings
 "session_times" = "会话时间";
@@ -104,7 +109,7 @@
 "onboarding" = "引导";
 "show_onboarding" = "显示引导";
 "review_getting_started" = "回顾入门指南";
-"reset_options" = "重置选项";
+"reset_options" = "危险区域";
 "review_past_focus_sessions" = "回顾过去的专注会话";
 "how_it_works" = "使用方式";
 "learn_how_to_become_hero" = "了解如何成为英雄";

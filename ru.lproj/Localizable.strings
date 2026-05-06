@@ -56,6 +56,7 @@
 "reset_journey_confirmation" = "Вы уверены, что хотите полностью сбросить путь героя \"%@\"?\n\nЭто удалит весь прогресс (%@). Путь появится снова, только когда вы завершите новые сессии с этим тегом.";
 "edit_hours_required" = "Изменить требуемые часы";
 "reset_to_default" = "Сбросить по умолчанию";
+"auto_adjust_levels" = "Автонастройка уровней";
 "edit_hours_message" = "Укажите количество часов для достижения уровня %d: %@";
 
 // MARK: - Tags
@@ -83,6 +84,7 @@
 "complete_todo" = "Завершить задачу";
 "incomplete_todo" = "Отменить выполнение";
 "delete_todo" = "Удалить задачу";
+"todo_delete_confirmation" = "Выбранные задачи будут удалены навсегда.";
 "no_todos" = "Нет задач";
 "add_todo_description" = "Добавляйте задачи для организации фокус-сессий";
 
@@ -90,6 +92,9 @@
 "statistics" = "Статистика";
 "chart" = "График";
 "calendar" = "Календарь";
+"demo_chart_premium_banner" = "Это демо-график. Откройте его с FocusHero Premium.";
+"demo_habit_tracker_premium_banner" = "Это демо-трекер привычек. Откройте его с FocusHero Premium.";
+"try_free" = "Попробовать бесплатно";
 
 // MARK: - Settings
 "session_times" = "Длительность сессий";
@@ -104,7 +109,7 @@
 "onboarding" = "Знакомство";
 "show_onboarding" = "Показать знакомство";
 "review_getting_started" = "Пересмотреть руководство по началу работы";
-"reset_options" = "Параметры сброса";
+"reset_options" = "Опасная зона";
 "review_past_focus_sessions" = "Просмотрите прошлые фокус-сессии";
 "how_it_works" = "Как это работает";
 "learn_how_to_become_hero" = "Узнайте, как стать Героем";

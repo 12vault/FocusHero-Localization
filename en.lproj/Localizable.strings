@@ -56,6 +56,7 @@
 "reset_journey_confirmation" = "Are you sure you want to completely reset your \"%@\" hero journey?\n\nThis will remove all progress (%@). The journey will only reappear when you complete new sessions with this tag.";
 "edit_hours_required" = "Edit Hours Required";
 "reset_to_default" = "Reset to Default";
+"auto_adjust_levels" = "Auto-Adjust Levels";
 "edit_hours_message" = "Set custom hours needed to reach Level %d: %@";
 
 // MARK: - Tags
@@ -83,6 +84,7 @@
 "complete_todo" = "Complete Todo";
 "incomplete_todo" = "Incomplete Todo";
 "delete_todo" = "Delete Todo";
+"todo_delete_confirmation" = "Selected todos will be permanently deleted.";
 "no_todos" = "No todos yet";
 "add_todo_description" = "Add todos to stay organized during your focus sessions";
 
@@ -90,6 +92,9 @@
 "statistics" = "Statistics";
 "chart" = "Chart";
 "calendar" = "Calendar";
+"demo_chart_premium_banner" = "This is a demo chart. Unlock it with FocusHero Premium.";
+"demo_habit_tracker_premium_banner" = "This is a demo habit tracker. Unlock it with FocusHero Premium.";
+"try_free" = "Try Free";
 
 // MARK: - Settings
 "session_times" = "Session Times";
@@ -104,7 +109,7 @@
 "onboarding" = "Onboarding";
 "show_onboarding" = "Show Onboarding";
 "review_getting_started" = "Review the getting started guide";
-"reset_options" = "Reset Options";
+"reset_options" = "Danger Zone";
 "review_past_focus_sessions" = "Review your past focus sessions";
 "how_it_works" = "How it works";
 "learn_how_to_become_hero" = "Learn how to become a Hero";

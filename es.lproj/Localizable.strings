@@ -56,6 +56,7 @@
 "reset_journey_confirmation" = "¿Seguro que quieres reiniciar tu aventura \"%@\"?\n\nSe eliminará todo el progreso (%@). La aventura solo reaparecerá cuando completes nuevas sesiones con esta etiqueta.";
 "edit_hours_required" = "Editar horas requeridas";
 "reset_to_default" = "Restablecer predeterminado";
+"auto_adjust_levels" = "Autoajustar niveles";
 "edit_hours_message" = "Establece las horas personalizadas para alcanzar el Nivel %d: %@";
 
 // MARK: - Tags
@@ -83,6 +84,7 @@
 "complete_todo" = "Completar tarea";
 "incomplete_todo" = "Marcar incompleta";
 "delete_todo" = "Eliminar tarea";
+"todo_delete_confirmation" = "Las tareas seleccionadas se eliminarán permanentemente.";
 "no_todos" = "Sin tareas aún";
 "add_todo_description" = "Agrega tareas para mantenerte organizado durante tus sesiones";
 
@@ -90,6 +92,9 @@
 "statistics" = "Estadísticas";
 "chart" = "Gráfico";
 "calendar" = "Calendario";
+"demo_chart_premium_banner" = "Este es un gráfico de demostración. Desbloquéalo con FocusHero Premium.";
+"demo_habit_tracker_premium_banner" = "Este es un rastreador de hábitos de demostración. Desbloquéalo con FocusHero Premium.";
+"try_free" = "Probar gratis";
 
 // MARK: - Settings
 "session_times" = "Tiempos de sesión";
@@ -104,7 +109,7 @@
 "onboarding" = "Introducción";
 "show_onboarding" = "Mostrar introducción";
 "review_getting_started" = "Revisar la guía de inicio";
-"reset_options" = "Opciones de restablecimiento";
+"reset_options" = "Zona de peligro";
 "review_past_focus_sessions" = "Revisa tus sesiones de enfoque pasadas";
 "how_it_works" = "Cómo funciona";
 "learn_how_to_become_hero" = "Aprende cómo convertirte en un héroe";
