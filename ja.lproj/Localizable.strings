@@ -37,6 +37,8 @@
 "hero_journeys" = "ヒーロージャーニー";
 "select_hero_journey" = "ヒーロージャーニーを選択";
 "general" = "一般";
+"progress" = "進捗";
+"time_left" = "残り";
 "next_level_progress" = "次のレベルへの進捗";
 "hours" = "時間";
 "maximum_level_reached" = "🎉 最高レベルに到達！";
@@ -92,8 +94,9 @@
 "statistics" = "統計";
 "chart" = "チャート";
 "calendar" = "カレンダー";
-"demo_chart_premium_banner" = "これはデモチャートです。FocusHero Premiumで解除できます。";
-"demo_habit_tracker_premium_banner" = "これはデモ習慣トラッカーです。FocusHero Premiumで解除できます。";
+"demo_chart_premium_banner" = "これはデモチャートです。FocusHero Premiumですべての機能を解除できます。";
+"demo_habit_tracker_premium_banner" = "これはデモ習慣トラッカーです。FocusHero Premiumですべての機能を解除できます。";
+"demo_time_blocks_premium_banner" = "これはデモスケジュールです。FocusHero Premiumでタイムブロックを解除できます。";
 "try_free" = "無料で試す";
 
 // MARK: - Settings
@@ -349,6 +352,21 @@
 "paywall_special_offer" = "スペシャルオファー";
 "paywall_legal" = "法的情報";
 "paywall_redeem_code" = "コードを使用";
+"special_offer_lifetime_premium" = "ライフタイム Premium";
+"special_offer_save_format" = "%d%%オフ";
+"special_offer_review_awesome_title" = "最高のポモドーロアプリ";
+"special_offer_review_awesome_text" = "インターフェイスがすっきりしていて、シンプルで使いやすいです。開発者に大きな拍手を。";
+"special_offer_review_awesome_author" = "Aaron J. 🇺🇸";
+"special_offer_review_perfect_title" = "本当に完璧";
+"special_offer_review_perfect_text" = "必要なものがすべて揃っていて、とても直感的です。本当に完璧です。";
+"special_offer_review_perfect_author" = "nadiasona 🇦🇷";
+"special_offer_rating_app_store" = "App Storeで4.9";
+"special_offer_premium_unlocked" = "すべてのPremiumをアンロック";
+"special_offer_future_improvements" = "今後のPremium改善もすべて含まれます";
+"special_offer_no_recurring_billing" = "週額・年額の請求はもうありません";
+"special_offer_expires_in" = "オファー終了まで";
+"special_offer_claim_lifetime" = "ライフタイム Premiumを受け取る";
+"special_offer_claim_subtitle" = "ボックスを開けて、Premiumをずっと使い続けましょう。";
 "creator_pass" = "クリエイターパス";
 "creator_premium" = "クリエイター Premium";
 "creator_pass_premium_badge" = "PREMIUM";

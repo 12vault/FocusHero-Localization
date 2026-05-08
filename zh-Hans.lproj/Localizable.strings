@@ -37,6 +37,8 @@
 "hero_journeys" = "英雄旅程";
 "select_hero_journey" = "选择英雄旅程";
 "general" = "通用";
+"progress" = "进度";
+"time_left" = "剩余";
 "next_level_progress" = "下一等级进度";
 "hours" = "小时";
 "maximum_level_reached" = "🎉 已达最高等级！";
@@ -92,8 +94,9 @@
 "statistics" = "统计";
 "chart" = "图表";
 "calendar" = "日历";
-"demo_chart_premium_banner" = "这是演示图表。使用 FocusHero Premium 解锁。";
-"demo_habit_tracker_premium_banner" = "这是演示习惯追踪器。使用 FocusHero Premium 解锁。";
+"demo_chart_premium_banner" = "这是演示图表。使用 FocusHero Premium 解锁所有功能。";
+"demo_habit_tracker_premium_banner" = "这是演示习惯追踪器。使用 FocusHero Premium 解锁所有功能。";
+"demo_time_blocks_premium_banner" = "这是演示日程。使用 FocusHero Premium 解锁时间块。";
 "try_free" = "免费试用";
 
 // MARK: - Settings
@@ -349,6 +352,21 @@
 "paywall_special_offer" = "特别优惠";
 "paywall_legal" = "法律信息";
 "paywall_redeem_code" = "兑换码";
+"special_offer_lifetime_premium" = "终身 Premium";
+"special_offer_save_format" = "节省 %d%%";
+"special_offer_review_awesome_title" = "超棒的番茄钟应用";
+"special_offer_review_awesome_text" = "界面清爽、简单、易用。向开发者致敬。";
+"special_offer_review_awesome_author" = "Aaron J. 🇺🇸";
+"special_offer_review_perfect_title" = "刚刚好";
+"special_offer_review_perfect_text" = "它拥有你需要的一切，而且非常直观。真的很完美。";
+"special_offer_review_perfect_author" = "nadiasona 🇦🇷";
+"special_offer_rating_app_store" = "App Store 4.9分";
+"special_offer_premium_unlocked" = "解锁全部 Premium";
+"special_offer_future_improvements" = "包含未来所有 Premium 改进";
+"special_offer_no_recurring_billing" = "不再有每周或每年扣费";
+"special_offer_expires_in" = "优惠结束倒计时";
+"special_offer_claim_lifetime" = "领取终身 Premium";
+"special_offer_claim_subtitle" = "打开盒子，永久保留 Premium。";
 "creator_pass" = "创作者通行证";
 "creator_premium" = "创作者 Premium";
 "creator_pass_premium_badge" = "PREMIUM";

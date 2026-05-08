@@ -37,6 +37,8 @@
 "hero_journeys" = "Aventuras de héroe";
 "select_hero_journey" = "Seleccionar aventura";
 "general" = "General";
+"progress" = "Progreso";
+"time_left" = "restantes";
 "next_level_progress" = "Progreso al siguiente nivel";
 "hours" = "horas";
 "maximum_level_reached" = "🎉 ¡Nivel máximo alcanzado!";
@@ -92,8 +94,9 @@
 "statistics" = "Estadísticas";
 "chart" = "Gráfico";
 "calendar" = "Calendario";
-"demo_chart_premium_banner" = "Este es un gráfico de demostración. Desbloquéalo con FocusHero Premium.";
-"demo_habit_tracker_premium_banner" = "Este es un rastreador de hábitos de demostración. Desbloquéalo con FocusHero Premium.";
+"demo_chart_premium_banner" = "Este es un gráfico de demostración. Desbloquea todas las funciones con FocusHero Premium.";
+"demo_habit_tracker_premium_banner" = "Este es un rastreador de hábitos de demostración. Desbloquea todas las funciones con FocusHero Premium.";
+"demo_time_blocks_premium_banner" = "Este es un horario de demostración. Desbloquea bloques de tiempo con FocusHero Premium.";
 "try_free" = "Probar gratis";
 
 // MARK: - Settings
@@ -348,6 +351,21 @@
 "paywall_special_offer" = "OFERTA ESPECIAL";
 "paywall_legal" = "Legal";
 "paywall_redeem_code" = "Canjear código";
+"special_offer_lifetime_premium" = "Premium de por vida";
+"special_offer_save_format" = "AHORRA %d%%";
+"special_offer_review_awesome_title" = "Excelente app Pomodoro";
+"special_offer_review_awesome_text" = "La interfaz es limpia, simple y fácil de usar. Un gran reconocimiento para el desarrollador.";
+"special_offer_review_awesome_author" = "Aaron J. 🇺🇸";
+"special_offer_review_perfect_title" = "Simplemente perfecta";
+"special_offer_review_perfect_text" = "Tiene todo lo que necesitas y es muy intuitiva. Sinceramente perfecta.";
+"special_offer_review_perfect_author" = "nadiasona 🇦🇷";
+"special_offer_rating_app_store" = "4.9 en App Store";
+"special_offer_premium_unlocked" = "Todo Premium desbloqueado";
+"special_offer_future_improvements" = "Incluye todas las futuras mejoras Premium";
+"special_offer_no_recurring_billing" = "Sin cobros semanales ni anuales otra vez";
+"special_offer_expires_in" = "La oferta termina en";
+"special_offer_claim_lifetime" = "Reclamar Premium de por vida";
+"special_offer_claim_subtitle" = "Abre la caja y conserva Premium para siempre.";
 "creator_pass" = "Pase de creador";
 "creator_premium" = "Premium para creadores";
 "creator_pass_premium_badge" = "PREMIUM";

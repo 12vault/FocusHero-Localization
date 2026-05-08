@@ -37,6 +37,8 @@
 "hero_journeys" = "Hero Journeys";
 "select_hero_journey" = "Select Hero Journey";
 "general" = "General";
+"progress" = "Progress";
+"time_left" = "left";
 "next_level_progress" = "Next Level Progress";
 "hours" = "hours";
 "maximum_level_reached" = "🎉 Maximum level reached!";
@@ -92,8 +94,9 @@
 "statistics" = "Statistics";
 "chart" = "Chart";
 "calendar" = "Calendar";
-"demo_chart_premium_banner" = "This is a demo chart. Unlock it with FocusHero Premium.";
-"demo_habit_tracker_premium_banner" = "This is a demo habit tracker. Unlock it with FocusHero Premium.";
+"demo_chart_premium_banner" = "This is a demo chart. Unlock all features with FocusHero Premium.";
+"demo_habit_tracker_premium_banner" = "This is a demo habit tracker. Unlock all features with FocusHero Premium.";
+"demo_time_blocks_premium_banner" = "This is a demo schedule. Unlock time blocks with FocusHero Premium.";
 "try_free" = "Try Free";
 
 // MARK: - Settings
@@ -349,6 +352,21 @@
 "paywall_special_offer" = "SPECIAL OFFER";
 "paywall_legal" = "Legal";
 "paywall_redeem_code" = "Redeem Code";
+"special_offer_lifetime_premium" = "Lifetime Premium";
+"special_offer_save_format" = "SAVE %d%%";
+"special_offer_review_awesome_title" = "Awesome Pomodoro App";
+"special_offer_review_awesome_text" = "The interface is clean, simple, and easy to use. Huge shout-out to the developer.";
+"special_offer_review_awesome_author" = "Aaron J. 🇺🇸";
+"special_offer_review_perfect_title" = "Just perfect";
+"special_offer_review_perfect_text" = "It has everything you need and it is super intuitive. Honestly perfect.";
+"special_offer_review_perfect_author" = "nadiasona 🇦🇷";
+"special_offer_rating_app_store" = "4.9 on the App Store";
+"special_offer_premium_unlocked" = "Everything Premium unlocked";
+"special_offer_future_improvements" = "All future Premium improvements included";
+"special_offer_no_recurring_billing" = "No weekly or yearly billing again";
+"special_offer_expires_in" = "Offer expires in";
+"special_offer_claim_lifetime" = "Claim Lifetime Premium";
+"special_offer_claim_subtitle" = "Open the box and keep Premium forever.";
 "creator_pass" = "Creator Pass";
 "creator_premium" = "Creator Premium";
 "creator_pass_premium_badge" = "PREMIUM";

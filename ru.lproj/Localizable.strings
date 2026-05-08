@@ -37,6 +37,8 @@
 "hero_journeys" = "Пути героя";
 "select_hero_journey" = "Выбрать путь героя";
 "general" = "Общее";
+"progress" = "Прогресс";
+"time_left" = "осталось";
 "next_level_progress" = "Прогресс до следующего уровня";
 "hours" = "часов";
 "maximum_level_reached" = "🎉 Максимальный уровень достигнут!";
@@ -92,8 +94,9 @@
 "statistics" = "Статистика";
 "chart" = "График";
 "calendar" = "Календарь";
-"demo_chart_premium_banner" = "Это демо-график. Откройте его с FocusHero Premium.";
-"demo_habit_tracker_premium_banner" = "Это демо-трекер привычек. Откройте его с FocusHero Premium.";
+"demo_chart_premium_banner" = "Это демо-график. Откройте все функции с FocusHero Premium.";
+"demo_habit_tracker_premium_banner" = "Это демо-трекер привычек. Откройте все функции с FocusHero Premium.";
+"demo_time_blocks_premium_banner" = "Это демо-расписание. Откройте тайм-блоки с FocusHero Premium.";
 "try_free" = "Попробовать бесплатно";
 
 // MARK: - Settings
@@ -337,6 +340,21 @@
 "paywall_special_offer" = "СПЕЦИАЛЬНОЕ ПРЕДЛОЖЕНИЕ";
 "paywall_legal" = "Правовая информация";
 "paywall_redeem_code" = "Активировать код";
+"special_offer_lifetime_premium" = "Premium навсегда";
+"special_offer_save_format" = "СКИДКА %d%%";
+"special_offer_review_awesome_title" = "Отличное Pomodoro-приложение";
+"special_offer_review_awesome_text" = "Интерфейс чистый, простой и удобный. Большое спасибо разработчику.";
+"special_offer_review_awesome_author" = "Aaron J. 🇺🇸";
+"special_offer_review_perfect_title" = "Просто идеально";
+"special_offer_review_perfect_text" = "В нем есть все, что нужно, и оно очень интуитивное. Честно, идеально.";
+"special_offer_review_perfect_author" = "nadiasona 🇦🇷";
+"special_offer_rating_app_store" = "4.9 в App Store";
+"special_offer_premium_unlocked" = "Все Premium-функции разблокированы";
+"special_offer_future_improvements" = "Все будущие улучшения Premium включены";
+"special_offer_no_recurring_billing" = "Больше никаких еженедельных или годовых списаний";
+"special_offer_expires_in" = "Предложение истекает через";
+"special_offer_claim_lifetime" = "Получить Premium навсегда";
+"special_offer_claim_subtitle" = "Откройте коробку и сохраните Premium навсегда.";
 "creator_pass" = "Creator Pass";
 "creator_premium" = "Creator Premium";
 "creator_pass_premium_badge" = "PREMIUM";
