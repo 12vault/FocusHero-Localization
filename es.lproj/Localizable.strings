@@ -349,6 +349,7 @@
 "paywall_per_year_format" = "%@/año";
 "paywall_limited_offer" = "OFERTA LIMITADA";
 "paywall_special_offer" = "OFERTA ESPECIAL";
+"paywall_special_offer_countdown_label" = "Oferta especial:";
 "paywall_legal" = "Legal";
 "paywall_redeem_code" = "Canjear código";
 "special_offer_lifetime_premium" = "Premium de por vida";
@@ -874,6 +875,10 @@
 "sound" = "Sonido";
 "session_complete_sound" = "Sonido de sesión completada";
 "play_sound_when_timer_finishes" = "Reproducir sonido al finalizar el temporizador";
+"session_end_haptics" = "Hápticos al terminar la sesión";
+"session_end_haptics_description" = "Vibrar cuando termina una sesión";
+"continuous_focus_end_vibration" = "Vibración continua de concentración";
+"continuous_focus_end_vibration_description" = "Usar una vibración más larga al terminar la concentración";
 "native_alarm_overrides_sound" = "La alarma nativa está activada y anulará este sonido";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "Ocultar aplicaciones durante la sesión";
@@ -888,6 +893,8 @@
 "app_icon_aurora_subtitle" = "Energía fresca";
 "app_icon_light" = "Claro";
 "app_icon_light_subtitle" = "Tema claro";
+"app_icon_sunrise" = "Amanecer";
+"app_icon_neon" = "Neón";
 "app_icon_change_failed" = "No se pudo cambiar el icono";
 "app_icon_unsupported" = "Los iconos alternativos no están disponibles en este dispositivo.";
 "alarm_permission_required" = "Permiso de alarma requerido";
@@ -1287,3 +1294,4 @@
 "session_note_placeholder" = "¿En qué estás trabajando?";
 "remove_session" = "Eliminar sesión";
 "remove_session_message" = "Esto eliminará la sesión y revertirá tu progreso.";
+"slide_to_close" = "Desliza para cerrar";

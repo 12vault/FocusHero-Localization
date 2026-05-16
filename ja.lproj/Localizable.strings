@@ -350,6 +350,7 @@
 "paywall_per_year_format" = "%@/年";
 "paywall_limited_offer" = "期間限定オファー";
 "paywall_special_offer" = "スペシャルオファー";
+"paywall_special_offer_countdown_label" = "スペシャルオファー：";
 "paywall_legal" = "法的情報";
 "paywall_redeem_code" = "コードを使用";
 "special_offer_lifetime_premium" = "ライフタイム Premium";
@@ -875,6 +876,10 @@
 "sound" = "サウンド";
 "session_complete_sound" = "セッション完了サウンド";
 "play_sound_when_timer_finishes" = "タイマー終了時にサウンドを再生";
+"session_end_haptics" = "セッション終了時の触覚";
+"session_end_haptics_description" = "セッション終了時に振動";
+"continuous_focus_end_vibration" = "集中終了時の連続振動";
+"continuous_focus_end_vibration_description" = "集中終了時に長めの振動を使う";
 "native_alarm_overrides_sound" = "ネイティブアラームが有効でこのサウンドを上書きします";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "集中セッション中にアプリを非表示";
@@ -889,6 +894,8 @@
 "app_icon_aurora_subtitle" = "新鮮な活力";
 "app_icon_light" = "ライト";
 "app_icon_light_subtitle" = "ライトテーマ";
+"app_icon_sunrise" = "サンライズ";
+"app_icon_neon" = "ネオン";
 "app_icon_change_failed" = "アイコンを変更できませんでした";
 "app_icon_unsupported" = "このデバイスでは代替アプリアイコンを利用できません。";
 "alarm_permission_required" = "アラーム権限が必要";
@@ -1288,3 +1295,4 @@
 "session_note_placeholder" = "今取り組んでいることは？";
 "remove_session" = "セッションを削除";
 "remove_session_message" = "この操作によりセッションが削除され、進捗が巻き戻されます。";
+"slide_to_close" = "スライドして閉じる";

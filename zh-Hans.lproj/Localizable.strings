@@ -350,6 +350,7 @@
 "paywall_per_year_format" = "%@/年";
 "paywall_limited_offer" = "限时优惠";
 "paywall_special_offer" = "特别优惠";
+"paywall_special_offer_countdown_label" = "特别优惠：";
 "paywall_legal" = "法律信息";
 "paywall_redeem_code" = "兑换码";
 "special_offer_lifetime_premium" = "终身 Premium";
@@ -871,6 +872,10 @@
 "sound" = "声音";
 "session_complete_sound" = "专注完成声音";
 "play_sound_when_timer_finishes" = "计时器结束时播放声音";
+"session_end_haptics" = "会话结束触感";
+"session_end_haptics_description" = "会话结束时振动";
+"continuous_focus_end_vibration" = "专注结束连续振动";
+"continuous_focus_end_vibration_description" = "专注结束时使用更长振动";
 "native_alarm_overrides_sound" = "原生闹钟已启用并将覆盖此声音";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "专注期间隐藏应用";
@@ -885,6 +890,8 @@
 "app_icon_aurora_subtitle" = "清新能量";
 "app_icon_light" = "浅色";
 "app_icon_light_subtitle" = "浅色主题";
+"app_icon_sunrise" = "日出";
+"app_icon_neon" = "霓虹";
 "app_icon_change_failed" = "无法更换图标";
 "app_icon_unsupported" = "此设备不支持备用 App 图标。";
 "alarm_permission_required" = "需要闹钟权限";
@@ -1288,3 +1295,4 @@
 "session_note_placeholder" = "你现在在做什么？";
 "remove_session" = "移除会话";
 "remove_session_message" = "这将移除该会话并回退你的进度。";
+"slide_to_close" = "滑动关闭";

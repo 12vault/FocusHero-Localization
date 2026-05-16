@@ -583,6 +583,7 @@
 "paywall_per_year_format" = "%@/년";
 "paywall_limited_offer" = "기간 한정 오퍼";
 "paywall_special_offer" = "스페셜 오퍼";
+"paywall_special_offer_countdown_label" = "스페셜 오퍼:";
 "paywall_legal" = "법적 고지";
 "paywall_redeem_code" = "코드 사용";
 "special_offer_lifetime_premium" = "평생 프리미엄";
@@ -804,6 +805,10 @@
 "sound" = "소리";
 "session_complete_sound" = "세션 완료 소리";
 "play_sound_when_timer_finishes" = "타이머 종료 시 소리 재생";
+"session_end_haptics" = "세션 종료 햅틱";
+"session_end_haptics_description" = "세션이 끝나면 진동";
+"continuous_focus_end_vibration" = "집중 종료 연속 진동";
+"continuous_focus_end_vibration_description" = "집중이 끝나면 더 긴 진동을 사용";
 "native_alarm_overrides_sound" = "네이티브 알람이 활성화되어 이 소리를 대체합니다";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "집중 세션 중 앱 숨기기";
@@ -818,6 +823,8 @@
 "app_icon_aurora_subtitle" = "산뜻한 에너지";
 "app_icon_light" = "라이트";
 "app_icon_light_subtitle" = "라이트 테마";
+"app_icon_sunrise" = "선라이즈";
+"app_icon_neon" = "네온";
 "app_icon_change_failed" = "아이콘을 변경할 수 없음";
 "app_icon_unsupported" = "이 기기에서는 대체 앱 아이콘을 사용할 수 없습니다.";
 "alarm_permission_required" = "알람 권한 필요";
@@ -1217,3 +1224,4 @@
 "session_note_placeholder" = "지금 무엇을 하고 있나요?";
 "remove_session" = "세션 삭제";
 "remove_session_message" = "이 작업을 하면 세션이 삭제되고 진행 상황이 되돌아갑니다.";
+"slide_to_close" = "밀어서 닫기";

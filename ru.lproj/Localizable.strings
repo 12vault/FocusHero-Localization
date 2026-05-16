@@ -338,6 +338,7 @@
 "paywall_per_year_format" = "%@/год";
 "paywall_limited_offer" = "ОГРАНИЧЕННОЕ ПРЕДЛОЖЕНИЕ";
 "paywall_special_offer" = "СПЕЦИАЛЬНОЕ ПРЕДЛОЖЕНИЕ";
+"paywall_special_offer_countdown_label" = "Специальное предложение:";
 "paywall_legal" = "Правовая информация";
 "paywall_redeem_code" = "Активировать код";
 "special_offer_lifetime_premium" = "Premium навсегда";
@@ -849,6 +850,10 @@
 "sound" = "Звук";
 "session_complete_sound" = "Звук завершения сессии";
 "play_sound_when_timer_finishes" = "Воспроизводить звук по окончании таймера";
+"session_end_haptics" = "Тактильный сигнал в конце сессии";
+"session_end_haptics_description" = "Вибрировать по окончании сессии";
+"continuous_focus_end_vibration" = "Непрерывная вибрация фокуса";
+"continuous_focus_end_vibration_description" = "Использовать более долгую вибрацию в конце фокуса";
 "native_alarm_overrides_sound" = "Встроенный будильник включён и заменит этот звук";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "Скрывать приложения во время сессии";
@@ -863,6 +868,8 @@
 "app_icon_aurora_subtitle" = "Свежая энергия";
 "app_icon_light" = "Светлая";
 "app_icon_light_subtitle" = "Светлая тема";
+"app_icon_sunrise" = "Рассвет";
+"app_icon_neon" = "Неон";
 "app_icon_change_failed" = "Не удалось сменить иконку";
 "app_icon_unsupported" = "Альтернативные иконки недоступны на этом устройстве.";
 "alarm_permission_required" = "Требуется разрешение на будильник";
@@ -1266,3 +1273,4 @@
 "session_note_placeholder" = "Над чем вы работаете?";
 "remove_session" = "Удалить сессию";
 "remove_session_message" = "Это удалит сессию и откатит ваш прогресс.";
+"slide_to_close" = "Сдвиньте, чтобы закрыть";

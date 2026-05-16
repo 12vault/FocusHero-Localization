@@ -350,6 +350,7 @@
 "paywall_per_year_format" = "%@/year";
 "paywall_limited_offer" = "LIMITED OFFER";
 "paywall_special_offer" = "SPECIAL OFFER";
+"paywall_special_offer_countdown_label" = "Special Offer:";
 "paywall_legal" = "Legal";
 "paywall_redeem_code" = "Redeem Code";
 "special_offer_lifetime_premium" = "Lifetime Premium";
@@ -874,6 +875,10 @@
 "sound" = "Sound";
 "session_complete_sound" = "Session Complete Sound";
 "play_sound_when_timer_finishes" = "Play a sound when timer finishes";
+"session_end_haptics" = "Session End Haptics";
+"session_end_haptics_description" = "Vibrate when a session ends";
+"continuous_focus_end_vibration" = "Continuous Focus Vibration";
+"continuous_focus_end_vibration_description" = "Use a longer vibration when focus ends";
 "native_alarm_overrides_sound" = "Native Alarm is enabled and will override this sound";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "Restrict app access during focus sessions";
@@ -888,6 +893,8 @@
 "app_icon_aurora_subtitle" = "Fresh energy";
 "app_icon_light" = "Light";
 "app_icon_light_subtitle" = "Light theme";
+"app_icon_sunrise" = "Sunrise";
+"app_icon_neon" = "Neon";
 "app_icon_change_failed" = "Couldn't Change Icon";
 "app_icon_unsupported" = "Alternate app icons are not available on this device.";
 "alarm_permission_required" = "Alarm Permission Required";
@@ -1249,6 +1256,7 @@
 // Auto Pilot Summary
 "remove_session" = "Remove Session";
 "remove_session_message" = "This will remove the session and roll back your progress.";
+"slide_to_close" = "slide to close";
 
 // MARK: - Hero Quotes
 "hero_day_streak_title" = "%d Day Streak";
