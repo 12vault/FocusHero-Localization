@@ -848,6 +848,7 @@
 "language_restart_required" = "Требуется перезапуск";
 "language_restart_message" = "Перезапустите приложение, чтобы применить новый язык.";
 "sound" = "Звук";
+"session_end_feedback" = "Сигналы окончания сессии";
 "session_complete_sound" = "Звук завершения сессии";
 "play_sound_when_timer_finishes" = "Воспроизводить звук по окончании таймера";
 "session_end_haptics" = "Тактильный сигнал в конце сессии";

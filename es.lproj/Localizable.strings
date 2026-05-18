@@ -873,6 +873,7 @@
 "language_restart_required" = "Reinicio necesario";
 "language_restart_message" = "Reinicia la app para aplicar el nuevo idioma.";
 "sound" = "Sonido";
+"session_end_feedback" = "Respuesta al terminar la sesión";
 "session_complete_sound" = "Sonido de sesión completada";
 "play_sound_when_timer_finishes" = "Reproducir sonido al finalizar el temporizador";
 "session_end_haptics" = "Hápticos al terminar la sesión";

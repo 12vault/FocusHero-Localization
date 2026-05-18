@@ -873,6 +873,7 @@
 "language_restart_required" = "Restart Required";
 "language_restart_message" = "Restart the app to apply the new language.";
 "sound" = "Sound";
+"session_end_feedback" = "Session End Feedback";
 "session_complete_sound" = "Session Complete Sound";
 "play_sound_when_timer_finishes" = "Play a sound when timer finishes";
 "session_end_haptics" = "Session End Haptics";

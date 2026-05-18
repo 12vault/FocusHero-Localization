@@ -870,6 +870,7 @@
 "language_restart_required" = "需要重启";
 "language_restart_message" = "重启应用以应用新语言。";
 "sound" = "声音";
+"session_end_feedback" = "会话结束反馈";
 "session_complete_sound" = "专注完成声音";
 "play_sound_when_timer_finishes" = "计时器结束时播放声音";
 "session_end_haptics" = "会话结束触感";

@@ -803,6 +803,7 @@
 "language_restart_required" = "재시작 필요";
 "language_restart_message" = "새 언어를 적용하려면 앱을 재시작하세요.";
 "sound" = "소리";
+"session_end_feedback" = "세션 종료 피드백";
 "session_complete_sound" = "세션 완료 소리";
 "play_sound_when_timer_finishes" = "타이머 종료 시 소리 재생";
 "session_end_haptics" = "세션 종료 햅틱";
