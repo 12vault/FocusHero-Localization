@@ -874,12 +874,14 @@
 "language_restart_message" = "Restart the app to apply the new language.";
 "sound" = "Sound";
 "session_end_feedback" = "Session End Feedback";
-"session_complete_sound" = "Session Complete Sound";
+"session_complete_sound" = "Complete Sound";
 "play_sound_when_timer_finishes" = "Play a sound when timer finishes";
-"session_end_haptics" = "Session End Haptics";
+"session_end_haptics" = "Haptics";
 "session_end_haptics_description" = "Vibrate when a session ends";
-"continuous_focus_end_vibration" = "Continuous Focus Vibration";
+"continuous_focus_end_vibration" = "Continuous Vibration";
 "continuous_focus_end_vibration_description" = "Use a longer vibration when focus ends";
+"session_end_flash" = "Screen Flash";
+"session_end_flash_description" = "Flash the screen when a session ends";
 "native_alarm_overrides_sound" = "Native Alarm is enabled and will override this sound";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "Restrict app access during focus sessions";

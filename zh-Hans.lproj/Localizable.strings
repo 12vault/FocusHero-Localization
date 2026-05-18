@@ -871,12 +871,14 @@
 "language_restart_message" = "重启应用以应用新语言。";
 "sound" = "声音";
 "session_end_feedback" = "会话结束反馈";
-"session_complete_sound" = "专注完成声音";
+"session_complete_sound" = "完成声音";
 "play_sound_when_timer_finishes" = "计时器结束时播放声音";
-"session_end_haptics" = "会话结束触感";
+"session_end_haptics" = "触感";
 "session_end_haptics_description" = "会话结束时振动";
-"continuous_focus_end_vibration" = "专注结束连续振动";
+"continuous_focus_end_vibration" = "连续振动";
 "continuous_focus_end_vibration_description" = "专注结束时使用更长振动";
+"session_end_flash" = "屏幕闪烁";
+"session_end_flash_description" = "会话结束时闪烁屏幕";
 "native_alarm_overrides_sound" = "原生闹钟已启用并将覆盖此声音";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "专注期间隐藏应用";

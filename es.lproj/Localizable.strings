@@ -874,12 +874,14 @@
 "language_restart_message" = "Reinicia la app para aplicar el nuevo idioma.";
 "sound" = "Sonido";
 "session_end_feedback" = "Respuesta al terminar la sesión";
-"session_complete_sound" = "Sonido de sesión completada";
+"session_complete_sound" = "Sonido de finalización";
 "play_sound_when_timer_finishes" = "Reproducir sonido al finalizar el temporizador";
-"session_end_haptics" = "Hápticos al terminar la sesión";
+"session_end_haptics" = "Hápticos";
 "session_end_haptics_description" = "Vibrar cuando termina una sesión";
-"continuous_focus_end_vibration" = "Vibración continua de concentración";
+"continuous_focus_end_vibration" = "Vibración continua";
 "continuous_focus_end_vibration_description" = "Usar una vibración más larga al terminar la concentración";
+"session_end_flash" = "Destello de pantalla";
+"session_end_flash_description" = "Hacer parpadear la pantalla cuando termine una sesión";
 "native_alarm_overrides_sound" = "La alarma nativa está activada y anulará este sonido";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "Ocultar aplicaciones durante la sesión";

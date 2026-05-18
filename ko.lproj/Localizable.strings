@@ -804,12 +804,14 @@
 "language_restart_message" = "새 언어를 적용하려면 앱을 재시작하세요.";
 "sound" = "소리";
 "session_end_feedback" = "세션 종료 피드백";
-"session_complete_sound" = "세션 완료 소리";
+"session_complete_sound" = "완료 소리";
 "play_sound_when_timer_finishes" = "타이머 종료 시 소리 재생";
-"session_end_haptics" = "세션 종료 햅틱";
+"session_end_haptics" = "햅틱";
 "session_end_haptics_description" = "세션이 끝나면 진동";
-"continuous_focus_end_vibration" = "집중 종료 연속 진동";
+"continuous_focus_end_vibration" = "연속 진동";
 "continuous_focus_end_vibration_description" = "집중이 끝나면 더 긴 진동을 사용";
+"session_end_flash" = "화면 깜박임";
+"session_end_flash_description" = "세션이 끝나면 화면 깜박임";
 "native_alarm_overrides_sound" = "네이티브 알람이 활성화되어 이 소리를 대체합니다";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "집중 세션 중 앱 숨기기";

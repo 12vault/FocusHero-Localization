@@ -849,12 +849,14 @@
 "language_restart_message" = "Перезапустите приложение, чтобы применить новый язык.";
 "sound" = "Звук";
 "session_end_feedback" = "Сигналы окончания сессии";
-"session_complete_sound" = "Звук завершения сессии";
+"session_complete_sound" = "Звук завершения";
 "play_sound_when_timer_finishes" = "Воспроизводить звук по окончании таймера";
-"session_end_haptics" = "Тактильный сигнал в конце сессии";
+"session_end_haptics" = "Тактильный отклик";
 "session_end_haptics_description" = "Вибрировать по окончании сессии";
-"continuous_focus_end_vibration" = "Непрерывная вибрация фокуса";
+"continuous_focus_end_vibration" = "Непрерывная вибрация";
 "continuous_focus_end_vibration_description" = "Использовать более долгую вибрацию в конце фокуса";
+"session_end_flash" = "Вспышка экрана";
+"session_end_flash_description" = "Мигать экраном по окончании сессии";
 "native_alarm_overrides_sound" = "Встроенный будильник включён и заменит этот звук";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "Скрывать приложения во время сессии";
