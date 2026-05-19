@@ -883,6 +883,8 @@
 "continuous_focus_end_vibration_description" = "集中終了時に長めの振動を使う";
 "session_end_flash" = "画面点滅";
 "session_end_flash_description" = "セッション終了時に画面を点滅";
+"session_end_device_flash" = "デバイスフラッシュ";
+"session_end_device_flash_description" = "セッション終了時にカメラのフラッシュを点滅";
 "native_alarm_overrides_sound" = "ネイティブアラームが有効でこのサウンドを上書きします";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "集中セッション中にアプリを非表示";

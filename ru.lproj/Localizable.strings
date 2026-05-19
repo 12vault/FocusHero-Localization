@@ -857,6 +857,8 @@
 "continuous_focus_end_vibration_description" = "Использовать более долгую вибрацию в конце фокуса";
 "session_end_flash" = "Вспышка экрана";
 "session_end_flash_description" = "Мигать экраном по окончании сессии";
+"session_end_device_flash" = "Вспышка устройства";
+"session_end_device_flash_description" = "Мигать вспышкой камеры по окончании сессии";
 "native_alarm_overrides_sound" = "Встроенный будильник включён и заменит этот звук";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "Скрывать приложения во время сессии";

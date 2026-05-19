@@ -882,6 +882,8 @@
 "continuous_focus_end_vibration_description" = "Use a longer vibration when focus ends";
 "session_end_flash" = "Screen Flash";
 "session_end_flash_description" = "Flash the screen when a session ends";
+"session_end_device_flash" = "Device Flash";
+"session_end_device_flash_description" = "Blink the camera flash when a session ends";
 "native_alarm_overrides_sound" = "Native Alarm is enabled and will override this sound";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "Restrict app access during focus sessions";

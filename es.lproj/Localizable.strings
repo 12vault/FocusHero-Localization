@@ -882,6 +882,8 @@
 "continuous_focus_end_vibration_description" = "Usar una vibración más larga al terminar la concentración";
 "session_end_flash" = "Destello de pantalla";
 "session_end_flash_description" = "Hacer parpadear la pantalla cuando termine una sesión";
+"session_end_device_flash" = "Flash del dispositivo";
+"session_end_device_flash_description" = "Hace parpadear el flash de la cámara cuando termina una sesión";
 "native_alarm_overrides_sound" = "La alarma nativa está activada y anulará este sonido";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "Ocultar aplicaciones durante la sesión";

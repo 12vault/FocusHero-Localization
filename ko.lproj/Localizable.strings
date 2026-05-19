@@ -812,6 +812,8 @@
 "continuous_focus_end_vibration_description" = "집중이 끝나면 더 긴 진동을 사용";
 "session_end_flash" = "화면 깜박임";
 "session_end_flash_description" = "세션이 끝나면 화면 깜박임";
+"session_end_device_flash" = "기기 플래시";
+"session_end_device_flash_description" = "세션이 끝나면 카메라 플래시 깜박임";
 "native_alarm_overrides_sound" = "네이티브 알람이 활성화되어 이 소리를 대체합니다";
 "block_list" = "Block List";
 "hide_apps_during_focus" = "집중 세션 중 앱 숨기기";
