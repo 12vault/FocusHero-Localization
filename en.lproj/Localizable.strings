@@ -54,6 +54,7 @@
 "long_press_for_options" = "Long press for options";
 "reset_journey" = "Reset Journey";
 "copy_stats" = "Copy Stats";
+"copied" = "Copied";
 "reset_hero_journey" = "Reset Hero Journey";
 "reset_journey_confirmation" = "Are you sure you want to completely reset your \"%@\" hero journey?\n\nThis will remove all progress (%@). The journey will only reappear when you complete new sessions with this tag.";
 "edit_hours_required" = "Edit Hours Required";

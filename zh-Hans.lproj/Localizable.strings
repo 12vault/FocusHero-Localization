@@ -54,6 +54,7 @@
 "long_press_for_options" = "长按查看选项";
 "reset_journey" = "重置旅程";
 "copy_stats" = "复制统计";
+"copied" = "已复制";
 "reset_hero_journey" = "重置英雄旅程";
 "reset_journey_confirmation" = "确定要完全重置你的\"%@\"英雄旅程吗？\n\n这将删除所有进度（%@）。只有当你用此标签完成新会话时，旅程才会重新出现。";
 "edit_hours_required" = "编辑所需时间";

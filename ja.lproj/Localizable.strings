@@ -54,6 +54,7 @@
 "long_press_for_options" = "長押しでオプション表示";
 "reset_journey" = "ジャーニーをリセット";
 "copy_stats" = "統計をコピー";
+"copied" = "コピーしました";
 "reset_hero_journey" = "ヒーロージャーニーをリセット";
 "reset_journey_confirmation" = "「%@」のヒーロージャーニーを完全にリセットしますか？\n\nすべての進捗（%@）が削除されます。このジャーニーはこのタグで新しいセッションを完了したときのみ再表示されます。";
 "edit_hours_required" = "必要時間を編集";

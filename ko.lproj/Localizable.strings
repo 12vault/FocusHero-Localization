@@ -351,6 +351,7 @@
 "long_press_for_options" = "옵션은 길게 누르세요";
 "reset_journey" = "여정 초기화";
 "copy_stats" = "통계 복사";
+"copied" = "복사됨";
 "reset_hero_journey" = "영웅 여정 초기화";
 "reset_journey_confirmation" = "\"%@\" 영웅 여정을 완전히 초기화하시겠습니까?\n\n모든 진행 상황(%@)이 삭제됩니다. 이 태그로 새 세션을 완료할 때만 여정이 다시 나타납니다.";
 "edit_hours_required" = "필요 시간 편집";

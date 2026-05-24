@@ -54,6 +54,7 @@
 "long_press_for_options" = "Mantén pulsado para opciones";
 "reset_journey" = "Reiniciar aventura";
 "copy_stats" = "Copiar estadísticas";
+"copied" = "Copiado";
 "reset_hero_journey" = "Reiniciar aventura de héroe";
 "reset_journey_confirmation" = "¿Seguro que quieres reiniciar tu aventura \"%@\"?\n\nSe eliminará todo el progreso (%@). La aventura solo reaparecerá cuando completes nuevas sesiones con esta etiqueta.";
 "edit_hours_required" = "Editar horas requeridas";
