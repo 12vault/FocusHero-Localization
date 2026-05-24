@@ -1318,3 +1318,12 @@
 "remove_session" = "セッションを削除";
 "remove_session_message" = "この操作によりセッションが削除され、進捗が巻き戻されます。";
 "slide_to_close" = "スライドして閉じる";
+
+// Hero Pace
+"hero_level_range_format" = "%1$@  ->  %2$@";
+"hero_pace_recent_format" = "%d日ペース";
+"hero_pace_lifetime" = "全期間ペース";
+"hero_pace_default" = "標準ペース";
+"hero_pace_minutes_per_day_format" = "%d分/日";
+"hero_pace_hours_per_day_format" = "%d時間/日";
+"hero_pace_hours_minutes_per_day_format" = "%d時間%d分/日";

@@ -1318,3 +1318,12 @@
 "hero_quote_john_word_author" = "John 1:1 (KJV)";
 "hero_quote_simon_dream_text" = "What's Your Dream?";
 "hero_quote_simon_dream_author" = "Simon Squibb";
+
+// Hero Pace
+"hero_level_range_format" = "%1$@  ->  %2$@";
+"hero_pace_recent_format" = "%d-day pace";
+"hero_pace_lifetime" = "Lifetime pace";
+"hero_pace_default" = "Default pace";
+"hero_pace_minutes_per_day_format" = "%dm/day";
+"hero_pace_hours_per_day_format" = "%dh/day";
+"hero_pace_hours_minutes_per_day_format" = "%dh %dm/day";

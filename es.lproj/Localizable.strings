@@ -1317,3 +1317,12 @@
 "remove_session" = "Eliminar sesión";
 "remove_session_message" = "Esto eliminará la sesión y revertirá tu progreso.";
 "slide_to_close" = "Desliza para cerrar";
+
+// Hero Pace
+"hero_level_range_format" = "%1$@  ->  %2$@";
+"hero_pace_recent_format" = "Ritmo de %d días";
+"hero_pace_lifetime" = "Ritmo total";
+"hero_pace_default" = "Ritmo predeterminado";
+"hero_pace_minutes_per_day_format" = "%d min/día";
+"hero_pace_hours_per_day_format" = "%d h/día";
+"hero_pace_hours_minutes_per_day_format" = "%d h %d min/día";

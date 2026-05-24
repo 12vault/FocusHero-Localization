@@ -1247,3 +1247,12 @@
 "remove_session" = "세션 삭제";
 "remove_session_message" = "이 작업을 하면 세션이 삭제되고 진행 상황이 되돌아갑니다.";
 "slide_to_close" = "밀어서 닫기";
+
+// Hero Pace
+"hero_level_range_format" = "%1$@  ->  %2$@";
+"hero_pace_recent_format" = "%d일 페이스";
+"hero_pace_lifetime" = "전체 페이스";
+"hero_pace_default" = "기본 페이스";
+"hero_pace_minutes_per_day_format" = "%d분/일";
+"hero_pace_hours_per_day_format" = "%d시간/일";
+"hero_pace_hours_minutes_per_day_format" = "%d시간 %d분/일";

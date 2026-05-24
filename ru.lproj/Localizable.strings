@@ -1296,3 +1296,12 @@
 "remove_session" = "Удалить сессию";
 "remove_session_message" = "Это удалит сессию и откатит ваш прогресс.";
 "slide_to_close" = "Сдвиньте, чтобы закрыть";
+
+// Hero Pace
+"hero_level_range_format" = "%1$@  ->  %2$@";
+"hero_pace_recent_format" = "Темп за %d дн.";
+"hero_pace_lifetime" = "Темп за всё время";
+"hero_pace_default" = "Темп по умолчанию";
+"hero_pace_minutes_per_day_format" = "%d мин/день";
+"hero_pace_hours_per_day_format" = "%d ч/день";
+"hero_pace_hours_minutes_per_day_format" = "%d ч %d мин/день";

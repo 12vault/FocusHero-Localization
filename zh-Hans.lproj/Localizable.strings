@@ -1318,3 +1318,12 @@
 "remove_session" = "移除会话";
 "remove_session_message" = "这将移除该会话并回退你的进度。";
 "slide_to_close" = "滑动关闭";
+
+// Hero Pace
+"hero_level_range_format" = "%1$@  ->  %2$@";
+"hero_pace_recent_format" = "%d天节奏";
+"hero_pace_lifetime" = "总计节奏";
+"hero_pace_default" = "默认节奏";
+"hero_pace_minutes_per_day_format" = "%d分钟/天";
+"hero_pace_hours_per_day_format" = "%d小时/天";
+"hero_pace_hours_minutes_per_day_format" = "%d小时%d分钟/天";
