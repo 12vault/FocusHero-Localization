@@ -672,7 +672,24 @@
 "time_1_hour" = "1 час";
 "time_2_hours" = "2 часа";
 "time_3_hours" = "3 часа";
-"time_7_plus_hours" = "7+ часов";
+"time_7_plus_hours" = "7 часов";
+"time_custom" = "Своё";
+"questionnaire_goal_in" = "Цель через";
+"questionnaire_goal_in_format" = "Цель через %@";
+"questionnaire_goal_years_format" = "%.1f лет";
+"questionnaire_just_minutes_a_day_format" = "Всего %d минут в день";
+"questionnaire_hour_a_day_format" = "%d час в день";
+"questionnaire_hours_a_day_format" = "%d часов в день";
+"questionnaire_hours_minutes_a_day_format" = "%d ч %d мин в день";
+"questionnaire_daily_practice" = "Ежедневная практика";
+"questionnaire_chart_today" = "Сегодня";
+"questionnaire_chart_faster" = "Быстрее";
+"questionnaire_chart_slower" = "Медленнее";
+"questionnaire_percentile_legend" = "процентиль = впереди тех, кто занимается нерегулярно";
+"questionnaire_duration_days_short_format" = "%dд";
+"questionnaire_duration_weeks_short_format" = "%dн";
+"questionnaire_duration_months_short_format" = "%dмес";
+"questionnaire_duration_years_short_format" = "%.1fг";
 
 // Question 7 - Obstacles
 "questionnaire_obstacles_title" = "Что обычно уводит вас от действительно важной работы?";

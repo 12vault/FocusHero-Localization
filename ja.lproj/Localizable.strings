@@ -694,7 +694,24 @@
 "time_1_hour" = "1時間";
 "time_2_hours" = "2時間";
 "time_3_hours" = "3時間";
-"time_7_plus_hours" = "7時間以上";
+"time_7_plus_hours" = "7時間";
+"time_custom" = "カスタム";
+"questionnaire_goal_in" = "目標まで";
+"questionnaire_goal_in_format" = "%@で目標達成";
+"questionnaire_goal_years_format" = "%.1f年";
+"questionnaire_just_minutes_a_day_format" = "1日たった%d分";
+"questionnaire_hour_a_day_format" = "1日%d時間";
+"questionnaire_hours_a_day_format" = "1日%d時間";
+"questionnaire_hours_minutes_a_day_format" = "1日%d時間%d分";
+"questionnaire_daily_practice" = "毎日の練習";
+"questionnaire_chart_today" = "今日";
+"questionnaire_chart_faster" = "速い";
+"questionnaire_chart_slower" = "遅い";
+"questionnaire_percentile_legend" = "パーセンタイル = 気軽に始めた人より先";
+"questionnaire_duration_days_short_format" = "%d日";
+"questionnaire_duration_weeks_short_format" = "%d週";
+"questionnaire_duration_months_short_format" = "%dか月";
+"questionnaire_duration_years_short_format" = "%.1f年";
 
 // Question 7 - Obstacles
 "questionnaire_obstacles_title" = "本当に大切なことから、あなたを遠ざけるものは何ですか？";

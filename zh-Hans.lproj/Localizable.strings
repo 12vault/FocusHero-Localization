@@ -694,7 +694,24 @@
 "time_1_hour" = "1小时";
 "time_2_hours" = "2小时";
 "time_3_hours" = "3小时";
-"time_7_plus_hours" = "7小时以上";
+"time_7_plus_hours" = "7小时";
+"time_custom" = "自定义";
+"questionnaire_goal_in" = "距离目标";
+"questionnaire_goal_in_format" = "%@后达成目标";
+"questionnaire_goal_years_format" = "%.1f年";
+"questionnaire_just_minutes_a_day_format" = "每天只需%d分钟";
+"questionnaire_hour_a_day_format" = "每天%d小时";
+"questionnaire_hours_a_day_format" = "每天%d小时";
+"questionnaire_hours_minutes_a_day_format" = "每天%d小时%d分钟";
+"questionnaire_daily_practice" = "每日练习";
+"questionnaire_chart_today" = "今天";
+"questionnaire_chart_faster" = "更快";
+"questionnaire_chart_slower" = "更慢";
+"questionnaire_percentile_legend" = "百分位 = 领先于随意开始的人";
+"questionnaire_duration_days_short_format" = "%d天";
+"questionnaire_duration_weeks_short_format" = "%d周";
+"questionnaire_duration_months_short_format" = "%d个月";
+"questionnaire_duration_years_short_format" = "%.1f年";
 
 // Question 7 - Obstacles
 "questionnaire_obstacles_title" = "通常是什么把你从真正重要的工作中拉走？";

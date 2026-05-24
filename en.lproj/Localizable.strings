@@ -694,7 +694,24 @@
 "time_1_hour" = "1 hour";
 "time_2_hours" = "2 hours";
 "time_3_hours" = "3 hours";
-"time_7_plus_hours" = "7+ hours";
+"time_7_plus_hours" = "7 hours";
+"time_custom" = "Custom";
+"questionnaire_goal_in" = "Goal in";
+"questionnaire_goal_in_format" = "Goal in %@";
+"questionnaire_goal_years_format" = "%.1f years";
+"questionnaire_just_minutes_a_day_format" = "Just %d minutes a day";
+"questionnaire_hour_a_day_format" = "%d hour a day";
+"questionnaire_hours_a_day_format" = "%d hours a day";
+"questionnaire_hours_minutes_a_day_format" = "%d h %d m a day";
+"questionnaire_daily_practice" = "Daily practice";
+"questionnaire_chart_today" = "Today";
+"questionnaire_chart_faster" = "Faster";
+"questionnaire_chart_slower" = "Slower";
+"questionnaire_percentile_legend" = "percentile = ahead of casual starters";
+"questionnaire_duration_days_short_format" = "%dd";
+"questionnaire_duration_weeks_short_format" = "%dw";
+"questionnaire_duration_months_short_format" = "%dmo";
+"questionnaire_duration_years_short_format" = "%.1fy";
 
 // Question 7 - Obstacles
 "questionnaire_obstacles_title" = "What usually pulls you away from the work that matters?";

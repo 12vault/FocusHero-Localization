@@ -693,7 +693,24 @@
 "time_1_hour" = "1 hora";
 "time_2_hours" = "2 horas";
 "time_3_hours" = "3 horas";
-"time_7_plus_hours" = "7+ horas";
+"time_7_plus_hours" = "7 horas";
+"time_custom" = "Personalizado";
+"questionnaire_goal_in" = "Meta en";
+"questionnaire_goal_in_format" = "Meta en %@";
+"questionnaire_goal_years_format" = "%.1f años";
+"questionnaire_just_minutes_a_day_format" = "Solo %d minutos al día";
+"questionnaire_hour_a_day_format" = "%d hora al día";
+"questionnaire_hours_a_day_format" = "%d horas al día";
+"questionnaire_hours_minutes_a_day_format" = "%d h %d min al día";
+"questionnaire_daily_practice" = "Práctica diaria";
+"questionnaire_chart_today" = "Hoy";
+"questionnaire_chart_faster" = "Más rápido";
+"questionnaire_chart_slower" = "Más lento";
+"questionnaire_percentile_legend" = "percentil = por delante de quienes empiezan casualmente";
+"questionnaire_duration_days_short_format" = "%dd";
+"questionnaire_duration_weeks_short_format" = "%dsem";
+"questionnaire_duration_months_short_format" = "%dmes";
+"questionnaire_duration_years_short_format" = "%.1fa";
 
 // Question 7 - Obstacles
 "questionnaire_obstacles_title" = "¿Qué suele alejarte del trabajo que de verdad importa?";

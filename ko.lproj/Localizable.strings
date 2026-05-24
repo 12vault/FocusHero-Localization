@@ -172,7 +172,24 @@
 "time_1_hour" = "1시간";
 "time_2_hours" = "2시간";
 "time_3_hours" = "3시간";
-"time_7_plus_hours" = "7시간 이상";
+"time_7_plus_hours" = "7시간";
+"time_custom" = "사용자 지정";
+"questionnaire_goal_in" = "목표까지";
+"questionnaire_goal_in_format" = "%@ 후 목표 달성";
+"questionnaire_goal_years_format" = "%.1f년";
+"questionnaire_just_minutes_a_day_format" = "하루 단 %d분";
+"questionnaire_hour_a_day_format" = "하루 %d시간";
+"questionnaire_hours_a_day_format" = "하루 %d시간";
+"questionnaire_hours_minutes_a_day_format" = "하루 %d시간 %d분";
+"questionnaire_daily_practice" = "일일 연습";
+"questionnaire_chart_today" = "오늘";
+"questionnaire_chart_faster" = "더 빠름";
+"questionnaire_chart_slower" = "더 느림";
+"questionnaire_percentile_legend" = "백분위 = 가볍게 시작한 사람들보다 앞섬";
+"questionnaire_duration_days_short_format" = "%d일";
+"questionnaire_duration_weeks_short_format" = "%d주";
+"questionnaire_duration_months_short_format" = "%d개월";
+"questionnaire_duration_years_short_format" = "%.1f년";
 
 // Question 7 - Obstacles
 "questionnaire_obstacles_title" = "중요한 일을 할 때 보통 무엇이 당신을 멀어지게 하나요?";
