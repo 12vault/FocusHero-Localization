@@ -1327,3 +1327,16 @@
 "hero_pace_minutes_per_day_format" = "%d min/día";
 "hero_pace_hours_per_day_format" = "%d h/día";
 "hero_pace_hours_minutes_per_day_format" = "%d h %d min/día";
+"hero_pace_real" = "Ritmo real";
+"hero_pace_what_if" = "Ritmo hipotético";
+"hero_pace_goal" = "Meta";
+"hero_pace_set_current" = "Usar ritmo actual";
+"hero_pace_remove_goal" = "Quitar meta";
+"hero_pace_reset_accessibility" = "Restablecer ritmo";
+"hero_pace_goal_accessibility" = "Ritmo objetivo";
+"hero_pace_period" = "Periodo del ritmo";
+"hero_pace_custom" = "Personalizado";
+"hero_pace_week_format" = "%@/sem";
+"hero_pace_month_format" = "%@/mes";
+"only_edited_level_requirements_shown" = "Solo se muestran los requisitos de nivel editados para el viaje seleccionado.";
+"no_tagged_sessions_yet_today" = "Aún no hay sesiones etiquetadas hoy.";

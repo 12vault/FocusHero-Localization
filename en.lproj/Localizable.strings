@@ -1328,3 +1328,16 @@
 "hero_pace_minutes_per_day_format" = "%dm/day";
 "hero_pace_hours_per_day_format" = "%dh/day";
 "hero_pace_hours_minutes_per_day_format" = "%dh %dm/day";
+"hero_pace_real" = "Real pace";
+"hero_pace_what_if" = "What-if pace";
+"hero_pace_goal" = "Goal";
+"hero_pace_set_current" = "Set current pace";
+"hero_pace_remove_goal" = "Remove goal";
+"hero_pace_reset_accessibility" = "Reset pace";
+"hero_pace_goal_accessibility" = "Goal pace";
+"hero_pace_period" = "Pace period";
+"hero_pace_custom" = "Custom";
+"hero_pace_week_format" = "%@/wk";
+"hero_pace_month_format" = "%@/mo";
+"only_edited_level_requirements_shown" = "Only edited level requirements for the selected journey are shown.";
+"no_tagged_sessions_yet_today" = "No tagged sessions yet today.";

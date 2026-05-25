@@ -1306,3 +1306,16 @@
 "hero_pace_minutes_per_day_format" = "%d мин/день";
 "hero_pace_hours_per_day_format" = "%d ч/день";
 "hero_pace_hours_minutes_per_day_format" = "%d ч %d мин/день";
+"hero_pace_real" = "Реальный темп";
+"hero_pace_what_if" = "Темп сценария";
+"hero_pace_goal" = "Цель";
+"hero_pace_set_current" = "Задать текущий темп";
+"hero_pace_remove_goal" = "Удалить цель";
+"hero_pace_reset_accessibility" = "Сбросить темп";
+"hero_pace_goal_accessibility" = "Целевой темп";
+"hero_pace_period" = "Период темпа";
+"hero_pace_custom" = "Свой";
+"hero_pace_week_format" = "%@/нед";
+"hero_pace_month_format" = "%@/мес";
+"only_edited_level_requirements_shown" = "Показаны только измененные требования уровней для выбранного пути.";
+"no_tagged_sessions_yet_today" = "Сегодня еще нет сессий с тегами.";

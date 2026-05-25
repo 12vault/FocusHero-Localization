@@ -1328,3 +1328,16 @@
 "hero_pace_minutes_per_day_format" = "%d分/日";
 "hero_pace_hours_per_day_format" = "%d時間/日";
 "hero_pace_hours_minutes_per_day_format" = "%d時間%d分/日";
+"hero_pace_real" = "実際のペース";
+"hero_pace_what_if" = "もしものペース";
+"hero_pace_goal" = "目標";
+"hero_pace_set_current" = "現在のペースを設定";
+"hero_pace_remove_goal" = "目標を削除";
+"hero_pace_reset_accessibility" = "ペースをリセット";
+"hero_pace_goal_accessibility" = "目標ペース";
+"hero_pace_period" = "ペース期間";
+"hero_pace_custom" = "カスタム";
+"hero_pace_week_format" = "%@/週";
+"hero_pace_month_format" = "%@/月";
+"only_edited_level_requirements_shown" = "選択した旅で編集したレベル要件のみ表示されます。";
+"no_tagged_sessions_yet_today" = "今日のタグ付きセッションはまだありません。";

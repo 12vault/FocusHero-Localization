@@ -1328,3 +1328,16 @@
 "hero_pace_minutes_per_day_format" = "%d分钟/天";
 "hero_pace_hours_per_day_format" = "%d小时/天";
 "hero_pace_hours_minutes_per_day_format" = "%d小时%d分钟/天";
+"hero_pace_real" = "实际节奏";
+"hero_pace_what_if" = "假设节奏";
+"hero_pace_goal" = "目标";
+"hero_pace_set_current" = "设为当前节奏";
+"hero_pace_remove_goal" = "移除目标";
+"hero_pace_reset_accessibility" = "重置节奏";
+"hero_pace_goal_accessibility" = "目标节奏";
+"hero_pace_period" = "节奏周期";
+"hero_pace_custom" = "自定义";
+"hero_pace_week_format" = "%@/周";
+"hero_pace_month_format" = "%@/月";
+"only_edited_level_requirements_shown" = "仅显示所选旅程中已编辑的等级要求。";
+"no_tagged_sessions_yet_today" = "今天还没有带标签的专注。";

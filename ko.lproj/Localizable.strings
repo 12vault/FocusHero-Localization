@@ -1257,3 +1257,16 @@
 "hero_pace_minutes_per_day_format" = "%d분/일";
 "hero_pace_hours_per_day_format" = "%d시간/일";
 "hero_pace_hours_minutes_per_day_format" = "%d시간 %d분/일";
+"hero_pace_real" = "실제 페이스";
+"hero_pace_what_if" = "가상 페이스";
+"hero_pace_goal" = "목표";
+"hero_pace_set_current" = "현재 페이스로 설정";
+"hero_pace_remove_goal" = "목표 제거";
+"hero_pace_reset_accessibility" = "페이스 초기화";
+"hero_pace_goal_accessibility" = "목표 페이스";
+"hero_pace_period" = "페이스 기간";
+"hero_pace_custom" = "사용자 지정";
+"hero_pace_week_format" = "%@/주";
+"hero_pace_month_format" = "%@/월";
+"only_edited_level_requirements_shown" = "선택한 여정에서 수정한 레벨 요구 시간만 표시됩니다.";
+"no_tagged_sessions_yet_today" = "오늘 태그된 세션이 아직 없습니다.";
