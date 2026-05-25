@@ -1336,9 +1336,15 @@
 "hero_pace_reset_accessibility" = "Restablecer ritmo";
 "hero_pace_goal_accessibility" = "Ritmo objetivo";
 "hero_pace_period" = "Periodo del ritmo";
+"hero_pace_base" = "Base del ritmo";
 "hero_pace_custom" = "Personalizado";
 "hero_pace_week_format" = "%@/sem";
 "hero_pace_month_format" = "%@/mes";
+"hero_pace_checkpoint_legend" = "Los puntos muestran las horas restantes y +h a este ritmo";
+"hero_pace_day_duration_format" = "%d d";
+"hero_pace_week_duration_format" = "%d sem";
+"hero_pace_month_duration_format" = "%d mes";
+"hero_pace_year_duration_format" = "%.1f a";
 "only_edited_level_requirements_shown" = "Solo se muestran los requisitos de nivel editados para el viaje seleccionado.";
 "no_tagged_sessions_yet_today" = "Aún no hay sesiones etiquetadas hoy.";
 "edited_levels" = "Niveles editados";

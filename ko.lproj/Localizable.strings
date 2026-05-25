@@ -1266,9 +1266,15 @@
 "hero_pace_reset_accessibility" = "페이스 초기화";
 "hero_pace_goal_accessibility" = "목표 페이스";
 "hero_pace_period" = "페이스 기간";
+"hero_pace_base" = "페이스 기준";
 "hero_pace_custom" = "사용자 지정";
 "hero_pace_week_format" = "%@/주";
 "hero_pace_month_format" = "%@/월";
+"hero_pace_checkpoint_legend" = "체크포인트는 이 페이스의 남은 시간과 +시간을 보여줍니다";
+"hero_pace_day_duration_format" = "%d일";
+"hero_pace_week_duration_format" = "%d주";
+"hero_pace_month_duration_format" = "%d개월";
+"hero_pace_year_duration_format" = "%.1f년";
 "only_edited_level_requirements_shown" = "선택한 여정에서 수정한 레벨 요구 시간만 표시됩니다.";
 "no_tagged_sessions_yet_today" = "오늘 태그된 세션이 아직 없습니다.";
 "edited_levels" = "수정된 레벨";

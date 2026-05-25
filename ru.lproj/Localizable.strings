@@ -1315,9 +1315,15 @@
 "hero_pace_reset_accessibility" = "Сбросить темп";
 "hero_pace_goal_accessibility" = "Целевой темп";
 "hero_pace_period" = "Период темпа";
+"hero_pace_base" = "Основа темпа";
 "hero_pace_custom" = "Свой";
 "hero_pace_week_format" = "%@/нед";
 "hero_pace_month_format" = "%@/мес";
+"hero_pace_checkpoint_legend" = "Точки показывают оставшиеся часы и +ч при этом темпе";
+"hero_pace_day_duration_format" = "%d дн.";
+"hero_pace_week_duration_format" = "%d нед.";
+"hero_pace_month_duration_format" = "%d мес.";
+"hero_pace_year_duration_format" = "%.1f г.";
 "only_edited_level_requirements_shown" = "Показаны только измененные требования уровней для выбранного пути.";
 "no_tagged_sessions_yet_today" = "Сегодня еще нет сессий с тегами.";
 "edited_levels" = "Измененные уровни";

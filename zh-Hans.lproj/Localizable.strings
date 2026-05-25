@@ -1337,9 +1337,15 @@
 "hero_pace_reset_accessibility" = "重置节奏";
 "hero_pace_goal_accessibility" = "目标节奏";
 "hero_pace_period" = "节奏周期";
+"hero_pace_base" = "节奏基准";
 "hero_pace_custom" = "自定义";
 "hero_pace_week_format" = "%@/周";
 "hero_pace_month_format" = "%@/月";
+"hero_pace_checkpoint_legend" = "检查点显示按此节奏剩余的小时数和 +小时";
+"hero_pace_day_duration_format" = "%d天";
+"hero_pace_week_duration_format" = "%d周";
+"hero_pace_month_duration_format" = "%d个月";
+"hero_pace_year_duration_format" = "%.1f年";
 "only_edited_level_requirements_shown" = "仅显示所选旅程中已编辑的等级要求。";
 "no_tagged_sessions_yet_today" = "今天还没有带标签的专注。";
 "edited_levels" = "已编辑等级";

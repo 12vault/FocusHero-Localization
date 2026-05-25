@@ -1337,9 +1337,15 @@
 "hero_pace_reset_accessibility" = "Reset pace";
 "hero_pace_goal_accessibility" = "Goal pace";
 "hero_pace_period" = "Pace period";
+"hero_pace_base" = "Pace base";
 "hero_pace_custom" = "Custom";
 "hero_pace_week_format" = "%@/wk";
 "hero_pace_month_format" = "%@/mo";
+"hero_pace_checkpoint_legend" = "Checkpoints show hours left and +h at this pace";
+"hero_pace_day_duration_format" = "%dd";
+"hero_pace_week_duration_format" = "%dw";
+"hero_pace_month_duration_format" = "%dmo";
+"hero_pace_year_duration_format" = "%.1fy";
 "only_edited_level_requirements_shown" = "Only edited level requirements for the selected journey are shown.";
 "no_tagged_sessions_yet_today" = "No tagged sessions yet today.";
 "edited_levels" = "Edited Levels";
