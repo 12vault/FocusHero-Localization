@@ -1333,6 +1333,7 @@
 "hero_pace_goal" = "目标";
 "hero_pace_set_current" = "设为当前节奏";
 "hero_pace_remove_goal" = "移除目标";
+"hero_pace_reset_button" = "重置";
 "hero_pace_reset_accessibility" = "重置节奏";
 "hero_pace_goal_accessibility" = "目标节奏";
 "hero_pace_period" = "节奏周期";

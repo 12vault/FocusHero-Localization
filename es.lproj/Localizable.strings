@@ -1332,6 +1332,7 @@
 "hero_pace_goal" = "Meta";
 "hero_pace_set_current" = "Usar ritmo actual";
 "hero_pace_remove_goal" = "Quitar meta";
+"hero_pace_reset_button" = "Reiniciar";
 "hero_pace_reset_accessibility" = "Restablecer ritmo";
 "hero_pace_goal_accessibility" = "Ritmo objetivo";
 "hero_pace_period" = "Periodo del ritmo";

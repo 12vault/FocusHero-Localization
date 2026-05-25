@@ -1333,6 +1333,7 @@
 "hero_pace_goal" = "目標";
 "hero_pace_set_current" = "現在のペースを設定";
 "hero_pace_remove_goal" = "目標を削除";
+"hero_pace_reset_button" = "リセット";
 "hero_pace_reset_accessibility" = "ペースをリセット";
 "hero_pace_goal_accessibility" = "目標ペース";
 "hero_pace_period" = "ペース期間";

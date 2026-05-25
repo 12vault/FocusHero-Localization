@@ -1262,6 +1262,7 @@
 "hero_pace_goal" = "목표";
 "hero_pace_set_current" = "현재 페이스로 설정";
 "hero_pace_remove_goal" = "목표 제거";
+"hero_pace_reset_button" = "초기화";
 "hero_pace_reset_accessibility" = "페이스 초기화";
 "hero_pace_goal_accessibility" = "목표 페이스";
 "hero_pace_period" = "페이스 기간";

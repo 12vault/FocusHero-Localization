@@ -1311,6 +1311,7 @@
 "hero_pace_goal" = "Цель";
 "hero_pace_set_current" = "Задать текущий темп";
 "hero_pace_remove_goal" = "Удалить цель";
+"hero_pace_reset_button" = "Сброс";
 "hero_pace_reset_accessibility" = "Сбросить темп";
 "hero_pace_goal_accessibility" = "Целевой темп";
 "hero_pace_period" = "Период темпа";
