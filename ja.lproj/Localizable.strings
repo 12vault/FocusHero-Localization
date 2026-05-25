@@ -1341,3 +1341,7 @@
 "hero_pace_month_format" = "%@/月";
 "only_edited_level_requirements_shown" = "選択した旅で編集したレベル要件のみ表示されます。";
 "no_tagged_sessions_yet_today" = "今日のタグ付きセッションはまだありません。";
+"edited_levels" = "編集済みレベル";
+"reset_edited_levels" = "編集済みレベルをリセット";
+"reset_all_edited_levels" = "すべての編集済みレベルをリセット";
+"reset_level_accessibility_format" = "レベル%dをリセット";

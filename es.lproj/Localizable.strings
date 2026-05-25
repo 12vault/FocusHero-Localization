@@ -1340,3 +1340,7 @@
 "hero_pace_month_format" = "%@/mes";
 "only_edited_level_requirements_shown" = "Solo se muestran los requisitos de nivel editados para el viaje seleccionado.";
 "no_tagged_sessions_yet_today" = "Aún no hay sesiones etiquetadas hoy.";
+"edited_levels" = "Niveles editados";
+"reset_edited_levels" = "Restablecer niveles editados";
+"reset_all_edited_levels" = "Restablecer todos los niveles editados";
+"reset_level_accessibility_format" = "Restablecer nivel %d";

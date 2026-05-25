@@ -1341,3 +1341,7 @@
 "hero_pace_month_format" = "%@/月";
 "only_edited_level_requirements_shown" = "仅显示所选旅程中已编辑的等级要求。";
 "no_tagged_sessions_yet_today" = "今天还没有带标签的专注。";
+"edited_levels" = "已编辑等级";
+"reset_edited_levels" = "重置已编辑等级";
+"reset_all_edited_levels" = "重置所有已编辑等级";
+"reset_level_accessibility_format" = "重置等级 %d";

@@ -1319,3 +1319,7 @@
 "hero_pace_month_format" = "%@/мес";
 "only_edited_level_requirements_shown" = "Показаны только измененные требования уровней для выбранного пути.";
 "no_tagged_sessions_yet_today" = "Сегодня еще нет сессий с тегами.";
+"edited_levels" = "Измененные уровни";
+"reset_edited_levels" = "Сбросить измененные уровни";
+"reset_all_edited_levels" = "Сбросить все измененные уровни";
+"reset_level_accessibility_format" = "Сбросить уровень %d";

@@ -1341,3 +1341,7 @@
 "hero_pace_month_format" = "%@/mo";
 "only_edited_level_requirements_shown" = "Only edited level requirements for the selected journey are shown.";
 "no_tagged_sessions_yet_today" = "No tagged sessions yet today.";
+"edited_levels" = "Edited Levels";
+"reset_edited_levels" = "Reset edited levels";
+"reset_all_edited_levels" = "Reset All Edited Levels";
+"reset_level_accessibility_format" = "Reset level %d";

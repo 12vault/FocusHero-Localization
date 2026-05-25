@@ -1270,3 +1270,7 @@
 "hero_pace_month_format" = "%@/월";
 "only_edited_level_requirements_shown" = "선택한 여정에서 수정한 레벨 요구 시간만 표시됩니다.";
 "no_tagged_sessions_yet_today" = "오늘 태그된 세션이 아직 없습니다.";
+"edited_levels" = "수정된 레벨";
+"reset_edited_levels" = "수정된 레벨 재설정";
+"reset_all_edited_levels" = "수정된 모든 레벨 재설정";
+"reset_level_accessibility_format" = "레벨 %d 재설정";
