@@ -79,6 +79,11 @@
 "Could not schedule this review." = "No se pudo programar este repaso.";
 "review_due_now" = "Pendiente ahora";
 "review_due_date_format" = "Pendiente %@";
+"review_reps_format" = "%d repeticiones";
+"review_state_new" = "Nueva";
+"review_state_learning" = "Aprendiendo";
+"review_state_review" = "Repaso";
+"review_state_relearning" = "Reaprendiendo";
 "review_cards_ready_format" = "%d tarjetas listas";
 "review_more_cards_format" = "+ %d más";
 "review_complete_count_format" = "%d/%d completadas";

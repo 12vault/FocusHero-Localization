@@ -79,6 +79,11 @@
 "Could not schedule this review." = "Не удалось запланировать это повторение.";
 "review_due_now" = "К повторению сейчас";
 "review_due_date_format" = "К повторению %@";
+"review_reps_format" = "%d повт.";
+"review_state_new" = "Новая";
+"review_state_learning" = "Изучение";
+"review_state_review" = "Повторение";
+"review_state_relearning" = "Повторное изучение";
 "review_cards_ready_format" = "%d карточек готово";
 "review_more_cards_format" = "+ еще %d";
 "review_complete_count_format" = "%d/%d выполнено";

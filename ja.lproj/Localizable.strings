@@ -79,6 +79,11 @@
 "Could not schedule this review." = "この復習をスケジュールできませんでした。";
 "review_due_now" = "今が期限";
 "review_due_date_format" = "%@ が期限";
+"review_reps_format" = "%d回";
+"review_state_new" = "新規";
+"review_state_learning" = "学習中";
+"review_state_review" = "復習";
+"review_state_relearning" = "再学習";
 "review_cards_ready_format" = "%d枚のカードが準備完了";
 "review_more_cards_format" = "+ さらに%d枚";
 "review_complete_count_format" = "%d/%d 完了";

@@ -79,6 +79,11 @@
 "Could not schedule this review." = "Could not schedule this review.";
 "review_due_now" = "Due now";
 "review_due_date_format" = "Due %@";
+"review_reps_format" = "%d reps";
+"review_state_new" = "New";
+"review_state_learning" = "Learning";
+"review_state_review" = "Review";
+"review_state_relearning" = "Relearning";
 "review_cards_ready_format" = "%d cards ready";
 "review_more_cards_format" = "+ %d more";
 "review_complete_count_format" = "%d/%d complete";
