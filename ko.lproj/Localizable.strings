@@ -1254,6 +1254,7 @@
 "hero_pace_recent_format" = "%d일 페이스";
 "hero_pace_lifetime" = "전체 페이스";
 "hero_pace_default" = "기본 페이스";
+"hero_pace_word" = "페이스";
 "hero_pace_minutes_per_day_format" = "%d분/일";
 "hero_pace_hours_per_day_format" = "%d시간/일";
 "hero_pace_hours_minutes_per_day_format" = "%d시간 %d분/일";
@@ -1320,11 +1321,14 @@
 "Create Folder" = "폴더 만들기";
 "Change Folder" = "폴더 변경";
 "No Folder" = "기타";
+"Other" = "기타";
 "Import from ChatGPT" = "ChatGPT에서 가져오기";
 "Format in ChatGPT" = "ChatGPT에서 형식 맞추기";
 "Copy the prompt, run it in the ChatGPT conversation, then paste the JSON response here." = "프롬프트를 복사해 ChatGPT 대화에서 실행한 뒤 JSON 응답을 여기에 붙여넣으세요.";
 "Copy Prompt" = "프롬프트 복사";
 "ChatGPT JSON" = "ChatGPT JSON";
+"Save to folder" = "저장할 폴더";
+"Imported cards are added to this folder." = "가져온 카드는 이 폴더에 추가됩니다.";
 "Could not parse this import." = "이 가져오기 내용을 읽을 수 없습니다.";
 "All Cards" = "전체 카드";
 "Hide Archived" = "보관됨 숨기기";

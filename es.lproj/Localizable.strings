@@ -52,11 +52,14 @@
 "Create Folder" = "Crear carpeta";
 "Change Folder" = "Cambiar carpeta";
 "No Folder" = "Otro";
+"Other" = "Otro";
 "Import from ChatGPT" = "Importar desde ChatGPT";
 "Format in ChatGPT" = "Formatear en ChatGPT";
 "Copy the prompt, run it in the ChatGPT conversation, then paste the JSON response here." = "Copia el prompt, ejecútalo en la conversación de ChatGPT y pega aquí la respuesta JSON.";
 "Copy Prompt" = "Copiar prompt";
 "ChatGPT JSON" = "JSON de ChatGPT";
+"Save to folder" = "Guardar en carpeta";
+"Imported cards are added to this folder." = "Las tarjetas importadas se añaden a esta carpeta.";
 "Could not parse this import." = "No se pudo leer esta importación.";
 "All Cards" = "Todas las tarjetas";
 "Hide Archived" = "Ocultar archivadas";
@@ -1414,6 +1417,7 @@
 "hero_pace_recent_format" = "Ritmo de %d días";
 "hero_pace_lifetime" = "Ritmo total";
 "hero_pace_default" = "Ritmo predeterminado";
+"hero_pace_word" = "ritmo";
 "hero_pace_minutes_per_day_format" = "%d min/día";
 "hero_pace_hours_per_day_format" = "%d h/día";
 "hero_pace_hours_minutes_per_day_format" = "%d h %d min/día";
