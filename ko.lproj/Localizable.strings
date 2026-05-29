@@ -1298,6 +1298,9 @@
 "Paste" = "붙여넣기";
 "Archive" = "보관";
 "Archive Items" = "항목 보관";
+"Archived" = "보관됨";
+"Archived Cards" = "보관된 카드";
+"Restore" = "복원";
 "New Anki Card" = "새 Anki 카드";
 "Edit Anki Card" = "Anki 카드 편집";
 "Write the prompt." = "질문을 작성하세요.";
@@ -1322,6 +1325,8 @@
 "All Cards" = "전체 카드";
 "Hide Archived" = "보관됨 숨기기";
 "Show Archived" = "보관됨 보기";
+"No archived cards" = "보관된 카드 없음";
+"Archived cards and folders will appear here until they are permanently deleted." = "보관된 카드와 폴더는 영구 삭제될 때까지 여기에 표시됩니다.";
 "No Cards Due" = "예정된 카드 없음";
 "Start Due" = "예정 카드 시작";
 "Start Review" = "복습 시작";

@@ -30,6 +30,9 @@
 "Paste" = "Pegar";
 "Archive" = "Archivar";
 "Archive Items" = "Archivar elementos";
+"Archived" = "Archivada";
+"Archived Cards" = "Tarjetas archivadas";
+"Restore" = "Restaurar";
 "New Anki Card" = "Nueva tarjeta Anki";
 "Edit Anki Card" = "Editar tarjeta Anki";
 "Write the prompt." = "Escribe la pregunta.";
@@ -54,6 +57,8 @@
 "All Cards" = "Todas las tarjetas";
 "Hide Archived" = "Ocultar archivadas";
 "Show Archived" = "Mostrar archivadas";
+"No archived cards" = "No hay tarjetas archivadas";
+"Archived cards and folders will appear here until they are permanently deleted." = "Las tarjetas y carpetas archivadas aparecerán aquí hasta que se eliminen permanentemente.";
 "No Cards Due" = "No hay tarjetas pendientes";
 "Start Due" = "Empezar pendientes";
 "Start Review" = "Empezar repaso";

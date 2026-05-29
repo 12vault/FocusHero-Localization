@@ -30,6 +30,9 @@
 "Paste" = "粘贴";
 "Archive" = "归档";
 "Archive Items" = "归档项目";
+"Archived" = "已归档";
+"Archived Cards" = "已归档卡片";
+"Restore" = "恢复";
 "New Anki Card" = "新建 Anki 卡片";
 "Edit Anki Card" = "编辑 Anki 卡片";
 "Write the prompt." = "填写提示。";
@@ -54,6 +57,8 @@
 "All Cards" = "所有卡片";
 "Hide Archived" = "隐藏已归档";
 "Show Archived" = "显示已归档";
+"No archived cards" = "没有已归档卡片";
+"Archived cards and folders will appear here until they are permanently deleted." = "已归档的卡片和文件夹会显示在这里，直到被永久删除。";
 "No Cards Due" = "没有到期卡片";
 "Start Due" = "开始到期卡片";
 "Start Review" = "开始复习";

@@ -30,6 +30,9 @@
 "Paste" = "Вставить";
 "Archive" = "Архивировать";
 "Archive Items" = "Архивировать элементы";
+"Archived" = "В архиве";
+"Archived Cards" = "Карточки в архиве";
+"Restore" = "Восстановить";
 "New Anki Card" = "Новая карточка Anki";
 "Edit Anki Card" = "Изменить карточку Anki";
 "Write the prompt." = "Напишите вопрос.";
@@ -54,6 +57,8 @@
 "All Cards" = "Все карточки";
 "Hide Archived" = "Скрыть архив";
 "Show Archived" = "Показать архив";
+"No archived cards" = "Нет карточек в архиве";
+"Archived cards and folders will appear here until they are permanently deleted." = "Архивные карточки и папки будут отображаться здесь, пока не будут удалены окончательно.";
 "No Cards Due" = "Нет карточек к повторению";
 "Start Due" = "Начать повторение";
 "Start Review" = "Начать повторение";

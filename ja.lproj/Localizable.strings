@@ -30,6 +30,9 @@
 "Paste" = "貼り付け";
 "Archive" = "アーカイブ";
 "Archive Items" = "項目をアーカイブ";
+"Archived" = "アーカイブ済み";
+"Archived Cards" = "アーカイブ済みカード";
+"Restore" = "復元";
 "New Anki Card" = "新しいAnkiカード";
 "Edit Anki Card" = "Ankiカードを編集";
 "Write the prompt." = "質問を書きます。";
@@ -54,6 +57,8 @@
 "All Cards" = "すべてのカード";
 "Hide Archived" = "アーカイブを非表示";
 "Show Archived" = "アーカイブを表示";
+"No archived cards" = "アーカイブ済みカードはありません";
+"Archived cards and folders will appear here until they are permanently deleted." = "アーカイブ済みのカードとフォルダは、完全に削除されるまでここに表示されます。";
 "No Cards Due" = "期限のカードなし";
 "Start Due" = "期限分を開始";
 "Start Review" = "復習を開始";

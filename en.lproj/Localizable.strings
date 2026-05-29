@@ -30,6 +30,9 @@
 "Paste" = "Paste";
 "Archive" = "Archive";
 "Archive Items" = "Archive Items";
+"Archived" = "Archived";
+"Archived Cards" = "Archived Cards";
+"Restore" = "Restore";
 "New Anki Card" = "New Anki Card";
 "Edit Anki Card" = "Edit Anki Card";
 "Write the prompt." = "Write the prompt.";
@@ -54,6 +57,8 @@
 "All Cards" = "All Cards";
 "Hide Archived" = "Hide Archived";
 "Show Archived" = "Show Archived";
+"No archived cards" = "No archived cards";
+"Archived cards and folders will appear here until they are permanently deleted." = "Archived cards and folders will appear here until they are permanently deleted.";
 "No Cards Due" = "No Cards Due";
 "Start Due" = "Start Due";
 "Start Review" = "Start Review";
