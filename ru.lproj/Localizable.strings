@@ -29,6 +29,7 @@
 "Open" = "Открыть";
 "Paste" = "Вставить";
 "Archive" = "Архивировать";
+"Archive Items" = "Архивировать элементы";
 "New Anki Card" = "Новая карточка Anki";
 "Edit Anki Card" = "Изменить карточку Anki";
 "Write the prompt." = "Напишите вопрос.";
