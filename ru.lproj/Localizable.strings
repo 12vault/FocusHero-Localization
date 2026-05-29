@@ -62,6 +62,7 @@
 "Review card options" = "Параметры карточки";
 "Change review journey" = "Сменить путь повторения";
 "Move Cards To" = "Переместить карточки в";
+"Move to %@" = "Переместить в %@";
 "Move to Folder" = "Переместить в папку";
 "Delete Folder" = "Удалить папку";
 "No cards found" = "Карточки не найдены";

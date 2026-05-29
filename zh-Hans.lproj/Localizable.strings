@@ -62,6 +62,7 @@
 "Review card options" = "复习卡片选项";
 "Change review journey" = "更改复习旅程";
 "Move Cards To" = "移动卡片到";
+"Move to %@" = "移动到%@";
 "Move to Folder" = "移动到文件夹";
 "Delete Folder" = "删除文件夹";
 "No cards found" = "未找到卡片";

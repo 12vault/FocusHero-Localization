@@ -62,6 +62,7 @@
 "Review card options" = "復習カードのオプション";
 "Change review journey" = "復習ジャーニーを変更";
 "Move Cards To" = "カードの移動先";
+"Move to %@" = "%@へ移動";
 "Move to Folder" = "フォルダへ移動";
 "Delete Folder" = "フォルダを削除";
 "No cards found" = "カードが見つかりません";

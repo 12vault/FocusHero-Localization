@@ -62,6 +62,7 @@
 "Review card options" = "Opciones de tarjeta";
 "Change review journey" = "Cambiar recorrido de repaso";
 "Move Cards To" = "Mover tarjetas a";
+"Move to %@" = "Mover a %@";
 "Move to Folder" = "Mover a carpeta";
 "Delete Folder" = "Eliminar carpeta";
 "No cards found" = "No se encontraron tarjetas";

@@ -1330,6 +1330,7 @@
 "Review card options" = "복습 카드 옵션";
 "Change review journey" = "복습 여정 변경";
 "Move Cards To" = "카드 이동";
+"Move to %@" = "%@로 이동";
 "Move to Folder" = "폴더로 이동";
 "Delete Folder" = "폴더 삭제";
 "No cards found" = "카드를 찾을 수 없음";
