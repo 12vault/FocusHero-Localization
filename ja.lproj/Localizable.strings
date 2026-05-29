@@ -33,6 +33,7 @@
 "Archived" = "アーカイブ済み";
 "Archived Cards" = "アーカイブ済みカード";
 "Restore" = "復元";
+"Unarchive" = "アーカイブ解除";
 "New Anki Card" = "新しいAnkiカード";
 "Edit Anki Card" = "Ankiカードを編集";
 "Write the prompt." = "質問を書きます。";

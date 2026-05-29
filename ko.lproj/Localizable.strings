@@ -1301,6 +1301,7 @@
 "Archived" = "보관됨";
 "Archived Cards" = "보관된 카드";
 "Restore" = "복원";
+"Unarchive" = "보관 해제";
 "New Anki Card" = "새 Anki 카드";
 "Edit Anki Card" = "Anki 카드 편집";
 "Write the prompt." = "질문을 작성하세요.";

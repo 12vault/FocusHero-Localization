@@ -33,6 +33,7 @@
 "Archived" = "已归档";
 "Archived Cards" = "已归档卡片";
 "Restore" = "恢复";
+"Unarchive" = "取消归档";
 "New Anki Card" = "新建 Anki 卡片";
 "Edit Anki Card" = "编辑 Anki 卡片";
 "Write the prompt." = "填写提示。";

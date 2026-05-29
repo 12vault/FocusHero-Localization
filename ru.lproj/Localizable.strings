@@ -33,6 +33,7 @@
 "Archived" = "В архиве";
 "Archived Cards" = "Карточки в архиве";
 "Restore" = "Восстановить";
+"Unarchive" = "Вернуть из архива";
 "New Anki Card" = "Новая карточка Anki";
 "Edit Anki Card" = "Изменить карточку Anki";
 "Write the prompt." = "Напишите вопрос.";
