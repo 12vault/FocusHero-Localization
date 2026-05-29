@@ -1299,6 +1299,9 @@
 "Archive" = "보관";
 "Archive Items" = "항목 보관";
 "Archived" = "보관됨";
+"Deletes today" = "오늘 삭제됨";
+"Deletes in 1 day" = "1일 후 삭제됨";
+"Deletes in %d days" = "%d일 후 삭제됨";
 "Archived Cards" = "보관된 카드";
 "Restore" = "복원";
 "Unarchive" = "보관 해제";

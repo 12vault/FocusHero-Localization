@@ -31,6 +31,9 @@
 "Archive" = "归档";
 "Archive Items" = "归档项目";
 "Archived" = "已归档";
+"Deletes today" = "今天删除";
+"Deletes in 1 day" = "1 天后删除";
+"Deletes in %d days" = "%d 天后删除";
 "Archived Cards" = "已归档卡片";
 "Restore" = "恢复";
 "Unarchive" = "取消归档";

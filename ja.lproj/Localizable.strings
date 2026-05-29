@@ -31,6 +31,9 @@
 "Archive" = "アーカイブ";
 "Archive Items" = "項目をアーカイブ";
 "Archived" = "アーカイブ済み";
+"Deletes today" = "今日削除";
+"Deletes in 1 day" = "あと1日で削除";
+"Deletes in %d days" = "あと%d日で削除";
 "Archived Cards" = "アーカイブ済みカード";
 "Restore" = "復元";
 "Unarchive" = "アーカイブ解除";

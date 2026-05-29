@@ -31,6 +31,9 @@
 "Archive" = "Archivar";
 "Archive Items" = "Archivar elementos";
 "Archived" = "Archivada";
+"Deletes today" = "Se elimina hoy";
+"Deletes in 1 day" = "Se elimina en 1 día";
+"Deletes in %d days" = "Se elimina en %d días";
 "Archived Cards" = "Tarjetas archivadas";
 "Restore" = "Restaurar";
 "Unarchive" = "Desarchivar";

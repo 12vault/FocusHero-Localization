@@ -31,6 +31,9 @@
 "Archive" = "Архивировать";
 "Archive Items" = "Архивировать элементы";
 "Archived" = "В архиве";
+"Deletes today" = "Удалится сегодня";
+"Deletes in 1 day" = "Удалится через 1 день";
+"Deletes in %d days" = "Удалится через %d дн.";
 "Archived Cards" = "Карточки в архиве";
 "Restore" = "Восстановить";
 "Unarchive" = "Вернуть из архива";

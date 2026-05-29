@@ -31,6 +31,9 @@
 "Archive" = "Archive";
 "Archive Items" = "Archive Items";
 "Archived" = "Archived";
+"Deletes today" = "Deletes today";
+"Deletes in 1 day" = "Deletes in 1 day";
+"Deletes in %d days" = "Deletes in %d days";
 "Archived Cards" = "Archived Cards";
 "Restore" = "Restore";
 "Unarchive" = "Unarchive";
