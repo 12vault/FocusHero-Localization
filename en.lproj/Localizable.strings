@@ -88,6 +88,10 @@
 "No cards due" = "No cards due";
 "New review cards will appear here when FSRS schedules them." = "New review cards will appear here when FSRS schedules them.";
 "Could not schedule this review." = "Could not schedule this review.";
+"Again" = "Again";
+"Hard" = "Hard";
+"Good" = "Good";
+"Easy" = "Easy";
 "review_due_now" = "Due now";
 "review_due_date_format" = "Due %@";
 "review_reps_format" = "%d reps";

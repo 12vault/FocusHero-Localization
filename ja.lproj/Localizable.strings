@@ -88,6 +88,10 @@
 "No cards due" = "期限のカードなし";
 "New review cards will appear here when FSRS schedules them." = "FSRSがスケジュールすると、新しい復習カードがここに表示されます。";
 "Could not schedule this review." = "この復習をスケジュールできませんでした。";
+"Again" = "もう一度";
+"Hard" = "難しい";
+"Good" = "普通";
+"Easy" = "簡単";
 "review_due_now" = "今が期限";
 "review_due_date_format" = "%@ が期限";
 "review_reps_format" = "%d回";

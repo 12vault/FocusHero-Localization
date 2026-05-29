@@ -1356,6 +1356,10 @@
 "No cards due" = "예정된 카드 없음";
 "New review cards will appear here when FSRS schedules them." = "FSRS가 일정을 잡으면 새 복습 카드가 여기에 표시됩니다.";
 "Could not schedule this review." = "이 복습 일정을 잡을 수 없습니다.";
+"Again" = "다시";
+"Hard" = "어려움";
+"Good" = "좋음";
+"Easy" = "쉬움";
 "review_due_now" = "지금 예정";
 "review_due_date_format" = "%@ 예정";
 "review_reps_format" = "%d회";

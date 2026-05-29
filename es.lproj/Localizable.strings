@@ -88,6 +88,10 @@
 "No cards due" = "No hay tarjetas pendientes";
 "New review cards will appear here when FSRS schedules them." = "Las nuevas tarjetas de repaso aparecerán aquí cuando FSRS las programe.";
 "Could not schedule this review." = "No se pudo programar este repaso.";
+"Again" = "Otra vez";
+"Hard" = "Difícil";
+"Good" = "Bien";
+"Easy" = "Fácil";
 "review_due_now" = "Pendiente ahora";
 "review_due_date_format" = "Pendiente %@";
 "review_reps_format" = "%d repeticiones";

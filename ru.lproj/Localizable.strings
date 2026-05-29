@@ -88,6 +88,10 @@
 "No cards due" = "Нет карточек к повторению";
 "New review cards will appear here when FSRS schedules them." = "Новые карточки повторения появятся здесь, когда FSRS назначит их.";
 "Could not schedule this review." = "Не удалось запланировать это повторение.";
+"Again" = "Снова";
+"Hard" = "Сложно";
+"Good" = "Хорошо";
+"Easy" = "Легко";
 "review_due_now" = "К повторению сейчас";
 "review_due_date_format" = "К повторению %@";
 "review_reps_format" = "%d повт.";

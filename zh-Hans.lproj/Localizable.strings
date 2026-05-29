@@ -88,6 +88,10 @@
 "No cards due" = "没有到期卡片";
 "New review cards will appear here when FSRS schedules them." = "FSRS 安排后，新的复习卡片会显示在这里。";
 "Could not schedule this review." = "无法安排此次复习。";
+"Again" = "重来";
+"Hard" = "困难";
+"Good" = "良好";
+"Easy" = "简单";
 "review_due_now" = "现在到期";
 "review_due_date_format" = "%@ 到期";
 "review_reps_format" = "%d 次复习";
