@@ -98,6 +98,7 @@
 "review_due_now" = "Due now";
 "review_due_date_format" = "Due %@";
 "review_reps_format" = "%d reps";
+"review_phase_format" = "Phase: %@";
 "review_state_new" = "New";
 "review_state_learning" = "Learning";
 "review_state_review" = "Review";

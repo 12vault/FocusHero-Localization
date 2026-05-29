@@ -98,6 +98,7 @@
 "review_due_now" = "今が期限";
 "review_due_date_format" = "%@ が期限";
 "review_reps_format" = "%d回";
+"review_phase_format" = "フェーズ: %@";
 "review_state_new" = "新規";
 "review_state_learning" = "学習中";
 "review_state_review" = "復習";

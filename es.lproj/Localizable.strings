@@ -98,6 +98,7 @@
 "review_due_now" = "Pendiente ahora";
 "review_due_date_format" = "Pendiente %@";
 "review_reps_format" = "%d repeticiones";
+"review_phase_format" = "Fase: %@";
 "review_state_new" = "Nueva";
 "review_state_learning" = "Aprendiendo";
 "review_state_review" = "Repaso";

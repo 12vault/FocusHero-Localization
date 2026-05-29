@@ -98,6 +98,7 @@
 "review_due_now" = "现在到期";
 "review_due_date_format" = "%@ 到期";
 "review_reps_format" = "%d 次复习";
+"review_phase_format" = "阶段：%@";
 "review_state_new" = "新卡";
 "review_state_learning" = "学习中";
 "review_state_review" = "复习";

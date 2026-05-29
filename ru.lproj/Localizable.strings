@@ -98,6 +98,7 @@
 "review_due_now" = "К повторению сейчас";
 "review_due_date_format" = "К повторению %@";
 "review_reps_format" = "%d повт.";
+"review_phase_format" = "Фаза: %@";
 "review_state_new" = "Новая";
 "review_state_learning" = "Изучение";
 "review_state_review" = "Повторение";
