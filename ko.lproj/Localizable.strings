@@ -1311,7 +1311,7 @@
 "Remove from Folder" = "폴더에서 제거";
 "Create Folder" = "폴더 만들기";
 "Change Folder" = "폴더 변경";
-"No Folder" = "폴더 없음";
+"No Folder" = "기타";
 "Import from ChatGPT" = "ChatGPT에서 가져오기";
 "Format in ChatGPT" = "ChatGPT에서 형식 맞추기";
 "Copy the prompt, run it in the ChatGPT conversation, then paste the JSON response here." = "프롬프트를 복사해 ChatGPT 대화에서 실행한 뒤 JSON 응답을 여기에 붙여넣으세요.";

@@ -43,7 +43,7 @@
 "Remove from Folder" = "フォルダから削除";
 "Create Folder" = "フォルダを作成";
 "Change Folder" = "フォルダを変更";
-"No Folder" = "フォルダなし";
+"No Folder" = "その他";
 "Import from ChatGPT" = "ChatGPTからインポート";
 "Format in ChatGPT" = "ChatGPTで整形";
 "Copy the prompt, run it in the ChatGPT conversation, then paste the JSON response here." = "プロンプトをコピーしてChatGPTの会話で実行し、JSONの応答をここに貼り付けてください。";

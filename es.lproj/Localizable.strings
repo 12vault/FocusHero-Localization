@@ -43,7 +43,7 @@
 "Remove from Folder" = "Quitar de la carpeta";
 "Create Folder" = "Crear carpeta";
 "Change Folder" = "Cambiar carpeta";
-"No Folder" = "Sin carpeta";
+"No Folder" = "Otro";
 "Import from ChatGPT" = "Importar desde ChatGPT";
 "Format in ChatGPT" = "Formatear en ChatGPT";
 "Copy the prompt, run it in the ChatGPT conversation, then paste the JSON response here." = "Copia el prompt, ejecútalo en la conversación de ChatGPT y pega aquí la respuesta JSON.";

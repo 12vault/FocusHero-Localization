@@ -43,7 +43,7 @@
 "Remove from Folder" = "从文件夹移除";
 "Create Folder" = "创建文件夹";
 "Change Folder" = "更改文件夹";
-"No Folder" = "无文件夹";
+"No Folder" = "其他";
 "Import from ChatGPT" = "从 ChatGPT 导入";
 "Format in ChatGPT" = "在 ChatGPT 中格式化";
 "Copy the prompt, run it in the ChatGPT conversation, then paste the JSON response here." = "复制提示词，在 ChatGPT 对话中运行，然后将 JSON 回复粘贴到这里。";

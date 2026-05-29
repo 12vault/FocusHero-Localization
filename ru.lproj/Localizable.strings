@@ -43,7 +43,7 @@
 "Remove from Folder" = "Убрать из папки";
 "Create Folder" = "Создать папку";
 "Change Folder" = "Сменить папку";
-"No Folder" = "Без папки";
+"No Folder" = "Другое";
 "Import from ChatGPT" = "Импорт из ChatGPT";
 "Format in ChatGPT" = "Форматировать в ChatGPT";
 "Copy the prompt, run it in the ChatGPT conversation, then paste the JSON response here." = "Скопируйте промпт, выполните его в чате ChatGPT, затем вставьте сюда JSON-ответ.";
