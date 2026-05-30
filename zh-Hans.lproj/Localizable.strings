@@ -107,6 +107,26 @@
 "review_more_cards_format" = "+ 还有 %d 张";
 "review_complete_count_format" = "已完成 %d/%d";
 "review_card_position_format" = "%d/%d";
+"review_chain_position_format" = "卡片链 %@";
+"Break down big idea" = "拆解核心想法";
+"Add an overview card plus smaller detail cards." = "添加一张概览卡片和多张较小的细节卡片。";
+"Chain Title" = "卡片链标题";
+"Name this idea" = "为这个想法命名";
+"Shown while reviewing linked cards." = "复习关联卡片时显示。";
+"Detail Cards" = "细节卡片";
+"Add Detail" = "添加细节";
+"Each detail card stays atomic. The overview card keeps the big picture." = "每张细节卡片保持单一知识点，概览卡片保留整体脉络。";
+"Detail %d" = "细节 %d";
+"Detail question" = "细节问题";
+"Detail answer" = "细节答案";
+"Big Idea Overview" = "核心想法概览";
+"Capture the big picture in one question." = "用一个问句概括整体思路。";
+"What is the main idea?" = "核心想法是什么？";
+"Overview Answer" = "概览答案";
+"Summarize the whole idea in your own words." = "用自己的话概括整个想法。";
+"Explain the big idea briefly." = "简要说明核心想法。";
+"Create one overview card and a few detail cards that stay linked together." = "创建一张概览卡片和几张保持关联的细节卡片。";
+"Big idea" = "核心想法";
 
 // MARK: - Sessions
 "focus_time" = "专注时间";

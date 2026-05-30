@@ -107,6 +107,26 @@
 "review_more_cards_format" = "+ еще %d";
 "review_complete_count_format" = "%d/%d выполнено";
 "review_card_position_format" = "%d/%d";
+"review_chain_position_format" = "Цепочка %@";
+"Break down big idea" = "Разбить большую идею";
+"Add an overview card plus smaller detail cards." = "Добавьте обзорную карточку и более мелкие детальные карточки.";
+"Chain Title" = "Название цепочки";
+"Name this idea" = "Назовите эту идею";
+"Shown while reviewing linked cards." = "Показывается при повторении связанных карточек.";
+"Detail Cards" = "Детальные карточки";
+"Add Detail" = "Добавить деталь";
+"Each detail card stays atomic. The overview card keeps the big picture." = "Каждая детальная карточка остаётся атомарной. Обзорная карточка сохраняет общую картину.";
+"Detail %d" = "Деталь %d";
+"Detail question" = "Детальный вопрос";
+"Detail answer" = "Детальный ответ";
+"Big Idea Overview" = "Обзор большой идеи";
+"Capture the big picture in one question." = "Уложите общую картину в один вопрос.";
+"What is the main idea?" = "В чём главная идея?";
+"Overview Answer" = "Обзорный ответ";
+"Summarize the whole idea in your own words." = "Кратко изложите всю идею своими словами.";
+"Explain the big idea briefly." = "Кратко объясните большую идею.";
+"Create one overview card and a few detail cards that stay linked together." = "Создайте обзорную карточку и несколько детальных, которые останутся связанными.";
+"Big idea" = "Большая идея";
 
 // MARK: - Sessions
 "focus_time" = "Время фокуса";
