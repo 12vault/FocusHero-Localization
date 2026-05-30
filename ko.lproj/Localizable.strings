@@ -1347,6 +1347,8 @@
 "Move to %@" = "%@로 이동";
 "Move to Folder" = "폴더로 이동";
 "Delete Folder" = "폴더 삭제";
+"Rename Folder" = "폴더 이름 변경";
+"Enter a new name for this folder." = "이 폴더의 새 이름을 입력하세요.";
 "No cards found" = "카드를 찾을 수 없음";
 "No review cards yet" = "아직 복습 카드가 없음";
 "Create cards from notes or add one here." = "노트에서 카드를 만들거나 여기서 추가하세요.";
@@ -1363,8 +1365,8 @@
 "review_fsrs_schedule_subtitle_before" = "새 복습 카드는 ";
 "review_fsrs_schedule_subtitle_after" = "가 일정을 잡으면 여기에 표시됩니다.";
 "review_fsrs_explanation_title" = "FSRS";
-"review_fsrs_explanation_body" = "FSRS(Free Spaced Repetition Scheduler)는 기억한 정도에 따라 각 카드의 복습 시점을 조정합니다. 쉬운 카드는 더 늦게, 어려운 카드는 더 빨리 다시 나타납니다. FSRS 알고리즘을 사용합니다.";
-"review_fsrs_learn_more" = "FSRS 자세히 알아보기";
+"review_fsrs_explanation_body" = "FSRS(Free Spaced Repetition Scheduler)는 DSR 모델(난이도, 안정성, 회상 가능성)로 기억을 모델링하고, 각 카드를 잊기 쉬운 시점을 예측합니다. Again, Hard, Good, Easy 평가로 모델을 업데이트해 다음 복습 시점을 정합니다.";
+"review_fsrs_powered_by" = "FSRS 제공";
 "Could not schedule this review." = "이 복습 일정을 잡을 수 없습니다.";
 "Again" = "다시";
 "Hard" = "어려움";

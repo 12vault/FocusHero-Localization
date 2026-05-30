@@ -78,6 +78,8 @@
 "Move to %@" = "Переместить в %@";
 "Move to Folder" = "Переместить в папку";
 "Delete Folder" = "Удалить папку";
+"Rename Folder" = "Переименовать папку";
+"Enter a new name for this folder." = "Введите новое имя для этой папки.";
 "No cards found" = "Карточки не найдены";
 "No review cards yet" = "Карточек повторения пока нет";
 "Create cards from notes or add one here." = "Создайте карточки из заметок или добавьте одну здесь.";
@@ -94,8 +96,8 @@
 "review_fsrs_schedule_subtitle_before" = "Новые карточки появятся здесь, когда ";
 "review_fsrs_schedule_subtitle_after" = " назначит их.";
 "review_fsrs_explanation_title" = "FSRS";
-"review_fsrs_explanation_body" = "FSRS (Free Spaced Repetition Scheduler) планирует повторение каждой карточки в зависимости от того, насколько хорошо вы её запомнили. Лёгкие карточки возвращаются позже, сложные — раньше, чтобы вы учились эффективнее. Работает на алгоритме FSRS.";
-"review_fsrs_learn_more" = "Подробнее о FSRS";
+"review_fsrs_explanation_body" = "FSRS (Free Spaced Repetition Scheduler) использует модель DSR — сложность, стабильность и извлекаемость — чтобы предсказать, когда вы, вероятно, забудете каждую карточку. Ваши оценки Again, Hard, Good или Easy обновляют модель и назначают следующее повторение в нужное время.";
+"review_fsrs_powered_by" = "На базе FSRS";
 "Could not schedule this review." = "Не удалось запланировать это повторение.";
 "Again" = "Снова";
 "Hard" = "Сложно";

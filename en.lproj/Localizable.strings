@@ -81,6 +81,8 @@
 "Move to %@" = "Move to %@";
 "Move to Folder" = "Move to Folder";
 "Delete Folder" = "Delete Folder";
+"Rename Folder" = "Rename Folder";
+"Enter a new name for this folder." = "Enter a new name for this folder.";
 "No cards found" = "No cards found";
 "No review cards yet" = "No review cards yet";
 "Create cards from notes or add one here." = "Create cards from notes or add one here.";
@@ -97,8 +99,8 @@
 "review_fsrs_schedule_subtitle_before" = "New review cards will appear here when ";
 "review_fsrs_schedule_subtitle_after" = " schedules them.";
 "review_fsrs_explanation_title" = "FSRS";
-"review_fsrs_explanation_body" = "FSRS (Free Spaced Repetition Scheduler) schedules each card based on how well you remembered it. Cards you find easy come back later; harder ones return sooner so you keep learning efficiently. Powered by FSRS.";
-"review_fsrs_learn_more" = "Learn more about FSRS";
+"review_fsrs_explanation_body" = "FSRS (Free Spaced Repetition Scheduler) uses the DSR model—difficulty, stability, and retrievability—to predict when you are likely to forget each card. Your Again, Hard, Good, or Easy ratings update this model and schedule the next review at the right time.";
+"review_fsrs_powered_by" = "Powered by FSRS";
 "Could not schedule this review." = "Could not schedule this review.";
 "Again" = "Again";
 "Hard" = "Hard";

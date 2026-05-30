@@ -78,6 +78,8 @@
 "Move to %@" = "Mover a %@";
 "Move to Folder" = "Mover a carpeta";
 "Delete Folder" = "Eliminar carpeta";
+"Rename Folder" = "Renombrar carpeta";
+"Enter a new name for this folder." = "Introduce un nombre nuevo para esta carpeta.";
 "No cards found" = "No se encontraron tarjetas";
 "No review cards yet" = "Aún no hay tarjetas de repaso";
 "Create cards from notes or add one here." = "Crea tarjetas desde notas o añade una aquí.";
@@ -94,8 +96,8 @@
 "review_fsrs_schedule_subtitle_before" = "Las nuevas tarjetas aparecerán aquí cuando ";
 "review_fsrs_schedule_subtitle_after" = " las programe.";
 "review_fsrs_explanation_title" = "FSRS";
-"review_fsrs_explanation_body" = "FSRS (Free Spaced Repetition Scheduler) programa cada tarjeta según qué tan bien la recordaste. Las tarjetas fáciles vuelven más tarde; las difíciles regresan antes para que sigas aprendiendo con eficiencia. Impulsado por FSRS.";
-"review_fsrs_learn_more" = "Más información sobre FSRS";
+"review_fsrs_explanation_body" = "FSRS (Free Spaced Repetition Scheduler) usa el modelo DSR—dificultad, estabilidad y recuperabilidad—para predecir cuándo es probable que olvides cada tarjeta. Tus valoraciones Again, Hard, Good o Easy actualizan el modelo y programan la siguiente revisión en el momento adecuado.";
+"review_fsrs_powered_by" = "Impulsado por FSRS";
 "Could not schedule this review." = "No se pudo programar este repaso.";
 "Again" = "Otra vez";
 "Hard" = "Difícil";
