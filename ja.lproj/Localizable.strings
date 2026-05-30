@@ -108,6 +108,7 @@
 "review_complete_count_format" = "%d/%d 完了";
 "review_card_position_format" = "%d/%d";
 "review_chain_position_format" = "チェーン %@";
+"Chain" = "チェーン";
 "Linked card" = "リンクされたカード";
 "Chain another card" = "別のカードをチェーン";
 "Save & chain another card" = "保存して別のカードをチェーン";

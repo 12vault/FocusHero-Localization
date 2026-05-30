@@ -108,6 +108,7 @@
 "review_complete_count_format" = "已完成 %d/%d";
 "review_card_position_format" = "%d/%d";
 "review_chain_position_format" = "卡片链 %@";
+"Chain" = "卡片链";
 "Linked card" = "关联卡片";
 "Chain another card" = "链接另一张卡片";
 "Save & chain another card" = "保存并链接另一张卡片";

@@ -108,6 +108,7 @@
 "review_complete_count_format" = "%d/%d completadas";
 "review_card_position_format" = "%d/%d";
 "review_chain_position_format" = "Cadena %@";
+"Chain" = "Cadena";
 "Linked card" = "Tarjeta vinculada";
 "Chain another card" = "Encadenar otra tarjeta";
 "Save & chain another card" = "Guardar y encadenar otra tarjeta";

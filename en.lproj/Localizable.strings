@@ -111,6 +111,7 @@
 "review_complete_count_format" = "%d/%d complete";
 "review_card_position_format" = "%d/%d";
 "review_chain_position_format" = "Chain %@";
+"Chain" = "Chain";
 "Linked card" = "Linked card";
 "Chain another card" = "Chain another card";
 "Save & chain another card" = "Save & chain another card";

@@ -1377,6 +1377,7 @@
 "review_complete_count_format" = "%d/%d 완료";
 "review_card_position_format" = "%d/%d";
 "review_chain_position_format" = "연결 %@";
+"Chain" = "연결";
 "Linked card" = "연결된 카드";
 "Chain another card" = "다른 카드 연결";
 "Save & chain another card" = "저장하고 다른 카드 연결";

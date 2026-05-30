@@ -108,6 +108,7 @@
 "review_complete_count_format" = "%d/%d выполнено";
 "review_card_position_format" = "%d/%d";
 "review_chain_position_format" = "Цепочка %@";
+"Chain" = "Цепочка";
 "Linked card" = "Связанная карточка";
 "Chain another card" = "Связать ещё карточку";
 "Save & chain another card" = "Сохранить и связать ещё карточку";
