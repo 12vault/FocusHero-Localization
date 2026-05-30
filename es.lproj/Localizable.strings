@@ -108,25 +108,13 @@
 "review_complete_count_format" = "%d/%d completadas";
 "review_card_position_format" = "%d/%d";
 "review_chain_position_format" = "Cadena %@";
-"Break down big idea" = "Desglosar la idea principal";
-"Add an overview card plus smaller detail cards." = "Añade una tarjeta de resumen y tarjetas de detalle más pequeñas.";
-"Chain Title" = "Título de la cadena";
-"Name this idea" = "Nombra esta idea";
-"Shown while reviewing linked cards." = "Se muestra al repasar tarjetas vinculadas.";
-"Detail Cards" = "Tarjetas de detalle";
-"Add Detail" = "Añadir detalle";
-"Each detail card stays atomic. The overview card keeps the big picture." = "Cada tarjeta de detalle sigue siendo atómica. La tarjeta de resumen mantiene la visión general.";
-"Detail %d" = "Detalle %d";
-"Detail question" = "Pregunta de detalle";
-"Detail answer" = "Respuesta de detalle";
-"Big Idea Overview" = "Resumen de la idea principal";
-"Capture the big picture in one question." = "Captura la visión general en una pregunta.";
-"What is the main idea?" = "¿Cuál es la idea principal?";
-"Overview Answer" = "Respuesta de resumen";
-"Summarize the whole idea in your own words." = "Resume toda la idea con tus propias palabras.";
-"Explain the big idea briefly." = "Explica la idea principal brevemente.";
-"Create one overview card and a few detail cards that stay linked together." = "Crea una tarjeta de resumen y algunas tarjetas de detalle que permanezcan vinculadas.";
-"Big idea" = "Idea principal";
+"Linked card" = "Tarjeta vinculada";
+"Chain another card" = "Encadenar otra tarjeta";
+"Save & chain another card" = "Guardar y encadenar otra tarjeta";
+"Linked cards review separately but stay connected." = "Las tarjetas vinculadas se repasan por separado pero permanecen conectadas.";
+"Chained · %d" = "Encadenadas · %d";
+"This card is linked. Tap Add to finish, or chain another." = "Esta tarjeta está vinculada. Toca Añadir para terminar o encadena otra.";
+"Update this card. It stays part of its chain." = "Actualiza esta tarjeta. Sigue formando parte de su cadena.";
 
 // MARK: - Sessions
 "focus_time" = "Tiempo de enfoque";

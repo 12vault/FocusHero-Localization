@@ -111,25 +111,13 @@
 "review_complete_count_format" = "%d/%d complete";
 "review_card_position_format" = "%d/%d";
 "review_chain_position_format" = "Chain %@";
-"Break down big idea" = "Break down big idea";
-"Add an overview card plus smaller detail cards." = "Add an overview card plus smaller detail cards.";
-"Chain Title" = "Chain Title";
-"Name this idea" = "Name this idea";
-"Shown while reviewing linked cards." = "Shown while reviewing linked cards.";
-"Detail Cards" = "Detail Cards";
-"Add Detail" = "Add Detail";
-"Each detail card stays atomic. The overview card keeps the big picture." = "Each detail card stays atomic. The overview card keeps the big picture.";
-"Detail %d" = "Detail %d";
-"Detail question" = "Detail question";
-"Detail answer" = "Detail answer";
-"Big Idea Overview" = "Big Idea Overview";
-"Capture the big picture in one question." = "Capture the big picture in one question.";
-"What is the main idea?" = "What is the main idea?";
-"Overview Answer" = "Overview Answer";
-"Summarize the whole idea in your own words." = "Summarize the whole idea in your own words.";
-"Explain the big idea briefly." = "Explain the big idea briefly.";
-"Create one overview card and a few detail cards that stay linked together." = "Create one overview card and a few detail cards that stay linked together.";
-"Big idea" = "Big idea";
+"Linked card" = "Linked card";
+"Chain another card" = "Chain another card";
+"Save & chain another card" = "Save & chain another card";
+"Linked cards review separately but stay connected." = "Linked cards review separately but stay connected.";
+"Chained · %d" = "Chained · %d";
+"This card is linked. Tap Add to finish, or chain another." = "This card is linked. Tap Add to finish, or chain another.";
+"Update this card. It stays part of its chain." = "Update this card. It stays part of its chain.";
 
 // MARK: - Sessions
 "focus_time" = "Focus Time";

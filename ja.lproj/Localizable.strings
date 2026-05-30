@@ -108,25 +108,13 @@
 "review_complete_count_format" = "%d/%d 完了";
 "review_card_position_format" = "%d/%d";
 "review_chain_position_format" = "チェーン %@";
-"Break down big idea" = "大きなアイデアを分解";
-"Add an overview card plus smaller detail cards." = "概要カードと小さな詳細カードを追加します。";
-"Chain Title" = "チェーンタイトル";
-"Name this idea" = "このアイデアに名前を付ける";
-"Shown while reviewing linked cards." = "リンクされたカードの復習中に表示されます。";
-"Detail Cards" = "詳細カード";
-"Add Detail" = "詳細を追加";
-"Each detail card stays atomic. The overview card keeps the big picture." = "各詳細カードは単一の内容に保ち、概要カードが全体像をつかみます。";
-"Detail %d" = "詳細 %d";
-"Detail question" = "詳細の質問";
-"Detail answer" = "詳細の答え";
-"Big Idea Overview" = "大きなアイデアの概要";
-"Capture the big picture in one question." = "全体像を1つの質問で捉えます。";
-"What is the main idea?" = "主なアイデアは何ですか？";
-"Overview Answer" = "概要の答え";
-"Summarize the whole idea in your own words." = "全体のアイデアを自分の言葉で要約します。";
-"Explain the big idea briefly." = "大きなアイデアを簡潔に説明します。";
-"Create one overview card and a few detail cards that stay linked together." = "リンクされた概要カードと詳細カードを作成します。";
-"Big idea" = "大きなアイデア";
+"Linked card" = "リンクされたカード";
+"Chain another card" = "別のカードをチェーン";
+"Save & chain another card" = "保存して別のカードをチェーン";
+"Linked cards review separately but stay connected." = "リンクされたカードは別々に復習されますが、つながったままです。";
+"Chained · %d" = "チェーン · %d";
+"This card is linked. Tap Add to finish, or chain another." = "このカードはリンクされています。完了するには「追加」、続けるにはチェーンをタップします。";
+"Update this card. It stays part of its chain." = "このカードを更新します。チェーンの一部のままです。";
 
 // MARK: - Sessions
 "focus_time" = "集中時間";
