@@ -118,6 +118,13 @@
 "review_chain_copy_scope_title" = "チェーンをコピー";
 "review_chain_copy_entire" = "チェーン全体をコピー";
 "review_chain_copy_single" = "このカードのみコピー";
+"review_chain_edit_mode_enter_hint" = "長押しでチェーンを編集";
+"review_chain_edit_mode_reorder_hint" = "ドラッグして並べ替え";
+"review_chain_edit_mode_delete_hint" = "マイナスをタップしてチェーンから削除";
+"review_chain_edit_mode_reorder_delete_hint" = "ドラッグで並べ替え、マイナスで削除";
+"review_chain_remove_confirm_title" = "チェーンからカードを削除しますか？";
+"review_chain_remove_confirm_message" = "このカードはアーカイブされます。アーカイブから復元できます。";
+"review_chain_delete_accessibility" = "チェーンから削除";
 "Chain" = "チェーン";
 "Linked card" = "リンクされたカード";
 "Chain another card" = "別のカードをチェーン";

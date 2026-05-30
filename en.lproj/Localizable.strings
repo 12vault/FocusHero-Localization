@@ -121,6 +121,13 @@
 "review_chain_copy_scope_title" = "Copy chain";
 "review_chain_copy_entire" = "Copy entire chain";
 "review_chain_copy_single" = "Copy only this card";
+"review_chain_edit_mode_enter_hint" = "Long press to edit chain";
+"review_chain_edit_mode_reorder_hint" = "Drag to reorder";
+"review_chain_edit_mode_delete_hint" = "Tap minus to remove from chain";
+"review_chain_edit_mode_reorder_delete_hint" = "Drag to reorder or tap minus to remove";
+"review_chain_remove_confirm_title" = "Remove card from chain?";
+"review_chain_remove_confirm_message" = "This card will be archived. You can restore it from the archive.";
+"review_chain_delete_accessibility" = "Remove from chain";
 "Chain" = "Chain";
 "Linked card" = "Linked card";
 "Chain another card" = "Chain another card";

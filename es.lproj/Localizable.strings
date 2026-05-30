@@ -118,6 +118,13 @@
 "review_chain_copy_scope_title" = "Copiar cadena";
 "review_chain_copy_entire" = "Copiar toda la cadena";
 "review_chain_copy_single" = "Copiar solo esta tarjeta";
+"review_chain_edit_mode_enter_hint" = "Mantén pulsado para editar la cadena";
+"review_chain_edit_mode_reorder_hint" = "Arrastra para reordenar";
+"review_chain_edit_mode_delete_hint" = "Toca el menos para quitar de la cadena";
+"review_chain_edit_mode_reorder_delete_hint" = "Arrastra para reordenar o toca el menos para quitar";
+"review_chain_remove_confirm_title" = "¿Quitar tarjeta de la cadena?";
+"review_chain_remove_confirm_message" = "Esta tarjeta se archivará. Puedes restaurarla desde el archivo.";
+"review_chain_delete_accessibility" = "Quitar de la cadena";
 "Chain" = "Cadena";
 "Linked card" = "Tarjeta vinculada";
 "Chain another card" = "Encadenar otra tarjeta";

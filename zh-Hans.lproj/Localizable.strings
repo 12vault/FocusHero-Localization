@@ -118,6 +118,13 @@
 "review_chain_copy_scope_title" = "复制卡片链";
 "review_chain_copy_entire" = "复制整个卡片链";
 "review_chain_copy_single" = "仅复制此卡片";
+"review_chain_edit_mode_enter_hint" = "长按编辑卡片链";
+"review_chain_edit_mode_reorder_hint" = "拖动以重新排序";
+"review_chain_edit_mode_delete_hint" = "点按减号从卡片链中移除";
+"review_chain_edit_mode_reorder_delete_hint" = "拖动排序或点按减号移除";
+"review_chain_remove_confirm_title" = "从卡片链中移除该卡片？";
+"review_chain_remove_confirm_message" = "该卡片将被归档。你可以从归档中恢复。";
+"review_chain_delete_accessibility" = "从卡片链中移除";
 "Chain" = "卡片链";
 "Linked card" = "关联卡片";
 "Chain another card" = "链接另一张卡片";
