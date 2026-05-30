@@ -116,6 +116,8 @@
 "Chained · %d" = "已链接 · %d";
 "This card is linked. Tap Add to finish, or chain another." = "此卡片已关联。轻点添加以完成，或继续链接另一张。";
 "Update this card. It stays part of its chain." = "更新此卡片，它仍属于其卡片链。";
+"+%d" = "+%d";
+"+%d older" = "更早 %d 张";
 
 // MARK: - Sessions
 "focus_time" = "专注时间";

@@ -119,6 +119,8 @@
 "Chained · %d" = "Chained · %d";
 "This card is linked. Tap Add to finish, or chain another." = "This card is linked. Tap Add to finish, or chain another.";
 "Update this card. It stays part of its chain." = "Update this card. It stays part of its chain.";
+"+%d" = "+%d";
+"+%d older" = "+%d older";
 
 // MARK: - Sessions
 "focus_time" = "Focus Time";

@@ -116,6 +116,8 @@
 "Chained · %d" = "В цепочке · %d";
 "This card is linked. Tap Add to finish, or chain another." = "Эта карточка связана. Нажмите «Добавить», чтобы завершить, или свяжите ещё.";
 "Update this card. It stays part of its chain." = "Обновите эту карточку. Она остаётся частью своей цепочки.";
+"+%d" = "+%d";
+"+%d older" = "ещё %d";
 
 // MARK: - Sessions
 "focus_time" = "Время фокуса";

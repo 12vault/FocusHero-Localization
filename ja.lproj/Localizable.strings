@@ -116,6 +116,8 @@
 "Chained · %d" = "チェーン · %d";
 "This card is linked. Tap Add to finish, or chain another." = "このカードはリンクされています。完了するには「追加」、続けるにはチェーンをタップします。";
 "Update this card. It stays part of its chain." = "このカードを更新します。チェーンの一部のままです。";
+"+%d" = "+%d";
+"+%d older" = "前の%d枚";
 
 // MARK: - Sessions
 "focus_time" = "集中時間";

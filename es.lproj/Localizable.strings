@@ -116,6 +116,8 @@
 "Chained · %d" = "Encadenadas · %d";
 "This card is linked. Tap Add to finish, or chain another." = "Esta tarjeta está vinculada. Toca Añadir para terminar o encadena otra.";
 "Update this card. It stays part of its chain." = "Actualiza esta tarjeta. Sigue formando parte de su cadena.";
+"+%d" = "+%d";
+"+%d older" = "+%d anteriores";
 
 // MARK: - Sessions
 "focus_time" = "Tiempo de enfoque";
