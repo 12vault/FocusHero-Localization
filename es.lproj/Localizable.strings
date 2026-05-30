@@ -90,6 +90,12 @@
 "No cards" = "Sin tarjetas";
 "No cards due" = "No hay tarjetas pendientes";
 "New review cards will appear here when FSRS schedules them." = "Las nuevas tarjetas de repaso aparecerán aquí cuando FSRS las programe.";
+"review_all_caught_up" = "¡Estás al día!";
+"review_fsrs_schedule_subtitle_before" = "Las nuevas tarjetas aparecerán aquí cuando ";
+"review_fsrs_schedule_subtitle_after" = " las programe.";
+"review_fsrs_explanation_title" = "FSRS";
+"review_fsrs_explanation_body" = "FSRS (Free Spaced Repetition Scheduler) programa cada tarjeta según qué tan bien la recordaste. Las tarjetas fáciles vuelven más tarde; las difíciles regresan antes para que sigas aprendiendo con eficiencia. Impulsado por FSRS.";
+"review_fsrs_learn_more" = "Más información sobre FSRS";
 "Could not schedule this review." = "No se pudo programar este repaso.";
 "Again" = "Otra vez";
 "Hard" = "Difícil";

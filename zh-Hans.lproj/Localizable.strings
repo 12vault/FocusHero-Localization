@@ -90,6 +90,12 @@
 "No cards" = "没有卡片";
 "No cards due" = "没有到期卡片";
 "New review cards will appear here when FSRS schedules them." = "FSRS 安排后，新的复习卡片会显示在这里。";
+"review_all_caught_up" = "全部复习完成！";
+"review_fsrs_schedule_subtitle_before" = "新的复习卡片会在 ";
+"review_fsrs_schedule_subtitle_after" = " 安排后显示在这里。";
+"review_fsrs_explanation_title" = "FSRS";
+"review_fsrs_explanation_body" = "FSRS（Free Spaced Repetition Scheduler）会根据你的记忆情况安排每张卡片的复习时间。简单的卡片间隔更长，困难的卡片会更早再次出现，帮助你高效学习。由 FSRS 算法驱动。";
+"review_fsrs_learn_more" = "了解更多 FSRS";
 "Could not schedule this review." = "无法安排此次复习。";
 "Again" = "重来";
 "Hard" = "困难";

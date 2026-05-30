@@ -90,6 +90,12 @@
 "No cards" = "Нет карточек";
 "No cards due" = "Нет карточек к повторению";
 "New review cards will appear here when FSRS schedules them." = "Новые карточки повторения появятся здесь, когда FSRS назначит их.";
+"review_all_caught_up" = "Вы всё повторили!";
+"review_fsrs_schedule_subtitle_before" = "Новые карточки появятся здесь, когда ";
+"review_fsrs_schedule_subtitle_after" = " назначит их.";
+"review_fsrs_explanation_title" = "FSRS";
+"review_fsrs_explanation_body" = "FSRS (Free Spaced Repetition Scheduler) планирует повторение каждой карточки в зависимости от того, насколько хорошо вы её запомнили. Лёгкие карточки возвращаются позже, сложные — раньше, чтобы вы учились эффективнее. Работает на алгоритме FSRS.";
+"review_fsrs_learn_more" = "Подробнее о FSRS";
 "Could not schedule this review." = "Не удалось запланировать это повторение.";
 "Again" = "Снова";
 "Hard" = "Сложно";

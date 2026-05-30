@@ -93,6 +93,12 @@
 "No cards" = "No cards";
 "No cards due" = "No cards due";
 "New review cards will appear here when FSRS schedules them." = "New review cards will appear here when FSRS schedules them.";
+"review_all_caught_up" = "You're all caught up!";
+"review_fsrs_schedule_subtitle_before" = "New review cards will appear here when ";
+"review_fsrs_schedule_subtitle_after" = " schedules them.";
+"review_fsrs_explanation_title" = "FSRS";
+"review_fsrs_explanation_body" = "FSRS (Free Spaced Repetition Scheduler) schedules each card based on how well you remembered it. Cards you find easy come back later; harder ones return sooner so you keep learning efficiently. Powered by FSRS.";
+"review_fsrs_learn_more" = "Learn more about FSRS";
 "Could not schedule this review." = "Could not schedule this review.";
 "Again" = "Again";
 "Hard" = "Hard";

@@ -90,6 +90,12 @@
 "No cards" = "カードなし";
 "No cards due" = "期限のカードなし";
 "New review cards will appear here when FSRS schedules them." = "FSRSがスケジュールすると、新しい復習カードがここに表示されます。";
+"review_all_caught_up" = "すべて復習済みです！";
+"review_fsrs_schedule_subtitle_before" = "新しい復習カードは、";
+"review_fsrs_schedule_subtitle_after" = "がスケジュールするとここに表示されます。";
+"review_fsrs_explanation_title" = "FSRS";
+"review_fsrs_explanation_body" = "FSRS（Free Spaced Repetition Scheduler）は、覚えた程度に応じて各カードの復習タイミングを調整します。簡単なカードは間隔が長く、難しいカードは早く戻ってきます。FSRS アルゴリズムを使用しています。";
+"review_fsrs_learn_more" = "FSRS について詳しく見る";
 "Could not schedule this review." = "この復習をスケジュールできませんでした。";
 "Again" = "もう一度";
 "Hard" = "難しい";

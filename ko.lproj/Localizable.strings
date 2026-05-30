@@ -1359,6 +1359,12 @@
 "No cards" = "카드 없음";
 "No cards due" = "예정된 카드 없음";
 "New review cards will appear here when FSRS schedules them." = "FSRS가 일정을 잡으면 새 복습 카드가 여기에 표시됩니다.";
+"review_all_caught_up" = "모두 따라잡았어요!";
+"review_fsrs_schedule_subtitle_before" = "새 복습 카드는 ";
+"review_fsrs_schedule_subtitle_after" = "가 일정을 잡으면 여기에 표시됩니다.";
+"review_fsrs_explanation_title" = "FSRS";
+"review_fsrs_explanation_body" = "FSRS(Free Spaced Repetition Scheduler)는 기억한 정도에 따라 각 카드의 복습 시점을 조정합니다. 쉬운 카드는 더 늦게, 어려운 카드는 더 빨리 다시 나타납니다. FSRS 알고리즘을 사용합니다.";
+"review_fsrs_learn_more" = "FSRS 자세히 알아보기";
 "Could not schedule this review." = "이 복습 일정을 잡을 수 없습니다.";
 "Again" = "다시";
 "Hard" = "어려움";
