@@ -133,6 +133,8 @@
 "review_chain_remove_confirm_title" = "¿Quitar tarjeta de la cadena?";
 "review_chain_remove_confirm_message" = "Esta tarjeta se archivará. Puedes restaurarla desde el archivo.";
 "review_chain_delete_accessibility" = "Quitar de la cadena";
+"review_chain_details_current" = "Tarjeta actual";
+"review_chain_details_accessibility" = "Leer toda la cadena";
 "Chain" = "Cadena";
 "Linked card" = "Tarjeta vinculada";
 "Chain another card" = "Encadenar otra tarjeta";

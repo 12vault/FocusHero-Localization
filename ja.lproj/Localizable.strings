@@ -133,6 +133,8 @@
 "review_chain_remove_confirm_title" = "チェーンからカードを削除しますか？";
 "review_chain_remove_confirm_message" = "このカードはアーカイブされます。アーカイブから復元できます。";
 "review_chain_delete_accessibility" = "チェーンから削除";
+"review_chain_details_current" = "現在のカード";
+"review_chain_details_accessibility" = "チェーン全体を読む";
 "Chain" = "チェーン";
 "Linked card" = "リンクされたカード";
 "Chain another card" = "別のカードをチェーン";

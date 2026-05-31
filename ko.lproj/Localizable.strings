@@ -1402,6 +1402,8 @@
 "review_chain_remove_confirm_title" = "연결에서 카드를 제거할까요?";
 "review_chain_remove_confirm_message" = "이 카드는 보관됩니다. 보관함에서 복원할 수 있습니다.";
 "review_chain_delete_accessibility" = "연결에서 제거";
+"review_chain_details_current" = "현재 카드";
+"review_chain_details_accessibility" = "연결 전체 읽기";
 "Chain" = "연결";
 "Linked card" = "연결된 카드";
 "Chain another card" = "다른 카드 연결";

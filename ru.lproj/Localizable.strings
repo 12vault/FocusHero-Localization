@@ -133,6 +133,8 @@
 "review_chain_remove_confirm_title" = "Удалить карточку из цепочки?";
 "review_chain_remove_confirm_message" = "Карточка будет архивирована. Её можно восстановить из архива.";
 "review_chain_delete_accessibility" = "Удалить из цепочки";
+"review_chain_details_current" = "Текущая карточка";
+"review_chain_details_accessibility" = "Прочитать всю цепочку";
 "Chain" = "Цепочка";
 "Linked card" = "Связанная карточка";
 "Chain another card" = "Связать ещё карточку";
