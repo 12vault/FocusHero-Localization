@@ -1320,6 +1320,7 @@
 "New Folder" = "새 폴더";
 "Folder name" = "폴더 이름";
 "Create a folder for review cards." = "복습 카드용 폴더를 만듭니다.";
+"folder_name_already_exists" = "이 이름의 폴더가 이미 있습니다.";
 "Update this card without changing its review history." = "복습 기록은 그대로 두고 이 카드를 수정합니다.";
 "Turn one idea into a question and answer card." = "하나의 아이디어를 질문과 답변 카드로 만드세요.";
 "Remove from Folder" = "폴더에서 제거";

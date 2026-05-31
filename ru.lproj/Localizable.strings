@@ -51,6 +51,7 @@
 "New Folder" = "Новая папка";
 "Folder name" = "Название папки";
 "Create a folder for review cards." = "Создайте папку для карточек повторения.";
+"folder_name_already_exists" = "Папка с таким именем уже существует.";
 "Update this card without changing its review history." = "Обновите карточку, не меняя историю повторений.";
 "Turn one idea into a question and answer card." = "Превратите одну идею в карточку с вопросом и ответом.";
 "Remove from Folder" = "Убрать из папки";

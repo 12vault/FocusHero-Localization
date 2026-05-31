@@ -51,6 +51,7 @@
 "New Folder" = "Nueva carpeta";
 "Folder name" = "Nombre de carpeta";
 "Create a folder for review cards." = "Crea una carpeta para tarjetas de repaso.";
+"folder_name_already_exists" = "Ya existe una carpeta con este nombre.";
 "Update this card without changing its review history." = "Actualiza esta tarjeta sin cambiar su historial de repaso.";
 "Turn one idea into a question and answer card." = "Convierte una idea en una tarjeta de pregunta y respuesta.";
 "Remove from Folder" = "Quitar de la carpeta";

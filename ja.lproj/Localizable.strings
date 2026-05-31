@@ -51,6 +51,7 @@
 "New Folder" = "新規フォルダ";
 "Folder name" = "フォルダ名";
 "Create a folder for review cards." = "復習カード用のフォルダを作成します。";
+"folder_name_already_exists" = "この名前のフォルダはすでに存在します。";
 "Update this card without changing its review history." = "復習履歴を変えずにこのカードを更新します。";
 "Turn one idea into a question and answer card." = "1つのアイデアを質問と回答のカードにします。";
 "Remove from Folder" = "フォルダから削除";

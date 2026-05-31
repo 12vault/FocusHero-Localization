@@ -51,6 +51,7 @@
 "New Folder" = "New Folder";
 "Folder name" = "Folder name";
 "Create a folder for review cards." = "Create a folder for review cards.";
+"folder_name_already_exists" = "A folder with this name already exists.";
 "Update this card without changing its review history." = "Update this card without changing its review history.";
 "Turn one idea into a question and answer card." = "Turn one idea into a question and answer card.";
 "Turn one idea into a question and answer card. Tap Add to keep adding." = "Turn one idea into a question and answer card. Tap Add to keep adding.";

@@ -51,6 +51,7 @@
 "New Folder" = "新建文件夹";
 "Folder name" = "文件夹名称";
 "Create a folder for review cards." = "为复习卡片创建文件夹。";
+"folder_name_already_exists" = "已存在同名文件夹。";
 "Update this card without changing its review history." = "更新此卡片，不改变复习历史。";
 "Turn one idea into a question and answer card." = "把一个想法变成问答卡片。";
 "Remove from Folder" = "从文件夹移除";
