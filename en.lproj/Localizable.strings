@@ -44,6 +44,8 @@
 "Add the answer." = "Add the answer.";
 "Write the answer in your own words." = "Write the answer in your own words.";
 "Explanation" = "Explanation";
+"Explanation (optional)" = "Explanation (optional)";
+"Add explanation (optional)" = "Add explanation (optional)";
 "Add context for after you reveal the answer." = "Add context for after you reveal the answer.";
 "Why does this answer make sense?" = "Why does this answer make sense?";
 "New Folder" = "New Folder";

@@ -44,6 +44,8 @@
 "Add the answer." = "Añade la respuesta.";
 "Write the answer in your own words." = "Escribe la respuesta con tus propias palabras.";
 "Explanation" = "Explicación";
+"Explanation (optional)" = "Explicación (opcional)";
+"Add explanation (optional)" = "Añadir explicación (opcional)";
 "Add context for after you reveal the answer." = "Añade contexto para después de revelar la respuesta.";
 "Why does this answer make sense?" = "¿Por qué tiene sentido esta respuesta?";
 "New Folder" = "Nueva carpeta";

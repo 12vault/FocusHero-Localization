@@ -1313,6 +1313,8 @@
 "Add the answer." = "답을 추가하세요.";
 "Write the answer in your own words." = "자신의 말로 답을 작성하세요.";
 "Explanation" = "해설";
+"Explanation (optional)" = "해설 (선택사항)";
+"Add explanation (optional)" = "해설 추가 (선택사항)";
 "Add context for after you reveal the answer." = "답을 공개한 뒤 읽을 맥락을 추가하세요.";
 "Why does this answer make sense?" = "왜 이 답이 맞나요?";
 "New Folder" = "새 폴더";

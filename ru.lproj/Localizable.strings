@@ -44,6 +44,8 @@
 "Add the answer." = "Добавьте ответ.";
 "Write the answer in your own words." = "Напишите ответ своими словами.";
 "Explanation" = "Пояснение";
+"Explanation (optional)" = "Пояснение (необязательно)";
+"Add explanation (optional)" = "Добавить пояснение (необязательно)";
 "Add context for after you reveal the answer." = "Добавьте контекст, который можно прочитать после показа ответа.";
 "Why does this answer make sense?" = "Почему этот ответ верен?";
 "New Folder" = "Новая папка";

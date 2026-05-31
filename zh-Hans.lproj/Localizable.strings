@@ -44,6 +44,8 @@
 "Add the answer." = "添加答案。";
 "Write the answer in your own words." = "用自己的话写下答案。";
 "Explanation" = "详解";
+"Explanation (optional)" = "详解（可选）";
+"Add explanation (optional)" = "添加详解（可选）";
 "Add context for after you reveal the answer." = "添加显示答案后可阅读的补充说明。";
 "Why does this answer make sense?" = "为什么这个答案成立？";
 "New Folder" = "新建文件夹";
