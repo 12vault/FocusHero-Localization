@@ -43,6 +43,9 @@
 "What do you want to remember?" = "What do you want to remember?";
 "Add the answer." = "Add the answer.";
 "Write the answer in your own words." = "Write the answer in your own words.";
+"Explanation" = "Explanation";
+"Add context for after you reveal the answer." = "Add context for after you reveal the answer.";
+"Why does this answer make sense?" = "Why does this answer make sense?";
 "New Folder" = "New Folder";
 "Folder name" = "Folder name";
 "Create a folder for review cards." = "Create a folder for review cards.";
@@ -137,7 +140,7 @@
 "review_chain_remove_confirm_message" = "This card will be archived. You can restore it from the archive.";
 "review_chain_delete_accessibility" = "Remove from chain";
 "review_chain_details_current" = "Current card";
-"review_chain_details_accessibility" = "Read the full chain";
+"review_card_details_accessibility" = "Read the card explanation";
 "Chain" = "Chain";
 "Linked card" = "Linked card";
 "Chain another card" = "Chain another card";

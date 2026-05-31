@@ -1312,6 +1312,9 @@
 "What do you want to remember?" = "무엇을 기억하고 싶나요?";
 "Add the answer." = "답을 추가하세요.";
 "Write the answer in your own words." = "자신의 말로 답을 작성하세요.";
+"Explanation" = "해설";
+"Add context for after you reveal the answer." = "답을 공개한 뒤 읽을 맥락을 추가하세요.";
+"Why does this answer make sense?" = "왜 이 답이 맞나요?";
 "New Folder" = "새 폴더";
 "Folder name" = "폴더 이름";
 "Create a folder for review cards." = "복습 카드용 폴더를 만듭니다.";
@@ -1403,7 +1406,7 @@
 "review_chain_remove_confirm_message" = "이 카드는 보관됩니다. 보관함에서 복원할 수 있습니다.";
 "review_chain_delete_accessibility" = "연결에서 제거";
 "review_chain_details_current" = "현재 카드";
-"review_chain_details_accessibility" = "연결 전체 읽기";
+"review_card_details_accessibility" = "카드 해설 읽기";
 "Chain" = "연결";
 "Linked card" = "연결된 카드";
 "Chain another card" = "다른 카드 연결";

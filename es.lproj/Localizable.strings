@@ -43,6 +43,9 @@
 "What do you want to remember?" = "¿Qué quieres recordar?";
 "Add the answer." = "Añade la respuesta.";
 "Write the answer in your own words." = "Escribe la respuesta con tus propias palabras.";
+"Explanation" = "Explicación";
+"Add context for after you reveal the answer." = "Añade contexto para después de revelar la respuesta.";
+"Why does this answer make sense?" = "¿Por qué tiene sentido esta respuesta?";
 "New Folder" = "Nueva carpeta";
 "Folder name" = "Nombre de carpeta";
 "Create a folder for review cards." = "Crea una carpeta para tarjetas de repaso.";
@@ -134,7 +137,7 @@
 "review_chain_remove_confirm_message" = "Esta tarjeta se archivará. Puedes restaurarla desde el archivo.";
 "review_chain_delete_accessibility" = "Quitar de la cadena";
 "review_chain_details_current" = "Tarjeta actual";
-"review_chain_details_accessibility" = "Leer toda la cadena";
+"review_card_details_accessibility" = "Leer la explicación de la tarjeta";
 "Chain" = "Cadena";
 "Linked card" = "Tarjeta vinculada";
 "Chain another card" = "Encadenar otra tarjeta";

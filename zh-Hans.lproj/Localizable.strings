@@ -43,6 +43,9 @@
 "What do you want to remember?" = "你想记住什么？";
 "Add the answer." = "添加答案。";
 "Write the answer in your own words." = "用自己的话写下答案。";
+"Explanation" = "详解";
+"Add context for after you reveal the answer." = "添加显示答案后可阅读的补充说明。";
+"Why does this answer make sense?" = "为什么这个答案成立？";
 "New Folder" = "新建文件夹";
 "Folder name" = "文件夹名称";
 "Create a folder for review cards." = "为复习卡片创建文件夹。";
@@ -134,7 +137,7 @@
 "review_chain_remove_confirm_message" = "该卡片将被归档。你可以从归档中恢复。";
 "review_chain_delete_accessibility" = "从卡片链中移除";
 "review_chain_details_current" = "当前卡片";
-"review_chain_details_accessibility" = "阅读完整卡片链";
+"review_card_details_accessibility" = "阅读卡片详解";
 "Chain" = "卡片链";
 "Linked card" = "关联卡片";
 "Chain another card" = "链接另一张卡片";

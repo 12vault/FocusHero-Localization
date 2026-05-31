@@ -43,6 +43,9 @@
 "What do you want to remember?" = "何を覚えたいですか？";
 "Add the answer." = "答えを追加します。";
 "Write the answer in your own words." = "自分の言葉で答えを書きます。";
+"Explanation" = "解説";
+"Add context for after you reveal the answer." = "答えを表示したあとに読む補足を追加します。";
+"Why does this answer make sense?" = "なぜこの答えが正しいのですか？";
 "New Folder" = "新規フォルダ";
 "Folder name" = "フォルダ名";
 "Create a folder for review cards." = "復習カード用のフォルダを作成します。";
@@ -134,7 +137,7 @@
 "review_chain_remove_confirm_message" = "このカードはアーカイブされます。アーカイブから復元できます。";
 "review_chain_delete_accessibility" = "チェーンから削除";
 "review_chain_details_current" = "現在のカード";
-"review_chain_details_accessibility" = "チェーン全体を読む";
+"review_card_details_accessibility" = "カードの解説を読む";
 "Chain" = "チェーン";
 "Linked card" = "リンクされたカード";
 "Chain another card" = "別のカードをチェーン";
