@@ -141,6 +141,7 @@
 "review_chain_delete_accessibility" = "Quitar de la cadena";
 "review_chain_details_current" = "Tarjeta actual";
 "review_card_details_accessibility" = "Leer la explicación de la tarjeta";
+"review_real_world_application" = "Aplicación real";
 "Chain" = "Cadena";
 "Linked card" = "Tarjeta vinculada";
 "Chain another card" = "Encadenar otra tarjeta";

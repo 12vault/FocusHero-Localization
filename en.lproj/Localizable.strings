@@ -144,6 +144,7 @@
 "review_chain_delete_accessibility" = "Remove from chain";
 "review_chain_details_current" = "Current card";
 "review_card_details_accessibility" = "Read the card explanation";
+"review_real_world_application" = "Real-world application";
 "Chain" = "Chain";
 "Linked card" = "Linked card";
 "Chain another card" = "Chain another card";

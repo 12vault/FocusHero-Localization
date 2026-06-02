@@ -141,6 +141,7 @@
 "review_chain_delete_accessibility" = "チェーンから削除";
 "review_chain_details_current" = "現在のカード";
 "review_card_details_accessibility" = "カードの解説を読む";
+"review_real_world_application" = "実例での活用";
 "Chain" = "チェーン";
 "Linked card" = "リンクされたカード";
 "Chain another card" = "別のカードをチェーン";

@@ -1410,6 +1410,7 @@
 "review_chain_delete_accessibility" = "연결에서 제거";
 "review_chain_details_current" = "현재 카드";
 "review_card_details_accessibility" = "카드 해설 읽기";
+"review_real_world_application" = "실제 적용";
 "Chain" = "연결";
 "Linked card" = "연결된 카드";
 "Chain another card" = "다른 카드 연결";

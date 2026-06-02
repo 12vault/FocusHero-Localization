@@ -141,6 +141,7 @@
 "review_chain_delete_accessibility" = "Удалить из цепочки";
 "review_chain_details_current" = "Текущая карточка";
 "review_card_details_accessibility" = "Прочитать пояснение к карточке";
+"review_real_world_application" = "Практическое применение";
 "Chain" = "Цепочка";
 "Linked card" = "Связанная карточка";
 "Chain another card" = "Связать ещё карточку";
