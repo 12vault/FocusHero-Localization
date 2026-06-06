@@ -142,6 +142,8 @@
 "review_chain_delete_accessibility" = "Удалить из цепочки";
 "review_chain_details_current" = "Текущая карточка";
 "review_card_details_accessibility" = "Прочитать пояснение к карточке";
+"review_explanation" = "Пояснение";
+"review_simplified" = "Упрощенно";
 "review_real_world_application" = "Практическое применение";
 "Chain" = "Цепочка";
 "Linked card" = "Связанная карточка";
@@ -312,6 +314,8 @@
 "minutes_short" = "м";
 "hours_short" = "ч";
 "seconds_short" = "с";
+"days_short" = "д";
+"weeks_short" = "н";
 
 // MARK: - Welcome Screen
 "welcome_to_focushero" = "Добро пожаловать в FocusHero";

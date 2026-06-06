@@ -142,6 +142,8 @@
 "review_chain_delete_accessibility" = "チェーンから削除";
 "review_chain_details_current" = "現在のカード";
 "review_card_details_accessibility" = "カードの解説を読む";
+"review_explanation" = "解説";
+"review_simplified" = "簡略版";
 "review_real_world_application" = "実例での活用";
 "Chain" = "チェーン";
 "Linked card" = "リンクされたカード";
@@ -312,6 +314,8 @@
 "minutes_short" = "分";
 "hours_short" = "時間";
 "seconds_short" = "秒";
+"days_short" = "日";
+"weeks_short" = "週";
 
 // MARK: - Welcome Screen
 "welcome_to_focushero" = "FocusHeroへようこそ";

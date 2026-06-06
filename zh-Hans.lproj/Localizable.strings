@@ -142,6 +142,8 @@
 "review_chain_delete_accessibility" = "从卡片链中移除";
 "review_chain_details_current" = "当前卡片";
 "review_card_details_accessibility" = "阅读卡片详解";
+"review_explanation" = "详解";
+"review_simplified" = "简化版";
 "review_real_world_application" = "实际应用";
 "Chain" = "卡片链";
 "Linked card" = "关联卡片";
@@ -312,6 +314,8 @@
 "minutes_short" = "分";
 "hours_short" = "小时";
 "seconds_short" = "秒";
+"days_short" = "天";
+"weeks_short" = "周";
 
 // MARK: - Welcome Screen
 "welcome_to_focushero" = "欢迎来到 FocusHero";

@@ -720,6 +720,8 @@
 "minutes_short" = "분";
 "hours_short" = "시간";
 "seconds_short" = "초";
+"days_short" = "일";
+"weeks_short" = "주";
 "sessions_completed_count" = "%d";
 "level_abbreviation" = "Lv.%d";
 
@@ -1411,6 +1413,8 @@
 "review_chain_delete_accessibility" = "연결에서 제거";
 "review_chain_details_current" = "현재 카드";
 "review_card_details_accessibility" = "카드 해설 읽기";
+"review_explanation" = "해설";
+"review_simplified" = "간단히 보기";
 "review_real_world_application" = "실제 적용";
 "Chain" = "연결";
 "Linked card" = "연결된 카드";

@@ -145,6 +145,8 @@
 "review_chain_delete_accessibility" = "Remove from chain";
 "review_chain_details_current" = "Current card";
 "review_card_details_accessibility" = "Read the card explanation";
+"review_explanation" = "Explanation";
+"review_simplified" = "Simplified";
 "review_real_world_application" = "Real-world application";
 "Chain" = "Chain";
 "Linked card" = "Linked card";
@@ -315,6 +317,8 @@
 "minutes_short" = "m";
 "hours_short" = "h";
 "seconds_short" = "s";
+"days_short" = "d";
+"weeks_short" = "w";
 
 // MARK: - Welcome Screen
 "welcome_to_focushero" = "Welcome to FocusHero";
