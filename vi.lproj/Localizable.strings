@@ -1,0 +1,1501 @@
+/*
+   Localizable.strings (Vietnamese)
+*/
+
+
+// MARK: - General
+"done" = "Xong";
+"cancel" = "Hủy";
+"ok" = "OK";
+"settings" = "Cài đặt";
+"delete" = "Xóa bỏ";
+"edit" = "Chỉnh sửa";
+"save" = "Lưu";
+"reset" = "Cài lại";
+"reload" = "Tải lại";
+
+// MARK: - Review Cards / Anki
+"Notes" = "Ghi chú";
+"Anki" = "Anki";
+"Review" = "Ôn tập";
+"Cards" = "Thẻ";
+"All" = "Tất cả";
+"Front" = "Mặt trước";
+"Back" = "Mặt sau";
+"Close" = "Đóng";
+"Create" = "Tạo";
+"Import" = "Nhập";
+"Imported" = "Đã nhập";
+"Open" = "Mở";
+"Paste" = "Dán";
+"Archive" = "Lưu trữ";
+"Archive Items" = "Lưu trữ các mục";
+"Archived" = "Đã lưu trữ";
+"Deletes today" = "Xóa hôm nay";
+"Deletes in 1 day" = "Xóa trong 1 ngày";
+"Deletes in %d days" = "Xóa sau %d ngày";
+"Archived Cards" = "Thẻ đã lưu trữ";
+"Restore" = "Khôi phục";
+"Unarchive" = "Hủy lưu trữ";
+"New Anki Card" = "Thẻ Anki mới";
+"Edit Anki Card" = "Chỉnh sửa thẻ Anki";
+"Write the prompt." = "Viết prompt.";
+"What do you want to remember?" = "Bạn muốn nhớ điều gì?";
+"Add the answer." = "Thêm câu trả lời.";
+"Write the answer in your own words." = "Viết câu trả lời bằng lời của bạn.";
+"Explanation" = "Giải thích";
+"Explanation (optional)" = "Giải thích (tùy chọn)";
+"Add explanation (optional)" = "Thêm lời giải thích (tùy chọn)";
+"Add context for after you reveal the answer." = "Thêm ngữ cảnh sau khi bạn tiết lộ câu trả lời.";
+"Why does this answer make sense?" = "Tại sao câu trả lời này có ý nghĩa?";
+"New Folder" = "Thư mục mới";
+"Folder name" = "Tên thư mục";
+"Create a folder for review cards." = "Tạo thư mục cho thẻ ôn tập.";
+"folder_name_already_exists" = "Một thư mục có tên này đã tồn tại.";
+"Update this card without changing its review history." = "Cập nhật thẻ này mà không thay đổi lịch sử ôn tập.";
+"Turn one idea into a question and answer card." = "Biến một ý tưởng thành một thẻ câu hỏi và câu trả lời.";
+"Turn one idea into a question and answer card. Tap Add to keep adding." = "Biến một ý tưởng thành một thẻ câu hỏi và câu trả lời. Nhấn vào Thêm để tiếp tục thêm.";
+"Tap Add to save another card, or Done when you are finished." = "Nhấn vào Thêm để lưu một thẻ khác hoặc Nhấn vào Xong khi bạn hoàn tất.";
+"%d cards added" = "Đã thêm thẻ %d";
+"Remove from Folder" = "Xóa khỏi thư mục";
+"Create Folder" = "Tạo thư mục";
+"Change Folder" = "Thay đổi thư mục";
+"No Folder" = "Khác";
+"Other" = "Khác";
+"Import from ChatGPT" = "Nhập từ ChatGPT";
+"Format in ChatGPT" = "Định dạng trong ChatGPT";
+"Copy the prompt, run it in the ChatGPT conversation, then paste the JSON response here." = "Sao chép prompt, chạy nó trong cuộc hội thoại ChatGPT, sau đó dán phản hồi JSON vào đây.";
+"Copy Prompt" = "Sao chép Prompt";
+"ChatGPT JSON" = "ChatGPT JSON";
+"Save to folder" = "Lưu vào thư mục";
+"Imported cards are added to this folder." = "Thẻ đã nhập sẽ được thêm vào thư mục này.";
+"Could not parse this import." = "Không thể phân tích cú pháp quá trình nhập này.";
+"All Cards" = "Tất cả các thẻ";
+"Hide Archived" = "Ẩn đã lưu trữ";
+"Show Archived" = "Hiển thị đã lưu trữ";
+"No archived cards" = "Không có thẻ lưu trữ";
+"Archived cards and folders will appear here until they are permanently deleted." = "Các thẻ và thư mục đã lưu trữ sẽ xuất hiện ở đây cho đến khi chúng bị xóa vĩnh viễn.";
+"No Cards Due" = "Không có thẻ đến hạn";
+"Start Due" = "Bắt đầu đến hạn";
+"Start Review" = "Bắt đầu ôn tập";
+"Due" = "Đến hạn";
+"Review cards" = "Thẻ ôn tập";
+"Add review card" = "Thêm thẻ ôn tập";
+"Review card options" = "Tùy chọn thẻ ôn tập";
+"Change review journey" = "Đổi hành trình ôn tập";
+"Move Cards To" = "Di chuyển thẻ tới";
+"Move to %@" = "Di chuyển đến %@";
+"Move to Folder" = "Di chuyển đến thư mục";
+"Delete Folder" = "Xóa thư mục";
+"Rename Folder" = "Đổi tên thư mục";
+"Enter a new name for this folder." = "Nhập tên mới cho thư mục này.";
+"No cards found" = "Không tìm thấy thẻ nào";
+"No review cards yet" = "Chưa có thẻ ôn tập";
+"Create cards from notes or add one here." = "Tạo thẻ từ ghi chú hoặc thêm thẻ vào đây.";
+"Add Review Card" = "Thêm thẻ ôn tập";
+"Edit Card" = "Chỉnh sửa thẻ";
+"Readable Font" = "Phông chữ có thể đọc được";
+"Text Size" = "Kích thước văn bản";
+"Archive Card" = "Thẻ lưu trữ";
+"Show Answer" = "Hiển thị câu trả lời";
+"Prev" = "Trước đó";
+"Next" = "Kế tiếp";
+"No cards" = "Không có thẻ";
+"No cards due" = "Không có thẻ đến hạn";
+"New review cards will appear here when FSRS schedules them." = "Thẻ đánh giá mới sẽ xuất hiện tại đây khi FSRS lên lịch cho chúng.";
+"review_all_caught_up" = "Bạn đã bắt kịp tất cả!";
+"review_fsrs_schedule_subtitle_before" = "Thẻ đánh giá mới sẽ xuất hiện ở đây khi";
+"review_fsrs_schedule_subtitle_after" = "lên lịch cho chúng.";
+"review_fsrs_explanation_title" = "FSRS";
+"review_fsrs_explanation_body" = "FSRS (Trình lập lịch lặp lại khoảng cách miễn phí) sử dụng mô hình DSR—độ khó, độ ổn định và khả năng truy xuất—để dự đoán thời điểm bạn có thể quên từng thẻ. Xếp hạng Lại, Khó, Tốt hoặc Dễ của bạn sẽ cập nhật mô hình này và lên lịch lần ôn tập tiếp theo vào đúng thời điểm.";
+"review_fsrs_powered_by" = "Được cung cấp bởi FSRS";
+"Could not schedule this review." = "Không thể lên lịch ôn tập này.";
+"Again" = "Lại";
+"Hard" = "Khó";
+"Good" = "Tốt";
+"Easy" = "Dễ";
+"review_due_now" = "Đến hạn bây giờ";
+"review_due_date_format" = "Đến hạn %@";
+"review_reps_format" = "%d đại diện";
+"review_phase_format" = "Pha: %@";
+"review_state_new" = "Mới";
+"review_state_learning" = "Học hỏi";
+"review_state_review" = "Ôn tập";
+"review_state_relearning" = "Học lại";
+"review_cards_ready_format" = "%d thẻ đã sẵn sàng";
+"review_more_cards_format" = "+ %d thêm";
+"review_complete_count_format" = "%d/%d hoàn thành";
+"review_card_position_format" = "%d/%d";
+"review_chain_position_format" = "Dây chuyền %@";
+"review_chain_move_or_copy_title" = "Di chuyển hoặc sao chép thẻ này?";
+"review_chain_move_or_copy_message" = "Thẻ này là một phần của chuỗi.";
+"review_chain_move" = "Di chuyển";
+"review_chain_copy" = "Sao chép";
+"review_chain_move_scope_title" = "Di chuyển chuỗi";
+"review_chain_move_entire" = "Di chuyển toàn bộ chuỗi";
+"review_chain_move_single" = "Chỉ di chuyển thẻ này";
+"review_chain_copy_scope_title" = "Sao chép chuỗi";
+"review_chain_copy_entire" = "Sao chép toàn bộ chuỗi";
+"review_chain_copy_single" = "Chỉ sao chép thẻ này";
+"review_chain_edit_mode_enter_hint" = "Nhấn và giữ để chỉnh sửa chuỗi";
+"review_chain_edit_mode_reorder_hint" = "Kéo để sắp xếp lại";
+"review_chain_edit_mode_delete_hint" = "Nhấn vào dấu trừ để xóa khỏi chuỗi";
+"review_chain_edit_mode_reorder_delete_hint" = "Kéo để sắp xếp lại hoặc nhấn vào dấu trừ để xóa";
+"review_chain_remove_confirm_title" = "Xóa thẻ khỏi chuỗi?";
+"review_chain_remove_confirm_message" = "Thẻ này sẽ được lưu trữ. Bạn có thể khôi phục nó từ kho lưu trữ.";
+"review_chain_delete_accessibility" = "Xóa khỏi chuỗi";
+"review_chain_details_current" = "Thẻ hiện tại";
+"review_card_details_accessibility" = "Đọc giải thích thẻ";
+"review_explanation" = "Giải thích";
+"review_simplified" = "Đơn giản hóa";
+"review_real_world_application" = "Ứng dụng thực tế";
+"Chain" = "Xích";
+"Linked card" = "Thẻ liên kết";
+"Chain another card" = "Xâu chuỗi một thẻ khác";
+"Chain title (optional)" = "Tiêu đề chuỗi (tùy chọn)";
+"Save & chain another card" = "Lưu và xâu chuỗi một thẻ khác";
+"Linked cards review separately but stay connected." = "Thẻ liên kết ôn tập riêng biệt nhưng vẫn kết nối.";
+"Chained · %d" = "Bị xích · %d";
+"This card is linked. Tap Add to finish, or chain another." = "Thẻ này được liên kết. Nhấn vào Thêm để hoàn tất hoặc xâu chuỗi một cái khác.";
+"Update this card. It stays part of its chain." = "Cập nhật thẻ này. Nó vẫn là một phần của chuỗi của nó.";
+"+%d" = "+%d";
+"+%d older" = "+%d cũ hơn";
+
+// MARK: - Sessions
+"focus_time" = "Thời gian tập trung";
+"short_break" = "Nghỉ ngắn";
+"long_break" = "Nghỉ dài";
+"focus" = "Tập trung";
+"break" = "Phá vỡ";
+"long" = "Dài";
+
+// MARK: - Timer
+"running" = "ĐANG CHẠY";
+"stopped" = "ĐÃ DỪNG";
+"session" = "Phiên họp";
+"sessions" = "Phiên";
+"completed_sessions" = "Phiên đã hoàn thành";
+"total_sessions" = "Tổng số phiên";
+"total_time_minutes" = "Tổng thời gian\n(Phút)";
+
+// MARK: - Hero System
+"start_journey" = "Bắt đầu hành trình";
+"level" = "Mức độ";
+"hero_journeys" = "Hành trình anh hùng";
+"select_hero_journey" = "Chọn hành trình anh hùng";
+"general" = "Tổng quan";
+"progress" = "Progress";
+"time_left" = "bên trái";
+"next_level_progress" = "Cấp độ tiếp theo Progress";
+"hours" = "giờ";
+"maximum_level_reached" = "🎉 Đã đạt đến mức tối đa!";
+"complete_first_session" = "Hoàn thành phiên đầu tiên của bạn";
+"to_unlock_level_1" = "để mở khóa Cấp 1";
+"get_started" = "Bắt đầu";
+"complete_1_session_to_reach_level_1" = "Hoàn thành 1 buổi để đạt Cấp 1";
+"preview" = "Xem trước";
+"level_reference" = "Tham khảo cấp độ";
+"all_tag_journeys" = "Tất cả hành trình";
+"no_tag_journeys_yet" = "Chưa có hành trình nào";
+"complete_sessions_with_tags" = "Hoàn thành phiên với hành trình để bắt đầu hành trình anh hùng của bạn";
+"long_press_for_options" = "Nhấn và giữ để có các tùy chọn";
+"reset_journey" = "Đặt lại hành trình";
+"copy_stats" = "Sao chép số liệu thống kê";
+"copied" = "Đã sao chép";
+"reset_hero_journey" = "Đặt lại hành trình anh hùng";
+"reset_journey_confirmation" = "Bạn có chắc chắn muốn đặt lại hoàn toàn hành trình anh hùng \"%@\" của mình không?\n\nThao tác này sẽ xóa tất cả progress (%@). Hành trình sẽ chỉ xuất hiện lại khi bạn hoàn thành các phiên mới với thẻ này.";
+"edit_hours_required" = "Chỉnh sửa số giờ bắt buộc";
+"reset_to_default" = "Đặt lại về mặc định";
+"auto_adjust_levels" = "Tự động điều chỉnh cấp độ";
+"edit_hours_message" = "Đặt giờ tùy chỉnh cần thiết để đạt Cấp %d: %@";
+
+// MARK: - Tags
+"select_tag" = "Chọn hành trình";
+"session_tags" = "Hành trình";
+"create_custom_tag" = "Tạo thẻ tùy chỉnh";
+"tag_name" = "Tên hành trình";
+"tag_emoji" = "Biểu tượng hành trình";
+"tag_color" = "Màu hành trình";
+"create_tag" = "Hành trình mới";
+"edit_tag" = "Chỉnh sửa hành trình";
+"update_tag" = "Cập nhật thẻ";
+"delete_tag" = "Xóa thẻ";
+"duplicate_tag_key" = "Hành trình với tên và biểu tượng này đã tồn tại";
+"delete_tag_confirmation" = "Thao tác này sẽ xóa vĩnh viễn hành trình và mọi dữ liệu liên quan, bao gồm lịch sử phiên và thống kê. Không thể hoàn tác.";
+"tags" = "Hành trình";
+// MARK: - Todos
+"todo" = "việc cần làm";
+"todos" = "việc cần làm";
+"add_todo" = "Thêm việc cần làm";
+"edit_todo" = "Chỉnh sửa việc cần làm";
+"todo_title" = "Tiêu đề việc cần làm";
+"todo_description" = "Việc cần làm Mô tả";
+"complete_todo" = "Hoàn thành việc cần làm";
+"incomplete_todo" = "Việc cần làm chưa hoàn thành";
+"delete_todo" = "Xóa việc cần làm";
+"todo_delete_confirmation" = "Việc cần làm đã chọn sẽ bị xóa vĩnh viễn.";
+"no_todos" = "Chưa có việc cần làm nào";
+"add_todo_description" = "Thêm việc cần làm để luôn ngăn nắp trong các phiên tập trung của bạn";
+
+// MARK: - Statistics
+"statistics" = "Thống kê";
+"chart" = "Biểu đồ";
+"calendar" = "Lịch";
+"demo_chart_premium_banner" = "Đây là một biểu đồ demo. Mở khóa tất cả các tính năng với FocusHero Premium.";
+"demo_habit_tracker_premium_banner" = "Đây là một trình theo dõi thói quen demo. Mở khóa tất cả các tính năng với FocusHero Premium.";
+"demo_time_blocks_premium_banner" = "Đây là một lịch trình demo. Mở khóa các khối thời gian bằng FocusHero Premium.";
+"try_free" = "Dùng thử miễn phí";
+
+// MARK: - Settings
+"session_times" = "Thời gian phiên";
+"configure_times" = "Định cấu hình thời gian";
+"customize_focus_break_durations" = "Tùy chỉnh thời lượng lấy nét và nghỉ";
+"notifications" = "Thông báo";
+"notification_settings" = "Cài đặt thông báo";
+"configure_alerts" = "Định cấu hình cảnh báo và lời nhắc";
+"session_history" = "Lịch sử phiên";
+"view_history" = "Xem lịch sử";
+"see_completed_sessions" = "Xem các phiên đã hoàn thành của bạn và protiến trình";
+"onboarding" = "Giới thiệu";
+"show_onboarding" = "Hiển thị giới thiệu";
+"review_getting_started" = "Xem lại hướng dẫn bắt đầu";
+"reset_options" = "Vùng nguy hiểm";
+"review_past_focus_sessions" = "Xem lại các phiên tập trung trước đây của bạn";
+"how_it_works" = "Nó hoạt động như thế nào";
+"learn_how_to_become_hero" = "Học cách trở thành Anh hùng";
+
+// MARK: - Reset Options
+"reset_all_data" = "Đặt lại TẤT CẢ DỮ LIỆU";
+"reset_session_counts" = "Đặt lại SỐ PHẦN";
+"reset_onboarding" = "Đặt lại ĐĂNG NHẬP";
+"reset_all_data_description" = "Xóa tất cả dữ liệu bao gồm lịch sử phiên và progress";
+"reset_session_counts_description" = "Đặt lại số phiên về 0, giữ lại lịch sử";
+"reset_onboarding_description" = "Hiển thị lại phần giới thiệu vào lần ra mắt tiếp theo";
+"reset_confirmation_title" = "Đặt lại %@?";
+
+// MARK: - Session Times Settings
+"focus_time_minutes" = "Thời gian tập trung (Phút)";
+"short_break_minutes" = "Nghỉ ngắn (Phút)";
+"long_break_minutes" = "Nghỉ dài (Phút)";
+"custom_times_enabled" = "Đã bật thời gian tùy chỉnh";
+"premium_required" = "Premium Bắt buộc";
+"upgrade_for_custom_times" = "Nâng cấp để tùy chỉnh thời lượng phiên";
+
+// MARK: - Quick Actions
+"sessions_completed_count" = "%d";
+"level_abbreviation" = "Lv.%d";
+
+// MARK: - Accessibility
+"play_button" = "Chơi";
+"pause_button" = "Tạm dừng";
+"reset_button" = "Cài lại";
+"timer_progress" = "Bộ hẹn giờ Progress";
+"session_selector" = "Bộ chọn phiên";
+
+// MARK: - Notifications
+"session_complete_title" = "Phiên hoàn tất!";
+"focus_session_complete_body" = "Công việc tuyệt vời! Đã đến lúc nghỉ ngơi.";
+"break_session_complete_body" = "Giờ giải lao đã hết. Sẵn sàng để tập trung?";
+"autopilot_session_progress" = "Phiên %d của %d";
+"countdown_seconds_remaining" = "⏰ %d giây còn lại!";
+"countdown_body_focus" = "Phiên tập trung của bạn gần như đã hoàn tất.";
+"countdown_body_break" = "Kỳ nghỉ của bạn sắp kết thúc.";
+"countdown_body_long_break" = "Kỳ nghỉ dài của bạn sắp kết thúc.";
+
+// MARK: - Premium/Paywall
+"premium_features" = "Premium Tính năng";
+"upgrade_now" = "Nâng cấp ngay";
+"subscription_required" = "Yêu cầu đăng ký";
+
+// MARK: - Error Messages
+"error_occurred" = "Đã xảy ra lỗi";
+"try_again" = "Thử lại";
+"network_error" = "Lỗi mạng";
+"please_check_connection" = "Vui lòng kiểm tra kết nối internet của bạn";
+
+// MARK: - Time Formatting
+"minutes_short" = "tôi";
+"hours_short" = "h";
+"seconds_short" = "S";
+"days_short" = "d";
+"weeks_short" = "w";
+
+// MARK: - Welcome Screen
+"welcome_to_focushero" = "Chào mừng đến với FocusHero";
+"welcome_subtitle" = "Premium tập trung cho ước mơ của bạn";
+"lets_go" = "Đi thôi!";
+
+// MARK: - Onboarding
+"welcome_to_your" = "Chào mừng đến";
+"hero_journey" = "Hành trình anh hùng";
+"become_a_hero_in" = "Trở thành anh hùng trong";
+"your_craft" = "Nghề của bạn";
+"master_multiple" = "Làm chủ nhiều";
+"skills_and_crafts" = "Kỹ năng & Thủ công";
+"never_lose" = "Không bao giờ thua";
+"your_progress" = "Protiến trình của bạn";
+"your_10000_hours" = "10,000 giờ của bạn";
+"start_today" = "Bắt đầu ngay hôm nay";
+"skip" = "Nhảy";
+"back" = "Mặt sau";
+"continue" = "Tiếp tục";
+"get_started" = "Bắt đầu";
+"of" = "của";
+
+// Onboarding descriptions
+"onboarding_1_description" = "Nắm vững bất kỳ kỹ năng nào thông qua nguyên tắc proven 10,000 giờ. Biến việc luyện tập tập trung thành kiến ​​thức chuyên môn thực sự với Kỹ thuật POMODORO";
+"onboarding_2_description" = "Mọi chuyên gia đều từng là người mới bắt đầu. Tăng cấp khi bạn tích lũy được nhiều giờ luyện tập tập trung. Xem bản thân phát triển từ người mới đến anh hùng";
+"onboarding_3_description" = "Tạo thẻ cho từng kỹ năng bạn muốn thành thạo. Prongữ pháp, âm nhạc, viết lách và nghệ thuật - theo dõi hành trình 10,000 giờ của bạn trong mọi lĩnh vực";
+"onboarding_4_description" = "Hành trình làm chủ của bạn tiếp tục ở khắp mọi nơi. Hoạt động trực tiếp và Dynamic Island giúp prokết quả của bạn hiển thị ngay cả khi thực hiện đa nhiệm";
+"onboarding_5_description" = "Mỗi bậc thầy đều bắt đầu với một giờ duy nhất. Bắt đầu chuyển đổi từ người mới bắt đầu thành anh hùng. Cuộc hành trình huyền thoại của bạn đang chờ đợi!";
+
+// Onboarding features
+"25_minute_sessions" = "Buổi học thành thạo kéo dài 25 phút";
+"track_path_10000" = "Theo dõi đường đi của bạn tới 10,000 giờ";
+"proven_practice_method" = "Proven phương pháp luyện tập có chủ ý";
+"level_progression" = "Cấp độ protiến triển sau mỗi giờ";
+"visual_journey_mastery" = "Hành trình thị giác để làm chủ";
+"track_multiple_skills" = "Theo dõi nhiều kỹ năng cùng một lúc";
+"separate_hero_journeys" = "Hành trình anh hùng riêng biệt cho mỗi kỹ năng";
+"custom_skill_categories" = "Danh mục kỹ năng tùy chỉnh";
+"individual_mastery_tracking" = "Theo dõi sự thành thạo cá nhân";
+"always_visible_progress" = "Luôn hiển thị progress";
+"seamless_session_tracking" = "Theo dõi phiên liền mạch";
+"never_break_flow" = "Không bao giờ phá vỡ dòng chảy của bạn";
+"start_first_hour" = "Bắt đầu giờ thành thạo đầu tiên của bạn";
+"choose_first_skill" = "Chọn kỹ năng đầu tiên của bạn";
+"begin_hero_transformation" = "Bắt đầu chuyển đổi anh hùng của bạn";
+
+// MARK: - Hero Level Titles
+"hero_level_0_title" = "người có nguyện vọng";
+"hero_level_1_title" = "Tập trung vào người mới bắt đầu";
+"hero_level_2_title" = "người học việc";
+"hero_level_3_title" = "Chiến binh lành nghề";
+"hero_level_4_title" = "Chiến binh ưu tú";
+"hero_level_5_title" = "Nhà vô địch";
+"hero_level_6_title" = "Huyền thoại";
+"hero_level_7_title" = "Bậc thầy";
+"hero_level_8_title" = "Đại kiện tướng";
+"hero_level_9_title" = "cây xô thơm";
+"hero_level_10_title" = "tài năng";
+"hero_level_11_title" = "giác ngộ";
+"hero_level_12_title" = "siêu việt";
+
+// MARK: - Hero Level Descriptions
+"hero_level_0_description" = "Sẵn sàng bắt đầu cuộc hành trình";
+"hero_level_1_description" = "Mọi anh hùng đều bắt đầu từ đâu đó";
+"hero_level_2_description" = "Học cách tập trung";
+"hero_level_3_description" = "Phát triển kỷ luật";
+"hero_level_4_description" = "Làm chủ sự tập trung";
+"hero_level_5_description" = "Dẫn đầu bằng ví dụ";
+"hero_level_6_description" = "Đạt được sự vĩ đại";
+"hero_level_7_description" = "Vượt qua giới hạn";
+"hero_level_8_description" = "Approlàm chủ thực sự";
+"hero_level_9_description" = "Trí tuệ thông qua sự cống hiến";
+"hero_level_10_description" = "Xuất sắc trong thực tế";
+"hero_level_11_description" = "Gần đến mục tiêu cuối cùng";
+"hero_level_12_description" = "Sự thành thạo 10,000 giờ";
+
+// MARK: - Default Session Tags
+"default_tag_ai_literacy" = "Kiến thức AI";
+"default_tag_spanish" = "tiếng Tây Ban Nha";
+"default_tag_piano" = "Đàn piano";
+
+// MARK: - Session Tag View
+"available_tags" = "Hành trình có sẵn";
+"add_tag" = "Mới";
+"select" = "Lựa chọn";
+"edit" = "Chỉnh sửa";
+"delete" = "Xóa bỏ";
+"create_tag" = "Hành trình mới";
+"edit_tag" = "Chỉnh sửa hành trình";
+"cancel" = "Hủy";
+"save" = "Lưu";
+"tag_name" = "Tên hành trình";
+"optional" = "Không bắt buộc";
+"enter_tag_name" = "Nhập tên hành trình";
+"select_emoji" = "Chọn biểu tượng cảm xúc";
+"select_color" = "Chọn màu";
+"create_custom_tag_description" = "Tạo hành trình tùy chỉnh để sắp xếp các phiên tập trung của bạn";
+"edit_custom_tag_description" = "Chỉnh sửa cài đặt hành trình tùy chỉnh của bạn";
+"tag_already_exists" = "Hành trình đã tồn tại";
+// MARK: - Session Times Settings
+"session_times" = "Thời gian phiên";
+"current_configuration" = "Cấu hình hiện tại";
+"focus" = "Tập trung";
+"short_break" = "Nghỉ ngắn";
+"long_break" = "Nghỉ dài";
+"quick_presets" = "Cài đặt trước nhanh";
+"classic" = "Cổ điển";
+"short" = "Ngắn";
+"deep" = "Sâu";
+"custom_times" = "Thời gian tùy chỉnh";
+"unlock" = "Mở khóa";
+"focus_time" = "Thời gian tập trung";
+"deep_work_sessions" = "Phiên làm việc sâu";
+"quick_refresher" = "Bồi dưỡng nhanh";
+"extended_rest" = "Nghỉ ngơi kéo dài";
+"minutes" = "phút";
+"premium_feature" = "Premium Tính năng";
+"customize_session_durations" = "Tùy chỉnh thời lượng phiên để phù hợp với phong cách prolinh hoạt của bạn";
+
+// MARK: - Color Picker
+"choose_custom_color" = "Chọn màu tùy chỉnh";
+"custom_color" = "Màu tùy chỉnh";
+"custom_emoji" = "Biểu tượng cảm xúc tùy chỉnh";
+"select_color" = "Chọn màu";
+"done" = "Xong";
+// MARK: - Paywall
+"unlock_premium" = "Mở khóa Premium";
+"get_full_access" = "Nhận toàn quyền truy cập";
+"start_free_trial" = "Bắt đầu dùng thử miễn phí";
+"yearly_plan" = "Kế hoạch hàng năm";
+"lifetime_plan" = "Truy cập trọn đời";
+"weekly_plan" = "Kế hoạch hàng tuần";
+"3_day_trial" = "Dùng thử 3 ngày";
+"best_value" = "Giá trị tốt nhất";
+"most_popular" = "Phổ biến nhất";
+"pay_once" = "Thanh toán một lần";
+"custom_session_times" = "Thời gian phiên tùy chỉnh";
+"unlimited_tags" = "Thẻ không giới hạn";
+"advanced_statistics" = "Thống kê nâng cao";
+"privacy_policy" = "Chính sách bảo mật";
+"terms_of_service" = "Điều khoản dịch vụ";
+"restore_purchases" = "Khôi phục mua hàng";
+"no_commitment" = "Không cần cam kết, hủy bất cứ lúc nào";
+"free_for_3_days" = "Miễn phí trong 3 ngày";
+"free_for_7_days" = "7 NGÀY MIỄN PHÍ";
+"enhanced_productivity_features" = "Tính năng linh hoạt pro nâng cao";
+"advanced_analytics" = "Phân tích nâng cao";
+"unlimited_journeys" = "Hành trình không giới hạn";
+"custom_session_time" = "Thời gian phiên tùy chỉnh";
+"3_days_free_then" = "Miễn phí 3 ngày thì %@/%@";
+"save_percentage" = "LƯU %d_PH1__";
+"start_with_free_trial" = "Bắt đầu với bản dùng thử miễn phí";
+"terms_and_privacy" = "Điều khoản & Quyền riêng tư";
+"terms_of_use" = "Điều khoản sử dụng";
+"cancel_anytime_no_commitment" = "Hủy bất kỳ lúc nào • Không cần cam kết";
+"cancel_at_any_time" = "Hủy bỏ bất cứ lúc nào";
+"restore" = "Khôi phục";
+"no_purchases_restored" = "Không có giao dịch mua nào được khôi phục";
+"tap_to_unlock" = "Nhấn để mở khóa";
+"premium_feature" = "Premium Tính năng";
+"paywall_feature_analytics" = "Phân tích trọng tâm chi tiết & thông tin chi tiết";
+"paywall_feature_unlimited_tags" = "Thẻ không giới hạn để tổ chức phiên";
+"paywall_feature_unlimited_journeys" = "Hành trình và mục tiêu tập trung không giới hạn";
+"paywall_feature_achieve_dreams" = "Không bị phiền nhiễu trên con đường đến ước mơ của bạn";
+"paywall_feature_achieve_dreams_personalized" = "Không phiền nhiễu trên con đường đến ước mơ của %@";
+"paywall_dream_highlight_word" = "Mơ";
+"paywall_feature_remove_paywall" = "Xóa tường phí gây phiền nhiễu";
+"paywall_feature_support_developer" = "Hỗ trợ nhà phát triển";
+"paywall_rating" = "4.9 trên App Store";
+"paywall_unable_to_load_pricing" = "Không thể tải giá";
+"paywall_check_connection_retry" = "Vui lòng kiểm tra kết nối của bạn và thử lại";
+"paywall_intro_offer" = "Giới thiệu: %@";
+"paywall_per_month_format" = "(%@/tháng)";
+"paywall_per_day_format" = "(%@/ngày)";
+"paywall_per_year_format" = "%@/năm";
+"paywall_limited_offer" = "ƯU ĐÃI CÓ GIỚI HẠN";
+"paywall_special_offer" = "ƯU ĐÃI ĐẶC BIỆT";
+"paywall_special_offer_countdown_label" = "Ưu đãi đặc biệt:";
+"paywall_legal" = "Hợp pháp";
+"paywall_redeem_code" = "Đổi mã";
+"special_offer_lifetime_premium" = "Trọn đời Premium";
+"special_offer_save_format" = "LƯU %d_PH1__";
+"special_offer_review_awesome_title" = "Ứng dụng POMODORO tuyệt vời";
+"special_offer_review_awesome_text" = "Giao diện sạch sẽ, đơn giản và dễ sử dụng. Lời cảm ơn lớn dành cho nhà phát triển.";
+"special_offer_review_awesome_author" = "Aaron J. 🇺🇸";
+"special_offer_review_perfect_title" = "Hoàn hảo thôi";
+"special_offer_review_perfect_text" = "Nó có mọi thứ bạn cần và nó siêu trực quan. Thành thật mà nói là hoàn hảo.";
+"special_offer_review_perfect_author" = "nadiasona 🇦🇷";
+"special_offer_rating_app_store" = "4.9 trên App Store";
+"special_offer_premium_unlocked" = "Mọi thứ Premium đã được mở khóa";
+"special_offer_future_improvements" = "Bao gồm tất cả các phương tiện Premium impro trong tương lai";
+"special_offer_no_recurring_billing" = "Không thanh toán hàng tuần hoặc hàng năm nữa";
+"special_offer_expires_in" = "Ưu đãi hết hạn sau";
+"special_offer_claim_lifetime" = "Yêu cầu trọn đời Premium";
+"special_offer_claim_subtitle" = "Mở hộp và giữ Premium mãi mãi.";
+"creator_pass" = "Thẻ sáng tạo";
+"creator_premium" = "Người tạo Premium";
+"creator_pass_premium_badge" = "PREMIUM";
+"creator_pass_turn_tiktok_into_premium" = "Biến TikTok thành Premium";
+"creator_pass_hero_description" = "Tạo FocusHero TikTok, DM @POMODORO_hero bằng liên kết bài đăng của bạn và các bài đăng được chọn sẽ nhận được mã ưu đãi Premium.";
+"creator_pass_creator_kit" = "Bộ công cụ sáng tạo";
+"creator_pass_dm_review" = "đánh giá trực tiếp";
+"creator_pass_offer_code" = "Mã ưu đãi";
+"creator_pass_how_it_works" = "Nó hoạt động như thế nào";
+"creator_pass_open_creator_kit" = "Mở Bộ công cụ sáng tạo";
+"creator_pass_open_creator_kit_text" = "Chọn ý tưởng nội dung, xem chi tiết chiến dịch và đảm bảo bài đăng của bạn có đề cập phù hợp.";
+"creator_pass_post_tiktok" = "Đăng FocusHero TikTok";
+"creator_pass_post_tiktok_text" = "Hiển thị khoảnh khắc tập trung thực sự: thành tích, thăng cấp, thiết lập nghiên cứu, kết quả phiên học hoặc cách ứng dụng giúp bạn bắt đầu.";
+"creator_pass_dm_title" = "DM @POMODORO_anh hùng";
+"creator_pass_dm_text" = "Gửi liên kết bài đăng của bạn và đề cập đến Creator Pass. Các bài đăng Approved sẽ nhận được mã ưu đãi Premium.";
+"creator_pass_post_ideas" = "Đăng ý tưởng";
+"creator_pass_streak_check" = "Kiểm tra vệt";
+"creator_pass_level_up" = "Tăng cấp";
+"creator_pass_focus_setup" = "Thiết lập tiêu điểm";
+"creator_pass_session_result" = "Kết quả phiên";
+"creator_pass_dm_template" = "mẫu tin nhắn trực tiếp";
+"creator_pass_copied_dm_template" = "Mẫu DM đã sao chép";
+"creator_pass_copy_dm_template" = "Sao chép mẫu DM";
+"creator_pass_dm_template_line_1" = "Xin chào FocusHero, tôi đã tạo TikTok cho Creator Pass:";
+"creator_pass_dm_template_paste_link" = "[dán liên kết TikTok của bạn]";
+"creator_pass_dm_template_line_3" = "Bạn có thể xem lại mã ưu đãi Premium không?";
+"creator_pass_kit_includes" = "Bộ công cụ sáng tạo bao gồm";
+"creator_pass_ideas" = "Ý tưởng";
+"creator_pass_pick_hook" = "Chọn một cái móc";
+"creator_pass_mention" = "Đề cập đến";
+"creator_pass_link" = "liên kết";
+"creator_pass_send_proof" = "Gửi pro trong số";
+"creator_pass_get_code" = "mã số";
+
+// MARK: - Session Complete
+"session_complete" = "Phiên hoàn tất!";
+"great_job" = "Làm tốt lắm!";
+"time_for_break" = "Đã đến lúc nghỉ ngơi";
+"break_complete" = "Phá vỡ hoàn thành!";
+"ready_to_focus" = "Sẵn sàng để tập trung?";
+"session_completed" = "Phiên đã hoàn thành";
+"take_break" = "Hãy nghỉ ngơi";
+"continue_working" = "Tiếp tục làm việc";
+"well_done" = "Làm tốt!";
+"keep_going" = "Tiếp tục đi!";
+"session_save_with_extra" = "Lưu với tính năng bổ sung";
+"session_message_focus" = "Công việc tuyệt vời! Bạn đã hoàn thành một phiên tập trung.";
+"session_message_break" = "Giờ nghỉ đã hoàn tất! Sẵn sàng để tập trung lại?";
+"session_message_long_break" = "Kỳ nghỉ dài đã kết thúc! Bạn đã được làm mới và sẵn sàng.";
+
+// MARK: - Session Tags
+"tag" = "Hành trình";
+"organize_sessions_with_tags" = "Tổ chức các phiên tập trung của bạn bằng thẻ tùy chỉnh";
+"current_selection" = "Lựa chọn hiện tại";
+"active_tag" = "Thẻ hoạt động";
+"unnamed_tag" = "Thẻ không tên";
+"no_tag_selected" = "Chưa chọn hành trình";
+"choose_tag_to_organize" = "Chọn một hành trình để sắp xếp các phiên tập trung của bạn";
+"available_tags" = "Hành trình có sẵn";
+"create_new_tag" = "Tạo thẻ mới";
+"choose_existing_tag" = "Chọn thẻ hiện có";
+"tag_already_exists" = "Hành trình đã tồn tại";
+"enter_tag_name" = "Nhập tên hành trình";
+"select_emoji" = "Chọn biểu tượng cảm xúc";
+"choose_color" = "Chọn màu";
+"name_optional" = "Tên (tùy chọn)";
+"default_tags" = "Thẻ mặc định";
+"custom_tags" = "Thẻ tùy chỉnh";
+"no_custom_tags" = "Chưa có thẻ tùy chỉnh nào";
+"tap_to_create" = "Nhấn + để tạo thẻ tùy chỉnh đầu tiên của bạn";
+"tap_to_open_emoji_keyboard" = "Nhấn vào bên trên để nhập biểu tượng cảm xúc của bạn";
+
+// MARK: - Todos
+"quick_todos" = "Việc cần làm nhanh";
+"all" = "Tất cả";
+"type_new_todo" = "Nhập việc cần làm mới...";
+"what_are_you_working_on" = "Bạn đang làm việc gì?";
+"add_your_tasks" = "Thêm nhiệm vụ của bạn";
+"create_new_todo" = "Tạo việc cần làm mới";
+"enter_title" = "Nhập tiêu đề";
+"enter_description_optional" = "Nhập mô tả (tùy chọn)";
+"mark_complete" = "Đánh dấu hoàn thành";
+"mark_incomplete" = "Đánh dấu là chưa hoàn thành";
+"empty_todo_list" = "Danh sách việc cần làm của bạn trống";
+"add_first_todo" = "Thêm việc cần làm đầu tiên của bạn để bắt đầu";
+"completed_todos" = "Việc cần làm đã hoàn thành";
+"incomplete_todos" = "Việc cần làm chưa hoàn chỉnh";
+"all_todos" = "Tất cả việc cần làm";
+"no_todos_for_tag" = "Chưa có việc cần làm cho thẻ này";
+"tap_to_add_first_todo" = "Nhấn + để thêm việc cần làm đầu tiên của bạn";
+"complete_selected" = "Hoàn thành đã chọn";
+"delete_selected" = "Xóa đã chọn";
+
+// MARK: - Calendar
+"this_month" = "Tháng này";
+"sessions_this_month" = "Phiên tháng này";
+"total_time_this_month" = "Tổng thời gian trong tháng này";
+"longest_streak" = "chuỗi dài nhất";
+"current_streak" = "chuỗi hiện tại";
+"days" = "ngày";
+"day" = "ngày";
+"today" = "Hôm nay";
+"yesterday" = "Hôm qua";
+"sessions_on" = "phiên trên";
+
+// MARK: - Chart/Statistics  
+"weekly_progress" = "Protiến trình hàng tuần";
+"monthly_progress" = "Tiến độ Prohàng tháng";
+"focus_sessions" = "Phiên tập trung";
+"break_sessions" = "Phiên nghỉ giải lao";
+"total_hours" = "Tổng số giờ";
+"average_per_day" = "Trung bình mỗi ngày";
+"best_day" = "Ngày tuyệt vời nhất";
+"this_week" = "Tuần này";
+"last_week" = "Tuần trước";
+"this_month" = "Tháng này";
+"last_month" = "Tháng trước";
+"no_data" = "Không có sẵn dữ liệu";
+"start_timer_to_see_stats" = "Bắt đầu sử dụng bộ hẹn giờ để xem số liệu thống kê của bạn";
+
+// MARK: - Session Times Settings
+"classic_pomodoro" = "Cổ điển POMODORO";
+"use_classic_times" = "Sử dụng cổ điển POMODORO lần (25/5/15 phút)";
+"custom_times" = "Thời gian tùy chỉnh";
+"customize_session_lengths" = "Tùy chỉnh độ dài phiên để phù hợp với quy trình làm việc của bạn";
+"minutes" = "phút";
+"enable_custom_times" = "Bật thời gian tùy chỉnh";
+"requires_premium" = "Yêu cầu Premium";
+
+// MARK: - Notifications Settings
+"daily_reminder" = "Nhắc nhở hàng ngày";
+"get_reminded_stay_focused" = "Nhận được lời nhắc để luôn tập trung";
+"multiple_reminders" = "Nhiều lời nhắc";
+"set_multiple_reminder_times" = "Đặt nhiều lần nhắc nhở";
+"reminder_time" = "Thời gian nhắc nhở";
+"reminder_1" = "Lời nhắc 1";
+"reminder_2" = "Lời nhắc 2";
+"reminder_3" = "Nhắc nhở 3";
+"notification_permission_required" = "Cần có quyền thông báo";
+"enable_notifications_settings" = "Bật thông báo trong Cài đặt";
+"focus_reminder_title" = "Đã đến lúc tập trung!";
+"focus_reminder_body" = "Bản thân tương lai của bạn sẽ cảm ơn bạn vì buổi học này. Hãy nghiền nát những mục tiêu đó! 🚀";
+
+// MARK: - Session History
+"session_history_title" = "Lịch sử phiên";
+"filter_by_tag" = "Lọc theo thẻ";
+"all_tags" = "Tất cả các thẻ";
+"export_data" = "Xuất dữ liệu";
+"clear_history" = "Xóa lịch sử";
+"clear_history_confirmation" = "Bạn có chắc chắn muốn xóa tất cả lịch sử phiên không? Điều này không thể hoàn tác được.";
+"clear" = "Thông thoáng";
+"no_sessions_found" = "Không tìm thấy phiên nào";
+"start_timer_to_build_history" = "Bắt đầu sử dụng bộ hẹn giờ để xây dựng lịch sử phiên của bạn";
+"completed_at" = "Hoàn thành lúc";
+"no_sessions_yet" = "Chưa có phiên nào";
+"start_first_pomodoro_session" = "Bắt đầu phiên POMODORO đầu tiên của bạn để xem lịch sử của bạn tại đây!";
+
+// MARK: - Common UI Elements
+"close" = "Đóng";
+"add" = "Thêm vào";
+"remove" = "Di dời";
+"update" = "Cập nhật";
+"confirm" = "Xác nhận";
+"yes" = "Đúng";
+"no" = "KHÔNG";
+"loading" = "Đang tải...";
+"please_wait" = "Vui lòng chờ...";
+"success" = "Thành công";
+"error" = "Lỗi";
+"warning" = "Cảnh báo";
+"info" = "Thông tin";
+"record_this_session" = "Ghi lại phiên này?";
+"save_progress_or_start_fresh" = "Lưu progress của bạn hoặc bắt đầu mới";
+"discard" = "Loại bỏ";
+"save_progress" = "Lưu Progress";
+"end_session" = "Kết thúc";
+"completed" = "Hoàn thành";
+
+// MARK: - Validation Messages
+"field_required" = "Trường này là bắt buộc";
+"invalid_input" = "Đầu vào không hợp lệ";
+"name_too_short" = "Tên quá ngắn";
+"name_too_long" = "Tên quá dài";
+"emoji_required" = "Vui lòng chọn một biểu tượng cảm xúc";
+
+// MARK: - Widget & Live Activity
+"pomodoro" = "POMODORO";
+"break_time" = "THỜI GIAN NGHỈ";
+"long_break" = "Nghỉ dài";
+
+// MARK: - Accessibility Labels
+"timer_display" = "Hiển thị hẹn giờ";
+"session_type_button" = "Nút loại phiên";
+"tag_selection_button" = "Nút chọn hành trình";
+"todo_list_button" = "Nút danh sách việc cần làm";
+"settings_button" = "Nút cài đặt";
+"calendar_button" = "Nút lịch";
+"statistics_button" = "Nút thống kê";
+"level_progress_indicator" = "Cấp độ ProChỉ báo tiến độ";
+
+"completed" = "Hoàn thành";
+"incomplete" = "Chưa hoàn thành";
+
+// MARK: - Analytics
+"analytics" = "Phân tích";
+"sessions" = "Phiên";
+"tags" = "Hành trình";
+"tag_usage" = "Cách dùng hành trình";
+"most_used" = "Được sử dụng nhiều nhất";
+"patterns" = "mẫu";
+"reports" = "Báo cáo";
+"productivity_patterns" = "ProMẫu độ dẫn điện";
+"visual_reports" = "Báo cáo trực quan";
+"no_reports_available" = "Không có báo cáo nào";
+"week" = "Tuần";
+"month" = "Tháng";
+"year" = "Năm";
+"sessions_this_week" = "Phiên tuần này";
+"sessions_this_year" = "Phiên năm nay";
+"week_summary" = "Tóm tắt tuần";
+"month_summary" = "Tóm tắt tháng";
+"year_summary" = "Tóm tắt năm";
+"summary" = "Bản tóm tắt";
+"total" = "Tổng cộng";
+"average" = "Trung bình";
+"peak" = "Đỉnh cao";
+"no_tag_data_yet" = "Chưa có dữ liệu hành trình";
+"start_using_tags" = "Bắt đầu sử dụng thẻ để xem phân tích";
+"start_using_tags_to_generate" = "Bắt đầu sử dụng thẻ để tạo báo cáo";
+"activity_levels" = "Cấp độ hoạt động";
+"light" = "Ánh sáng";
+"moderate" = "Vừa phải";
+"high" = "Cao";
+"no_activity_recorded" = "Không có hoạt động nào được ghi lại";
+"start_session_to_see_progress" = "Bắt đầu một phiên để xem progress";
+"completion_rate" = "Tỷ lệ hoàn thành";
+
+// MARK: - Questionnaire Onboarding
+"questionnaire_finish" = "Xây dựng kế hoạch của tôi";
+
+// Question 0 - Name
+"questionnaire_name_title" = "Chúng tôi nên gọi bạn là gì?";
+"questionnaire_name_subtitle" = "Hãy ghi tên bạn vào đây. Bây giờ chúng tôi đang xây dựng xung quanh giấc mơ của bạn.";
+"questionnaire_name_placeholder" = "Tên của bạn";
+
+// Question 1 - Motivation
+"questionnaire_motivation_title" = "Tại sao giấc mơ này đáng để xuất hiện?";
+"questionnaire_motivation_subtitle" = "Hãy chọn những lý do khiến điều này đáng prođể ý.";
+"motivation_achievement" = "Hãy sống liêm chính";
+"motivation_achievement_desc" = "Tôi muốn hành động của mình phù hợp với những gì tôi nói quan trọng";
+"motivation_growth" = "Để trở thành người mà tôi biết mình có thể trở thành";
+"motivation_growth_desc" = "Giấc mơ này kêu gọi tôi trở thành một phiên bản mạnh mẽ và chân thực hơn của chính mình";
+"motivation_freedom" = "Sống phù hợp với các giá trị của tôi";
+"motivation_freedom_desc" = "Tôi muốn những ngày của tôi phản ánh những gì tôi thực sự quan tâm";
+"motivation_creativity" = "Để thể hiện một cái gì đó thực tế";
+"motivation_creativity_desc" = "Giấc mơ này giúp tôi sáng tạo, nói hoặc xây dựng những gì bên trong tôi";
+"motivation_knowledge" = "Để làm chủ được điều gì đó có ý nghĩa";
+"motivation_knowledge_desc" = "Tôi muốn có chiều sâu, kỹ năng và sự hiểu biết thực sự";
+"motivation_honor_life" = "Để tôn vinh cuộc sống tôi đã được ban tặng";
+"motivation_honor_life_desc" = "Tôi muốn tận dụng tốt cuộc sống mà tôi được giao phó";
+"motivation_impact" = "Để xuất hiện trước những người tôi yêu thương";
+"motivation_impact_desc" = "Điều này quan trọng vì tôi muốn có mặt nhiều hơn và đáng tin cậy hơn đối với người khác";
+"motivation_health" = "Trung thành với điều quan trọng nhất";
+"motivation_health_desc" = "Tôi không muốn tiếp tục bỏ bê những gì tôi biết là quan trọng";
+
+// Question 2 - Peak Time
+"questionnaire_peak_title" = "Khi nào bạn có năng lượng tốt nhất cho nó?";
+"questionnaire_peak_subtitle" = "Chúng tôi sẽ giúp bạn protect cửa sổ đó.";
+"peak_morning" = "Buổi sáng";
+"peak_morning_hours" = "6 giờ sáng - 12 giờ trưa";
+"peak_afternoon" = "Buổi chiều";
+"peak_afternoon_hours" = "12 giờ trưa - 5 giờ chiều";
+"peak_evening" = "Buổi tối";
+"peak_evening_hours" = "5 giờ chiều - 10 giờ tối";
+"peak_night" = "Đêm muộn";
+"peak_night_hours" = "10 giờ tối+";
+
+// Question 3 - Productivity Apps
+"questionnaire_apps_title" = "Nếu bạn làm theo, bạn sẽ cảm thấy điều gì khác biệt trong cuộc sống?";
+"questionnaire_apps_subtitle" = "Chọn những thay đổi bạn muốn cảm nhận thực sự.";
+"questionnaire_apps_field_placeholder" = "Nó có ý nghĩa gì với bạn hoặc bạn thực sự đang cố gắng xây dựng điều gì?";
+"questionnaire_outcome_peace" = "Bình yên hơn";
+"questionnaire_outcome_peace_desc" = "Cuộc sống sẽ bình yên hơn, bớt ồn ào hơn và vững vàng hơn";
+"questionnaire_outcome_confidence" = "Tin tưởng hơn vào bản thân mình";
+"questionnaire_outcome_confidence_desc" = "Tôi sẽ tin tưởng bản thân mình hơn vì tôi đã giữ lời hứa";
+"questionnaire_outcome_freedom" = "Tự do và linh hoạt hơn";
+"questionnaire_outcome_freedom_desc" = "Cuộc sống sẽ ít bị đóng khung hơn và cởi mở hơn với sự lựa chọn";
+"questionnaire_outcome_stability" = "Một cuộc sống ổn định hơn";
+"questionnaire_outcome_stability_desc" = "Cuộc sống sẽ cảm thấy an toàn hơn, có căn cứ và bền vững hơn";
+"questionnaire_outcome_clarity" = "Ít tội lỗi hơn và rõ ràng hơn";
+"questionnaire_outcome_clarity_desc" = "Tôi sẽ cảm thấy nhẹ nhàng hơn, rõ ràng hơn và bớt gánh nặng hơn khi trốn tránh";
+"questionnaire_outcome_pride" = "Ý thức định hướng mạnh mẽ hơn";
+"questionnaire_outcome_pride_desc" = "Tôi sẽ cảm thấy bớt phân tán hơn và chắc chắn hơn về nơi mình đang hướng tới";
+"questionnaire_outcome_possibility" = "Nhiều khả năng hơn";
+"questionnaire_outcome_possibility_desc" = "Nó sẽ làm cho tương lai có cảm giác lớn hơn và rộng mở hơn";
+
+// Question 4 - Best Feature
+"questionnaire_best_feature_title" = "Loại hỗ trợ nào sẽ giúp bạn luôn kiên định?";
+"questionnaire_best_feature_subtitle" = "Hãy chọn sự hỗ trợ có thể giúp giấc mơ này trở lại dễ dàng hơn.";
+"prod_feature_time_tracking" = "Theo dõi thời gian";
+"prod_feature_time_tracking_desc" = "Xem thời gian của bạn thực sự đang đi đâu";
+"prod_feature_goal_setting" = "Mục tiêu rõ ràng";
+"prod_feature_goal_setting_desc" = "Biến giấc mơ thành những cột mốc có thể nhìn thấy được";
+"prod_feature_habit_building" = "tính nhất quán";
+"prod_feature_habit_building_desc" = "Tạo nhịp điệu mà bạn thực sự có thể giữ được";
+"prod_feature_analytics" = "Sự phản xạ";
+"prod_feature_analytics_desc" = "Thông báo các mẫu, progress và drift";
+"prod_feature_reminders" = "Nhắc nhở nhẹ nhàng";
+"prod_feature_reminders_desc" = "Những cú huých hữu ích khi cuộc sống trở nên ồn ào";
+"prod_feature_gamification" = "Tăng động lượng";
+"prod_feature_gamification_desc" = "Sự khích lệ giúp bạn tiếp tục";
+
+// Question 5 - Goal
+"questionnaire_goal_title" = "Ước mơ của bạn là gì?";
+"questionnaire_goal_subtitle" = "Hãy giữ nó ngắn gọn bây giờ.";
+"questionnaire_goal_placeholder" = "1-2 từ";
+"questionnaire_not_sure" = "không chắc chắn";
+
+// Question 6 - Time Commitment
+"questionnaire_time_title" = "Bạn có thể dành bao nhiêu prothời gian dự kiến ​​cho giấc mơ này mỗi ngày?";
+"questionnaire_time_subtitle" = "Cửa sổ nhỏ vẫn quan trọng khi chúng xảy ra liên tục.";
+"time_15_minutes" = "15 phút";
+"time_30_minutes" = "30 phút";
+"time_1_hour" = "1 giờ";
+"time_2_hours" = "2 giờ";
+"time_3_hours" = "3 giờ";
+"time_7_plus_hours" = "7 giờ";
+"time_custom" = "Phong tục";
+"questionnaire_goal_in" = "Bàn thắng vào";
+"questionnaire_goal_in_format" = "Bàn thắng trong %@";
+"questionnaire_goal_years_format" = "%.1f năm";
+"questionnaire_just_minutes_a_day_format" = "Chỉ %d phút mỗi ngày";
+"questionnaire_hour_a_day_format" = "%d giờ mỗi ngày";
+"questionnaire_hours_a_day_format" = "%d giờ mỗi ngày";
+"questionnaire_hours_minutes_a_day_format" = "%d giờ %d tháng";
+"questionnaire_daily_practice" = "Luyện tập hàng ngày";
+"questionnaire_chart_today" = "Hôm nay";
+"questionnaire_chart_faster" = "Nhanh hơn";
+"questionnaire_chart_slower" = "Chậm hơn";
+"questionnaire_percentile_legend" = "phần trăm = trước những người mới bắt đầu bình thường";
+"questionnaire_duration_days_short_format" = "%dd";
+"questionnaire_duration_weeks_short_format" = "%dw";
+"questionnaire_duration_months_short_format" = "%dmo";
+"questionnaire_duration_years_short_format" = "%.1fy";
+
+// Question 7 - Obstacles
+"questionnaire_obstacles_title" = "Điều gì thường kéo bạn ra khỏi công việc quan trọng?";
+"questionnaire_obstacles_subtitle" = "Chúng tôi muốn thiết kế xoay quanh vấn đề ma sát chứ không bỏ qua nó.";
+"obstacle_distractions_title" = "phiền nhiễu";
+"obstacle_distractions_desc" = "Điện thoại, mạng xã hội, sự gián đoạn";
+"obstacle_motivation_title" = "Thiếu động lực";
+"obstacle_motivation_desc" = "Khó bắt đầu khi năng lượng thấp";
+"obstacle_perfectionism_title" = "Chủ nghĩa hoàn hảo";
+"obstacle_perfectionism_desc" = "Chờ đợi cho đến khi bạn có thể làm điều đó một cách hoàn hảo";
+"obstacle_overwhelm_title" = "Cảm thấy choáng ngợp";
+"obstacle_overwhelm_desc" = "Quá nhiều thứ để giữ, không có bước đầu tiên rõ ràng";
+"obstacle_procrastination_title" = "Prosự nứt nẻ";
+"obstacle_procrastination_desc" = "Trì hoãn công việc ngay cả khi nó quan trọng";
+"obstacle_time_management_title" = "Quản lý thời gian";
+"obstacle_time_management_desc" = "Ngày của bạn được lấp đầy trước khi giấc mơ thực hiện";
+"obstacle_other_title" = "Khác";
+"obstacle_other_desc" = "Cái gì khác";
+
+// News screens
+"questionnaire_news_intro" = "Ước mơ của bạn xứng đáng có một hệ thống";
+"questionnaire_bad_news_label" = "Sự thật phũ phàng";
+"questionnaire_bad_news_content" = "Nếu không có prothời gian dự kiến, ngay cả những mục tiêu ý nghĩa nhất cũng có thể";
+"questionnaire_bad_news_highlight" = "từ từ mờ dần vào nền";
+"questionnaire_good_news_label" = "Phần hy vọng";
+"questionnaire_good_news_start" = "Một hệ thống chu đáo có thể giúp ích cho ước mơ của bạn";
+"questionnaire_good_news_highlight" = "sống sót trong cuộc sống hàng ngày";
+"questionnaire_good_news_end" = "thông qua sự tập trung ổn định, ma sát thấp hơn và các phiên lặp lại nhỏ";
+
+// Achievement screen
+"questionnaire_achievement_title" = "Đây là phiên bản đầu tiên của bản thiết kế của bạn";
+"questionnaire_achievement_subtitle" = "Một giấc mơ trở thành hiện thực khi nó có nhịp điệu, một vị trí trong ngày của bạn và prosự bảo vệ khỏi sự trôi dạt.";
+"questionnaire_achievement_earned" = "Được xây dựng";
+
+// Features overview screen
+"questionnaire_features_title" = "FocusHero sẽ hỗ trợ bạn như thế nào";
+"questionnaire_feature_goals" = "Giữ ước mơ của bạn rõ ràng để mỗi buổi học đều có mục đích thực sự";
+"questionnaire_feature_growth" = "Hãy để ý tiến trình pro của bạn";
+"questionnaire_feature_growth_detail" = "- sự phản ánh giúp dễ dàng tin tưởng vào sự tăng trưởng chậm, có ý nghĩa";
+"questionnaire_feature_blocking" = "Protìm ra những buổi học tránh những phiền nhiễu thường khiến bạn mất tập trung";
+"questionnaire_feature_adventure" = "Xây dựng động lực thông qua luyện tập đều đặn chứ không phải áp lực";
+"questionnaire_callout_stat" = "Bắt đầu nhỏ";
+"questionnaire_callout_text" = "Bạn không cần một thói quen hoàn hảo. Bạn cần một bước tiếp theo có thể lặp lại, như";
+"questionnaire_callout_habit" = "\"20 phút làm việc thực sự\"";
+
+// App blocking prompt
+"app_blocking_title" = "Protect thời gian mơ ước của bạn?";
+"app_blocking_subtitle" = "Vì sự phân tâm là một trong những điểm xung đột lớn nhất của bạn nên bạn có thể tự động ẩn các ứng dụng gây mất tập trung trong khi phiên tập trung đang diễn ra.";
+"app_blocking_set_up" = "Thiết lập chặn ứng dụng";
+"app_blocking_skip" = "Bỏ qua bây giờ";
+
+// MARK: - Feature Slides
+"feature_slide1_title" = "FocusHero làm\nself-improsự việc đơn giản";
+"feature_slide1_desc" = "Hãy xem những hành động nhỏ góp phần tạo nên kết quả lớn như thế nào.";
+"feature_slide2_title" = "FocusHero giúp tôi với\nxây dựng thói quen tốt hơn";
+"feature_slide2_desc" = "Luôn nhất quán với mục tiêu của bạn bằng cách sử dụng lưới thói quen và các công cụ dễ sử dụng.";
+"feature_slide3_title" = "FocusHero ủng hộ\nsự trưởng thành của tôi";
+"feature_slide3_desc" = "Hãy cùng nhau xây dựng những thói quen lâu dài và phát huy hết tiềm năng của bạn.";
+"feature_slide_theory_cta" = "Tại sao 10,000 giờ?";
+
+// MARK: - Theory Explainer
+"theory_flow_title_1" = "Làm chủ cần có thời gian";
+"theory_flow_lead_1" = "Kỹ năng có ý nghĩa thường được xây dựng qua nhiều năm.";
+"theory_flow_body_1" = "Ý tưởng 10,000 giờ trở nên nổi tiếng qua tác phẩm Outliers của Malcolm Gladwell vì nó nắm bắt được điều gì đó có thật.";
+"theory_flow_title_2" = "Nó không phải về một con số";
+"theory_flow_lead_2" = "Con số không phải là vấn đề.";
+"theory_flow_body_2" = "Điều quan trọng hơn là việc thực hành sau giờ làm việc.\nÝ định rõ ràng, sự tập trung sâu sắc, sự lặp lại và sự tiến bộ ổn địnhpro theo thời gian quan trọng hơn việc chỉ tính toán.";
+"theory_flow_title_3" = "Các phiên nhỏ vẫn quan trọng";
+"theory_flow_lead_3" = "Tập trung nỗ lực một cách lặng lẽ.";
+"theory_flow_body_3" = "Progress hiếm khi mang lại cảm giác kịch tính vào lúc này.\nMột buổi học có thể cảm thấy nhỏ nhặt nhưng được lặp đi lặp lại hàng tuần và hàng năm, nó sẽ trở thành một điều gì đó có ý nghĩa.";
+"theory_flow_title_4" = "Con đường của bạn sẽ là của riêng bạn";
+"theory_flow_lead_4" = "Thực hành rất quan trọng nhưng nó không giải thích được mọi thứ.";
+"theory_flow_body_4" = "Tác động của nó thay đổi tùy theo lĩnh vực.\nÝ tưởng 10,000 giờ hoạt động hiệu quả nhất dưới dạng phối cảnh chứ không phải promise.";
+"theory_flow_title_5" = "Tiếp tục đi";
+"theory_flow_lead_5" = "Bạn không cần phải hoàn thành cuộc hành trình ngày hôm nay.";
+"theory_flow_body_5" = "Bạn chỉ cần quay lại với nó.\nFocusHero giúp bạn pro xác định thời gian xây dựng những điều quan trọng.";
+"theory_flow_footnote" = "Lấy cảm hứng từ nghiên cứu về hiệu suất của chuyên gia. Ý tưởng 10,000 giờ là quan điểm mang tính động lực chứ không phải là một quy tắc cố định.";
+"theory_flow_primary_cta" = "Đầu tư 10,000 giờ";
+
+// MARK: - Calculating Review
+"calculating_step1" = "Tính toán";
+"calculating_step2" = "Điều chỉnh ứng dụng theo nhu cầu của bạn";
+"apps_we_love" = "ỨNG DỤNG CỦA CHÚNG TÔI\nTÌNH YÊU";
+
+// MARK: - Contract Onboarding
+"contract_word" = "Hợp đồng";
+"contract_your_fallback" = "Của bạn";
+"contract_bullet1" = "Tôi sẽ **thích ứng với mọi thời điểm** trong ngày và tiếp tục phát triển!";
+"contract_bullet2" = "Tôi sẽ **khám phá các cách khác nhau để theo dõi progress** của mình và tìm ra cách phù hợp nhất với tôi!";
+"contract_bullet3" = "Tôi sẽ **bỏ đi những thói quen xấu** và mở đường cho protiến bộ!";
+"contract_bullet4" = "Tôi sẽ **giải quyết mọi trở ngại phát sinh** và tìm ra con đường phía trước!";
+"contract_bullet5" = "Tôi sẽ **áp dụng một lối sống lành mạnh hơn** và cảm thấy tốt nhất!";
+"contract_agreed" = "Hợp đồng đã đồng ý!";
+"contract_keep_holding" = "Hãy cứ nắm giữ...";
+"contract_hold_to_agree" = "Giữ để đồng ý";
+"contract_research_note" = "Nghiên cứu cho thấy rằng việc cam kết các hợp đồng, như hợp đồng này, sẽ nâng cao khả năng tuân thủ và trách nhiệm giải trình";
+
+// MARK: - Habit Tracker
+"habit_tracker" = "Theo dõi thói quen";
+"complete_focus_to_build_streaks" = "Hoàn thành các phiên tập trung để xây dựng chuỗi";
+"habits" = "Thói quen";
+"tracked" = "Đã theo dõi";
+"available" = "Có sẵn";
+"unnamed" = "Vô danh";
+"no_tags_yet" = "Chưa có thẻ nào";
+"no_tags_description" = "Tạo thẻ để theo dõi thói quen của bạn.\nMỗi phiên hoàn thành sẽ tạo nên thành tích của bạn!";
+"hide" = "Trốn";
+"current_streak_title" = "Chuỗi hiện tại";
+"best_streak" = "Chuỗi hay nhất";
+"total_time" = "Tổng thời gian";
+"no_sessions_activity" = "Không có phiên nào";
+"one_session_activity" = "1 buổi";
+"two_three_sessions" = "2-3 buổi";
+"four_plus_sessions" = "Hơn 4 buổi";
+"less" = "Ít hơn";
+"more" = "Hơn";
+
+// MARK: - App Blocking Settings
+"focus_shield" = "Khiên tập trung";
+"focus_duration_too_short" = "Thời gian tập trung quá ngắn";
+"fifteen_minutes_minimum" = "Tối thiểu 15 phút";
+"app_blocking_requirement" = "Việc chặn ứng dụng yêu cầu phiên tập trung ít nhất 15 phút. Đây là yêu cầu hệ thống để đảm bảo ứng dụng có thể được bỏ chặn tự động khi phiên của bạn kết thúc.";
+"current_focus_duration" = "Thời lượng lấy nét hiện tại: %d phút";
+"increase_focus_time_instruction" = "Tăng thời gian tập trung của bạn lên 15 phút trở lên trong cài đặt Thời gian phiên để bật tính năng chặn ứng dụng.";
+"authorization_required" = "Yêu cầu ủy quyền";
+"screen_time_access" = "Truy cập thời gian trên màn hình";
+"screen_time_access_description" = "Để chặn các ứng dụng gây mất tập trung trong các phiên tập trung, chúng ta cần có quyền truy cập vào Thời gian sử dụng. Điều này cho phép chúng tôi tạm thời ẩn các ứng dụng đã chọn trong khi bạn đang tập trung.";
+"grant_access" = "Cấp quyền truy cập";
+"screen_time_denied" = "Quyền truy cập đã bị từ chối. Vui lòng bật quyền truy cập Thời gian sử dụng trong Cài đặt > Thời gian sử dụng.";
+"activate" = "Kích hoạt";
+"focus_shield_description" = "Các ứng dụng đã chọn sẽ bị hạn chế trong phiên tập trung của bạn";
+"apps_to_block" = "Ứng dụng cần chặn";
+"select_apps_categories" = "Chọn Ứng dụng & Danh mục";
+"clear_selection" = "Xóa lựa chọn";
+"start_focus" = "Bắt đầu lấy nét";
+"start_focus_description" = "Khi bạn bắt đầu phiên tập trung, các ứng dụng đã chọn sẽ bị chặn";
+"shield_appears" = "Khiên xuất hiện";
+"shield_appears_description" = "Nếu bạn cố mở một ứng dụng bị chặn, một tấm khiên sẽ xuất hiện";
+"session_ends" = "Kết thúc phiên";
+"session_ends_description" = "Ứng dụng sẽ tự động được bỏ chặn khi phiên hoàn tất";
+
+// MARK: - Chart Analytics
+"all_tags" = "Tất cả các thẻ";
+
+// MARK: - Quick Actions Stats
+"time_today" = "Giờ hôm nay";
+"todays_sessions" = "Phiên hôm nay";
+"saved_to_yesterday" = "%@ → Hôm qua";
+
+// MARK: - Settings View
+"icloud_sync" = "iCloud Đồng bộ hóa";
+"sync_status" = "Trạng thái đồng bộ hóa";
+"icloud_sync_description" = "Dữ liệu POMODORO của bạn đồng bộ hóa trên tất cả các thiết bị đã đăng nhập bằng tài khoản iCloud của bạn";
+"nearby_sync_section_title" = "Đồng bộ hóa lân cận";
+"nearby_sync_toggle_title" = "Đồng bộ hóa thiết bị lân cận";
+"nearby_sync_toggle_subtitle" = "Đồng bộ hóa bộ hẹn giờ bắt đầu, tạm dừng, kết thúc và đặt lại giữa iPhone và máy Mac ở gần";
+"nearby_sync_permission_hint" = "Nếu điều này đã bị từ chối trước đó, hãy bật quyền truy cập Mạng cục bộ trong Cài đặt iOS.";
+"display" = "Trưng bày";
+"appearance" = "Vẻ bề ngoài";
+"light_dark_automatic" = "Sáng, tối hoặc tự động";
+"glow_effects" = "Hiệu ứng phát sáng";
+"glow_effects_description" = "Hiệu ứng phát sáng (sử dụng nhiều pin hơn)";
+"confetti" = "hoa giấy";
+"confetti_description" = "Kỷ niệm các chuỗi và hoàn thành phiên";
+"high_contrast_chips" = "Chip có độ tương phản cao";
+"high_contrast_chips_description" = "Nền mạnh hơn cho các nút hẹn giờ";
+"left_handed" = "thuận tay trái";
+"left_handed_description" = "Di chuyển các nút điều khiển hẹn giờ sang bên trái";
+"time_since_indicator" = "Chỉ báo thời gian kể từ khi";
+"time_since_indicator_description" = "Hiển thị dấu chấm quá hạn trên nút Thời gian kể từ";
+"theme" = "chủ đề";
+"theme_option_paper" = "Giấy";
+"theme_option_default" = "Mặc định";
+"language" = "Ngôn ngữ";
+"language_description" = "Chọn ngôn ngữ ứng dụng ưa thích của bạn";
+"language_restart_required" = "Yêu cầu khởi động lại";
+"language_restart_message" = "Khởi động lại ứng dụng để áp dụng ngôn ngữ mới.";
+"sound" = "Âm thanh";
+"session_end_feedback" = "Phản hồi cuối phiên";
+"session_complete_sound" = "Âm thanh hoàn chỉnh";
+"play_sound_when_timer_finishes" = "Phát âm thanh khi hẹn giờ kết thúc";
+"session_end_haptics" = "Xúc giác";
+"session_end_haptics_description" = "Rung khi phiên kết thúc";
+"continuous_focus_end_vibration" = "Rung liên tục";
+"continuous_focus_end_vibration_description" = "Sử dụng chế độ rung lâu hơn khi tiêu điểm kết thúc";
+"session_end_flash" = "Đèn nháy màn hình";
+"session_end_flash_description" = "Nhấp nháy màn hình khi phiên kết thúc";
+"session_end_device_flash" = "Đèn flash thiết bị";
+"session_end_device_flash_description" = "Nháy đèn flash của máy ảnh khi phiên kết thúc";
+"native_alarm_overrides_sound" = "Cảnh báo gốc được bật và sẽ ghi đè âm thanh này";
+"block_list" = "Danh sách chặn";
+"hide_apps_during_focus" = "Hạn chế quyền truy cập ứng dụng trong các phiên tập trung";
+"review_and_rate" = "Đánh giá & Đánh giá";
+"focushero_socials" = "FocusHero Xã hội";
+"rate_focushero" = "Đánh giá FocusHero";
+"share_app_store_feedback" = "Chia sẻ phản hồi của bạn về App Store";
+"app_icon" = "Biểu tượng ứng dụng";
+"app_icon_classic" = "Cổ điển";
+"app_icon_classic_subtitle" = "Nguyên bản";
+"app_icon_aurora" = "cực quang";
+"app_icon_aurora_subtitle" = "Năng lượng tươi";
+"app_icon_light" = "Ánh sáng";
+"app_icon_light_subtitle" = "Chủ đề nhẹ nhàng";
+"app_icon_sunrise" = "Bình minh";
+"app_icon_neon" = "neon";
+"app_icon_change_failed" = "Không thể thay đổi biểu tượng";
+"app_icon_unsupported" = "Các biểu tượng ứng dụng thay thế không có sẵn trên thiết bị này.";
+"alarm_permission_required" = "Cần có quyền báo động";
+"open_settings" = "Mở cài đặt";
+"alarm_permission_message" = "Để sử dụng báo thức gốc, vui lòng bật quyền Báo thức trong Cài đặt.";
+"session_complete_notification" = "Thông báo hoàn thành phiên";
+"notify_when_session_finishes" = "Thông báo khi phiên kết thúc";
+"native_alarm" = "Cảnh báo gốc";
+"quiet_hours" = "Giờ yên tĩnh";
+"native_alarm_description" = "Âm thanh báo động ngay cả ở chế độ im lặng";
+"session_end_alarm" = "Báo động kết thúc phiên";
+"alarm_when_timer_completes" = "Báo động khi hết giờ";
+"time_block_alarms" = "Cảnh báo khối thời gian";
+"alarm_when_blocks_start" = "Báo động khi các khối theo lịch trình bắt đầu";
+"reset_dialog_title" = "Đặt lại %@?";
+"reset_dialog_button" = "Đặt lại %@";
+"active_notifications_count" = "%d đang hoạt động";
+
+// MARK: - Todo Overlay
+"add_new_todo_placeholder" = "Thêm việc cần làm mới...";
+"no_tag_todos" = "Không có %@ việc cần làm";
+"add_first_task_above" = "Thêm nhiệm vụ đầu tiên của bạn ở trên";
+"none" = "Không có";
+"deadline" = "Thời hạn";
+"set_deadline" = "Đặt thời hạn";
+"select_date_label" = "Chọn ngày";
+"created_date" = "Đã tạo: %@";
+"completed_status" = "✓ Đã hoàn thành";
+"subtasks" = "Nhiệm vụ phụ";
+"new_subtask_placeholder" = "Nhiệm vụ phụ mới...";
+"set_button" = "Bộ";
+
+// MARK: - Streak Stat Card
+"streak_current" = "Hiện hành";
+"streak_best" = "Tốt nhất";
+"streak_days" = "Ngày";
+"contract_lets_get_started" = "Hãy bắt đầu!";
+
+// MARK: - Streak Share Card
+"share_streak_hero_subtitle_steady" = "Được xây dựng thông qua sự tập trung ổn định và có thể lặp lại.";
+"share_streak_hero_subtitle_momentum" = "Động lực tăng lên mỗi khi bạn xuất hiện.";
+"share_streak_hero_subtitle_start" = "Mỗi chuỗi bắt đầu bằng một phiên được xác định pro.";
+"share_streak_label_active" = "DÒNG NGÀY";
+"share_streak_label_day_one" = "NGÀY MỘT";
+"share_streak_momentum_locked_in" = "BỊ KHÓA";
+"share_streak_momentum_building" = "XÂY DỰNG";
+"share_streak_momentum_in_motion" = "TRONG CHUYỂN ĐỘNG";
+"share_streak_momentum_start" = "BẮT ĐẦU";
+"share_streak_milestone_start_format" = "Hãy bắt đầu ngay hôm nay và hướng tới mốc %d ngày đầu tiên của bạn.";
+"share_streak_milestone_unlocked" = "Đã mở khóa cột mốc. Giữ nhịp điệu sống động.";
+"share_streak_milestone_remaining_format" = "%d thêm ngày nữa tới %d.";
+"share_streak_focus_snapshot" = "CHỤP ẢNH TẬP TRUNG";
+"share_streak_total_focused" = "Tổng số tập trung";
+"share_streak_this_week" = "TUẦN NÀY";
+"share_streak_first_milestone" = "MỤC ĐỐI ĐẦU TIÊN";
+"share_streak_next_milestone" = "MỤC TIÊU TIẾP THEO";
+"share_streak_days_format" = "%d NGÀY";
+"share_streak_start" = "BẮT ĐẦU";
+"share_streak_last_7_days" = "7 NGÀY CUỐI CÙNG";
+"share_streak_next_seven_days_start_now" = "Bảy ngày tiếp theo của bạn bắt đầu ngay bây giờ.";
+"share_streak_last_7_days_lit_format" = "%d trong 7 ngày qua vẫn sáng.";
+"share_streak_sheet_title" = "Chia sẻ chuỗi";
+"share_streak_instagram_stories" = "Truyện";
+"share_streak_tiktok" = "TikTok";
+"share_streak_more" = "Hơn";
+"share_streak_open_card_hint" = "Mở thẻ chia sẻ chuỗi.";
+
+// MARK: - Schedule View
+"schedule" = "Lịch trình";
+"reset_all_time_blocks" = "Đặt lại tất cả các khối thời gian";
+"delete_all" = "Xóa tất cả";
+"reset_time_blocks_message" = "Thao tác này sẽ xóa vĩnh viễn tất cả các khối thời gian. Không thể hoàn tác hành động này.";
+"never_miss_session" = "Không bao giờ bỏ lỡ một phiên";
+"enable_alarms_silent" = "Bật báo thức đổ chuông ở chế độ im lặng";
+"enable" = "Cho phép";
+
+// MARK: - Time Block Scheduler
+"auto_started" = "Tự động bắt đầu";
+"timer_busy" = "Bộ hẹn giờ đang được sử dụng";
+"is_scheduled" = "được lên lịch";
+"focus_session" = "Phiên tập trung";
+
+// MARK: - Time Block Edit Sheet
+"create_time_block" = "Tạo khối thời gian";
+"edit_time_block" = "Chỉnh sửa khối thời gian";
+"details" = "Chi tiết";
+"title_label" = "Tiêu đề";
+"start_time" = "Thời gian bắt đầu";
+"duration" = "Khoảng thời gian";
+"repeat" = "Lặp lại";
+"alarm" = "Báo thức";
+"alarm_native_ios_at_start" = "Cảnh báo iOS gốc tại thời điểm bắt đầu";
+"alarm_enable_in_settings" = "Bật trong Cài đặt → Báo thức gốc";
+"saving" = "Đang lưu...";
+"scheduling_conflict" = "Xung đột lịch trình";
+"time_block_overlap_message" = "Khối thời gian này trùng lặp với %d khối hiện có. Vui lòng chọn thời gian khác.";
+"delete_time_block" = "Xóa khối thời gian";
+"delete_this_only" = "Chỉ xóa cái này";
+"delete_all_recurring" = "Xóa tất cả định kỳ";
+"recurring_block_delete_message" = "Đây là một khối thời gian định kỳ. Bạn muốn xóa chỉ lần xuất hiện này hay tất cả các lần xuất hiện trong tương lai?";
+"delete_time_block_confirmation" = "Bạn có chắc chắn muốn xóa khối thời gian này không?";
+"enable_alarms" = "Bật báo thức";
+"not_now" = "Không phải bây giờ";
+"alarm_onboarding_message" = "Nhận cảnh báo iOS gốc khi phiên đã lên lịch của bạn bắt đầu — chúng sẽ phát ra âm thanh ngay cả ở chế độ im lặng để bạn không bao giờ bỏ lỡ khối tiêu điểm.";
+"enable_alarms_for_time_blocks_message" = "Để sử dụng báo thức cho các khối thời gian, hãy bật Báo thức gốc trong Cài đặt. Bạn có muốn kích hoạt nó bây giờ không?";
+
+// Duration options
+"duration_15_min" = "15 phút";
+"duration_30_min" = "30 phút";
+"duration_45_min" = "45 phút";
+"duration_1_hour" = "1 giờ";
+"duration_1_5_hours" = "1,5 giờ";
+"duration_2_hours" = "2 giờ";
+"duration_3_hours" = "3 giờ";
+"duration_4_hours" = "4 giờ";
+
+// iCloud Sync Toggle
+"ck_sync_toggle_title" = "Đồng bộ hóa với iCloud";
+"ck_sync_toggle_subtitle" = "Đồng bộ hóa trên tất cả các thiết bị của bạn";
+"ck_restart_required_title" = "Yêu cầu khởi động lại";
+"ck_restart_required_message" = "Thay đổi này sẽ có hiệu lực vào lần tiếp theo bạn mở ứng dụng.";
+
+// iCloud Sync Status
+"ck_status_syncing" = "Đang đồng bộ hóa…";
+"ck_status_error" = "Lỗi đồng bộ hóa";
+"ck_status_active" = "iCloud Đồng bộ hóa đang hoạt động";
+"ck_status_no_account" = "Không có tài khoản iCloud";
+"ck_status_restricted" = "Đồng bộ hóa bị hạn chế";
+"ck_status_temp_unavailable" = "Tạm thời không có sẵn";
+"ck_status_no_internet" = "Không có kết nối Internet";
+"ck_status_checking" = "Đang kiểm tra trạng thái…";
+"ck_hero_no_account" = "iCloud Cần có tài khoản";
+
+// iCloud Sync Subtitles
+"ck_sub_last_synced" = "Đồng bộ hóa lần cuối %@";
+"ck_sub_waiting" = "Đang chờ đồng bộ hóa lần đầu";
+"ck_sub_sign_in" = "Đăng nhập vào iCloud trong Cài đặt để đồng bộ hóa";
+"ck_sub_check_screen_time" = "Kiểm tra Thời gian sử dụng hoặc kiểm soát của phụ huynh";
+"ck_sub_will_resume" = "Sẽ tiếp tục khi có iCloud";
+"ck_sub_will_sync" = "Sẽ đồng bộ khi kết nối được khôi phục";
+"ck_sub_please_wait" = "Vui lòng đợi một lát";
+
+// iCloud Sync Detail Sheet
+"ck_progress_note" = "iCloud không chia sẻ số lượng bản ghi — progress không xác định";
+"ck_last_synced_label" = "Đồng bộ hóa lần cuối";
+"ck_never" = "Không bao giờ";
+"ck_sync_now" = "Đồng bộ hóa ngay bây giờ";
+"ck_check_again" = "Kiểm tra lại";
+"ck_button_syncing" = "Đang đồng bộ hóa…";
+
+// iCloud Sync Hero Descriptions
+"ck_desc_syncing" = "Dữ liệu POMODORO của bạn đang được đồng bộ hóa trên các thiết bị của bạn.";
+"ck_desc_error" = "Lần đồng bộ hóa gần đây nhất đã gặp lỗi. Nhấn vào Kiểm tra lại hoặc thử Đồng bộ hóa ngay để thử lại.";
+"ck_desc_active" = "Dữ liệu POMODORO của bạn tự động đồng bộ hóa trên tất cả các thiết bị đã đăng nhập bằng tài khoản iCloud này.";
+"ck_desc_no_account" = "Đăng nhập vào iCloud trong Cài đặt để đồng bộ hóa dữ liệu của bạn trên các thiết bị.";
+"ck_desc_restricted" = "iCloud đồng bộ hóa bị hạn chế trên thiết bị này. Kiểm tra cài đặt Thời gian sử dụng hoặc kiểm soát của phụ huynh.";
+"ck_desc_temp_unavailable" = "iCloud tạm thời không khả dụng. Dữ liệu của bạn sẽ tự động đồng bộ hóa khi dịch vụ được khôi phục.";
+"ck_desc_no_internet" = "Không có kết nối internet được phát hiện. Dữ liệu của bạn sẽ đồng bộ hóa khi kết nối được khôi phục.";
+"ck_desc_checking" = "Chúng tôi đang kiểm tra trạng thái iCloud của bạn. Xin vui lòng chờ một lát.";
+
+// iCloud Sync Activity Labels
+"ck_activity_syncing" = "Đang đồng bộ hóa với iCloud";
+"ck_activity_setup" = "Đang định cấu hình iCloud";
+"ck_activity_importing" = "Đang tải xuống từ iCloud";
+"ck_activity_exporting" = "Đang tải lên iCloud";
+
+// iCloud Sync Relative Time
+"ck_time_just_now" = "ngay bây giờ";
+"ck_time_minutes_ago" = "%dphút trước";
+"ck_time_hours_ago" = "%dgiờ trước";
+"ck_time_days_ago" = "%dngày trước";
+"ck_time_today_at" = "Hôm nay lúc %@";
+"ck_time_yesterday_at" = "Hôm qua lúc %@";
+"ck_time_date_at" = "%@ tại %@";
+"notification_action_start_now" = "Bắt đầu ngay bây giờ";
+"notification_action_snooze" = "Nhắc nhở sau 5 phút";
+"notification_action_complete_now" = "Hoàn thành";
+
+// Level Up Badge
+"congratulations" = "Chúc mừng!";
+"level_up" = "Lên cấp!";
+
+// Timer Config Dropdown
+"auto_pilot" = "lái tự động";
+"auto_start_break" = "Tự động bắt đầu nghỉ";
+"auto_start_focus" = "Tự động khởi động Lấy nét";
+"short_break_every" = "Nghỉ ngắn mỗi lần";
+"long_break_every" = "Mỗi kỳ nghỉ dài";
+"sessions_done" = "Phiên đã hoàn thành";
+"never" = "Không bao giờ";
+"notes" = "Ghi chú";
+"stop_timer_to_adjust" = "Dừng bộ hẹn giờ để điều chỉnh";
+"session_note_placeholder" = "Bạn đang làm việc gì?";
+
+// MARK: - Notes List
+"copy" = "Sao chép";
+"export" = "Xuất khẩu";
+"no_notes_yet" = "Chưa có ghi chú nào";
+"delete_note" = "Xóa ghi chú";
+"note_delete_confirmation" = "Ghi chú này sẽ bị xóa vĩnh viễn.";
+"export_note" = "Xuất ghi chú";
+"export_as_pdf" = "Xuất dưới dạng PDF";
+"save_to_photos" = "Lưu vào Ảnh";
+"saved_to_photos" = "Đã lưu vào Ảnh";
+"note_card_saved" = "Thẻ ghi chú đã được lưu vào thư viện ảnh của bạn.";
+"could_not_save" = "Không thể lưu";
+"note_title_placeholder" = "Tiêu đề";
+"new_note_placeholder" = "Ghi chú mới...";
+"write_note_placeholder" = "Viết ghi chú của bạn...";
+"note_render_failed" = "Không thể hiển thị hình ảnh ghi chú.";
+"photo_access_denied" = "Quyền truy cập thư viện ảnh bị từ chối. Kích hoạt nó trong Cài đặt.";
+"unknown_error" = "Lỗi không xác định";
+
+// MARK: - Time Since
+"ts_time_since" = "Thời gian kể từ";
+"ts_countdown" = "Đếm ngược";
+"ts_no_trackers_yet" = "Chưa có người theo dõi";
+"ts_no_trackers_description" = "Theo dõi thời gian trôi qua kể từ các sự kiện, thói quen hoặc cột mốc cụ thể.";
+"ts_create_tracker" = "Tạo trình theo dõi";
+"ts_no_overdue_trackers" = "Không có trình theo dõi quá hạn";
+"ts_no_trackers_in_group" = "Không có trình theo dõi nào trong \"%@\"";
+"ts_no_results" = "Không có kết quả";
+"ts_search_trackers" = "Trình theo dõi tìm kiếm";
+"ts_new" = "Mới";
+"ts_overdue" = "Quá hạn";
+"ts_sort" = "Loại";
+"ts_recently_checked" = "Đã kiểm tra gần đây";
+"ts_longest_elapsed" = "Lâu nhất đã trôi qua";
+"ts_alphabetical" = "theo bảng chữ cái";
+"ts_date_created" = "Ngày tạo";
+"ts_nearest_deadline" = "Hạn chót gần nhất";
+"ts_rename_group" = "Đổi tên nhóm";
+"ts_new_name" = "Tên mới";
+"ts_rename" = "Đổi tên";
+"ts_reset_color" = "Đặt lại màu";
+"ts_add_item" = "Thêm mục";
+"ts_color" = "Màu sắc";
+"ts_color_sky_blue" = "Bầu trời xanh";
+"ts_color_soft_teal" = "Teal mềm";
+"ts_color_soft_violet" = "Tím mềm";
+"ts_color_warm_amber" = "Hổ phách ấm áp";
+"ts_color_golden_yellow" = "vàng vàng";
+"ts_color_sage_green" = "Xô thơm xanh";
+"ts_color_muted_coral" = "San hô tắt tiếng";
+"ts_color_soft_lavender" = "Hoa oải hương mềm mại";
+"ts_lock_screen_widgets" = "Tiện ích màn hình khóa (%d/3)";
+"ts_lock_screen_guide_toolbar_a11y" = "Hướng dẫn tiện ích màn hình khóa";
+"ts_lock_screen_guide_nav_title" = "Tiện ích màn hình khóa";
+"ts_lock_screen_guide_hero_title" = "Thêm thời gian kể từ màn hình khóa của bạn";
+"ts_lock_screen_guide_hero_subtitle" = "Hãy làm theo các bước sau trên iPhone của bạn để đặt trình theo dõi trong vài giây.";
+"ts_lock_screen_guide_preview_title" = "Xem trước màn hình khóa";
+"ts_lock_screen_guide_preview_a11y" = "Xem trước màn hình khóa với các tiện ích Thời gian kể từ khi";
+"ts_lock_screen_guide_step_a11y" = "Bước %d: %@. %@";
+"ts_lock_screen_guide_step_1_title" = "Vào chế độ tùy chỉnh";
+"ts_lock_screen_guide_step_1_detail" = "Chạm và giữ Màn hình khóa của bạn, sau đó chạm vào Tùy chỉnh.";
+"ts_lock_screen_guide_step_2_title" = "Chọn khu vực tiện ích";
+"ts_lock_screen_guide_step_2_detail" = "Nhấn vào khu vực tiện ích bên dưới đồng hồ.";
+"ts_lock_screen_guide_step_3_title" = "Chọn anh hùng tập trung";
+"ts_lock_screen_guide_step_3_detail" = "Tìm kiếm Focus Hero và chọn tiện ích Thời gian kể từ màn hình khóa.";
+"ts_lock_screen_guide_step_4_title" = "Chọn trình theo dõi của bạn";
+"ts_lock_screen_guide_step_4_detail" = "Nhấn vào tiện ích và chọn trình theo dõi bạn muốn xem trên Màn hình khóa.";
+"ts_lock_screen_guide_step_5_title" = "Lưu nó";
+"ts_lock_screen_guide_step_5_detail" = "Nhấn Xong để lưu Màn hình khóa của bạn.";
+"ts_available" = "Có sẵn";
+"ts_when_did_this_happen" = "Điều này xảy ra khi nào?";
+"ts_note" = "Ghi chú";
+"ts_notes" = "Ghi chú";
+"ts_whats_on_your_mind" = "Bạn đang nghĩ gì thế?";
+"ts_how_did_it_go" = "Nó diễn ra như thế nào?";
+"ts_add_note" = "Thêm ghi chú";
+"ts_add_occurrence" = "Thêm lần xuất hiện";
+
+// Time Since Card
+"ts_pin" = "Ghim";
+"ts_unpin" = "Bỏ ghim";
+"ts_remove_from_group" = "Xóa khỏi \"%@\"";
+"ts_new_group" = "Nhóm mới…";
+"ts_move_to_group" = "Di chuyển đến nhóm";
+"ts_group_label" = "Nhóm: %@";
+"ts_group_name" = "Tên nhóm";
+"ts_create" = "Tạo nên";
+"ts_now" = "Hiện nay";
+"ts_delete_confirm_title" = "Xóa \"%@\"?";
+"ts_delete_confirm_message" = "Thao tác này cũng sẽ xóa tất cả thông báo và cảnh báo cho mục này.";
+"ts_completed" = "Hoàn thành!";
+"ts_until_date" = "Cho đến %@";
+"ts_done" = "Xong!";
+
+// Edit Time Since Event
+"ts_details" = "Chi tiết";
+"ts_event_name" = "Tên sự kiện";
+"ts_start_date" = "Ngày bắt đầu";
+"ts_target_date" = "Ngày mục tiêu";
+"ts_display_as" = "Hiển thị dưới dạng";
+"ts_start_time" = "Thời gian bắt đầu";
+"ts_group" = "Nhóm";
+"ts_appearance" = "Vẻ bề ngoài";
+"ts_track_interval" = "Theo dõi khoảng thời gian";
+"ts_auto" = "Tự động";
+"ts_custom" = "Phong tục";
+"ts_interval" = "Khoảng thời gian";
+"ts_delete_tracker" = "Xóa trình theo dõi";
+"ts_delete_tracker_confirm" = "Xóa trình theo dõi này?";
+"ts_cannot_be_undone" = "Điều này không thể hoàn tác được.";
+"ts_edit_tracker" = "Chỉnh sửa theo dõi";
+"ts_new_tracker" = "Trình theo dõi mới";
+"ts_seed_plant_a_seed" = "Gieo hạt giống 🌱";
+"ts_seed_unhealthy_eating" = "Ăn uống không lành mạnh 🍔";
+"ts_seed_change_air_filter" = "Thay bộ lọc không khí";
+"ts_seed_group_break_habits" = "Phá vỡ thói quen";
+"ts_reflect_every" = "Phản ánh mọi %@";
+"ts_notify_every" = "Thông báo mọi %@";
+"ts_icon" = "Biểu tượng";
+"ts_on" = "TRÊN";
+
+// Alert Unit
+"ts_minutes" = "Phút";
+"ts_hours" = "Giờ";
+"ts_days" = "Ngày";
+"ts_weeks" = "Tuần";
+"ts_months" = "Tháng";
+"ts_years" = "Năm";
+
+// Target Preset
+"ts_preset_week" = "Tuần";
+"ts_preset_month" = "Tháng";
+"ts_preset_quarter" = "Một phần tư";
+"ts_preset_year" = "Năm";
+"ts_preset_6_months" = "6 tháng";
+"ts_preset_1_year" = "1 năm";
+"ts_preset_2_years" = "2 năm";
+
+// Time Since Detail
+"ts_history" = "Lịch sử";
+"ts_swipe_hint" = "Vuốt sang trái trên thẻ để ghi lại suy nghĩ";
+"ts_show_all_occurrences" = "Hiển thị tất cả %d lần xuất hiện";
+"ts_occurrences_abbrev" = "%d oc.";
+"ts_average_format" = "trung bình %@";
+"ts_occurrence" = "Sự xuất hiện";
+"ts_delete_tracker_detail" = "Xóa trình theo dõi";
+"ts_no_occurrences_yet" = "Chưa có sự cố nào được ghi nhận.";
+"ts_log_occurrence_hint" = "Sử dụng nút + hoặc vuốt sang trái một thẻ để đăng nhập.";
+"ts_gap_between_occurrences" = "Khoảng cách giữa các lần xuất hiện";
+"ts_past_gap" = "Khoảng cách quá khứ";
+"ts_current_ongoing" = "Hiện tại (đang diễn ra)";
+"ts_view_notes" = "Xem ghi chú";
+"ts_copy_notes" = "Sao chép ghi chú";
+"ts_copy_date" = "Sao chép ngày";
+"ts_elapsed" = "trôi qua";
+"ts_started" = "Đã bắt đầu";
+"ts_edit" = "Biên tập";
+"ts_target" = "Mục tiêu";
+"ts_remaining" = "còn lại";
+"ts_percent_complete" = "%.1f_PH1__ hoàn thành";
+"ts_notif_reflection_body" = "Phản ánh: %@ còn lại cho %@.";
+"ts_notif_elapsed_body" = "Đã %@ kể từ khi bạn đăng nhập %@.";
+"ts_notif_alarm_title" = "%@ Khoảng thời gian";
+
+// Auto Pilot Summary
+"remove_session" = "Xóa phiên";
+"remove_session_message" = "Thao tác này sẽ xóa phiên và khôi phục progress của bạn.";
+"slide_to_close" = "trượt để đóng";
+
+// MARK: - Hero Quotes
+"hero_day_streak_title" = "%d Chuỗi ngày";
+"hero_day_streak_title_named" = "Chuỗi ngày %2$d của %1$@";
+"hero_quote_inline_format" = "\"%@\" — %@";
+"hero_quote_aristotle_text" = "Chúng ta là những gì chúng ta làm đi làm lại nhiều lần. Vì vậy, sự xuất sắc không phải là một hành động mà là một thói quen.";
+"hero_quote_aristotle_author" = "Aristote";
+"hero_quote_jobs_great_work_text" = "Cách duy nhất để làm được việc lớn là yêu việc bạn làm.";
+"hero_quote_jobs_great_work_author" = "Steve Jobs";
+"hero_quote_kobe_rise_text" = "Mọi điều tiêu cực - áp lực, thử thách - đều là cơ hội để tôi vươn lên.";
+"hero_quote_kobe_rise_author" = "Kobe Bryant";
+"hero_quote_jobs_hungry_text" = "Luôn đói. Hãy cứ dại khờ.";
+"hero_quote_jobs_hungry_author" = "Steve Jobs";
+"hero_quote_jordan_expect_text" = "Bạn phải mong đợi những điều tuyệt vời ở bản thân trước khi bạn có thể làm được chúng.";
+"hero_quote_jordan_expect_author" = "Michael Jordan";
+"hero_quote_jocko_discipline_text" = "Kỷ luật tương đương với tự do.";
+"hero_quote_jocko_discipline_author" = "Jocko Willink";
+"hero_quote_bruce_focus_text" = "Chiến binh thành công là người đàn ông bình thường, có khả năng tập trung cao độ.";
+"hero_quote_bruce_focus_author" = "Lý Tiểu Long";
+"hero_quote_mandela_courage_text" = "Dũng cảm không phải là không sợ hãi mà là chiến thắng nó.";
+"hero_quote_mandela_courage_author" = "Nelson Mandela";
+"hero_quote_ford_think_text" = "Cho dù bạn nghĩ mình có thể hay không thể - bạn đều đúng.";
+"hero_quote_ford_think_author" = "Henry Ford";
+"hero_quote_proverbs_text" = "Hãy hết lòng tin cậy Chúa, chớ nương cậy nơi sự thông sáng của con; trong mọi việc làm của con, hãy vâng phục Ngài, thì Ngài sẽ chỉ dẫn các nẻo của con.";
+"hero_quote_proverbs_author" = "Prođộng từ 3:5-6";
+"hero_quote_joshua_text" = "Hãy mạnh mẽ và can đảm. Đừng sợ hãi; đừng nản lòng, vì Giê-hô-va Đức Chúa Trời của bạn sẽ ở cùng bạn mọi lúc mọi nơi.";
+"hero_quote_joshua_author" = "Giô-suê 1:9";
+"hero_quote_john_peace_text" = "Bình yên tôi để lại cho bạn; Ta ban cho các con sự bình an của Ta… Lòng các con đừng bối rối và đừng sợ hãi.";
+"hero_quote_john_peace_author" = "Giăng 14:27";
+"hero_quote_first_john_text" = "Chúng ta yêu vì Chúa đã yêu chúng ta trước.";
+"hero_quote_first_john_author" = "1 Giăng 4:19";
+"hero_quote_jeremiah_text" = "Vì tôi biết những kế hoạch tôi dành cho bạn… kế hoạch pro thúc đẩy bạn và không làm hại bạn, những kế hoạch mang lại cho bạn hy vọng và một tương lai.";
+"hero_quote_jeremiah_author" = "Giê-rê-mi 29:11";
+"hero_quote_psalm_text" = "Dù khi tôi đi trong trũng bóng chết, tôi sẽ chẳng sợ tai họa nào, vì Chúa ở cùng tôi.";
+"hero_quote_psalm_author" = "Thi Thiên 23:4";
+"hero_quote_john_word_text" = "Ban đầu có Ngôi Lời, Ngôi Lời ở cùng Đức Chúa Trời và Ngôi Lời là Đức Chúa Trời.";
+"hero_quote_john_word_author" = "Giăng 1:1 (KJV)";
+"hero_quote_simon_dream_text" = "Ước mơ của bạn là gì?";
+"hero_quote_simon_dream_author" = "Simon Squibb";
+
+// Hero Pace
+"hero_level_range_format" = "%1$@ -> %2$@";
+"hero_pace_recent_format" = "%d tốc độ ngày";
+"hero_pace_lifetime" = "Nhịp độ trọn đời";
+"hero_pace_default" = "Tốc độ mặc định";
+"hero_pace_word" = "nhịp độ";
+"hero_pace_minutes_per_day_format" = "%dm/ngày";
+"hero_pace_hours_per_day_format" = "%dh/ngày";
+"hero_pace_hours_minutes_per_day_format" = "%dh %dm/ngày";
+"hero_pace_real" = "Tốc độ thực";
+"hero_pace_what_if" = "Tốc độ thì sao";
+"hero_pace_goal" = "Mục tiêu";
+"hero_pace_set_current" = "Đặt tốc độ hiện tại";
+"hero_pace_remove_goal" = "Xóa mục tiêu";
+"hero_pace_reset_button" = "Cài lại";
+"hero_pace_reset_accessibility" = "Đặt lại tốc độ";
+"hero_pace_goal_accessibility" = "Tốc độ mục tiêu";
+"hero_pace_period" = "Giai đoạn nhịp độ";
+"hero_pace_base" = "Cơ sở nhịp độ";
+"hero_pace_custom" = "Phong tục";
+"hero_pace_week_format" = "%@/tuần";
+"hero_pace_month_format" = "%@/tháng";
+"hero_pace_checkpoint_legend" = "Điểm kiểm tra hiển thị số giờ còn lại và +h ở tốc độ này";
+"hero_pace_day_duration_format" = "%dd";
+"hero_pace_week_duration_format" = "%dw";
+"hero_pace_month_duration_format" = "%dmo";
+"hero_pace_year_duration_format" = "%.1fy";
+"only_edited_level_requirements_shown" = "Chỉ các yêu cầu về cấp độ đã chỉnh sửa cho hành trình đã chọn mới được hiển thị.";
+"no_tagged_sessions_yet_today" = "Chưa có phiên nào được gắn thẻ ngày hôm nay.";
+"edited_levels" = "Cấp độ đã chỉnh sửa";
+"reset_edited_levels" = "Đặt lại cấp độ đã chỉnh sửa";
+"reset_all_edited_levels" = "Đặt lại tất cả các cấp độ đã chỉnh sửa";
+"reset_level_accessibility_format" = "Đặt lại mức %d";
