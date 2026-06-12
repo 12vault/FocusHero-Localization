@@ -63,6 +63,14 @@
 "Format in ChatGPT" = "Форматировать в ChatGPT";
 "Copy the prompt, run it in the ChatGPT conversation, then paste the JSON response here." = "Скопируйте промпт, выполните его в чате ChatGPT, затем вставьте сюда JSON-ответ.";
 "Copy Prompt" = "Скопировать промпт";
+"Tune Prompt" = "Настроить промпт";
+"Simplified examples" = "Упрощённые примеры";
+"Real-world application" = "Применение в реальном мире";
+"Code examples" = "Примеры кода";
+"Diagrams" = "Диаграммы";
+"Standard" = "Стандарт";
+"More" = "Больше";
+"Off" = "Выкл.";
 "ChatGPT JSON" = "ChatGPT JSON";
 "Save to folder" = "Сохранить в папку";
 "Imported cards are added to this folder." = "Импортированные карточки добавляются в эту папку.";

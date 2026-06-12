@@ -14,6 +14,7 @@ This repository contains translations for:
 - `ja`
 - `ko`
 - `ru`
+- `vi`
 - `zh-Hans`
 
 Each locale lives in its own `.lproj` folder:
@@ -24,6 +25,7 @@ es.lproj/
 ja.lproj/
 ko.lproj/
 ru.lproj/
+vi.lproj/
 zh-Hans.lproj/
 ```
 

@@ -63,6 +63,14 @@
 "Format in ChatGPT" = "在 ChatGPT 中格式化";
 "Copy the prompt, run it in the ChatGPT conversation, then paste the JSON response here." = "复制提示词，在 ChatGPT 对话中运行，然后将 JSON 回复粘贴到这里。";
 "Copy Prompt" = "复制提示词";
+"Tune Prompt" = "调整提示词";
+"Simplified examples" = "简化示例";
+"Real-world application" = "实际应用";
+"Code examples" = "代码示例";
+"Diagrams" = "图表";
+"Standard" = "标准";
+"More" = "更多";
+"Off" = "关闭";
 "ChatGPT JSON" = "ChatGPT JSON";
 "Save to folder" = "保存到文件夹";
 "Imported cards are added to this folder." = "导入的卡片将添加到此文件夹。";

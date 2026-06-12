@@ -63,6 +63,14 @@
 "Format in ChatGPT" = "ChatGPTで整形";
 "Copy the prompt, run it in the ChatGPT conversation, then paste the JSON response here." = "プロンプトをコピーしてChatGPTの会話で実行し、JSONの応答をここに貼り付けてください。";
 "Copy Prompt" = "プロンプトをコピー";
+"Tune Prompt" = "プロンプトを調整";
+"Simplified examples" = "簡略化された例";
+"Real-world application" = "実世界での応用";
+"Code examples" = "コード例";
+"Diagrams" = "図表";
+"Standard" = "標準";
+"More" = "多め";
+"Off" = "オフ";
 "ChatGPT JSON" = "ChatGPT JSON";
 "Save to folder" = "保存先フォルダ";
 "Imported cards are added to this folder." = "インポートしたカードはこのフォルダに追加されます。";

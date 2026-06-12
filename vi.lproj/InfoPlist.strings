@@ -1,0 +1,4 @@
+"CFBundleDisplayName" = "FocusHero";
+"NSAlarmKitUsageDescription" = "FocusHero sử dụng báo thức để thông báo khi phiên tập trung và thời gian nghỉ kết thúc, kể cả ở chế độ im lặng hoặc trong Focus.";
+"NSLocalNetworkUsageDescription" = "FocusHero sử dụng mạng cục bộ để đồng bộ trạng thái bắt đầu, kết thúc và đặt lại bộ hẹn giờ giữa các thiết bị gần đó.";
+"NSUserTrackingUsageDescription" = "Điều này giúp chúng tôi hiểu chiến dịch nào đã đưa bạn đến đây và cải thiện trải nghiệm của bạn.";

@@ -66,6 +66,14 @@
 "Format in ChatGPT" = "Format in ChatGPT";
 "Copy the prompt, run it in the ChatGPT conversation, then paste the JSON response here." = "Copy the prompt, run it in the ChatGPT conversation, then paste the JSON response here.";
 "Copy Prompt" = "Copy Prompt";
+"Tune Prompt" = "Tune Prompt";
+"Simplified examples" = "Simplified examples";
+"Real-world application" = "Real-world application";
+"Code examples" = "Code examples";
+"Diagrams" = "Diagrams";
+"Standard" = "Standard";
+"More" = "More";
+"Off" = "Off";
 "ChatGPT JSON" = "ChatGPT JSON";
 "Save to folder" = "Save to folder";
 "Imported cards are added to this folder." = "Imported cards are added to this folder.";

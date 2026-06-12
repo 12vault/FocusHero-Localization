@@ -8,7 +8,7 @@
 "cancel" = "Hủy";
 "ok" = "OK";
 "settings" = "Cài đặt";
-"delete" = "Xóa bỏ";
+"delete" = "Xóa";
 "edit" = "Chỉnh sửa";
 "save" = "Lưu";
 "reset" = "Cài lại";
@@ -66,6 +66,14 @@
 "Format in ChatGPT" = "Định dạng trong ChatGPT";
 "Copy the prompt, run it in the ChatGPT conversation, then paste the JSON response here." = "Sao chép prompt, chạy nó trong cuộc hội thoại ChatGPT, sau đó dán phản hồi JSON vào đây.";
 "Copy Prompt" = "Sao chép Prompt";
+"Tune Prompt" = "Tùy chỉnh prompt";
+"Simplified examples" = "Ví dụ đơn giản";
+"Real-world application" = "Ứng dụng thực tế";
+"Code examples" = "Ví dụ mã";
+"Diagrams" = "Sơ đồ";
+"Standard" = "Tiêu chuẩn";
+"More" = "Nhiều hơn";
+"Off" = "Tắt";
 "ChatGPT JSON" = "ChatGPT JSON";
 "Save to folder" = "Lưu vào thư mục";
 "Imported cards are added to this folder." = "Thẻ đã nhập sẽ được thêm vào thư mục này.";
@@ -102,9 +110,9 @@
 "Next" = "Kế tiếp";
 "No cards" = "Không có thẻ";
 "No cards due" = "Không có thẻ đến hạn";
-"New review cards will appear here when FSRS schedules them." = "Thẻ đánh giá mới sẽ xuất hiện tại đây khi FSRS lên lịch cho chúng.";
+"New review cards will appear here when FSRS schedules them." = "Thẻ ôn tập mới sẽ xuất hiện tại đây khi FSRS lên lịch cho chúng.";
 "review_all_caught_up" = "Bạn đã bắt kịp tất cả!";
-"review_fsrs_schedule_subtitle_before" = "Thẻ đánh giá mới sẽ xuất hiện ở đây khi";
+"review_fsrs_schedule_subtitle_before" = "Thẻ ôn tập mới sẽ xuất hiện ở đây khi";
 "review_fsrs_schedule_subtitle_after" = "lên lịch cho chúng.";
 "review_fsrs_explanation_title" = "FSRS";
 "review_fsrs_explanation_body" = "FSRS (Trình lập lịch lặp lại khoảng cách miễn phí) sử dụng mô hình DSR—độ khó, độ ổn định và khả năng truy xuất—để dự đoán thời điểm bạn có thể quên từng thẻ. Xếp hạng Lại, Khó, Tốt hoặc Dễ của bạn sẽ cập nhật mô hình này và lên lịch lần ôn tập tiếp theo vào đúng thời điểm.";
@@ -203,7 +211,7 @@
 "copy_stats" = "Sao chép số liệu thống kê";
 "copied" = "Đã sao chép";
 "reset_hero_journey" = "Đặt lại hành trình anh hùng";
-"reset_journey_confirmation" = "Bạn có chắc chắn muốn đặt lại hoàn toàn hành trình anh hùng \"%@\" của mình không?\n\nThao tác này sẽ xóa tất cả progress (%@). Hành trình sẽ chỉ xuất hiện lại khi bạn hoàn thành các phiên mới với thẻ này.";
+"reset_journey_confirmation" = "Bạn có chắc chắn muốn đặt lại hoàn toàn hành trình anh hùng \"%@\" của mình không?\n\nThao tác này sẽ xóa toàn bộ tiến trình (%@). Hành trình sẽ chỉ xuất hiện lại khi bạn hoàn thành các phiên mới với hành trình này.";
 "edit_hours_required" = "Chỉnh sửa số giờ bắt buộc";
 "reset_to_default" = "Đặt lại về mặc định";
 "auto_adjust_levels" = "Tự động điều chỉnh cấp độ";
@@ -212,20 +220,20 @@
 // MARK: - Tags
 "select_tag" = "Chọn hành trình";
 "session_tags" = "Hành trình";
-"create_custom_tag" = "Tạo thẻ tùy chỉnh";
+"create_custom_tag" = "Tạo hành trình tùy chỉnh";
 "tag_name" = "Tên hành trình";
 "tag_emoji" = "Biểu tượng hành trình";
 "tag_color" = "Màu hành trình";
 "create_tag" = "Hành trình mới";
 "edit_tag" = "Chỉnh sửa hành trình";
-"update_tag" = "Cập nhật thẻ";
-"delete_tag" = "Xóa thẻ";
+"update_tag" = "Cập nhật hành trình";
+"delete_tag" = "Xóa hành trình";
 "duplicate_tag_key" = "Hành trình với tên và biểu tượng này đã tồn tại";
 "delete_tag_confirmation" = "Thao tác này sẽ xóa vĩnh viễn hành trình và mọi dữ liệu liên quan, bao gồm lịch sử phiên và thống kê. Không thể hoàn tác.";
 "tags" = "Hành trình";
 // MARK: - Todos
-"todo" = "việc cần làm";
-"todos" = "việc cần làm";
+"todo" = "todo";
+"todos" = "todos";
 "add_todo" = "Thêm việc cần làm";
 "edit_todo" = "Chỉnh sửa việc cần làm";
 "todo_title" = "Tiêu đề việc cần làm";
@@ -249,7 +257,7 @@
 // MARK: - Settings
 "session_times" = "Thời gian phiên";
 "configure_times" = "Định cấu hình thời gian";
-"customize_focus_break_durations" = "Tùy chỉnh thời lượng lấy nét và nghỉ";
+"customize_focus_break_durations" = "Tùy chỉnh thời lượng tập trung và nghỉ";
 "notifications" = "Thông báo";
 "notification_settings" = "Cài đặt thông báo";
 "configure_alerts" = "Định cấu hình cảnh báo và lời nhắc";
@@ -406,7 +414,7 @@
 "add_tag" = "Mới";
 "select" = "Lựa chọn";
 "edit" = "Chỉnh sửa";
-"delete" = "Xóa bỏ";
+"delete" = "Xóa";
 "create_tag" = "Hành trình mới";
 "edit_tag" = "Chỉnh sửa hành trình";
 "cancel" = "Hủy";
@@ -567,15 +575,15 @@
 
 // MARK: - Session Tags
 "tag" = "Hành trình";
-"organize_sessions_with_tags" = "Tổ chức các phiên tập trung của bạn bằng thẻ tùy chỉnh";
+"organize_sessions_with_tags" = "Tổ chức các phiên tập trung của bạn bằng hành trình tùy chỉnh";
 "current_selection" = "Lựa chọn hiện tại";
 "active_tag" = "Thẻ hoạt động";
 "unnamed_tag" = "Thẻ không tên";
 "no_tag_selected" = "Chưa chọn hành trình";
 "choose_tag_to_organize" = "Chọn một hành trình để sắp xếp các phiên tập trung của bạn";
 "available_tags" = "Hành trình có sẵn";
-"create_new_tag" = "Tạo thẻ mới";
-"choose_existing_tag" = "Chọn thẻ hiện có";
+"create_new_tag" = "Tạo hành trình mới";
+"choose_existing_tag" = "Chọn hành trình hiện có";
 "tag_already_exists" = "Hành trình đã tồn tại";
 "enter_tag_name" = "Nhập tên hành trình";
 "select_emoji" = "Chọn biểu tượng cảm xúc";
@@ -583,8 +591,8 @@
 "name_optional" = "Tên (tùy chọn)";
 "default_tags" = "Thẻ mặc định";
 "custom_tags" = "Thẻ tùy chỉnh";
-"no_custom_tags" = "Chưa có thẻ tùy chỉnh nào";
-"tap_to_create" = "Nhấn + để tạo thẻ tùy chỉnh đầu tiên của bạn";
+"no_custom_tags" = "Chưa có hành trình tùy chỉnh nào";
+"tap_to_create" = "Nhấn + để tạo hành trình tùy chỉnh đầu tiên của bạn";
 "tap_to_open_emoji_keyboard" = "Nhấn vào bên trên để nhập biểu tượng cảm xúc của bạn";
 
 // MARK: - Todos
@@ -603,7 +611,7 @@
 "completed_todos" = "Việc cần làm đã hoàn thành";
 "incomplete_todos" = "Việc cần làm chưa hoàn chỉnh";
 "all_todos" = "Tất cả việc cần làm";
-"no_todos_for_tag" = "Chưa có việc cần làm cho thẻ này";
+"no_todos_for_tag" = "Chưa có việc cần làm cho hành trình này";
 "tap_to_add_first_todo" = "Nhấn + để thêm việc cần làm đầu tiên của bạn";
 "complete_selected" = "Hoàn thành đã chọn";
 "delete_selected" = "Xóa đã chọn";
@@ -981,7 +989,7 @@
 "focus_duration_too_short" = "Thời gian tập trung quá ngắn";
 "fifteen_minutes_minimum" = "Tối thiểu 15 phút";
 "app_blocking_requirement" = "Việc chặn ứng dụng yêu cầu phiên tập trung ít nhất 15 phút. Đây là yêu cầu hệ thống để đảm bảo ứng dụng có thể được bỏ chặn tự động khi phiên của bạn kết thúc.";
-"current_focus_duration" = "Thời lượng lấy nét hiện tại: %d phút";
+"current_focus_duration" = "Thời lượng tập trung hiện tại: %d phút";
 "increase_focus_time_instruction" = "Tăng thời gian tập trung của bạn lên 15 phút trở lên trong cài đặt Thời gian phiên để bật tính năng chặn ứng dụng.";
 "authorization_required" = "Yêu cầu ủy quyền";
 "screen_time_access" = "Truy cập thời gian trên màn hình";
@@ -993,7 +1001,7 @@
 "apps_to_block" = "Ứng dụng cần chặn";
 "select_apps_categories" = "Chọn Ứng dụng & Danh mục";
 "clear_selection" = "Xóa lựa chọn";
-"start_focus" = "Bắt đầu lấy nét";
+"start_focus" = "Bắt đầu tập trung";
 "start_focus_description" = "Khi bạn bắt đầu phiên tập trung, các ứng dụng đã chọn sẽ bị chặn";
 "shield_appears" = "Khiên xuất hiện";
 "shield_appears_description" = "Nếu bạn cố mở một ứng dụng bị chặn, một tấm khiên sẽ xuất hiện";
