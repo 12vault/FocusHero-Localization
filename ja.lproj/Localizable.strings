@@ -100,7 +100,6 @@
 "All Workspaces" = "すべてのワークスペース";
 "Workspaces" = "ワークスペース";
 "Folders" = "フォルダ";
-"Organize with workspaces" = "ワークスペースで整理";
 "No folders in this workspace. Long-press a folder to move it here, or create one." = "このワークスペースにフォルダはありません。フォルダを長押ししてここに移動するか、新しく作成してください。";
 "Create a workspace to organize folders." = "フォルダを整理するワークスペースを作成します。";
 "Enter a new name for this workspace." = "このワークスペースの新しい名前を入力してください。";

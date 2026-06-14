@@ -103,7 +103,6 @@
 "All Workspaces" = "Tất cả không gian làm việc";
 "Workspaces" = "Không gian làm việc";
 "Folders" = "Thư mục";
-"Organize with workspaces" = "Sắp xếp bằng không gian làm việc";
 "No folders in this workspace. Long-press a folder to move it here, or create one." = "Không có thư mục nào trong không gian làm việc này. Nhấn và giữ một thư mục để di chuyển vào đây, hoặc tạo thư mục mới.";
 "Create a workspace to organize folders." = "Tạo một không gian làm việc để sắp xếp thư mục.";
 "Enter a new name for this workspace." = "Nhập tên mới cho không gian làm việc này.";

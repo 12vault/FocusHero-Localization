@@ -100,7 +100,6 @@
 "All Workspaces" = "所有工作区";
 "Workspaces" = "工作区";
 "Folders" = "文件夹";
-"Organize with workspaces" = "用工作区整理";
 "No folders in this workspace. Long-press a folder to move it here, or create one." = "此工作区中没有文件夹。长按文件夹可将其移到这里，或新建一个。";
 "Create a workspace to organize folders." = "创建一个工作区来整理文件夹。";
 "Enter a new name for this workspace." = "为此工作区输入新名称。";

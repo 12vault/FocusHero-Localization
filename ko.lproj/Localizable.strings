@@ -1371,7 +1371,6 @@
 "All Workspaces" = "모든 워크스페이스";
 "Workspaces" = "워크스페이스";
 "Folders" = "폴더";
-"Organize with workspaces" = "워크스페이스로 정리하기";
 "No folders in this workspace. Long-press a folder to move it here, or create one." = "이 워크스페이스에 폴더가 없습니다. 폴더를 길게 눌러 여기로 옮기거나 새로 만드세요.";
 "Create a workspace to organize folders." = "폴더를 정리할 워크스페이스를 만듭니다.";
 "Enter a new name for this workspace." = "이 워크스페이스의 새 이름을 입력하세요.";
