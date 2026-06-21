@@ -1323,7 +1323,14 @@
 "Folder name" = "폴더 이름";
 "Create a folder for review cards." = "복습 카드용 폴더를 만듭니다.";
 "folder_name_already_exists" = "이 이름의 폴더가 이미 있습니다.";
+"Update this card or tap Next to append another card to the chain." = "이 카드를 수정하거나 다음을 탭하여 체인에 다른 카드를 추가하세요.";
+"Update this card. Tap Next to append another card to the chain." = "이 카드를 수정하세요. 다음을 탭하여 체인에 다른 카드를 추가하세요.";
 "Update this card without changing its review history." = "복습 기록은 그대로 두고 이 카드를 수정합니다.";
+"This card is linked. Tap Add to save and finish, or Next to chain another." = "이 카드는 연결되었습니다. 추가를 탭하여 저장하고 완료하거나, 다음을 탭하여 다른 카드를 연결하세요.";
+"This card is linked. Tap Add to finish, or Next to chain another." = "이 카드는 연결되었습니다. 추가를 탭하여 완료하거나, 다음을 탭하여 다른 카드를 연결하세요.";
+"Tap Add to save this card and finish." = "추가를 탭하여 이 카드를 저장하고 완료하세요.";
+"Tap Add to finish." = "추가를 탭하여 완료하세요.";
+"Turn one idea into a question and answer card. Fill in front and back, then tap Add." = "하나의 아이디어를 질문과 답변 카드로 만드세요. 앞면과 뒷면을 입력한 다음 추가를 탭하세요.";
 "Turn one idea into a question and answer card." = "하나의 아이디어를 질문과 답변 카드로 만드세요.";
 "Remove from Folder" = "폴더에서 제거";
 "Create Folder" = "폴더 만들기";

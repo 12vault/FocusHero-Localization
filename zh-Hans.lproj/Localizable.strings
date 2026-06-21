@@ -52,7 +52,14 @@
 "Folder name" = "文件夹名称";
 "Create a folder for review cards." = "为复习卡片创建文件夹。";
 "folder_name_already_exists" = "已存在同名文件夹。";
+"Update this card or tap Next to append another card to the chain." = "更新此卡片，或轻点“下一步”向链中添加另一张卡片。";
+"Update this card. Tap Next to append another card to the chain." = "更新此卡片。轻点“下一步”向链中添加另一张卡片。";
 "Update this card without changing its review history." = "更新此卡片，不改变复习历史。";
+"This card is linked. Tap Add to save and finish, or Next to chain another." = "此卡片已链接。轻点“添加”保存并完成，或轻点“下一步”继续链接卡片。";
+"This card is linked. Tap Add to finish, or Next to chain another." = "此卡片已链接。轻点“添加”完成，或轻点“下一步”继续链接卡片。";
+"Tap Add to save this card and finish." = "轻点“添加”保存此卡片并完成。";
+"Tap Add to finish." = "轻点“添加”完成。";
+"Turn one idea into a question and answer card. Fill in front and back, then tap Add." = "把一个想法变成问答卡片。填写正面和背面，然后轻点“添加”。";
 "Turn one idea into a question and answer card." = "把一个想法变成问答卡片。";
 "Remove from Folder" = "从文件夹移除";
 "Create Folder" = "创建文件夹";

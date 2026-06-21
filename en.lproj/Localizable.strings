@@ -52,7 +52,14 @@
 "Folder name" = "Folder name";
 "Create a folder for review cards." = "Create a folder for review cards.";
 "folder_name_already_exists" = "A folder with this name already exists.";
+"Update this card or tap Next to append another card to the chain." = "Update this card or tap Next to append another card to the chain.";
+"Update this card. Tap Next to append another card to the chain." = "Update this card. Tap Next to append another card to the chain.";
 "Update this card without changing its review history." = "Update this card without changing its review history.";
+"This card is linked. Tap Add to save and finish, or Next to chain another." = "This card is linked. Tap Add to save and finish, or Next to chain another.";
+"This card is linked. Tap Add to finish, or Next to chain another." = "This card is linked. Tap Add to finish, or Next to chain another.";
+"Tap Add to save this card and finish." = "Tap Add to save this card and finish.";
+"Tap Add to finish." = "Tap Add to finish.";
+"Turn one idea into a question and answer card. Fill in front and back, then tap Add." = "Turn one idea into a question and answer card. Fill in front and back, then tap Add.";
 "Turn one idea into a question and answer card." = "Turn one idea into a question and answer card.";
 "Turn one idea into a question and answer card. Tap Add to keep adding." = "Turn one idea into a question and answer card. Tap Add to keep adding.";
 "Tap Add to save another card, or Done when you are finished." = "Tap Add to save another card, or Done when you are finished.";

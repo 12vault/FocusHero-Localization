@@ -52,7 +52,14 @@
 "Folder name" = "Название папки";
 "Create a folder for review cards." = "Создайте папку для карточек повторения.";
 "folder_name_already_exists" = "Папка с таким именем уже существует.";
+"Update this card or tap Next to append another card to the chain." = "Обновите эту карточку или нажмите «Далее», чтобы добавить в цепочку ещё одну.";
+"Update this card. Tap Next to append another card to the chain." = "Обновите эту карточку. Нажмите «Далее», чтобы добавить в цепочку ещё одну карточку.";
 "Update this card without changing its review history." = "Обновите карточку, не меняя историю повторений.";
+"This card is linked. Tap Add to save and finish, or Next to chain another." = "Эта карточка связана. Нажмите «Добавить», чтобы сохранить и завершить, или «Далее», чтобы связать ещё одну.";
+"This card is linked. Tap Add to finish, or Next to chain another." = "Эта карточка связана. Нажмите «Добавить», чтобы завершить, или «Далее», чтобы связать ещё одну.";
+"Tap Add to save this card and finish." = "Нажмите «Добавить», чтобы сохранить эту карточку и завершить.";
+"Tap Add to finish." = "Нажмите «Добавить», чтобы завершить.";
+"Turn one idea into a question and answer card. Fill in front and back, then tap Add." = "Превратите одну идею в карточку с вопросом и ответом. Заполните лицевую и оборотную стороны, затем нажмите «Добавить».";
 "Turn one idea into a question and answer card." = "Превратите одну идею в карточку с вопросом и ответом.";
 "Remove from Folder" = "Убрать из папки";
 "Create Folder" = "Создать папку";

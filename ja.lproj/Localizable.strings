@@ -52,7 +52,14 @@
 "Folder name" = "フォルダ名";
 "Create a folder for review cards." = "復習カード用のフォルダを作成します。";
 "folder_name_already_exists" = "この名前のフォルダはすでに存在します。";
+"Update this card or tap Next to append another card to the chain." = "このカードを更新するか、「次へ」をタップしてチェーンに別のカードを追加します。";
+"Update this card. Tap Next to append another card to the chain." = "このカードを更新します。「次へ」をタップすると、チェーンに別のカードを追加できます。";
 "Update this card without changing its review history." = "復習履歴を変えずにこのカードを更新します。";
+"This card is linked. Tap Add to save and finish, or Next to chain another." = "このカードは連結済みです。「追加」をタップして保存・完了するか、「次へ」で別のカードをつなげます。";
+"This card is linked. Tap Add to finish, or Next to chain another." = "このカードは連結済みです。「追加」をタップして完了するか、「次へ」で別のカードをつなげます。";
+"Tap Add to save this card and finish." = "「追加」をタップしてこのカードを保存し、完了します。";
+"Tap Add to finish." = "「追加」をタップして完了します。";
+"Turn one idea into a question and answer card. Fill in front and back, then tap Add." = "1つのアイデアを質問と回答のカードにします。表面と裏面を入力し、「追加」をタップします。";
 "Turn one idea into a question and answer card." = "1つのアイデアを質問と回答のカードにします。";
 "Remove from Folder" = "フォルダから削除";
 "Create Folder" = "フォルダを作成";

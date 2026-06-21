@@ -52,7 +52,14 @@
 "Folder name" = "Tên thư mục";
 "Create a folder for review cards." = "Tạo thư mục cho thẻ ôn tập.";
 "folder_name_already_exists" = "Một thư mục có tên này đã tồn tại.";
+"Update this card or tap Next to append another card to the chain." = "Cập nhật thẻ này hoặc nhấn Tiếp để thêm một thẻ khác vào chuỗi.";
+"Update this card. Tap Next to append another card to the chain." = "Cập nhật thẻ này. Nhấn Tiếp để thêm một thẻ khác vào chuỗi.";
 "Update this card without changing its review history." = "Cập nhật thẻ này mà không thay đổi lịch sử ôn tập.";
+"This card is linked. Tap Add to save and finish, or Next to chain another." = "Thẻ này đã được liên kết. Nhấn Thêm để lưu và hoàn tất, hoặc Tiếp để nối thêm thẻ khác.";
+"This card is linked. Tap Add to finish, or Next to chain another." = "Thẻ này đã được liên kết. Nhấn Thêm để hoàn tất, hoặc Tiếp để nối thêm thẻ khác.";
+"Tap Add to save this card and finish." = "Nhấn Thêm để lưu thẻ này và hoàn tất.";
+"Tap Add to finish." = "Nhấn Thêm để hoàn tất.";
+"Turn one idea into a question and answer card. Fill in front and back, then tap Add." = "Biến một ý tưởng thành thẻ hỏi đáp. Điền mặt trước và mặt sau, sau đó nhấn Thêm.";
 "Turn one idea into a question and answer card." = "Biến một ý tưởng thành một thẻ câu hỏi và câu trả lời.";
 "Turn one idea into a question and answer card. Tap Add to keep adding." = "Biến một ý tưởng thành một thẻ câu hỏi và câu trả lời. Nhấn vào Thêm để tiếp tục thêm.";
 "Tap Add to save another card, or Done when you are finished." = "Nhấn vào Thêm để lưu một thẻ khác hoặc Nhấn vào Xong khi bạn hoàn tất.";

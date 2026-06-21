@@ -52,7 +52,14 @@
 "Folder name" = "Nombre de carpeta";
 "Create a folder for review cards." = "Crea una carpeta para tarjetas de repaso.";
 "folder_name_already_exists" = "Ya existe una carpeta con este nombre.";
+"Update this card or tap Next to append another card to the chain." = "Actualiza esta tarjeta o toca Siguiente para añadir otra tarjeta a la cadena.";
+"Update this card. Tap Next to append another card to the chain." = "Actualiza esta tarjeta. Toca Siguiente para añadir otra tarjeta a la cadena.";
 "Update this card without changing its review history." = "Actualiza esta tarjeta sin cambiar su historial de repaso.";
+"This card is linked. Tap Add to save and finish, or Next to chain another." = "Esta tarjeta está enlazada. Toca Añadir para guardar y terminar, o Siguiente para encadenar otra.";
+"This card is linked. Tap Add to finish, or Next to chain another." = "Esta tarjeta está enlazada. Toca Añadir para terminar, o Siguiente para encadenar otra.";
+"Tap Add to save this card and finish." = "Toca Añadir para guardar esta tarjeta y terminar.";
+"Tap Add to finish." = "Toca Añadir para terminar.";
+"Turn one idea into a question and answer card. Fill in front and back, then tap Add." = "Convierte una idea en una tarjeta de pregunta y respuesta. Completa el anverso y el reverso y toca Añadir.";
 "Turn one idea into a question and answer card." = "Convierte una idea en una tarjeta de pregunta y respuesta.";
 "Remove from Folder" = "Quitar de la carpeta";
 "Create Folder" = "Crear carpeta";
