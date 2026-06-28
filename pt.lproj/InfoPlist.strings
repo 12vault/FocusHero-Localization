@@ -1,0 +1,4 @@
+"CFBundleDisplayName" = "FocusHero";
+"NSAlarmKitUsageDescription" = "O FocusHero usa alarmes para avisar quando as sessões de foco e pausas terminam, mesmo no modo silencioso ou durante o Foco.";
+"NSLocalNetworkUsageDescription" = "O FocusHero usa a sua rede local para manter o início, o término e a redefinição do temporizador sincronizados entre dispositivos próximos.";
+"NSUserTrackingUsageDescription" = "Isso nos ajuda a entender quais campanhas trouxeram você até aqui e a melhorar a sua experiência.";

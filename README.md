@@ -13,6 +13,7 @@ This repository contains translations for:
 - `es`
 - `ja`
 - `ko`
+- `pt`
 - `ru`
 - `vi`
 - `zh-Hans`
@@ -24,6 +25,7 @@ en.lproj/
 es.lproj/
 ja.lproj/
 ko.lproj/
+pt.lproj/
 ru.lproj/
 vi.lproj/
 zh-Hans.lproj/
