@@ -967,7 +967,7 @@
 "theory_flow_lead_5" = "今日ですべてをやり切る必要はありません。";
 "theory_flow_body_5" = "必要なのは、また戻ってくることです。\nFocusHeroは、大切なものを育てる時間を守るお手伝いをします。";
 "theory_flow_footnote" = "専門的パフォーマンス研究に着想を得ています。「1万時間」は固定的な法則ではなく、モチベーションのための見方です。";
-"theory_flow_primary_cta" = "1万時間を投じる";
+"theory_flow_primary_cta" = "投資する";
 
 // MARK: - Calculating Review
 "calculating_step1" = "計算中";
@@ -1530,3 +1530,32 @@
 "reset_edited_levels" = "編集済みレベルをリセット";
 "reset_all_edited_levels" = "すべての編集済みレベルをリセット";
 "reset_level_accessibility_format" = "レベル%dをリセット";
+
+// Main Screen Tutorial
+"main_tutorial_tag_eyebrow" = "タグ";
+"main_tutorial_tag_title" = "このセッションを何に積み上げるか選ぶ";
+"main_tutorial_tag_body" = "タグは集中ブロックを旅ごとに分けます。勉強、仕事、習慣、プロジェクトの進捗が正しい場所に積み上がります。";
+"main_tutorial_shield_eyebrow" = "シールド";
+"main_tutorial_shield_title" = "集中を邪魔から守る";
+"main_tutorial_shield_body" = "シールドはアプリブロックを開きます。一度設定すれば、集中セッション中にFocusHeroが邪魔なアプリを隠せます。";
+"main_tutorial_anki_eyebrow" = "Anki";
+"main_tutorial_anki_title" = "Anki式レビュー";
+"main_tutorial_anki_body" = "ここからレビューカードを開き、期限の内容を学習して、練習した旅と知識をつなげておけます。";
+"main_tutorial_todo_eyebrow" = "Todo";
+"main_tutorial_todo_title" = "次の行動を近くに置く";
+"main_tutorial_todo_body" = "Todoはセッションを具体的にします。小さな次の一歩を追加してチェックし、曖昧な努力を避けましょう。";
+"main_tutorial_habits_eyebrow" = "習慣";
+"main_tutorial_habits_title" = "継続が積み上がる様子を見る";
+"main_tutorial_habits_body" = "習慣トラッカーはセッションの裏にあるパターンを示します。勢い、空白、定着するルーティンを確認できます。";
+"main_tutorial_analytics_eyebrow" = "分析";
+"main_tutorial_analytics_title" = "集中のシグナルを読む";
+"main_tutorial_analytics_body" = "分析では今日の時間と深い傾向を確認できます。旅を比較したりセッションを見直したい時に使えます。";
+"main_tutorial_hero_level_eyebrow" = "ヒーローレベル";
+"main_tutorial_hero_level_title" = "熟達を見える形にする";
+"main_tutorial_hero_level_body" = "ヒーローレベルは積み上げた集中を進捗に変えます。各旅は個別にレベルアップします。";
+"main_tutorial_step_count_format" = "%d/%d";
+"main_tutorial_start_focusing" = "集中を始める";
+"main_tutorial_skip_accessibility" = "チュートリアルをスキップ";
+"main_tutorial_previous_accessibility" = "前のチュートリアル手順";
+"main_tutorial_next_accessibility" = "次のチュートリアル手順";
+"main_tutorial_finish_accessibility" = "チュートリアルを完了";

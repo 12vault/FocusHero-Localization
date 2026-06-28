@@ -267,7 +267,7 @@
 "theory_flow_lead_5" = "오늘 모든 여정을 끝낼 필요는 없습니다.";
 "theory_flow_body_5" = "다시 돌아오기만 하면 됩니다.\nFocusHero는 중요한 것을 쌓아 가는 시간을 지켜 줍니다.";
 "theory_flow_footnote" = "전문가 수행 연구에서 영감을 받았습니다. 1만 시간은 고정된 법칙이 아니라 동기를 주는 관점입니다.";
-"theory_flow_primary_cta" = "1만 시간을 투자하세요";
+"theory_flow_primary_cta" = "투자하세요";
 
 // MARK: - Calculating Review
 "calculating_step1" = "계산 중";
@@ -1459,3 +1459,32 @@
 "Update this card. It stays part of its chain." = "이 카드를 업데이트합니다. 연결의 일부로 유지됩니다.";
 "+%d" = "+%d";
 "+%d older" = "이전 %d개";
+
+// Main Screen Tutorial
+"main_tutorial_tag_eyebrow" = "태그";
+"main_tutorial_tag_title" = "이 세션이 어디에 쌓일지 선택하세요";
+"main_tutorial_tag_body" = "태그는 집중 블록을 여정별로 나눕니다. 공부, 클라이언트 작업, 습관, 프로젝트의 진행도가 알맞은 곳에 쌓입니다.";
+"main_tutorial_shield_eyebrow" = "실드";
+"main_tutorial_shield_title" = "방해 요소로부터 집중을 지키세요";
+"main_tutorial_shield_body" = "실드는 앱 차단을 엽니다. 한 번 설정하면 FocusHero가 집중 세션 동안 방해 앱을 숨길 수 있습니다.";
+"main_tutorial_anki_eyebrow" = "Anki";
+"main_tutorial_anki_title" = "Anki 스타일 복습";
+"main_tutorial_anki_body" = "여기서 복습 카드를 열어 오늘 볼 내용을 공부하고, 연습한 여정과 지식을 연결해 두세요.";
+"main_tutorial_todo_eyebrow" = "투두";
+"main_tutorial_todo_title" = "다음 행동을 가까이에 두세요";
+"main_tutorial_todo_body" = "투두는 세션을 구체적으로 만듭니다. 작은 다음 단계를 추가하고 체크해 막연한 노력을 피하세요.";
+"main_tutorial_habits_eyebrow" = "습관";
+"main_tutorial_habits_title" = "일관성이 쌓이는 모습을 보세요";
+"main_tutorial_habits_body" = "습관 트래커는 세션 뒤의 패턴을 보여줍니다. 추진력, 빈틈, 오래가는 루틴을 확인하세요.";
+"main_tutorial_analytics_eyebrow" = "분석";
+"main_tutorial_analytics_title" = "집중 신호를 읽으세요";
+"main_tutorial_analytics_body" = "분석은 오늘의 시간과 더 깊은 추세를 보여줍니다. 여정을 비교하거나 세션을 살펴볼 때 유용합니다.";
+"main_tutorial_hero_level_eyebrow" = "히어로 레벨";
+"main_tutorial_hero_level_title" = "숙련이 보이게 만드세요";
+"main_tutorial_hero_level_body" = "히어로 레벨은 누적된 집중을 성장으로 바꿉니다. 각 여정은 따로 레벨업합니다.";
+"main_tutorial_step_count_format" = "%d/%d";
+"main_tutorial_start_focusing" = "집중 시작";
+"main_tutorial_skip_accessibility" = "튜토리얼 건너뛰기";
+"main_tutorial_previous_accessibility" = "이전 튜토리얼 단계";
+"main_tutorial_next_accessibility" = "다음 튜토리얼 단계";
+"main_tutorial_finish_accessibility" = "튜토리얼 완료";

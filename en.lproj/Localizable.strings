@@ -970,7 +970,7 @@
 "theory_flow_lead_5" = "You do not need to complete the journey today.";
 "theory_flow_body_5" = "You only need to return to it.\nFocusHero helps you protect the time that builds what matters.";
 "theory_flow_footnote" = "Inspired by research on expert performance. The 10,000-hour idea is a motivational perspective, not a fixed rule.";
-"theory_flow_primary_cta" = "Invest 10,000 Hours";
+"theory_flow_primary_cta" = "Invest";
 
 // MARK: - Calculating Review
 "calculating_step1" = "Calculating";
@@ -1533,3 +1533,32 @@
 "reset_edited_levels" = "Reset edited levels";
 "reset_all_edited_levels" = "Reset All Edited Levels";
 "reset_level_accessibility_format" = "Reset level %d";
+
+// Main Screen Tutorial
+"main_tutorial_tag_eyebrow" = "Tag";
+"main_tutorial_tag_title" = "Choose what this session counts toward";
+"main_tutorial_tag_body" = "Tags separate focus blocks into Journeys, so study, client work, habits, and projects all build progress in the right place.";
+"main_tutorial_shield_eyebrow" = "Shield";
+"main_tutorial_shield_title" = "Protect focus from distractions";
+"main_tutorial_shield_body" = "The shield opens app blocking. Set it up once, then FocusHero can hide distracting apps during focus sessions.";
+"main_tutorial_anki_eyebrow" = "Anki";
+"main_tutorial_anki_title" = "Anki-style Review";
+"main_tutorial_anki_body" = "Open review cards from here to study what is due and keep knowledge connected to the Journey you practiced.";
+"main_tutorial_todo_eyebrow" = "Todo";
+"main_tutorial_todo_title" = "Keep the next action close";
+"main_tutorial_todo_body" = "Todos keep a session concrete. Add a small next step, check it off, and avoid vague effort.";
+"main_tutorial_habits_eyebrow" = "Habits";
+"main_tutorial_habits_title" = "See consistency compound";
+"main_tutorial_habits_body" = "Habit tracker shows the pattern behind your sessions, including momentum, gaps, and routines that stick.";
+"main_tutorial_analytics_eyebrow" = "Analytics";
+"main_tutorial_analytics_title" = "Read your focus signal";
+"main_tutorial_analytics_body" = "Analytics shows time today and deeper trends when you want to compare Journeys or inspect sessions.";
+"main_tutorial_hero_level_eyebrow" = "Hero Level";
+"main_tutorial_hero_level_title" = "Watch mastery become visible";
+"main_tutorial_hero_level_body" = "Hero level turns accumulated focus into progress. Each Journey levels independently.";
+"main_tutorial_step_count_format" = "%d of %d";
+"main_tutorial_start_focusing" = "Start focusing";
+"main_tutorial_skip_accessibility" = "Skip tutorial";
+"main_tutorial_previous_accessibility" = "Previous tutorial step";
+"main_tutorial_next_accessibility" = "Next tutorial step";
+"main_tutorial_finish_accessibility" = "Finish tutorial";

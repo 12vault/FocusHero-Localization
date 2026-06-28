@@ -945,7 +945,7 @@
 "theory_flow_lead_5" = "Вам не нужно пройти весь путь сегодня.";
 "theory_flow_body_5" = "Нужно лишь вернуться к нему снова.\nFocusHero помогает беречь время, которое строит важное.";
 "theory_flow_footnote" = "Вдохновлено исследованиями экспертной производительности. Идея 10 000 часов — это мотивационная перспектива, а не жёсткое правило.";
-"theory_flow_primary_cta" = "Инвестировать 10 000 часов";
+"theory_flow_primary_cta" = "Инвестировать";
 
 // MARK: - Calculating Review
 "calculating_step1" = "Рассчитываем";
@@ -1508,3 +1508,32 @@
 "reset_edited_levels" = "Сбросить измененные уровни";
 "reset_all_edited_levels" = "Сбросить все измененные уровни";
 "reset_level_accessibility_format" = "Сбросить уровень %d";
+
+// Main Screen Tutorial
+"main_tutorial_tag_eyebrow" = "Тег";
+"main_tutorial_tag_title" = "Выберите, куда засчитать эту сессию";
+"main_tutorial_tag_body" = "Теги разделяют фокус-блоки по путям, чтобы учеба, работа с клиентами, привычки и проекты копили прогресс в нужном месте.";
+"main_tutorial_shield_eyebrow" = "Щит";
+"main_tutorial_shield_title" = "Защитите фокус от отвлечений";
+"main_tutorial_shield_body" = "Щит открывает блокировку приложений. Настройте один раз, и FocusHero сможет скрывать отвлекающие приложения во время фокус-сессий.";
+"main_tutorial_anki_eyebrow" = "Anki";
+"main_tutorial_anki_title" = "Повторение в стиле Anki";
+"main_tutorial_anki_body" = "Открывайте карточки повторения отсюда, чтобы учить то, что пора повторить, и связывать знания с путем, который вы практиковали.";
+"main_tutorial_todo_eyebrow" = "Задача";
+"main_tutorial_todo_title" = "Держите следующий шаг рядом";
+"main_tutorial_todo_body" = "Задачи делают сессию конкретной. Добавьте маленький следующий шаг, отметьте его и избегайте расплывчатых усилий.";
+"main_tutorial_habits_eyebrow" = "Привычки";
+"main_tutorial_habits_title" = "Смотрите, как накапливается постоянство";
+"main_tutorial_habits_body" = "Трекер привычек показывает паттерн за вашими сессиями: импульс, пробелы и рутины, которые закрепляются.";
+"main_tutorial_analytics_eyebrow" = "Аналитика";
+"main_tutorial_analytics_title" = "Читайте сигнал фокуса";
+"main_tutorial_analytics_body" = "Аналитика показывает время за сегодня и более глубокие тренды, когда нужно сравнить пути или изучить сессии.";
+"main_tutorial_hero_level_eyebrow" = "Уровень героя";
+"main_tutorial_hero_level_title" = "Сделайте мастерство видимым";
+"main_tutorial_hero_level_body" = "Уровень героя превращает накопленный фокус в прогресс. Каждый путь повышает уровень отдельно.";
+"main_tutorial_step_count_format" = "%d из %d";
+"main_tutorial_start_focusing" = "Начать фокус";
+"main_tutorial_skip_accessibility" = "Пропустить обучение";
+"main_tutorial_previous_accessibility" = "Предыдущий шаг обучения";
+"main_tutorial_next_accessibility" = "Следующий шаг обучения";
+"main_tutorial_finish_accessibility" = "Завершить обучение";

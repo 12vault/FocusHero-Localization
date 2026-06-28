@@ -967,7 +967,7 @@
 "theory_flow_lead_5" = "你不需要今天就走完整段旅程。";
 "theory_flow_body_5" = "你只需要愿意再次回来。\nFocusHero 帮你守住那些能积累重要成果的时间。";
 "theory_flow_footnote" = "灵感来自专家表现研究。10,000 小时更像一种激励视角，而不是固定规则。";
-"theory_flow_primary_cta" = "投入一万小时";
+"theory_flow_primary_cta" = "投入";
 
 // MARK: - Calculating Review
 "calculating_step1" = "正在计算";
@@ -1530,3 +1530,32 @@
 "reset_edited_levels" = "重置已编辑等级";
 "reset_all_edited_levels" = "重置所有已编辑等级";
 "reset_level_accessibility_format" = "重置等级 %d";
+
+// Main Screen Tutorial
+"main_tutorial_tag_eyebrow" = "标签";
+"main_tutorial_tag_title" = "选择本次专注计入哪里";
+"main_tutorial_tag_body" = "标签会把专注块分到不同旅程，让学习、客户工作、习惯和项目的进度都落在正确位置。";
+"main_tutorial_shield_eyebrow" = "护盾";
+"main_tutorial_shield_title" = "保护专注，远离干扰";
+"main_tutorial_shield_body" = "护盾会打开应用屏蔽。设置一次后，FocusHero 就能在专注时段隐藏分心应用。";
+"main_tutorial_anki_eyebrow" = "Anki";
+"main_tutorial_anki_title" = "Anki 式复习";
+"main_tutorial_anki_body" = "从这里打开复习卡片，学习到期内容，并让知识与练习过的旅程保持连接。";
+"main_tutorial_todo_eyebrow" = "待办";
+"main_tutorial_todo_title" = "把下一步放在手边";
+"main_tutorial_todo_body" = "待办让每次专注更具体。添加一个小步骤，完成后勾选，避免模糊用力。";
+"main_tutorial_habits_eyebrow" = "习惯";
+"main_tutorial_habits_title" = "看见坚持如何累积";
+"main_tutorial_habits_body" = "习惯追踪器展示专注背后的模式，包括动力、间隔和能坚持下来的日常。";
+"main_tutorial_analytics_eyebrow" = "分析";
+"main_tutorial_analytics_title" = "读懂你的专注信号";
+"main_tutorial_analytics_body" = "分析会显示今日时间和更深层趋势，方便你比较旅程或查看专注记录。";
+"main_tutorial_hero_level_eyebrow" = "英雄等级";
+"main_tutorial_hero_level_title" = "让精进变得可见";
+"main_tutorial_hero_level_body" = "英雄等级把累计专注转化为进度。每个旅程都会独立升级。";
+"main_tutorial_step_count_format" = "%d/%d";
+"main_tutorial_start_focusing" = "开始专注";
+"main_tutorial_skip_accessibility" = "跳过教程";
+"main_tutorial_previous_accessibility" = "上一个教程步骤";
+"main_tutorial_next_accessibility" = "下一个教程步骤";
+"main_tutorial_finish_accessibility" = "完成教程";

@@ -966,7 +966,7 @@
 "theory_flow_lead_5" = "No necesitas completar el viaje hoy.";
 "theory_flow_body_5" = "Solo necesitas volver a él.\nFocusHero te ayuda a proteger el tiempo que construye lo que importa.";
 "theory_flow_footnote" = "Inspirado en la investigación sobre el rendimiento experto. La idea de las 10.000 horas es una perspectiva motivadora, no una regla fija.";
-"theory_flow_primary_cta" = "Invierte 10.000 horas";
+"theory_flow_primary_cta" = "Invierte";
 
 // MARK: - Calculating Review
 "calculating_step1" = "Calculando";
@@ -1529,3 +1529,32 @@
 "reset_edited_levels" = "Restablecer niveles editados";
 "reset_all_edited_levels" = "Restablecer todos los niveles editados";
 "reset_level_accessibility_format" = "Restablecer nivel %d";
+
+// Main Screen Tutorial
+"main_tutorial_tag_eyebrow" = "Etiqueta";
+"main_tutorial_tag_title" = "Elige a qué cuenta esta sesión";
+"main_tutorial_tag_body" = "Las etiquetas separan los bloques de enfoque en viajes, para que estudio, clientes, hábitos y proyectos acumulen progreso en el lugar correcto.";
+"main_tutorial_shield_eyebrow" = "Escudo";
+"main_tutorial_shield_title" = "Protege tu enfoque de distracciones";
+"main_tutorial_shield_body" = "El escudo abre el bloqueo de apps. Configúralo una vez y FocusHero podrá ocultar apps distractoras durante las sesiones.";
+"main_tutorial_anki_eyebrow" = "Anki";
+"main_tutorial_anki_title" = "Repaso estilo Anki";
+"main_tutorial_anki_body" = "Abre tarjetas de repaso desde aquí para estudiar lo pendiente y mantener el conocimiento conectado con el viaje que practicaste.";
+"main_tutorial_todo_eyebrow" = "Tarea";
+"main_tutorial_todo_title" = "Ten cerca la siguiente acción";
+"main_tutorial_todo_body" = "Las tareas hacen que una sesión sea concreta. Añade un pequeño paso, márcalo y evita el esfuerzo vago.";
+"main_tutorial_habits_eyebrow" = "Hábitos";
+"main_tutorial_habits_title" = "Mira cómo crece la constancia";
+"main_tutorial_habits_body" = "El rastreador de hábitos muestra el patrón detrás de tus sesiones, incluyendo impulso, huecos y rutinas que se mantienen.";
+"main_tutorial_analytics_eyebrow" = "Análisis";
+"main_tutorial_analytics_title" = "Lee tu señal de enfoque";
+"main_tutorial_analytics_body" = "Análisis muestra el tiempo de hoy y tendencias más profundas cuando quieres comparar viajes o revisar sesiones.";
+"main_tutorial_hero_level_eyebrow" = "Nivel de héroe";
+"main_tutorial_hero_level_title" = "Haz visible tu maestría";
+"main_tutorial_hero_level_body" = "El nivel de héroe convierte el enfoque acumulado en progreso. Cada viaje sube de nivel de forma independiente.";
+"main_tutorial_step_count_format" = "%d de %d";
+"main_tutorial_start_focusing" = "Empezar a enfocarme";
+"main_tutorial_skip_accessibility" = "Omitir tutorial";
+"main_tutorial_previous_accessibility" = "Paso anterior del tutorial";
+"main_tutorial_next_accessibility" = "Siguiente paso del tutorial";
+"main_tutorial_finish_accessibility" = "Finalizar tutorial";

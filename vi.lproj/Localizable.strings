@@ -967,7 +967,7 @@
 "theory_flow_lead_5" = "Bạn không cần phải hoàn thành cuộc hành trình ngày hôm nay.";
 "theory_flow_body_5" = "Bạn chỉ cần quay lại với nó.\nFocusHero giúp bạn pro xác định thời gian xây dựng những điều quan trọng.";
 "theory_flow_footnote" = "Lấy cảm hứng từ nghiên cứu về hiệu suất của chuyên gia. Ý tưởng 10,000 giờ là quan điểm mang tính động lực chứ không phải là một quy tắc cố định.";
-"theory_flow_primary_cta" = "Đầu tư 10,000 giờ";
+"theory_flow_primary_cta" = "Đầu tư";
 
 // MARK: - Calculating Review
 "calculating_step1" = "Tính toán";
@@ -1530,3 +1530,32 @@
 "reset_edited_levels" = "Đặt lại cấp độ đã chỉnh sửa";
 "reset_all_edited_levels" = "Đặt lại tất cả các cấp độ đã chỉnh sửa";
 "reset_level_accessibility_format" = "Đặt lại mức %d";
+
+// Main Screen Tutorial
+"main_tutorial_tag_eyebrow" = "Thẻ";
+"main_tutorial_tag_title" = "Chọn phiên này được tính vào đâu";
+"main_tutorial_tag_body" = "Thẻ tách các khối tập trung thành từng hành trình, để việc học, khách hàng, thói quen và dự án đều ghi tiến độ đúng chỗ.";
+"main_tutorial_shield_eyebrow" = "Khiên";
+"main_tutorial_shield_title" = "Bảo vệ sự tập trung khỏi xao nhãng";
+"main_tutorial_shield_body" = "Khiên mở tính năng chặn ứng dụng. Thiết lập một lần, rồi FocusHero có thể ẩn ứng dụng gây xao nhãng trong phiên tập trung.";
+"main_tutorial_anki_eyebrow" = "Anki";
+"main_tutorial_anki_title" = "Ôn tập kiểu Anki";
+"main_tutorial_anki_body" = "Mở thẻ ôn tập từ đây để học nội dung đến hạn và giữ kiến thức gắn với hành trình bạn đã luyện.";
+"main_tutorial_todo_eyebrow" = "Todo";
+"main_tutorial_todo_title" = "Giữ hành động tiếp theo thật gần";
+"main_tutorial_todo_body" = "Todo giúp phiên làm việc cụ thể hơn. Thêm một bước nhỏ, đánh dấu hoàn tất và tránh nỗ lực mơ hồ.";
+"main_tutorial_habits_eyebrow" = "Thói quen";
+"main_tutorial_habits_title" = "Xem sự đều đặn tích lũy";
+"main_tutorial_habits_body" = "Theo dõi thói quen cho thấy mô hình phía sau các phiên, gồm đà tiến, khoảng trống và lịch trình bền vững.";
+"main_tutorial_analytics_eyebrow" = "Phân tích";
+"main_tutorial_analytics_title" = "Đọc tín hiệu tập trung của bạn";
+"main_tutorial_analytics_body" = "Phân tích hiển thị thời gian hôm nay và xu hướng sâu hơn khi bạn muốn so sánh hành trình hoặc xem lại phiên.";
+"main_tutorial_hero_level_eyebrow" = "Cấp anh hùng";
+"main_tutorial_hero_level_title" = "Biến sự thành thạo thành thứ nhìn thấy được";
+"main_tutorial_hero_level_body" = "Cấp anh hùng biến thời gian tập trung tích lũy thành tiến độ. Mỗi hành trình lên cấp riêng.";
+"main_tutorial_step_count_format" = "%d/%d";
+"main_tutorial_start_focusing" = "Bắt đầu tập trung";
+"main_tutorial_skip_accessibility" = "Bỏ qua hướng dẫn";
+"main_tutorial_previous_accessibility" = "Bước hướng dẫn trước";
+"main_tutorial_next_accessibility" = "Bước hướng dẫn tiếp theo";
+"main_tutorial_finish_accessibility" = "Hoàn tất hướng dẫn";
