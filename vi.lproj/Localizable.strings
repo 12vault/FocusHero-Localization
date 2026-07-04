@@ -1547,6 +1547,9 @@
 "main_tutorial_habits_eyebrow" = "Thói quen";
 "main_tutorial_habits_title" = "Xem sự đều đặn tích lũy";
 "main_tutorial_habits_body" = "Theo dõi thói quen cho thấy mô hình phía sau các phiên, gồm đà tiến, khoảng trống và lịch trình bền vững.";
+"main_tutorial_time_since_eyebrow" = "Time Since";
+"main_tutorial_time_since_title" = "Theo dõi điều bạn đang bỏ lại";
+"main_tutorial_time_since_body" = "Time Since cho biết đã bao lâu kể từ một sự kiện, thói quen hoặc điều gây xao nhãng, để chuỗi và lần đặt lại luôn rõ ràng.";
 "main_tutorial_analytics_eyebrow" = "Phân tích";
 "main_tutorial_analytics_title" = "Đọc tín hiệu tập trung của bạn";
 "main_tutorial_analytics_body" = "Phân tích hiển thị thời gian hôm nay và xu hướng sâu hơn khi bạn muốn so sánh hành trình hoặc xem lại phiên.";

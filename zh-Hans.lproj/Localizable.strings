@@ -1547,6 +1547,9 @@
 "main_tutorial_habits_eyebrow" = "习惯";
 "main_tutorial_habits_title" = "看见坚持如何累积";
 "main_tutorial_habits_body" = "习惯追踪器展示专注背后的模式，包括动力、间隔和能坚持下来的日常。";
+"main_tutorial_time_since_eyebrow" = "Time Since";
+"main_tutorial_time_since_title" = "追踪你正在远离的事物";
+"main_tutorial_time_since_body" = "Time Since 会显示距离某个事件、习惯或干扰已经过去多久，让连续记录和重置保持可见。";
 "main_tutorial_analytics_eyebrow" = "分析";
 "main_tutorial_analytics_title" = "读懂你的专注信号";
 "main_tutorial_analytics_body" = "分析会显示今日时间和更深层趋势，方便你比较旅程或查看专注记录。";

@@ -1547,6 +1547,9 @@
 "main_tutorial_habits_eyebrow" = "習慣";
 "main_tutorial_habits_title" = "継続が積み上がる様子を見る";
 "main_tutorial_habits_body" = "習慣トラッカーはセッションの裏にあるパターンを示します。勢い、空白、定着するルーティンを確認できます。";
+"main_tutorial_time_since_eyebrow" = "Time Since";
+"main_tutorial_time_since_title" = "手放しているものを追跡する";
+"main_tutorial_time_since_body" = "Time Sinceは、出来事、習慣、気を散らすものからどれだけ時間が経ったかを表示し、継続やリセットを見える状態にします。";
 "main_tutorial_analytics_eyebrow" = "分析";
 "main_tutorial_analytics_title" = "集中のシグナルを読む";
 "main_tutorial_analytics_body" = "分析では今日の時間と深い傾向を確認できます。旅を比較したりセッションを見直したい時に使えます。";

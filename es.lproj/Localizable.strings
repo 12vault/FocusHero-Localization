@@ -1546,6 +1546,9 @@
 "main_tutorial_habits_eyebrow" = "Hábitos";
 "main_tutorial_habits_title" = "Mira cómo crece la constancia";
 "main_tutorial_habits_body" = "El rastreador de hábitos muestra el patrón detrás de tus sesiones, incluyendo impulso, huecos y rutinas que se mantienen.";
+"main_tutorial_time_since_eyebrow" = "Tiempo desde";
+"main_tutorial_time_since_title" = "Rastrea lo que estás dejando atrás";
+"main_tutorial_time_since_body" = "Tiempo desde muestra cuánto tiempo ha pasado desde un evento, hábito o distracción, para que las rachas y reinicios sigan visibles.";
 "main_tutorial_analytics_eyebrow" = "Análisis";
 "main_tutorial_analytics_title" = "Lee tu señal de enfoque";
 "main_tutorial_analytics_body" = "Análisis muestra el tiempo de hoy y tendencias más profundas cuando quieres comparar viajes o revisar sesiones.";

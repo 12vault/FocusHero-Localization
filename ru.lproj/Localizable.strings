@@ -1525,6 +1525,9 @@
 "main_tutorial_habits_eyebrow" = "Привычки";
 "main_tutorial_habits_title" = "Смотрите, как накапливается постоянство";
 "main_tutorial_habits_body" = "Трекер привычек показывает паттерн за вашими сессиями: импульс, пробелы и рутины, которые закрепляются.";
+"main_tutorial_time_since_eyebrow" = "Время с";
+"main_tutorial_time_since_title" = "Отслеживайте, что оставляете позади";
+"main_tutorial_time_since_body" = "Time Since показывает, сколько времени прошло с события, привычки или отвлечения, чтобы серии и сбросы оставались видимыми.";
 "main_tutorial_analytics_eyebrow" = "Аналитика";
 "main_tutorial_analytics_title" = "Читайте сигнал фокуса";
 "main_tutorial_analytics_body" = "Аналитика показывает время за сегодня и более глубокие тренды, когда нужно сравнить пути или изучить сессии.";

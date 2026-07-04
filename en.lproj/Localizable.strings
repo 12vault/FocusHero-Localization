@@ -1550,6 +1550,9 @@
 "main_tutorial_habits_eyebrow" = "Habits";
 "main_tutorial_habits_title" = "See consistency compound";
 "main_tutorial_habits_body" = "Habit tracker shows the pattern behind your sessions, including momentum, gaps, and routines that stick.";
+"main_tutorial_time_since_eyebrow" = "Time Since";
+"main_tutorial_time_since_title" = "Track what you are leaving behind";
+"main_tutorial_time_since_body" = "Time Since shows how long it has been since an event, habit, or distraction, so streaks and resets stay visible.";
 "main_tutorial_analytics_eyebrow" = "Analytics";
 "main_tutorial_analytics_title" = "Read your focus signal";
 "main_tutorial_analytics_body" = "Analytics shows time today and deeper trends when you want to compare Journeys or inspect sessions.";

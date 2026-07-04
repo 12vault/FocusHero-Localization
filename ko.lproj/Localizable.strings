@@ -1476,6 +1476,9 @@
 "main_tutorial_habits_eyebrow" = "습관";
 "main_tutorial_habits_title" = "일관성이 쌓이는 모습을 보세요";
 "main_tutorial_habits_body" = "습관 트래커는 세션 뒤의 패턴을 보여줍니다. 추진력, 빈틈, 오래가는 루틴을 확인하세요.";
+"main_tutorial_time_since_eyebrow" = "지난 시간";
+"main_tutorial_time_since_title" = "멀리하고 있는 것을 추적하세요";
+"main_tutorial_time_since_body" = "Time Since는 이벤트, 습관, 방해 요소 이후 얼마나 지났는지 보여주어 연속 기록과 리셋을 계속 확인할 수 있게 합니다.";
 "main_tutorial_analytics_eyebrow" = "분석";
 "main_tutorial_analytics_title" = "집중 신호를 읽으세요";
 "main_tutorial_analytics_body" = "분석은 오늘의 시간과 더 깊은 추세를 보여줍니다. 여정을 비교하거나 세션을 살펴볼 때 유용합니다.";
