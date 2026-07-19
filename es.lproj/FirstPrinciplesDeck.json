@@ -1,0 +1,1507 @@
+{
+  "deckID": "first-principles",
+  "version": 1,
+  "workspaceName": "Primeros principios",
+  "folders": [
+    {
+      "name": "Primeros principios 1",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "Locales y una conclusión.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas premisas proporcionan razones o pruebas; la conclusión es lo que esas razones están destinadas a apoyar.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Al evaluar el asesoramiento, primero identificar las razones de apoyo y la acción que se recomienda.",
+              "front": "¿Cuáles son las dos partes básicas de un argumento?"
+            },
+            {
+              "back": "¿Son creíbles los locales y sigue la conclusión?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos verdaderos locales pueden soportar un razonamiento débil, mientras que la estructura válida puede comenzar desde falsos locales.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: No aceptar una reclamación simplemente porque cada frase en su interior suena plausible.",
+              "front": "¿Qué dos preguntas prueban un argumento?"
+            },
+            {
+              "back": "Una suposición no declarada necesaria para que la conclusión funcione.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos argumentos dependen a menudo de valores o creencias que nunca fueron defendidos abiertamente.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: La afirmación 'no tomar el trabajo porque paga menos' supone que el salario debe dominar cada otro factor.",
+              "front": "¿Qué es un**premisa oculta**?"
+            },
+            {
+              "back": "Algo sin el cual el resultado no puede ocurrir.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna condición necesaria debe estar presente, pero puede que no sea suficiente por sí misma.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Pregunte si un plan puede tener éxito sin un documento, habilidad, recurso o permiso requerido.",
+              "front": "¿Qué es un**condición necesaria**?"
+            },
+            {
+              "back": "Algo que garantiza el resultado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna condición suficiente es suficiente por sí misma en las condiciones establecidas.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: No confunda 'esto puede causar el resultado' con 'esto siempre garantiza el resultado'.",
+              "front": "¿Qué es un**condición suficiente**?"
+            },
+            {
+              "back": "Porque B puede tener causas distintas de A.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nObservar el efecto no identifica una causa única.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un camino húmedo no prueba lluvia porque los aspersores o la limpieza también podrían explicarlo.",
+              "front": "¿Por qué es 'Si A entonces B; B; por lo tanto A' inválido?"
+            },
+            {
+              "back": "Un auténtico contraejemplo lo refuta.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna declaración que contiene 'todo', 'siempre', o 'nunca' no permite excepciones.\n\n[[FH_REAL_WORLD]]Aplicación en el mundo real: Para probar 'los productos económicos son siempre mejores', encuentra un producto más barato que funciona mejor.",
+              "front": "¿Qué hace un contraejemplo a una reclamación universal?"
+            }
+          ],
+          "title": "Argumentos y lógicas"
+        },
+        {
+          "cards": [
+            {
+              "back": "Algo tratado como verdad sin confirmación completa.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas asunciones son inevitables, pero se vuelven peligrosas cuando se olvidan o se ocultan.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Marcar tiempos de viaje inciertos, comportamiento del cliente y demanda futura como hipótesis en un plan.",
+              "front": "¿Qué es una suposición?"
+            },
+            {
+              "back": "¿Qué debe ser verdad para que esta conclusión tenga sentido?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa pregunta revela el puente que conecta las pruebas a la conclusión.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Para 'el restaurante está vacío, por lo que la comida es mala', inspeccione la suposición de que los buenos restaurantes están ocupados ahora.",
+              "front": "¿Qué pregunta expone una suposición oculta?"
+            },
+            {
+              "back": "Hipótesis factuales, causales, de valor, conductuales y de estabilidad.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas diferentes suposiciones necesitan diferentes pruebas porque reclaman cosas diferentes.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un plan puede suponer que una tienda está abierta, la publicidad causa demanda, los precios más importantes, los clientes eligen barato, y mañana se asemeja hoy.",
+              "front": "¿Cuáles son cinco tipos comunes de suposiciones?"
+            },
+            {
+              "back": "Una creencia incierta cuyo fracaso podría colapsar el plan.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos supuestos críticos merecen pruebas anteriores que detalles menores.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de planear un gran evento, prueba si suficiente gente realmente quiere asistir.",
+              "front": "¿Qué es un**hipótesis crítica**?"
+            },
+            {
+              "back": "Se cree una hipótesis; debe respetarse una limitación.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna hipótesis puede ser errónea, mientras que una limitación define lo que es actualmente posible o aceptable.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Tratar 'el viaje toma una hora' como una suposición y 'arrive antes de las 6 p.m.' como una limitación.",
+              "front": "¿Cómo difiere una suposición de una limitación?"
+            },
+            {
+              "back": "¿Qué lo apoya? ¿Qué lo contradice? ¿Con qué confianza estoy? ¿Y si está mal? ¿Puedo probarlo barato? ¿El plan puede sobrevivir sin él?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEstas preguntas conectan la incertidumbre con la acción y la resiliencia.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Úsalos antes de comprometer dinero, tiempo o reputación a una creencia no verificada.",
+              "front": "¿Qué seis preguntas prueban una suposición?"
+            },
+            {
+              "back": "La suposición opuesta revela alternativas ocultas por el encuadre original.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa inversión no prueba lo contrario; expande el espacio de búsqueda.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Inversa 'la gente quiere más opciones' para considerar si menos opciones más claras podrían funcionar mejor.",
+              "front": "¿Por qué revertir una suposición?"
+            }
+          ],
+          "title": "Sumas"
+        },
+        {
+          "cards": [
+            {
+              "back": "Dos cosas pueden moverse juntas sin una causando la otra.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa relación puede implicar la causación inversa, una tercera variable o coincidencia.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Cuando el uso del café y el estrés se levantan juntos, considere si el estrés causa el uso del café u otro factor causa ambos.",
+              "front": "¿Por qué la correlación no causa?"
+            },
+            {
+              "back": "A causa B, B causa A, o un tercer factor causa ambos.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEstas alternativas impiden historias causales prematuras.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Cuando la propiedad de libros y el rendimiento escolar se correlacionan, considere los ingresos familiares, la participación de los padres y la educación.",
+              "front": "¿Qué tres explicaciones causales deben revisarse cuando se asocian A y B?"
+            },
+            {
+              "back": "Los eventos anteriores pueden preceder a eventos posteriores sin producirlos.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa mente naturalmente convierte la secuencia en una historia, pero el tiempo es sólo un requisito causal.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Usar una camisa de suerte antes de una victoria no muestra que la camisa causó el resultado.",
+              "front": "¿Por qué la secuencia por sí sola no demuestra causación?"
+            },
+            {
+              "back": "Varios factores que contribuyen pueden combinarse para producir un resultado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nBuscar una causa puede ocultar influencias y vulnerabilidades de interacción.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El fracaso del examen puede implicar un sueño pobre, fundaciones débiles, ansiedad y práctica insuficiente al mismo tiempo.",
+              "front": "¿Por qué los resultados complejos a menudo tienen múltiples causas?"
+            },
+            {
+              "back": "Un factor que cambia la probabilidad de un resultado sin garantizarlo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa mayoría de las causas cotidianas son probabilistas más que suficientes.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Tratar la pérdida del sueño como un contribuyente a la mala concentración, no prueba de que cada persona cansada actuará mal.",
+              "front": "¿Qué es un**causa**?"
+            },
+            {
+              "back": "Explica los pasos intermedios que conectan causa y efecto.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn mecanismo hace posibles predicciones y revela dónde podría fracasar el proceso.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: En lugar de decir estrés reduce el rendimiento, identifica efectos sobre el sueño, la atención y la memoria de trabajo.",
+              "front": "¿Por qué un mecanismo fortalece una reclamación causal?"
+            },
+            {
+              "back": "Experimentos, grupos comparables, patrones repetidos, orden de tiempo correcto, un mecanismo y alternativas descartadas.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nNingún artículo solo siempre demuestra causación, pero varios soportes independientes crean un caso más fuerte.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de acreditar una política de trabajo para una mayor productividad, compruebe qué más cambió al mismo tiempo.",
+              "front": "¿Qué evidencia fortalece una conclusión causal?"
+            }
+          ],
+          "title": "Causación"
+        },
+        {
+          "cards": [
+            {
+              "back": "Una condición que la solución debe respetar.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna limitación real elimina algunas soluciones posibles.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una alergia severa es una restricción de comida dura, no una preferencia negociable.",
+              "front": "¿Qué es un**limitación**?"
+            },
+            {
+              "back": "Una condición deseable pero negociable.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas preferencias influyen en la elección sin eliminar necesariamente una opción.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un vuelo directo puede ser preferido, mientras que la llegada antes de que se requiera un plazo.",
+              "front": "¿Qué es un**preferencia**?"
+            },
+            {
+              "back": "Algo que puede tomar diferentes valores o ser cambiado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas variables crean el espacio de diseño para posibles soluciones.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Tiempo de viaje, precio, duración y frecuencia se puede ajustar.",
+              "front": "¿Qué es un**variable**?"
+            },
+            {
+              "back": "¿Qué evidencia muestra que esto está realmente arreglado?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos hábitos, las tradiciones y las expectativas se disfrazan a menudo como necesidades.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Desafío 'la reunión debe ser el viernes porque siempre es' antes de descartar otros días.",
+              "front": "¿Qué pregunta distingue una verdadera limitación de una falsa?"
+            },
+            {
+              "back": "Una restricción difícil no puede ser violada; una restricción suave puede ser negociada.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEsta distinción impide que las opciones viables sean rechazadas innecesariamente.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: perder un tiempo de cierre de la puerta puede ser inaceptable, mientras que cambiar los trenes sólo puede ser inconveniente.",
+              "front": "¿Cómo difieren las restricciones duras y suaves?"
+            },
+            {
+              "back": "La limitación actualmente impide nuevos progresos.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nMejorar los factores no vinculantes produce poco efecto hasta que el límite activo cambie.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Si el mal entendimiento bloquea el estudio, añadir más tiempo de estudio puede no ayudar.",
+              "front": "¿Qué es un**limitación vinculante**?"
+            },
+            {
+              "back": "Se revela qué parte del problema crea cada limitación.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa eliminación temporal amplía las opciones sin pretender que la limitación real desapareció.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Pregunte qué haría con más tiempo, más presupuesto o ningún límite de ubicación, a continuación, ver si la relajación parcial es posible.",
+              "front": "¿Por qué relajar una restricción a la vez en la imaginación?"
+            },
+            {
+              "back": "Consume esfuerzos sin mejorar materialmente el resultado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl componente visible más grande no es siempre el límite activo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Ahorrar dos minutos de un pequeño paso importa poco si una etapa de 45 minutos domina el viaje.",
+              "front": "¿Por qué evitar la optimización de una no restricción?"
+            }
+          ],
+          "title": "Limitaciones y variables"
+        },
+        {
+          "cards": [
+            {
+              "back": "Una reclamación general es falsa o falta de condiciones.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos contraexampos perfeccionan las reglas exponiendo dónde dejan de aplicar.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Use la sobrecarga de elección para desafiar 'más elección es siempre mejor'.",
+              "front": "¿Qué revela un contraejemplo?"
+            },
+            {
+              "back": "Un contraejemplo derrota una reclamación universal pero no una reclamación que permite excepciones.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas afirmaciones probabilísticas requieren evidencia sobre la frecuencia, no sólo una excepción.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una lesión del ejercicio refuta 'ejercicio siempre ayuda' pero no 'el ejercicio adecuado generalmente ayuda'.",
+              "front": "¿Cómo afecta de manera diferente a las afirmaciones universales y probabilistas?"
+            },
+            {
+              "back": "Dos afirmaciones que no pueden ser ciertas en el mismo sentido, tiempo y condiciones.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas contradicciones aparentes pueden desaparecer después de aclarar definiciones o contexto.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El ejercicio puede ser beneficioso generalmente y dañino cuando es excesivo sin contradicción.",
+              "front": "¿Qué es un**contradicción**?"
+            },
+            {
+              "back": "Pregunte si se acepta el mismo razonamiento cuando se revierten los roles o las partes.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nExpone normas selectivas y sesgo basado en la identidad.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: ¿Apoyarías el mismo poder si un líder oponente lo utilizase?",
+              "front": "¿Cuál es la prueba de inversión?"
+            },
+            {
+              "back": "Reemplazar identidades cargadas emocionalmente preservando la estructura.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn principio debe sobrevivir cambios en quién se beneficia.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Aplicar la justificación de un grupo a un grupo que desconfias y comprobar si todavía parece válido.",
+              "front": "¿Cuál es la prueba de sustitución?"
+            },
+            {
+              "back": "Assuming a claim and tracing it to an absurd or contradictory result.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas consecuencias extremas pueden revelar límites perdidos en un principio.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Prueba 'nunca interfieren con las elecciones de nadie' contra un daño serio inmediato.",
+              "front": "¿Qué es reductio ad absurdum?"
+            },
+            {
+              "back": "Ellos revelan suposiciones ocultas cerca del límite de una regla.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna rara excepción puede refinar una regla sin hacerlo inútil para los casos ordinarios.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Compruebe cómo funciona una regla orientada al adulto para niños, emergencias o escala extrema.",
+              "front": "¿Por qué son útiles los casos de borde?"
+            },
+            {
+              "back": "La versión más fuerte razonable de una vista contraria.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nProbar contra una alternativa seria produce mejor razonamiento que atacar una caricatura débil.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de rechazar un crítico de políticas, declara su mejor preocupación por la eficacia o el daño.",
+              "front": "¿Qué es un hombre de acero?"
+            },
+            {
+              "back": "Una versión débil distorsionada de otra posición.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nCrea una victoria fácil sin abordar el verdadero reclamo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: No convierta 'reducir gasto innecesario' en 'eliminar todo confort'.",
+              "front": "¿Qué es un hombre de paja?"
+            },
+            {
+              "back": "Aclarar términos, añadir condiciones, reclamaciones estrechas, principios de rango o reducir la confianza.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa contradicción es información diagnóstica donde el modelo necesita trabajo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Reconcile aceptación y auto-mejoramiento separando la dignidad actual de la aprobación de cada comportamiento.",
+              "front": "¿Cómo se pueden resolver las contradicciones?"
+            }
+          ],
+          "title": "Contraexamplos y contradicciones"
+        }
+      ]
+    },
+    {
+      "name": "Primeros principios 2",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "¿Sé lo suficiente para elegir responsablemente?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas buenas decisiones manejan la incertidumbre en lugar de exigir su eliminación completa.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de elegir un trabajo, identificar los desconocidos esenciales en lugar de investigar indefinidamente.",
+              "front": "¿Cuál es la pregunta correcta cuando la información perfecta es imposible?"
+            },
+            {
+              "back": "Reunirlo consume tiempo, dinero, atención y oportunidad.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl siguiente hecho es útil sólo si su valor excede su costo de adquisición.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: No pasar cinco horas comparando productos económicos para una pequeña mejora esperada.",
+              "front": "¿Por qué la información tiene un costo?"
+            },
+            {
+              "back": "Delay preserva el estado actual y puede crear sus propios costos.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas oportunidades pueden desaparecer mientras los problemas existentes continúan.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Esperar seis meses para el curso perfecto puede costar seis meses de aprendizaje.",
+              "front": "¿Por qué no decidir todavía una decisión?"
+            },
+            {
+              "back": "Algunas incertidumbres sólo pueden reducirse a través de la experiencia o una pequeña prueba.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa acción controlada puede enseñar más que el pensamiento abstracto adicional.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Pruebe una lección, visita, conversación o breve rutina antes de comprometerse completamente.",
+              "front": "¿Por qué la acción puede crear información?"
+            },
+            {
+              "back": "Mover más rápido cuando la corrección es fácil y más lento cuando la inversión es costosa.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl esfuerzo de análisis debe escalar con desventaja e irreversibilidad.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Pruebe un nuevo horario rápidamente pero investigue cirugía importante cuidadosamente.",
+              "front": "¿Cómo debe afectar la reversibilidad a la velocidad de decisión?"
+            },
+            {
+              "back": "Pregunte qué sucede si la decisión está mal.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa gravedad, la recuperabilidad y la pérdida de opciones futuras importan tanto como la desventaja.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de asumir un riesgo financiero, pregunte si la pérdida amenazaría las necesidades esenciales.",
+              "front": "¿Qué es lo que**prueba de abajo**?"
+            },
+            {
+              "back": "Evite los riesgos que eliminan su capacidad de continuar y aprender.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nMuchas pequeñas fallas son recuperables; la ruina es diferente.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Protege la salud, los ahorros esenciales, la confianza y la seguridad jurídica antes de perseguir ganancias adicionales.",
+              "front": "¿Cuál es el principio de supervivencia?"
+            },
+            {
+              "back": "El valor de preservar la capacidad de elegir más adelante.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos compromisos flexibles y escalonados son valiosos cuando la incertidumbre es elevada.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Alquiler antes de comprar o probar un curso corto antes de inscribirse a largo plazo.",
+              "front": "Qué es**Valor de opción**?"
+            },
+            {
+              "back": "El compromiso más pequeño que produce pruebas útiles.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl compromiso debe crecer con evidencia en lugar de liderarlo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Coloque un pequeño pedido antes de elegir un proveedor para un contrato grande.",
+              "front": "¿Cuál es el compromiso mínimo necesario?"
+            },
+            {
+              "back": "Imaginando que una decisión falló y enumerando causas plausibles.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nProspective hindsight expone riesgos que el optimismo ordinario pierde.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de un viaje en grupo, imagina el presupuesto de fallas y cheques, documentos, expectativas y reservas.",
+              "front": "¿Qué es un premortem?"
+            },
+            {
+              "back": "Un coste pasado que no se puede recuperar.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas opciones futuras deben compararse con el presente futuro.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: No continuar un camino inadecuado solamente porque años o dinero ya se invirtieron.",
+              "front": "¿Qué es un costo de hundido?"
+            },
+            {
+              "back": "Invertir más en una opción que no justifica la inversión anterior.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa identidad, la vergüenza y el costo hundido pueden convertir un pequeño error en uno grande.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Establecer criterios de revisión antes de comenzar así que detener no se interpreta como fracaso personal.",
+              "front": "¿Qué es la escalada del compromiso?"
+            },
+            {
+              "back": "Una condición predefinida para terminar la búsqueda, la prueba o la inversión.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nParar las reglas evitan la continuación indefinida impulsada por la emoción o pequeños costos incrementales.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Deje de investigar después de varias opciones adecuadas o detenga una prueba si el dolor aparece.",
+              "front": "¿Qué es una regla de parada?"
+            },
+            {
+              "back": "Elegir una opción que cumple con criterios importantes en lugar de buscar lo mejor absoluto.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl costo de búsqueda restante puede exceder el valor de una opción marginalmente mejor.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Elija un hotel que sea seguro, limpio, asequible y lo suficientemente cerca en lugar de comparar cada hotel.",
+              "front": "Qué es**satisfizo**?"
+            },
+            {
+              "back": "Conserva lo que fue conocido, asumido y valorado antes del resultado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna revista de decisión reduce la reescritura y el sesgo de resultados.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Compara el razonamiento original con el resultado para mejorar la calibración.",
+              "front": "¿Por qué registrar decisiones importantes?"
+            }
+          ],
+          "title": "Decisiones en virtud de la incertidumbre"
+        },
+        {
+          "cards": [
+            {
+              "back": "Romper un problema complejo en partes más pequeñas significativas.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nReduce la carga mental y facilita la inspección de causas, dependencias y acciones.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Reemplazar 'Soy malo con dinero' con ingresos, costos fijos, costos variables, deuda y ahorros.",
+              "front": "Qué es**descomposición**?"
+            },
+            {
+              "back": "Los diferentes resultados requieren diferentes categorías y soluciones.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna declaración de problemas sólo es útil en relación con lo que significa el éxito.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una habitación desordenada puede ser descompuesta de forma diferente para la higiene, comodidad o encontrar artículos rápidamente.",
+              "front": "¿Por qué definir el resultado deseado antes de descomponer?"
+            },
+            {
+              "back": "Las partes interactúan, por lo que las correcciones separadas pueden crear efectos secundarios a nivel de todo el sistema.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa descomposición sin reconexión se vuelve excesiva.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Mejorar el sueño cortando horas de trabajo puede crear estrés financiero que daña el sueño de nuevo.",
+              "front": "¿Por qué la descomposición debe ser seguida por la recomposición?"
+            },
+            {
+              "back": "Los insumos entran en un proceso que produce salidas.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa mala producción puede provenir de insumos débiles, un proceso roto, o ambos.\n\n[[FH DIAGRAM]] Diagrama:\n`mermaid\nGráfico LR\nInputs[Inputs] -- título Proceso[Proceso]\nProceso: Productos[Productos]\n`\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Para aprender, inspeccionar tiempo y conocimientos previos, método de estudio y recordar más adelante.",
+              "front": "¿Cuál es el modelo de procesamiento de entrada?"
+            },
+            {
+              "back": "Algo que debe suceder antes de que otra parte pueda tener éxito.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nIgnorar las dependencias causa esfuerzo en pasos que aún no pueden funcionar.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Construir conocimiento fundacional antes de intentar material que lo requiera.",
+              "front": "¿Qué es un**dependencia**?"
+            },
+            {
+              "back": "Cada categoría requiere una respuesta diferente.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa acción directa se ajusta a factores controlables, la persuasión se ajusta a factores influenciables, y la adaptación se ajusta a los incontrolables.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Controle su preparación, influir en las decisiones del grupo y adaptarse al clima.",
+              "front": "¿Por qué factores controlables, influenciables e incontrolables separados?"
+            },
+            {
+              "back": "La parte más estrecha que se puede observar, probar o mejorar significativamente.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos problemas más pequeños hacen posible la acción y la retroalimentación sin pretender que toda la cuestión se resuelve.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Reemplazar 'mi vida es desorganizada' con 'Perdono mis llaves tres veces a la semana'.",
+              "front": "¿Qué es lo que**pequeño problema útil**?"
+            },
+            {
+              "back": "Deben minimizar la superposición y cubrir todo lo importante.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas categorías superpuestas confunden el análisis; las categorías desaparecidas ocultan causas.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un desglose de gastos debe evitar costes de restaurante de doble cuenta e incluir categorías importantes.",
+              "front": "¿Qué hace que las categorías sean útiles en una descomposición?"
+            },
+            {
+              "back": "Un mapa de un resultado visible a posibles causas de contribución.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nOrganiza hipótesis sin tratar ninguna rama como probada.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Para el agotamiento, sucursal en recuperación, carga de trabajo, salud, nutrición y medio ambiente.",
+              "front": "¿Qué es un árbol problemático?"
+            },
+            {
+              "back": "Cambiar todo a la vez hace difícil aprender lo que importa.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas pruebas de limpieza producen mejor información causal.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Cuando una planta no es saludable, no cambie simultáneamente agua, luz, suelo y fertilizante.",
+              "front": "¿Por qué las ramas de prueba uno a uno cuando sea posible?"
+            }
+          ],
+          "title": "Decomposición"
+        },
+        {
+          "cards": [
+            {
+              "back": "Diferentes significados pueden producir un falso desacuerdo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas palabras como 'saludable', 'seguro' y 'su éxito' son demasiado amplias hasta que se especifique su significado.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de debatir si un vecindario es seguro, decidir si la seguridad significa crimen violento, tráfico, iluminación o algo más.",
+              "front": "¿Por qué definir términos importantes antes del razonamiento?"
+            },
+            {
+              "back": "Una definición declarada mediante criterios observables o mensurables.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nExplica cómo se reconocerá en la práctica un concepto.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Definir \"al empleado confiable\" a través de comportamientos como cumplir los plazos y comunicar los retrasos temprano.",
+              "front": "¿Qué es un**definición operacional**?"
+            },
+            {
+              "back": "Puede renombrar el comportamiento sin revelar su causa.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLlamar a alguien 'perez' puede ser circular si la única evidencia es que evitan una tarea.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: En lugar de culpar la pereza, comprobar claridad, habilidad, fatiga, miedo, incentivos y valor de tarea.",
+              "front": "¿Por qué una etiqueta no es automáticamente una explicación?"
+            },
+            {
+              "back": "¿Qué incluye? ¿Qué excluye? ¿Cómo se reconoce? ¿Cómo se mide? ¿Podrían otros significar algo diferente?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEstas preguntas convierten una palabra flexible en un concepto utilizable.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Úsalos antes de establecer una meta como 'ser más productiva' o 'comprar algo de alta calidad'.",
+              "front": "¿Qué cinco preguntas mejoran una definición vaga?"
+            },
+            {
+              "back": "Convertirlo en un resultado observable con límites.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa precisión hace que el progreso sea factible y expone desacuerdos ocultos.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Reemplazar 'utiliza mi tiempo mejor' con un resultado claro, como terminar tres tareas prioritarias antes de las 15.00 horas.",
+              "front": "¿Cómo debería mejorarse un objetivo vago?"
+            }
+          ],
+          "title": "Definiciones y Precisión"
+        },
+        {
+          "cards": [
+            {
+              "back": "Reducir un problema a los fundamentos fiables, luego construir hacia arriba.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl método comienza por lo que la realidad requiere más que la respuesta existente.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de copiar un método de estudio estándar, deriva uno de memoria, retroalimentación y transferencia.",
+              "front": "¿Cuál es el acto central del razonamiento de los primeros principios?"
+            },
+            {
+              "back": "Copias de Analogía de un caso similar; los primeros principios se derivan de hechos y limitaciones básicas.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl analógico es eficiente pero puede fallar cuando las condiciones pertinentes difieren.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Use la política de otro país sólo después de comprobar el mecanismo y contexto compartidos.",
+              "front": "¿Cómo difiere la analogía del razonamiento de los primeros principios?"
+            },
+            {
+              "back": "Es fiable, pertinente y difícil reducir aún más el problema.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas creencias y convenciones familiares no son automáticamente fundamentales.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El tiempo y la atención limitados son hechos de inicio más fuertes que \"el trabajo serio requiere largas horas\".",
+              "front": "¿Qué hace un principio útil?"
+            },
+            {
+              "back": "Muestra qué parte del razonamiento podría fallar.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas conclusiones heredan incertidumbre de supuestos y errores de la lógica.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: A partir de las 24 horas, las necesidades de sueño asumidas y los compromisos fijos, obtienen un tiempo realista disponible.",
+              "front": "¿Por qué hechos separados, supuestos y conclusiones derivadas?"
+            },
+            {
+              "back": "Cuando los hechos restantes son suficientemente fiables, relevantes, compartidos y factibles.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa reducción infinita puede ser filosóficamente interesante pero prácticamente inútil.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Pare una vez que la fundación sea suficiente para elegir una comida, ruta o plan.",
+              "front": "¿Cuándo debería repetir 'por qué' cuestionar parar?"
+            },
+            {
+              "back": "Romper una solución en los trabajos que debe realizar.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas funciones revelan alternativas ocultas por el objeto o método actual.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: La función de una tabla puede ser una superficie de trabajo estable, que puede ser entregada por varios diseños.",
+              "front": "¿Qué es la descomposición funcional?"
+            },
+            {
+              "back": "La solución más simple que satisface las funciones y limitaciones esenciales.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nCada componente adicional debe justificar su costo y riesgo de fracaso.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Confirme cinco invitados con un mensaje claro en lugar de construir un sistema de registro.",
+              "front": "¿Cuál es la solución mínima suficiente?"
+            },
+            {
+              "back": "Ellos revelan lo que debe existir antes de que el éxito sea posible.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas características familiares que no son necesarias pueden ser removidas o reemplazadas.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una discusión productiva requiere comunicación e información, no necesariamente una gran habitación.",
+              "front": "¿Por qué derivarse de las condiciones necesarias?"
+            },
+            {
+              "back": "Diferentes combinaciones suficientes pueden producir el mismo resultado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl razonamiento de los primeros principios crea un espacio de solución válido en lugar de una respuesta obligatoria.\n\n[[FH_REAL_WORLD]]Aplicación en el mundo real: El fitness puede provenir de caminatas, deportes, natación o entrenamiento de gimnasio cuando estén presentes los mecanismos necesarios.",
+              "front": "¿Por qué varias soluciones pueden satisfacer los mismos fundamentos?"
+            },
+            {
+              "back": "Una conclusión derivada puede ser reconstruida y adaptada.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa memorización almacena la respuesta sin garantizar la comprensión de las relaciones.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Si se olvida una fórmula, reconstruirla de unidades y definiciones.",
+              "front": "¿Por qué la derivación es más fuerte que la memorización?"
+            },
+            {
+              "back": "Ellos revelan si los insumos pueden producir lógicamente la salida reclamada.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn mecanismo perdido no puede ser reparado agregando más de la entrada incorrecta.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Más actividad no produce automáticamente progreso, así como unidades incompatibles no forman una cantidad válida.",
+              "front": "¿Por qué inspeccionar unidades o dimensiones?"
+            },
+            {
+              "back": "Límites sobre lo que es teóricamente posible.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas libras evitan la planificación detallada alrededor de las expectativas imposibles.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un viaje de 100 kilómetros a un máximo de 100 kilómetros por hora no puede tardar menos de una hora.",
+              "front": "¿Qué proporcionan los límites inferiores y superiores?"
+            },
+            {
+              "back": "Algo que debe seguir siendo verdad a través de posibles soluciones.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos invariantes simplifican un problema identificando qué cambio no puede alterar.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un saldo de cuenta de cambios de transferencia al dejar la cantidad combinada sin cambios, excluyendo los honorarios.",
+              "front": "¿Qué es un**invariante**?"
+            },
+            {
+              "back": "Definir los resultados, eliminar la solución actual, enumerar los hechos, identificar las dificultades difíciles, determinar las funciones, encontrar mecanismos, generar alternativas, estimar la viabilidad, establecer hipótesis de prueba, comparar las compensaciones.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa secuencia se reconstruye de la realidad en lugar de la convención.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Úsalo para rediseñar sistemas de comunicación, transporte, aprendizaje o hogar.",
+              "front": "¿Qué proceso de reconstrucción de diez pasos se propuso?"
+            }
+          ],
+          "title": "Partiendo de los primeros principios"
+        }
+      ]
+    },
+    {
+      "name": "Primeros principios 3",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "Una afirmación sobre cómo es el mundo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nPuede ser investigado a través de observación, registros, mediciones o experimentos.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Si un viaje lleva 40 minutos es una pregunta fáctica.",
+              "front": "¿Qué es una reclamación descriptiva?"
+            },
+            {
+              "back": "Una afirmación sobre cómo debe ser el mundo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nDepende de metas, valores, derechos o normas.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Si 40 minutos es demasiado largo depende de qué asuntos y qué alternativas existen.",
+              "front": "¿Qué es una reclamación normativa?"
+            },
+            {
+              "back": "Los hechos por sí solos no determinan lógicamente qué debe hacerse.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna recomendación necesita una premisa de valor adicional.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: La competencia existente en la naturaleza no prueba que la sociedad debe maximizar la competencia.",
+              "front": "¿Cuál es la brecha de pensamiento?"
+            },
+            {
+              "back": "Una creencia no declarada sobre lo que debe importar o tomar prioridad.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nConecta evidencia descriptiva a una conclusión normativa.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Llamar a un programa caro indigno supone un costo supera sus beneficios o deberes.",
+              "front": "¿Qué es una premisa de valor oculta?"
+            },
+            {
+              "back": "Los valores eligen metas; los hechos muestran qué métodos pueden alcanzarlos.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas buenas intenciones no pueden sustituir las pruebas sobre las consecuencias.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Para reducir la falta de vivienda, aclarar el objetivo moral y la prueba que las intervenciones realmente funcionan.",
+              "front": "¿Cómo funcionan los valores y hechos juntos?"
+            },
+            {
+              "back": "Una preferencia es un gusto, un valor es algo importante, y una acción de guías de principios.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nConfundirlos puede hacer que el gusto personal suene como un deber universal.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Preferir el té es diferente de valorar la salud o seguir un principio de mantenimiento de la promesa.",
+              "front": "¿Cómo difieren las preferencias, los valores y los principios?"
+            },
+            {
+              "back": "El valor instrumental ayuda a producir otro fin; el valor intrínseco se valora por sí mismo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa distinción revela si se puede sustituir un método.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El dinero suele ser instrumental para la seguridad, la libertad, la comodidad o el estado.",
+              "front": "¿Cuál es la diferencia entre el valor instrumental e intrínseco?"
+            },
+            {
+              "back": "Los valores pueden realmente entrar en conflicto.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa libertad, la seguridad, la honestidad, la bondad, la igualdad y la lealtad pueden apuntar en diferentes direcciones.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una política de privacidad puede requerir elegir cuánto aumento de seguridad justifica la reducción de la privacidad.",
+              "front": "¿Por qué las decisiones difíciles a menudo permanecen después de que se conozcan los hechos?"
+            },
+            {
+              "back": "Una regla para la cual el valor tiene prioridad en condiciones específicas.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nSin una jerarquía, los principios pueden contradecirse en casos difíciles.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Prevenir un daño grave puede anular una promesa ordinaria.",
+              "front": "¿Qué es una jerarquía de valor?"
+            },
+            {
+              "back": "La equidad tiene varias normas, como la igualdad, la necesidad, la contribución, el esfuerzo, la oportunidad, el procedimiento y la indemnización.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn resultado puede ser justo bajo un estándar e injusto bajo otro.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de debatir la distribución, estado que principio de equidad se está utilizando.",
+              "front": "¿Por qué persisten los desacuerdos de equidad?"
+            },
+            {
+              "back": "Las buenas intenciones no garantizan buenos resultados, y los malos resultados no prueban mala intención.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa responsabilidad depende de la intención, conocimiento, control, previsibilidad y precauciones.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Juzgue por qué se tomó una decisión y qué riesgos eran razonablemente conocidos.",
+              "front": "¿Por qué las intenciones separadas de los resultados?"
+            },
+            {
+              "back": "Un sí formal no puede ser libremente elegido cuando la negativa conlleva graves consecuencias.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl consentimiento requiere información, comprensión, capacidad y una capacidad genuina de rechazar.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Examinar los acuerdos empleador-empleado o arrendatario para poder de negociación desigual.",
+              "front": "¿Cómo afecta el poder al consentimiento significativo?"
+            },
+            {
+              "back": "Presentar un juicio de valor como un hecho objetivo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nPalabras como 'malo', 'normal' y 'respetable' a menudo ocultan estándares.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Pregunte 'bad por qué criterio?' antes de aceptar un juicio cultural o personal.",
+              "front": "¿Qué es la falsa factualización?"
+            },
+            {
+              "back": "Tratar cada reclamación como opinión incluso cuando la evidencia pueda decidirlo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos valores importan, pero los hechos todavía limitan la acción y la creencia.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Si un puente soporta una carga no es meramente una cuestión de preferencia.",
+              "front": "¿Qué es el falso relativismo?"
+            },
+            {
+              "back": "Los desacuerdos de hecho necesitan mejores pruebas; los desacuerdos de valor necesitan prioridades más claras y compensaciones.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nMás datos no pueden resolver un conflicto que es fundamentalmente sobre lo que debe importar.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: En un debate por carretera, los costos separados y las predicciones de tráfico de juicios sobre desplazamiento y crecimiento.",
+              "front": "¿Cómo requieren respuestas diferentes los desacuerdos de hecho y valor?"
+            }
+          ],
+          "title": "Hechos y valores"
+        },
+        {
+          "cards": [
+            {
+              "back": "Física, lógica, institucional y convencional.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa categoría determina si una limitación debe ser respetada, negociada, rediseñado o cuestionada.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un límite material difiere de una ley, y una ley difiere de un hábito laboral.",
+              "front": "¿Qué cuatro categorías de limitación se identificaron?"
+            },
+            {
+              "back": "Una limitación fundamental proviene de la realidad o la lógica; una regla heredada proviene de un sistema, costumbre o hábito.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas reglas humanas pueden ser importantes sin ser leyes de la naturaleza.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Pregunte si un procedimiento es físicamente necesario o simplemente cómo funciona la organización actualmente.",
+              "front": "¿Qué distingue una limitación fundamental de una regla heredada?"
+            },
+            {
+              "back": "Las reglas son generalmente métodos para lograr objetivos más profundos.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl propósito puede ser preservado a través de una forma diferente.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una regla de oficina puede apuntar a la comunicación, la seguridad o la supervisión en lugar de la propia presencia física.",
+              "front": "¿Por qué preguntar qué propósito sirve una regla?"
+            },
+            {
+              "back": "Las opciones anteriores hacen que las alternativas posteriores sean más costosas o difíciles.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn sistema actual puede existir porque la historia construida alrededor de ella, no porque sea ideal.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una ubicación de la estación forma carreteras, negocios y vivienda mucho después de la decisión original.",
+              "front": "¿Qué es la dependencia del camino en las instituciones?"
+            },
+            {
+              "back": "Las convenciones compartidas crean coordinación.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nSu valor puede provenir de adopción común en lugar de superioridad inherente.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Conducir en un lado acordado del camino es útil incluso si el lado elegido es arbitrario.",
+              "front": "¿Por qué una convención arbitraria todavía puede ser útil?"
+            },
+            {
+              "back": "Falta de habilidad, recursos, permiso, voluntad, confianza o coste aceptable.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos diferentes significados requieren soluciones diferentes.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Clarify si alguien no puede asistir, no puede permitirse, o simplemente no quiere.",
+              "front": "¿Qué puedo significar además de la imposibilidad?"
+            },
+            {
+              "back": "La imposibilidad absoluta no puede ocurrir; la imposibilidad condicional no puede ocurrir en las condiciones actuales.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl cambio de tiempo, presupuesto, método o permiso puede cambiar un límite condicional.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Reemplazar 'esto no puede hacerse' con 'no con el actual plazo y los recursos'.",
+              "front": "¿Cómo difiere la imposibilidad absoluta y condicional?"
+            },
+            {
+              "back": "Trading un recurso escaso para otro.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas soluciones varían dependiendo de si el tiempo, dinero, habilidad, espacio o soporte está disponible.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Use tiempo para reparar en lugar de dinero para reemplazar, o dinero para ahorrar tiempo.",
+              "front": "¿Qué es la sustitución restrictiva?"
+            },
+            {
+              "back": "Usar una limitación para dar forma a una ventaja útil.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna limitación puede fomentar la priorización, la simplicidad o el diseño creativo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El espacio limitado puede llevar a menos posesiones y muebles multiusos.",
+              "front": "¿Qué es la inversión limitada?"
+            },
+            {
+              "back": "Las reglas distribuyen costos y ventajas desigualmente.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos incentivos y el poder pueden explicar por qué persiste un sistema oneroso.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un proceso complejo de aplicación puede proteger la calidad o también reducir la competencia.",
+              "front": "¿Por qué preguntar quién se beneficia de una regla?"
+            },
+            {
+              "back": "Comprende por qué existe una regla antes de eliminarla.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna restricción visible puede proteger contra un peligro oculto.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Prueba un reemplazo para una reunión recurrente sólo después de identificar la necesidad de coordinación que sirve.",
+              "front": "¿Cuál es la valla de Chesterton?"
+            },
+            {
+              "back": "Produce evidencia al limitar la desventaja.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos sistemas se adaptan cuando las reglas cambian, por lo que las consecuencias pueden ser inesperadas.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Acortar o reducir una reunión por un mes antes de cancelarla permanentemente.",
+              "front": "¿Por qué utilizar una prueba reversible antes de eliminar una regla?"
+            }
+          ],
+          "title": "Fundamentos fundamentales y heredados"
+        },
+        {
+          "cards": [
+            {
+              "back": "Una conclusión no más amplia que la evidencia apoya.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nThe size and scope of the claim should match the observed cases and conditions.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una mala visita de restaurante apoya una conclusión sobre esa visita, no toda una ciudad.",
+              "front": "¿Qué requiere la generalización proporcional?"
+            },
+            {
+              "back": "Las reclamaciones universales no permiten excepciones y requieren pruebas excepcionalmente sólidas.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn contraejemplo válido derrota una declaración universal.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Reemplazar 'la gente nunca cambia' con una afirmación más estrecha que especifica las condiciones y la frecuencia.",
+              "front": "¿Por qué las palabras como 'siempre' y 'todos' disparan precaución?"
+            },
+            {
+              "back": "Se observa una muestra; una población es el grupo más grande que se infiere.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa generalización depende de si la muestra representa a la población objetivo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una encuesta de 500 residentes es útil sólo si los encuestados se asemejan a la ciudad que se describe.",
+              "front": "¿Cuál es la diferencia entre una muestra y una población?"
+            },
+            {
+              "back": "Una muestra es sistemáticamente diferente de la población de interés.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl tamaño de la muestra grande no puede reparar un proceso de selección parcial.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una encuesta en línea sobre el uso de Internet puede subrepresentar a las personas que rara vez van en línea.",
+              "front": "Qué es**sesgo de selección**?"
+            },
+            {
+              "back": "La atención se limita a los éxitos visibles mientras que los fracasos desaparecen de la vista.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEstudiar solamente sobrevivientes esconde cuántos utilizaron la misma estrategia y fracasaron.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: No infiere que ignorar el consejo causa éxito de personas famosas que lo hicieron.",
+              "front": "Qué es**sesgo de supervivencia**?"
+            },
+            {
+              "back": "Que algo puede pasar, no con qué frecuencia sucede.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas anécdotas son útiles para la generación de posibilidades e hipótesis pero débiles para la frecuencia.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una recuperación inusual no muestra que rechazar el tratamiento es generalmente seguro.",
+              "front": "¿Qué puede establecer una anécdota?"
+            },
+            {
+              "back": "La variación aleatoria tiene una gran influencia en algunas observaciones.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas secuencias cortas a menudo parecen más extremas que el patrón de larga duración.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: No declarar una moneda sesgada después de una pequeña carrera de cabezas.",
+              "front": "¿Por qué son pequeñas muestras inestables?"
+            },
+            {
+              "back": "Pueden ocultar la distribución y la variación individual.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna mejora media no implica que cada participante haya mejorado.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Pregunte cuántos mejoró, por cuánto, y si algunos se hicieron peores.",
+              "front": "¿Por qué los promedios pueden engañar?"
+            },
+            {
+              "back": "Los promedios del grupo describen distribuciones, no todos los miembros.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos miembros cambian de probabilidad en la mayoría de los casos; no describe completamente a una persona.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: No inferir la capacidad o el comportamiento de un individuo de un promedio demográfico.",
+              "front": "¿Por qué las diferencias de grupo no determinan a los individuos?"
+            },
+            {
+              "back": "Predecir fuera del rango o las condiciones ya observadas.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas relaciones pueden ser no lineales o fallar cuando la escala, cantidad, lugar o cambios de tiempo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una pequeña dosis beneficiosa no prueba que una dosis grande es mejor.",
+              "front": "¿Qué es la extrapolación?"
+            },
+            {
+              "back": "La coordinación, la complejidad, los incentivos y los cuellos de botella cambian con tamaño.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn método que funciona para diez personas puede fallar por diez mil.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: La comunicación informal puede funcionar en una familia pero no en una gran organización.",
+              "front": "¿Por qué cambiar una solución?"
+            },
+            {
+              "back": "Un efecto real puede ser demasiado pequeño para justificar su costo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas muestras grandes pueden detectar diminutas diferencias que no importan operacionalmente.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Pregunte si una mejora del 0,2% medida vale la pena implementar.",
+              "front": "¿Por qué distinguir la importancia estadística de la importancia práctica?"
+            },
+            {
+              "back": "Los porcentajes relativos pueden exagerar los pequeños cambios de base.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nAmbas opiniones son matemáticamente válidas pero responden a diferentes preguntas.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un riesgo que cae de 2 en 10.000 a 1 en 10.000 es una reducción relativa del 50% y una reducción absoluta de 1 en 10.000.",
+              "front": "¿Por qué comparar los efectos relativos y absolutos?"
+            },
+            {
+              "back": "Las condiciones en que una conclusión se aplica o deja de aplicarse.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa comprensión madura incluye tanto la regla como sus límites.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El ejercicio puede ayudar a la salud bajo la intensidad y recuperación adecuadas, pero daño durante lesiones graves.",
+              "front": "¿Qué?**Límites**?"
+            }
+          ],
+          "title": "Generalización"
+        },
+        {
+          "cards": [
+            {
+              "back": "Un método es sólo una manera posible de alcanzar el resultado deseado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nConfundir los dos esconde alternativas y crea falsas limitaciones.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: En lugar de asumir que usted necesita un coche, clarifique si el objetivo es confiable de conmutación, carga de artículos, o ahorro de tiempo.",
+              "front": "¿Por qué separar un objetivo de un método?"
+            },
+            {
+              "back": "Un objetivo es el resultado, una estrategia es el enfoque, y una acción es un comportamiento específico.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nMantener estos niveles separados le permite reemplazar una acción sin abandonar el objetivo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Para la salud, el objetivo puede ser fitness, la estrategia más movimiento y la acción a 30 minutos a pie.",
+              "front": "¿Cómo?**objetivo**,**estrategia**, y**acción**¿diferente?"
+            },
+            {
+              "back": "¿Qué resultado estoy tratando de crear?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa pregunta mueve la atención de una solución familiar a la necesidad humana que sirve.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de comprar un hogar más grande, pregunte si la necesidad real es espacio de trabajo tranquilo, almacenamiento, privacidad o estado.",
+              "front": "¿Qué pregunta revela el objetivo más profundo detrás de un método propuesto?"
+            },
+            {
+              "back": "Cuando una medida o método reemplaza el propósito original.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa gente comienza a optimizar el proxy en lugar del resultado que lo hizo útil.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Los recuentos de pasos deben apoyar la salud en lugar de convertirse en una razón para ignorar el dolor o la recuperación.",
+              "front": "Qué es**desplazamiento de objetivos**?"
+            },
+            {
+              "back": "Un objetivo describe lo que quieres; una limitación describe lo que la solución debe respetar.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna buena solución satisface el resultado deseado dentro de los límites difíciles.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Para los viajes en el aeropuerto, el objetivo es llegar a la terminal; presupuesto, equipaje y plazo son limitaciones.",
+              "front": "¿Cómo difieren las metas y las limitaciones?"
+            },
+            {
+              "back": "¿Qué resultado? ¿Por qué? ¿Cómo se reconocerá el éxito? ¿Cuándo? ¿Qué limitaciones? ¿Qué partes son esenciales contra preferidas?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEstas preguntas hacen que el objetivo sea lo suficientemente específico para guiar las opciones.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Uselos antes de elegir un trabajo, rutina, compra o cambio de vida importante.",
+              "front": "¿Qué seis preguntas definen un objetivo útil?"
+            }
+          ],
+          "title": "Objetivos y métodos"
+        }
+      ]
+    },
+    {
+      "name": "Primeros principios 4",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "Resolver el éxito identificando lo que produciría el fracaso.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas condiciones de fracaso son a menudo más fáciles de ver que el camino ideal completo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Mejorar una amistad, enumerar comportamientos que destruyen la confianza y eliminarlos.",
+              "front": "Qué es**inversion**?"
+            },
+            {
+              "back": "Forward reasoning genera las siguientes acciones; el razonamiento atrasado revela requisitos y plazos.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl acuerdo entre ellos aumenta la confianza en el plan.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Planifique el viaje del aeropuerto avanzando desde ahora y hacia atrás desde el cierre de la puerta.",
+              "front": "¿Cómo se complementan los razonamientos hacia adelante y hacia atrás?"
+            },
+            {
+              "back": "Un componente cuyo fracaso colapsa todo el sistema.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa eliminación de la dependencia de un solo punto mejora la resiliencia.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: No deje que una persona tenga la única contraseña o un dispositivo mantenga el único documento.",
+              "front": "¿Qué es un solo punto de fracaso?"
+            },
+            {
+              "back": "Capacidad extra, copias o alternativas más allá de la necesidad normal.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa redundancia parece ineficiente hasta que se produzca una perturbación.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Mantener copias de seguridad, ahorros de emergencia, rutas alternativas y conocimiento compartido.",
+              "front": "¿Qué es la redundancia?"
+            },
+            {
+              "back": "La distancia entre la demanda normal y el límite de fracaso.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nMargin protege contra la incertidumbre, la variación y el error de medición.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Dejar tiempo de viaje, presupuesto y capacidad de carga por debajo de su máximo absoluto.",
+              "front": "¿Qué es un margen de seguridad?"
+            },
+            {
+              "back": "Conocimiento de lo que falla repetidamente o causa daño.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEvitar daños predecibles puede ser más confiable que encontrar la estrategia perfecta.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: La seguridad financiera puede mejorar más evitando una deuda costosa que encontrando una inversión excepcional.",
+              "front": "¿Qué es el conocimiento negativo?"
+            },
+            {
+              "back": "Una base destructiva puede abrumar las mejoras avanzadas.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa prevención suele tener un valor más alto que la mejora marginal.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de buscar hacks de estudio, detenga el cramming de toda la noche y repara los comentarios perdidos.",
+              "front": "¿Por qué eliminar las condiciones de fracaso antes de optimizar?"
+            },
+            {
+              "back": "Partiendo del resultado final y preguntando repetidamente qué debe ser verdad inmediatamente antes de él.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nMuestra dependencias y orden de preparación.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Pasar un examen requiere un rendimiento correcto, que requiere recordar, practicar, entender y fundaciones.",
+              "front": "¿Qué está encadenando hacia atrás?"
+            },
+            {
+              "back": "Generar falla plausible causa antes de que comience el plan.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nImagining failure as completed produces more concrete risks than vague worry.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Para un viaje, identifique presupuesto, documento, reserva, expectativa y fallos de responsabilidad.",
+              "front": "¿Para qué se usa un premortem?"
+            },
+            {
+              "back": "Estimar probabilidad, gravedad, detectabilidad, prevenibilidad y recuperabilidad.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEsto convierte la preocupación en acción priorizada.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Para el riesgo de lluvia al aire libre, previsiones de control, refugio de reserva y definir un plan de reubicación.",
+              "front": "¿Qué hace un análisis útil de fallos?"
+            },
+            {
+              "back": "Una señal predefinida que activa revisión o acción.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nTripwires evitan la negación, el costo hundido o la emoción de retrasar la respuesta.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Pausa un proyecto después de dos hitos perdidos o parar el ejercicio cuando aparece el dolor de advertencia.",
+              "front": "¿Qué es un tripwire?"
+            },
+            {
+              "back": "Un límite sobre la pérdida aceptable antes de detener o cambiar el curso.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nProtege el tiempo, el dinero, la salud y la reputación de la escalada.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Defina el presupuesto máximo o período de prueba antes de comenzar.",
+              "front": "¿Qué es una regla de parar la pérdida?"
+            },
+            {
+              "back": "Una pequeña prueba cuyo fallo es asequible e informativo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nSe mueve la incertidumbre en un ambiente controlado.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Prueba un proyecto corto en un nuevo campo antes de hacer un cambio de carrera permanente.",
+              "front": "¿Qué es un experimento seguro a cara?"
+            },
+            {
+              "back": "Cambiar el ambiente así que los errores son más difíciles de hacer.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEs más confiable que exigir atención perfecta.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Use copias de seguridad automáticas, etiquetas, confirmaciones y listas de verificación para acciones críticas.",
+              "front": "¿Qué es la prueba de errores?"
+            },
+            {
+              "back": "El fracaso parcial causa una reducción del rendimiento en lugar de un colapso total.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn sistema resistente conserva la función básica cuando una parte falla.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Mantener una ruta alternativa o una rutina reducida para días difíciles.",
+              "front": "¿Qué es la degradación graciosa?"
+            },
+            {
+              "back": "Un plan robusto realiza razonablemente en varias condiciones; un plan óptimo se destaca en una condición esperada.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa incertidumbre a menudo hace que la robustez sea más valiosa que el rendimiento máximo teórico.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Elija una ruta ligeramente más lenta que sigue siendo confiable bajo variación de tráfico común.",
+              "front": "¿Cómo difiere un plan robusto de un plan óptimo?"
+            },
+            {
+              "back": "El análisis de riesgos vincula un fallo específico de probabilidad, consecuencia, mitigación y recuperación.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nWorry repite el peligro sin producir una respuesta.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: convertir 'algo puede ir mal' en un riesgo llamado y una salvaguardia concreta.",
+              "front": "¿Cómo el análisis de riesgo difiere de la preocupación?"
+            },
+            {
+              "back": "Pregunte cómo el número podría mejorar mientras el resultado real empeora.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEsto revela formas de jugar un proxy.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Los recuentos de tareas pueden aumentar si la gente elige trabajo trivial, mientras que la productividad significativa cae.",
+              "front": "¿Cómo puede probar la inversión una medición?"
+            }
+          ],
+          "title": "Inversión y fracaso"
+        },
+        {
+          "cards": [
+            {
+              "back": "Un lugar donde un cambio relativamente pequeño produce un gran efecto.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa palanca dirige el esfuerzo hacia la sensibilidad en lugar de la actividad.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: La eliminación de una fuente importante de interrupción puede ayudar más que aprender varios trucos de concentración.",
+              "front": "¿Qué es un**Punto de venta**?"
+            },
+            {
+              "back": "El esfuerzo se puede gastar en acciones que apenas cambian el resultado deseado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl progreso debe juzgarse contra el objetivo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Las notas de reforma pueden sentirse productivas mientras la práctica de recuperación produce el aprendizaje.",
+              "front": "¿Por qué la actividad no es la misma que el progreso?"
+            },
+            {
+              "back": "Un pequeño número de causas a menudo producen una gran parte del efecto.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa relación 80/20 exacta no es universal; el punto es una distribución desigual.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Encuentra los pocos gastos, conflictos o tareas que dominan el resultado.",
+              "front": "¿Cuál es la idea de los 'pequeños vitales'?"
+            },
+            {
+              "back": "Un embotellado limita el rendimiento; un punto de apalancamiento crea un cambio desproporcionado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl cuello de botella es a menudo alto apalancamiento, pero otras intervenciones en todo el sistema también pueden importar.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: La lectura débil puede ser el cuello de botella de estudio mientras que el sueño mejor mejora cada tema.",
+              "front": "¿Cómo difiere un cuello de botella y un punto de ventaja?"
+            },
+            {
+              "back": "Un factor cerca de cero puede colapsar el total incluso cuando otros son fuertes.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl fortalecimiento de un factor ya fuerte puede añadir poco.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: La habilidad y el esfuerzo no pueden producir rendimiento cuando la oportunidad está ausente.",
+              "front": "¿Por qué los sistemas multiplicativos son sensibles a factores débiles?"
+            },
+            {
+              "back": "Estimando cuánto cambia el resultado cuando cada entrada cambia.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nIdentifica variables con mayor influencia.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una pequeña reducción porcentual en la vivienda puede ahorrar más que un gran porcentaje de reducción en el entretenimiento.",
+              "front": "¿Qué es el análisis de sensibilidad?"
+            },
+            {
+              "back": "Una intervención poderosa puede ser imposible, peligrosa, costosa o basada en una suposición débil.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa prioridad depende del beneficio esperado, no del impacto solo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Prueba una reclamación de alto impacto en una pequeña escala antes de reestructurar todo.",
+              "front": "¿Por qué el impacto del equilibrio con viabilidad y confianza?"
+            },
+            {
+              "back": "Proporcionan terminación y control mientras posponen trabajos incómodos de alto impacto.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa actividad de baja fricción puede disfrazar el fracaso prioritario.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: formatear un documento puede retrasar la decisión de lo que necesita decir.",
+              "front": "¿Cómo pueden evitarse las tareas fáciles?"
+            },
+            {
+              "back": "La Urgency exige atención ahora; la importancia forma resultados significativos.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl importante trabajo no urgente se descuida a menudo hasta que se convierte en una crisis.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Programar mantenimiento, salud, ahorro y atención de relaciones antes de convertirse en emergencias.",
+              "front": "¿Por qué distinguir la importancia de la urgencia?"
+            },
+            {
+              "back": "Una pequeña acción temprana puede evitar un costo futuro mucho mayor.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos fracasos evitados son invisibles pero todavía valiosos.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Respaldos, mantenimiento, aclaraciones tempranas y ahorros evitan los daños repetidos en el río abajo.",
+              "front": "¿Por qué la prevención a menudo es alta ventaja?"
+            },
+            {
+              "back": "Los cambios preliminares causan; la corriente baja responde después de que aparezca el problema.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nAmbos pueden ser necesarios, pero la acción aguas arriba reduce la recurrencia.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Pagar los honorarios tardíos es aguas abajo; automatizar el pago es aguas arriba.",
+              "front": "¿Cómo difieren las intervenciones aguas arriba y abajo?"
+            },
+            {
+              "back": "Influye en muchas opciones futuras sin requerir fuerza de voluntad repetida.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nVisibilidad, acceso, defectos y comportamiento de forma de fricción.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Mantener la comida saludable visible y las distracciones más difíciles de alcanzar.",
+              "front": "¿Por qué cambiar el entorno puede ser un alto apalancamiento?"
+            },
+            {
+              "back": "La fricción inferior fomenta una acción; la fricción superior lo desalienta.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos pequeños cambios ambientales pueden alterar las opciones repetidas.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Eliminar los detalles de pago guardados y añadir un retraso de 24 horas para reducir la compra impulsiva.",
+              "front": "¿Cómo cambia la fricción el comportamiento?"
+            },
+            {
+              "back": "Determinan lo que sucede cuando nadie elige activamente.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nMuchas personas aceptan el camino de la menor resistencia.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Los ahorros automáticos pueden influir en cada período de pago con una decisión de configuración.",
+              "front": "¿Por qué son poderosos los defectos?"
+            },
+            {
+              "back": "La información correcta que llega a la persona adecuada en el momento oportuno cambia muchas decisiones.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nMás recursos no pueden ayudar cuando el conocimiento falta o se retrasa.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Envía plazos y responsabilidades a las personas que pueden actuar antes de que cierre la ventana.",
+              "front": "¿Por qué el flujo de información puede ser un punto de influencia?"
+            },
+            {
+              "back": "Forman mediciones, decisiones y comportamiento repetido en todo el sistema.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn mal objetivo hace que cada acción optimizada se mueva en la dirección equivocada.\n\n[[FH_REAL_WORLD]]Aplicación en el mundo real: resolución de problemas de recompensa en lugar de contar con llamadas a clientes crudos.",
+              "front": "¿Por qué son objetivos e incentivos puntos de apalancamiento de alto nivel?"
+            },
+            {
+              "back": "Una mejora que aumenta la capacidad futura produce beneficios repetidos.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas habilidades fundacionales, la confianza, la salud y los sistemas reutilizables pueden crecer sobre sí mismos.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Aprender a leer y razonar mejor acelera el aprendizaje posterior en muchos temas.",
+              "front": "¿Cómo se acumula el apalancamiento?"
+            },
+            {
+              "back": "El impacto concentrado en un componente crea dependencia.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos componentes de alto nivel necesitan respaldos, supervisión y límites.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un proveedor o una persona con conocimiento puede convertirse en un punto de fracaso peligroso.",
+              "front": "¿Por qué puede aprovechar la fragilidad?"
+            },
+            {
+              "back": "¿Qué limita el progreso ahora?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas limitaciones cambian a medida que el sistema mejora.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Después de mejorar el sueño, la planificación o la habilidad pueden convertirse en el siguiente factor limitante.",
+              "front": "¿Qué pregunta se debe hacer después de quitar un cuello de botella?"
+            },
+            {
+              "back": "Compare el beneficio ponderado por probabilidad con el costo esperado y el costo de oportunidad.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna pequeña ganancia de alta probabilidad puede ser peor que una ganancia de gran probabilidad moderada a bajo costo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Elija intervenciones por impacto probable, no visibilidad o familiaridad.",
+              "front": "¿Cómo se puede esperar priorización de la guía de valor?"
+            }
+          ],
+          "title": "Promedio y Priorización"
+        },
+        {
+          "cards": [
+            {
+              "back": "Un patrón dice lo que sucede; un mecanismo explica cómo y por qué.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos mecanismos revelan condiciones de transferencia, puntos de falla y efectos secundarios.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: No se detenga en 'sleep mejora el rendimiento'; rastrea la atención, la memoria y la recuperación.",
+              "front": "¿Cuál es la diferencia entre un patrón y un mecanismo?"
+            },
+            {
+              "back": "¿Qué pasa entre la causa y el resultado?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos pasos intermedios convierten una asociación vaga en un proceso testable.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Para un recordatorio, compruebe notificaciones, comprensión, motivación, capacidad y acción.",
+              "front": "¿Qué pregunta comienza el razonamiento del mecanismo?"
+            },
+            {
+              "back": "Diferentes métodos visibles pueden producir la misma función más profunda.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa copia de las apariencias puede reproducir ninguno de los ingredientes causales.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Copiar el movimiento regular, el disfrute y la rendición de cuentas de una clase de baile en lugar de asumir el baile mismo es necesario.",
+              "front": "¿Por qué copiar mecanismos en lugar de características superficiales?"
+            },
+            {
+              "back": "La relación subyacente compartida entre diferentes ejemplos de superficie.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nReconociendo la estructura profunda permite la transferencia entre dominios.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un cubo filtrante, reducción del equilibrio bancario, y conocimiento olvidado todos implican salidas superiores a la entrada.",
+              "front": "¿Qué es lo que**estructura profunda**de un problema?"
+            },
+            {
+              "back": "Si un paso requerido falla, el resultado no se puede producir a través de esa cadena.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEsto identifica dónde debe ocurrir la intervención.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un mejor recordatorio no puede ayudar si la persona carece de permiso o recursos para actuar.",
+              "front": "¿Por qué un mecanismo tan fuerte como su eslabón más débil?"
+            },
+            {
+              "back": "Los mecanismos y el contexto pueden diferir.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas vías positivas y negativas pueden funcionar simultáneamente con diferentes puntos fuertes.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El trabajo en el hogar puede reducir la conmutación pero aumentar la distracción o el aislamiento.",
+              "front": "¿Por qué la misma intervención puede ayudar a una persona y dañar a otra?"
+            },
+            {
+              "back": "Pueden ocultar el proceso perdido.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn verbo causal no es un mecanismo hasta que se expliquen sus pasos intermedios.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Cuando se les dice elogio motiva a los niños, pregunte cómo cambia la emoción, la repetición, la toma de riesgos y la dependencia de la aprobación.",
+              "front": "¿Por qué \"mejorar\", \"motivar\" y \"apoyos\" desencadenan otra pregunta?"
+            },
+            {
+              "back": "Una causa aproximada está cerca del evento; causas más profundas explican por qué esa condición existía.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nDiferentes profundidades causales apoyan diferentes intervenciones.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un jarrón se rompió porque cayó, pero cayó porque fue colocado cerca de un borde inestable.",
+              "front": "¿Cómo difieren las causas aproximadas y profundas?"
+            },
+            {
+              "back": "¿Qué podría haber pasado sin la causa sospechosa?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa causación compara la realidad con una alternativa sin reservas.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Para juzgar la tutoría, compare con el desempeño previo o estudiantes similares que no recibieron tutoría.",
+              "front": "¿Qué es una pregunta causal contrafactual?"
+            },
+            {
+              "back": "¿Qué enlace en el mecanismo falló?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEsto produce un ajuste específico en lugar de un autojuicio global.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Para un plan de estudio fallido, inspeccionar el realismo, comprensión, recuperación, retroalimentación, sueño y distracciones.",
+              "front": "¿Qué se debe preguntar cuando un método falla?"
+            }
+          ],
+          "title": "Mecanismos"
+        }
+      ]
+    },
+    {
+      "name": "Primeros principios 5",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "Un modelo representa la realidad pero no es la realidad misma.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos modelos simplifican excluyendo detalles, por lo que la utilidad no implica integridad.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un horario guía tiempo pero no puede incluir cada interrupción o cambio.",
+              "front": "¿Qué significa \"el mapa no es el territorio\"?"
+            },
+            {
+              "back": "Las diferentes preguntas requieren diferentes simplificaciones.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn modelo debe juzgarse si sirve a su uso previsto.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un mapa del metro es excelente para las transferencias y pobres para las direcciones de caminar.",
+              "front": "¿Por qué cada modelo necesita un propósito?"
+            },
+            {
+              "back": "Puede capturar la relación necesaria para una decisión omitiendo detalles irrelevantes.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nRechazar toda simplificación haría imposible el razonamiento.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Usar ingresos menos gastos para entender los ahorros, luego añadir deuda o impuestos sólo cuando importan.",
+              "front": "¿Por qué un modelo incompleto todavía puede ser útil?"
+            },
+            {
+              "back": "Comprende un patrón y puede ocultar mecanismo, contexto y cambio.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas etiquetas pueden dar forma a la atención y convertirse en autocumplimiento.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Reemplazar 'lazy' con comportamiento observable y posibles causas antes de decidir qué hacer.",
+              "front": "¿Por qué una etiqueta puede ser un modelo peligroso?"
+            },
+            {
+              "back": "Un sustituto mensurable para un resultado más difícil de medir.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn proxy puede correlacionarse con el objetivo sin ser idéntico a él.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Use puntajes de prueba como evidencia parcial del aprendizaje, no la definición completa.",
+              "front": "¿Qué es un proxy?"
+            },
+            {
+              "back": "El número puede mejorar mientras el resultado real empeora.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa presión apunta a la representación en lugar de la realidad.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Los recuentos de tareas pueden aumentar a través del trabajo trivial mientras que la contribución significativa cae.",
+              "front": "¿Qué pasa cuando la gente optimiza un proxy?"
+            },
+            {
+              "back": "Una predicción puede fallar porque una suposición cambió incluso cuando el cálculo interno era correcto.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa fiabilidad del modelo depende de sus condiciones.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una estimación de viajes puede asumir tráfico ordinario, tiempo y disponibilidad de rutas.",
+              "front": "¿Por qué exponer suposiciones dentro de un modelo?"
+            },
+            {
+              "back": "La relación se describe mientras que otros factores importantes se mantienen similares.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa vida real a menudo cambia varias variables a la vez.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un modelo de demanda de precios puede fallar si la calidad, los ingresos, la escasez o los competidores también cambian.",
+              "front": "¿Qué significa \"todo lo demás igual\" en un modelo?"
+            },
+            {
+              "back": "El rango o contexto donde el modelo sigue siendo fiable.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nExtender una relación más allá de las condiciones observadas puede crear error.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una taza de café mejora la alerta no significa café ilimitado mejora aún más.",
+              "front": "¿Qué es un límite modelo?"
+            },
+            {
+              "back": "Los modelos estaticos describen un momento; los modelos dinámicos describen el cambio con el tiempo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas instantáneas pueden perderse acumulando deuda, adaptación o efectos retardados.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un presupuesto actual es estático; un pronóstico de deuda e interés es dinámico.",
+              "front": "¿Cómo difieren los modelos estáticos y dinámicos?"
+            },
+            {
+              "back": "Los modelos estadísticos describen patrones; los modelos mecanicistas explican las interacciones.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUno puede predecir bien sin explicar, mientras que el otro puede explicar sin una predicción precisa.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Combine datos de rendimiento del sueño con conocimiento de los mecanismos de atención y memoria.",
+              "front": "¿Cómo difieren los modelos estadísticos y mecanicistas?"
+            },
+            {
+              "back": "Los modelos descriptivos dicen lo que sucede; los modelos normativos dicen lo que debe suceder.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nPasar de la descripción a la recomendación requiere valores.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El hecho de que la gente prefiere recompensas inmediatas no prueba que deberían.",
+              "front": "¿Cómo difieren los modelos descriptivos y normativos?"
+            },
+            {
+              "back": "Un modelo captura detalles anteriores al azar que no generalizan.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nPerfectamente explicando el pasado puede reducir el poder predictivo futuro.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: No concluya una camisa específica, tiempo, canción y silla causó tres días productivos.",
+              "front": "¿Qué es el exceso de adaptación?"
+            },
+            {
+              "back": "Un modelo es demasiado simple para explicar variaciones importantes.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna simple consigna puede omitir recursos, tiempo, habilidad, salud y oportunidad.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El \"éxito deriva del trabajo duro\" puede ignorar los principales factores causales.",
+              "front": "¿Qué está inadaptándose?"
+            },
+            {
+              "back": "Preferir el modelo con menos supuestos sin soporte cuando el poder explicativo es similar.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa simplicidad es evidencia de economía, no prueba de verdad.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un objeto común que cae es generalmente una mejor explicación para un ruido que un portal invisible.",
+              "front": "¿Qué recomienda la navaja de Occam?"
+            },
+            {
+              "back": "Actualizar, estrechar, reemplazar o reducir la confianza en proporción a la evidencia.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nNo abandone modelos fuertes para una anomalía débil o proteja modelos débiles de fallo repetido.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Revise si el mecanismo, los supuestos, la medición o el contexto causaron el desajuste.",
+              "front": "¿Cómo debe un modelo responder a las predicciones fallidas?"
+            },
+            {
+              "back": "Utilizando varios modelos complementarios para un problema complejo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nDiferentes modelos revelan diferentes partes de la realidad.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Entender el exceso de gasto a través de aritmética, psicología, medio ambiente, presión social y retroalimentación de la deuda.",
+              "front": "¿Qué es el apilamiento de modelos?"
+            },
+            {
+              "back": "Diferentes explicaciones se pueden comparar a través de predicciones que divergen.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna prueba útil apunta evidencia esperada por un modelo pero no por otro.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Para grados de caída, compare las predicciones de material más difícil, sueño pobre y estudio reducido.",
+              "front": "¿Por qué usar modelos competidores?"
+            },
+            {
+              "back": "Una puntuación, diagnóstico, ingreso o etiqueta de grupo no puede capturar a toda una persona.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl comportamiento humano cambia a través de contextos y tiempo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Tratar un grado bajo como una medida que necesita explicación, no prueba de baja inteligencia.",
+              "front": "¿Por qué utilizar modelos de personas con humildad?"
+            }
+          ],
+          "title": "Modelos y Realidad"
+        },
+        {
+          "cards": [
+            {
+              "back": "Algo directamente notado o verificado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna observación reporta lo que pasó sin añadir una explicación o un motivo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Cuando alguien no contesta, registre 'no respuesta todavía' antes de decidir que están enojados.",
+              "front": "¿Qué es un**observación**?"
+            },
+            {
+              "back": "Significado o explicación añadido a una observación.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna interpretación puede ser correcta, pero va más allá de lo que se observó directamente.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Durante el conflicto, separa el comportamiento visible de la historia que estás contando sobre por qué sucedió.",
+              "front": "¿Qué es un**interpretación**?"
+            },
+            {
+              "back": "¿Qué sé? ¿Qué estoy infiriendo? ¿Qué más podría explicarlo? ¿Qué evidencia distinguiría las opciones?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEstas preguntas frenan el salto de un evento a una conclusión segura.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Uselos antes de reaccionar a un mensaje ambiguo, retraso, expresión o error.",
+              "front": "¿Qué cuatro preguntas separan la observación de la interpretación?"
+            },
+            {
+              "back": "Un hecho se apoya; una inferencia se extrae de los hechos; una suposición se trata temporalmente como verdadera.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa razón se vuelve más segura cuando cada declaración se coloca en la categoría correcta.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: En la planificación, etiquetar el tiempo de viaje como una suposición en lugar de presentarlo como un hecho garantizado.",
+              "front": "¿Cómo?**hecho**,**inferencias**, y**suposición**¿diferente?"
+            },
+            {
+              "back": "Cuanto más lejos sea una conclusión de la observación, más evidencia necesita.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa gente a menudo se mueve de evento a significado a juicio sin notar los pasos intermedios.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de llamar a alguien irrespetuoso, compruebe cuántos pasos no verificados conectan el comportamiento con esa etiqueta.",
+              "front": "¿Cuál es la regla clave de la escalera de la inferencia?"
+            }
+          ],
+          "title": "Observación e interpretación"
+        },
+        {
+          "cards": [
+            {
+              "back": "¿Qué tan probable es esto, dada la evidencia disponible?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nMuchas afirmaciones del mundo real son probabilísticas más que simplemente verdaderas o falsas.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Estimar la posibilidad de un retraso en lugar de declarar que sucederá o no.",
+              "front": "¿Qué pregunta reemplaza la falsa certeza?"
+            },
+            {
+              "back": "La confianza describe un estado mental, no el apoyo a una reclamación.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa gente puede sentirse segura mientras está equivocada e incierta mientras está correcta.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Cuando la memoria se siente vívida, todavía comprobar registros, mensajes u otra evidencia independiente.",
+              "front": "¿Por qué la confianza no es evidencia?"
+            },
+            {
+              "back": "Los rangos hacen visible la incertidumbre.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn valor inferior, probable, y el límite superior a menudo se comunican más honestamente que una estimación exacta.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Estimar una reparación como $400-$700 en lugar de pretender que costará exactamente $500.",
+              "front": "¿Por qué utilizar rangos en lugar de falsa precisión?"
+            },
+            {
+              "back": "Conocido es apoyado; desconocido puede ser descubierto; no se puede predecir con certeza.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEsta distinción muestra dónde la investigación puede ayudar y dónde se necesita flexibilidad.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Compruebe si un tren se retrasa, pero acepte que una emergencia inesperada no puede descartarse.",
+              "front": "¿Cómo difieren los conocidos, desconocidos e inconocibles?"
+            },
+            {
+              "back": "Cuán a menudo ocurre un resultado en casos comparables antes de pruebas específicas de casos.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas tasas de base proporcionan una probabilidad de inicio realista.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de asumir un síntoma es serio, pregunte con qué frecuencia ese síntoma indica la condición temida.",
+              "front": "¿Qué es un**Tasa básica**?"
+            },
+            {
+              "back": "Comience con la tasa general, luego actualice utilizando evidencia relevante.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nNi el promedio ni los detalles individuales deben ser ignorados.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un programa competitivo tiene una baja tasa base de admisión, pero las calificaciones fuertes pueden aumentar la oportunidad de un solicitante.",
+              "front": "¿Cómo debe afectar la evidencia específica de un caso a una tasa de base?"
+            },
+            {
+              "back": "Las nuevas pruebas deberían cambiar la confianza en proporción a su fuerza.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa evidencia débil causa una pequeña actualización; evidencia fuerte y fiable causa una mayor.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una advertencia meteorológica severa debe cambiar los planes de picnic más de un comentario vago.",
+              "front": "¿Qué requiere la actualización de creencias racionales?"
+            },
+            {
+              "back": "Un evento puede ser posible aún demasiado poco probable para merecer mucho peso.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nImaginar un resultado no dice nada sobre lo común que es.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: No deje que una rara posibilidad de cancelación domine una decisión de viaje rutinaria sin pruebas de apoyo.",
+              "front": "¿Por qué la posibilidad no es probabilidad?"
+            },
+            {
+              "back": "Un evento raro puede importar si sus consecuencias son severas.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas decisiones de riesgo consideran la probabilidad y el impacto.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Las alarmas de humo son valiosas aunque los incendios de la casa son infrecuentes.",
+              "front": "¿Por qué la probabilidad no es importante?"
+            },
+            {
+              "back": "El resultado promedio ponderado por probabilidad.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl valor esperado compara las opciones inciertas en casos repetidos pero no garantiza un resultado.\n\n[[FH SIMPLIFIED] Simplificado:\nUn 50% de probabilidades de $100 y un 50% de probabilidades de $0 tiene un valor esperado de $50.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Use el valor esperado para comparar las opciones inciertas repetidas mientras todavía considerando el riesgo y la supervivencia.",
+              "front": "Qué es**Valor previsto**?"
+            },
+            {
+              "back": "Una pérdida de baja probabilidad puede causar la ruina o ser imposible recuperarse.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nSupervivencia, repetibilidad y tolerancia al riesgo, además del promedio.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Evite una apuesta que podría borrar los ahorros esenciales incluso si su pago promedio es positivo.",
+              "front": "¿Por qué el valor esperado positivo sigue siendo inaceptable?"
+            },
+            {
+              "back": "Coincidiendo con la confianza en la exactitud real.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna persona bien calibrada es correcta alrededor del 70% del tiempo al reclamar confianza del 70%.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Grabar las predicciones y los resultados para descubrir si usted está sistemáticamente sobreconfiado o no residente.",
+              "front": "Qué es**calibración**?"
+            }
+          ],
+          "title": "Probabilidad e incertidumbre"
+        },
+        {
+          "cards": [
+            {
+              "back": "Piezas conectadas que influyen unos a otros con el tiempo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nCambiar una parte puede crear efectos en otro lugar y más tarde.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Evaluar una regla familiar, política de la ciudad o proceso de trabajo mediante el rastreo de cómo responden otras partes.",
+              "front": "¿Qué es un**sistema**?"
+            },
+            {
+              "back": "Un evento sucede una vez, un patrón repite, y una estructura produce el patrón.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nFijar sólo el evento puede dejar sin cambios las condiciones subyacentes.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El tráfico pesado hoy es un evento; puntos de congestión de horas de prisa recurrentes para la estructura del transporte.",
+              "front": "¿Cómo difieren los eventos, patrones y estructuras?"
+            },
+            {
+              "back": "Un bucle en el que el cambio produce más cambio en la misma dirección.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nReforzar los bucles puede crear crecimiento o disminución.\n\n[[FH DIAGRAM]] Diagrama:\n`mermaid\nGráfico LR\nMiedo [Fear] -- Evitación[Avoidancia]\nEvitación: menos aprendizaje [Aprendizaje de clases]\nMenosAprendizaje... Miedo\n`\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El miedo puede causar evitación, evita el aprendizaje y la falta de aprendizaje aumenta el miedo.",
+              "front": "¿Qué es un**retroalimentación**?"
+            },
+            {
+              "back": "Un bucle que empuja un sistema hacia la estabilidad o un objetivo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa respuesta reduce la diferencia original.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El hambre conduce a comer, lo que reduce el hambre.",
+              "front": "¿Qué es un**balanceo de retroalimentación**?"
+            },
+            {
+              "back": "Los efectos aparecen después de la acción, por lo que la gente puede parar demasiado temprano o incorrecto.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl resultado visible puede atribuirse erróneamente a un evento posterior.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Espere lo suficiente para que un cambio de sueño, política o entrenamiento funcione antes de añadir más intervención.",
+              "front": "¿Por qué los retrasos hacen que los sistemas sean difíciles de manejar?"
+            },
+            {
+              "back": "Una consecuencia causada por la primera consecuencia.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas mejoras inmediatas pueden desencadenar la adaptación que cambia el resultado final.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Los caminos más anchos pueden reducir inicialmente el tráfico, luego atraer más conducción y volver a congestionarse.",
+              "front": "¿Qué es un**efecto de segundo orden**?"
+            },
+            {
+              "back": "Las personas responden a recompensas y costos experimentados, no a intenciones declaradas.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna medida puede redirigir el esfuerzo lejos del verdadero objetivo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El recuento de llamadas de recompensa puede hacer que los empleados terminen las llamadas de clientes antes de resolver problemas.",
+              "front": "¿Cómo afectan los incentivos al comportamiento del sistema?"
+            },
+            {
+              "back": "Las personas pueden mejorar el número sin mejorar el resultado subyacente.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl proxy se vuelve más fácil de optimizar que el objetivo real.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Los puntajes de prueba pueden elevarse a través de la enseñanza estrecha mientras que la comprensión amplia disminuye.",
+              "front": "¿Qué pasa cuando una medida se convierte en un objetivo?"
+            },
+            {
+              "back": "La etapa que limita el rendimiento total.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nMejorar otras etapas hace poco hasta que el cuello de botella cambie.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Si un cajero limita un restaurante, la cocina más rápida sólo puede crear una cola de pago más larga.",
+              "front": "¿Qué es un cuello de botella en un sistema?"
+            },
+            {
+              "back": "La optimización local mejora una parte; la optimización global mejora todo el sistema.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn departamento puede mejorar su número moviendo la carga en otro lugar.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Medir el tiempo total de espera del paciente, no sólo la cola de un departamento del hospital.",
+              "front": "¿Cuál es la diferencia entre la optimización local y global?"
+            },
+            {
+              "back": "Un stock se acumula; las entradas y salidas lo cambian.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nPara cambiar un stock, inspeccione lo que entra y lo que sale.\n\n[[FH DIAGRAM]] Diagrama:\n`mermaid\nGráfico LR\nInflow[Inflow] -- título Stock[Stock]\nStock... Outflow[Outflow]\n`\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Los ahorros dependen de los ingresos y el gasto; el conocimiento depende del aprendizaje y el olvido.",
+              "front": "¿Qué?**existencias y corrientes**?"
+            },
+            {
+              "back": "La eliminación de la capacidad de repuesto no deja ningún búfer para la perturbación.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos sistemas resistentes conservan copias de seguridad, margen y caminos alternativos.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: No programe cada minuto si un retraso colapsaría todo el día.",
+              "front": "¿Por qué la máxima eficiencia puede reducir la resistencia?"
+            }
+          ],
+          "title": "Sistemas y comentarios"
+        }
+      ]
+    },
+    {
+      "name": "Primeros principios 6",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "Una predicción sobre lo que debe ser observado si es verdad.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas predicciones conectan un modelo a la realidad antes de que se conozca el resultado.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Reemplazar 'este método de estudio ayuda' con una mesurable predicción de reconocimiento retardado.",
+              "front": "¿Qué convierte una creencia en una afirmación testable?"
+            },
+            {
+              "back": "¿Qué debería pasar si es verdad? ¿Qué debería pasar si es falso? ¿Qué cambiaría de opinión?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna reclamación que explica cada resultado no puede ser cuestionada significativamente.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Defina de antemano qué evidencia debilitaría una creencia sobre un hábito o una política.",
+              "front": "¿Qué tres preguntas hacen que una reclamación sea testable?"
+            },
+            {
+              "back": "La posibilidad de que algunas pruebas puedan demostrar una reclamación es incorrecta.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa falsificación impide que las creencias estén protegidas por una nueva excusa después de cada fracaso.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Evite afirmaciones como \"el tratamiento siempre funciona, pero la mejora puede ser invisible\".",
+              "front": "Qué es**falseabilidad**?"
+            },
+            {
+              "back": "La suposición incierta cuyo fracaso amenazaría más el plan.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nProbando detalles de bajo impacto primero deja sin tocar el riesgo principal.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de decorar un evento, prueba la demanda y disponibilidad del lugar.",
+              "front": "¿Qué suposición debe ser probado primero?"
+            },
+            {
+              "back": "El experimento más pequeño que puede reducir significativamente la incertidumbre.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna prueba no necesita ser ciencia perfecta para mejorar una decisión.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Prueba tres sesiones de trabajo comparables en una biblioteca antes de cambiar toda tu rutina de trabajo.",
+              "front": "¿Cuál es la prueba útil más barata?"
+            },
+            {
+              "back": "Ayuda a identificar lo que causó el resultado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos cambios simultáneos crean ambigüedad sobre qué factor importaba.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Al mejorar el sueño, prueba el tiempo de cafeína por separado antes de cambiar cada hábito.",
+              "front": "¿Por qué cambiar una variable importante a la vez que sea posible?"
+            },
+            {
+              "back": "Una línea de referencia que muestra lo que pudo haber ocurrido sin la intervención.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa mejora por sí sola no prueba que el método probado lo causó.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Compare un nuevo método de aprendizaje con la práctica ordinaria sobre material similar.",
+              "front": "¿Qué proporciona una condición de control o comparación?"
+            },
+            {
+              "back": "Otro factor que podría explicar el resultado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos fundadores debilitan la interpretación causal incluso cuando el cambio observado es real.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Si la productividad aumenta después de horas flexibles, comprobar la contratación, el volumen de trabajo, el equipo y los bonos.",
+              "front": "¿Qué es un**variable confundida**?"
+            },
+            {
+              "back": "De lo contrario, casi cualquier resultado puede ser reinterpretado como éxito.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas medidas predefinidas, la duración y los umbrales reducen el razonamiento motivado.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Establecer la duración de un experimento de sueño y una mejora mínima significativa antes de comenzar.",
+              "front": "¿Por qué definir el éxito antes de la prueba?"
+            },
+            {
+              "back": "Las muestras pequeñas y la variación aleatoria pueden producir resultados engañosos.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa fiabilidad aumenta cuando un resultado aparece repetidamente e independientemente.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un buen día no prueba una rutina.",
+              "front": "¿Por qué las observaciones repetidas son más fuertes que un resultado?"
+            },
+            {
+              "back": "Un resultado extremo es seguido a menudo por uno más ordinario.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn remedio iniciado en el peor momento puede recibir crédito para la recuperación natural.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Pista varios períodos antes de atribuir la mejora después de un día inusualmente malo.",
+              "front": "¿Qué es la regresión hacia el promedio?"
+            },
+            {
+              "back": "Noticing supporting cases while neglecting contradictory ones.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos registros sistemáticos y los criterios precommitados reducen la memoria selectiva.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Recorda cada vez que una superstición predice correctamente e incorrectamente.",
+              "front": "¿Qué es el sesgo de confirmación en las pruebas?"
+            },
+            {
+              "back": "Cuando diferentes resultados conducirían a diferentes decisiones.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa información que no puede cambiar de acción puede no justificar su costo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de investigar más adelante, indica lo que harías bajo cada posible hallazgo.",
+              "front": "¿Cuándo es un experimento valioso?"
+            }
+          ],
+          "title": "Testing Beliefs"
+        },
+        {
+          "cards": [
+            {
+              "back": "Los efectos inmediatos y retardados pueden apuntar en direcciones opuestas.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna decisión completa considera hoy, una repetición posterior y consecuencias a largo plazo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Mantenerse al día puede producir trabajo ahora y reducir el rendimiento de mañana.",
+              "front": "¿Por qué se deben evaluar las decisiones a través de múltiples horizontes temporales?"
+            },
+            {
+              "back": "Dar recompensas inmediatas más peso que consecuencias retardadas.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl presente es vívido mientras el futuro se siente abstracto.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El entretenimiento nocturno puede superar la energía de mañana a menos que el coste futuro sea visible.",
+              "front": "¿Qué es el sesgo presente?"
+            },
+            {
+              "back": "Cuando un resultado aumenta la capacidad para más del mismo resultado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos resultados anteriores se convierten en insumos para el crecimiento posterior o la disminución.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El conocimiento facilita el aprendizaje avanzado; el interés por la deuda hace que la deuda futura sea mayor.",
+              "front": "¿Qué está complicando?"
+            },
+            {
+              "back": "Los pequeños efectos individuales pueden acumularse en un cambio importante del sistema.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa pregunta importante es qué sucede si la acción se vuelve normal.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una noche tardía es diferente de la privación crónica del sueño.",
+              "front": "¿Por qué juzgar el comportamiento repetido como patrón en lugar de un evento?"
+            },
+            {
+              "back": "La acción repetible moderada puede complicarse mientras la acción extrema puede colapsar.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa sostenibilidad determina si los beneficios continúan.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El estudio regular a menudo supera una sesión agotadora durante toda la noche.",
+              "front": "¿Por qué la consistencia puede superar la intensidad?"
+            },
+            {
+              "back": "Algunos sistemas se adaptan y fortalecen durante la recuperación en lugar del esfuerzo mismo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nIgnorar la recuperación puede reducir la capacidad futura y crear lazos negativos.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El descanso entre sesiones de formación o aprendizaje es compatible con la adaptación y la memoria.",
+              "front": "¿Por qué la recuperación es parte de la actividad productiva?"
+            },
+            {
+              "back": "Parar demasiado temprano esconde efectos reales, mientras que esperar para siempre protege el fracaso.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nDefinir las señales tempranas esperadas y un plazo razonable.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Dar una nueva rutina suficiente tiempo para trabajar, pero cambiarlo si los indicadores predichos nunca aparecen.",
+              "front": "¿Por qué debe estimarse un retraso antes de juzgar una intervención?"
+            },
+            {
+              "back": "La intervención ocurre antes de que su efecto sea visible.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa intervención repetida durante el retraso puede causar sobresueldo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: No siga girando la ducha más caliente antes de que el ajuste anterior surta efecto.",
+              "front": "¿Qué es un retraso de retroalimentación?"
+            },
+            {
+              "back": "Opciones pasadas conforman las opciones futuras fáciles, costosas o disponibles.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos sistemas actuales suelen reflejar la historia acumulada en lugar de presentar la optimización.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Una opción de carrera crea habilidades y redes especializadas que aumentan los costos de cambio.",
+              "front": "¿Qué es la dependencia del camino?"
+            },
+            {
+              "back": "Un estado donde cambiar caminos se vuelve caro incluso cuando las alternativas mejoran.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nContratos, habilidades especializadas, identidad, infraestructura y dependencia crean bloqueo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de comprometerse, pregunte cuál será la elección más difícil de cambiar más adelante.",
+              "front": "¿Qué está encerrado?"
+            },
+            {
+              "back": "El beneficio de preservar la flexibilidad futura mientras que la incertidumbre sigue siendo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nPruebas, habilidades transferibles, ahorros y compromisos cortos mantienen abiertas alternativas.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Alquilar antes de comprar cuando las necesidades de ubicación futura son inciertas.",
+              "front": "¿Qué es el valor de opción con el tiempo?"
+            },
+            {
+              "back": "Algunos beneficios requieren compromiso e inversión acumulada.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nMantener todas las opciones abiertas puede prevenir la complicación en cualquier camino.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Repetidamente reiniciar puede bloquear la habilidad y la confianza profundas.",
+              "front": "¿Por qué la flexibilidad puede ser costosa?"
+            },
+            {
+              "back": "Una acción no puede ser totalmente deshecha.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas opciones irreversibles merecen mayor precaución porque el aprendizaje futuro no puede restaurar el estado original.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: La información privada puede ser revelada instantáneamente, pero no puede ser desconocida de nuevo.",
+              "front": "¿Qué es irreversibilidad?"
+            },
+            {
+              "back": "Un cambio es fácil en una dirección y difícil en el reverso.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa confianza, la complejidad, la deuda, la salud y la información a menudo muestran costos desiguales de inversión.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Puede tomar una traición para dañar la confianza y años para reconstruirla.",
+              "front": "¿Qué es la asimetría del tiempo?"
+            },
+            {
+              "back": "El orden, la habilidad, la confianza, el equipo y la información a menudo se deterioran sin esfuerzo continuo.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna solución única puede fallar si su costo de mantenimiento es ignorado.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Organizar una habitación una vez no elimina la necesidad de una simple rutina de retorno.",
+              "front": "¿Por qué los sistemas requieren mantenimiento?"
+            },
+            {
+              "back": "Diferido mantenimiento que se convierte en una obligación futura más grande.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nSaltar el mantenimiento crea un ahorro inmediato y un costo retardado.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Ignorar una pequeña fuga o un malentendido recurrente puede crear un daño importante más adelante.",
+              "front": "¿Qué es la deuda de mantenimiento?"
+            },
+            {
+              "back": "Crecimiento por un porcentaje de la cantidad actual.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas etapas tempranas parecen pequeñas, pero el crecimiento posterior se acelera porque la base crece.\n\n[[FH SIMPLIFIED] Simplificado:\nUna secuencia doble crece como 1, 2, 4, 8, 16 y 32.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Debt, infección, difusión de información y los lazos de refuerzo pueden expandirse exponencialmente.",
+              "front": "¿Qué es el crecimiento exponencial?"
+            },
+            {
+              "back": "La eliminación de la causa original no restaura automáticamente el estado original.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa historia cambia el sistema, por lo que la reparación puede requerir trabajo adicional.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Parar la deshonestidad es necesaria pero no puede restaurar inmediatamente la confianza.",
+              "front": "¿Qué es la histeresis?"
+            },
+            {
+              "back": "La misma acción puede ayudar temprano y fallar o costar más tarde.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nWindows, umbrales y secuencia afectan el mecanismo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: La retroalimentación temprana puede guiar el trabajo, mientras que la misma retroalimentación después de la terminación puede ser demasiado tarde.",
+              "front": "¿Por qué el tiempo cambia el valor de una intervención?"
+            },
+            {
+              "back": "El cambio temporal altera el estado actual; el cambio estructural altera el patrón futuro.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nEl socorro y la prevención a menudo requieren ambos.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Limpiar la habitación ahora, luego cambiar el almacenamiento y los hábitos así que el desorden regresa menos a menudo.",
+              "front": "¿Cuál es la diferencia entre el cambio temporal y estructural?"
+            },
+            {
+              "back": "Parar el nuevo daño no elimina lo que ya se ha acumulado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa reparación puede requerir tanto reducir la entrada como cambiar el stock existente.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Parar la nueva deuda no paga la deuda vieja; poner fin al conflicto no reconstruye inmediatamente la confianza.",
+              "front": "¿Por qué distinguir un stock de su flujo al reparar un problema?"
+            },
+            {
+              "back": "Una acción que sigue siendo útil en varios escenarios plausibles.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas acciones robustas dependen menos de un pronóstico preciso.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Salud, habilidades transferibles, ahorros de emergencia, confianza y evitar riesgos catastróficos generalmente conservan valor.",
+              "front": "¿Qué es una acción robusta en futuros inciertos?"
+            },
+            {
+              "back": "¿Qué me estoy moviendo del presente al futuro, o del futuro al presente?",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nMuchas opciones son transferencias a través del tiempo en lugar de ganancias puras.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Borrowing trae adelante el gasto de energía; mantenimiento gasta esfuerzos ahora para evitar el fracaso futuro.",
+              "front": "¿Qué pregunta temporal revela los intercambios ocultos?"
+            }
+          ],
+          "title": "Tiempo, cumplimiento y dependencia del camino"
+        },
+        {
+          "cards": [
+            {
+              "back": "Una mejora en una dimensión que empeora la otra.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLa mayoría de las opciones reales tienen beneficios y costos competidores en lugar de una respuesta perfecta.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Un hogar más barato puede aumentar el tiempo de conmutación, mientras que un servicio más rápido puede costar más.",
+              "front": "¿Qué es un**comercio**?"
+            },
+            {
+              "back": "El valor de la mejor alternativa entregada.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna opción cuesta más que el dinero pagado; también excluye otros usos del tiempo y los recursos.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Trabajar el sábado puede costar descanso, tiempo familiar, ejercicio o estudio.",
+              "front": "Qué es**costo de la oportunidad**?"
+            },
+            {
+              "back": "El estrés, el mantenimiento, la flexibilidad perdida, la atención y el riesgo pueden superar el precio visible.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUn precio bajo de compra puede ocultar un alto costo total.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Antes de elegir un producto barato, considere fallos, reparaciones, tiempo y uso energético.",
+              "front": "¿Por qué considerar costos invisibles?"
+            },
+            {
+              "back": "El beneficio producido por una unidad adicional.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLas decisiones se toman a menudo mejor al margen que como opciones de todo o nada.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Pregunte si una hora más de estudio añade suficiente aprendizaje para justificar la fatiga.",
+              "front": "¿Qué es un**beneficio marginal**?"
+            },
+            {
+              "back": "La desventaja adicional de una unidad más.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna actividad sensible continúa mientras su próximo beneficio supera su próximo costo.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Deja de pulir el trabajo aceptable cuando otra hora crea menos valor que otra tarea.",
+              "front": "¿Qué es un**Costo marginal**?"
+            },
+            {
+              "back": "Las unidades adicionales producen beneficios progresivamente más pequeños.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nMás no siempre es mejor porque las primeras unidades a menudo resuelven la mayor necesidad.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: El primer vaso de agua cuando la sed importa más que el quinto.",
+              "front": "¿Qué?**disminución de los rendimientos**?"
+            },
+            {
+              "back": "Comparar los beneficios de una opción con los costos de otra opción crea una decisión parcial.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nUna comparación justa mide cada opción contra los mismos objetivos y limitaciones.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Compare tanto los beneficios como los costos del trabajo doméstico y de oficina en lugar de alabar sólo un lado.",
+              "front": "¿Por qué comparar opciones utilizando los mismos criterios?"
+            },
+            {
+              "back": "Las opciones fáciles de revertir necesitan menos análisis que las costosas o permanentes.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nLos esfuerzos de decisión deberían reducirse con la desventaja y la dificultad de la corrección.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Prueba una rutina rápidamente, pero investiga profundamente antes de la cirugía o un contrato largo.",
+              "front": "¿Por qué distinguir reversible de decisiones irreversibles?"
+            },
+            {
+              "back": "La incertidumbre y la suerte separan la calidad de la decisión de la calidad del resultado.",
+              "explanation": "[[FH_EXPLANATION]]Explicación:\nJuzgue el proceso utilizando la información disponible en ese momento.\n\n[[FH_REAL_WORLD]]Aplicación del mundo real: Salir sin un paraguas después de un pronóstico de lluvia baja puede ser razonable incluso si ocurre una lluvia inesperada.",
+              "front": "¿Por qué una buena decisión puede tener un mal resultado?"
+            }
+          ],
+          "title": "Costo de compensación y oportunidad"
+        }
+      ]
+    }
+  ]
+}

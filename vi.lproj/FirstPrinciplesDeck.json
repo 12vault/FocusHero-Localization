@@ -1,0 +1,1507 @@
+{
+  "deckID": "first-principles",
+  "version": 1,
+  "workspaceName": "Nguyên lý đầu tiên",
+  "folders": [
+    {
+      "name": "Nguyên lý đầu tiên 1",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "Chỉ dẫn và kết luận.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCác lời tiên tri đưa ra lý do hoặc bằng chứng; kết luận là những lý do đó để ủng hộ.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Khi đánh giá lời khuyên, trước tiên xác định các lý do hỗ trợ và hành động được khuyến khích.",
+              "front": "Hai phần cơ bản của cuộc tranh luận là gì?"
+            },
+            {
+              "back": "Những cơ sở này có đáng tin cậy không?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững cơ sở chân chính có thể ủng hộ lập luận yếu ớt, trong khi cấu trúc hợp lệ có thể bắt đầu từ những cơ sở sai lầm.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Đừng chấp nhận một tuyên bố chỉ vì mỗi câu trong nó nghe hợp lý.",
+              "front": "Hai câu hỏi nào thử nghiệm một cuộc tranh luận?"
+            },
+            {
+              "back": "Một giả định không chính xác cần thiết để kết luận có hiệu quả.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững cuộc tranh cãi thường tùy thuộc vào giá trị hoặc niềm tin chưa bao giờ được công khai bênh vực.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: yêu cầu 'không nhận công việc bởi vì nó trả ít tiền lương hơn nên chi phối mọi yếu tố khác.",
+              "front": "Cái gì?**tiền đề ẩn**Hả?"
+            },
+            {
+              "back": "Thứ gì đó không có mà kết quả không thể xảy ra.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột điều kiện cần thiết phải có mặt, nhưng có lẽ không đủ.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Hỏi xem kế hoạch có thể thành công nếu không có tài liệu, kỹ năng, tài nguyên hay sự cho phép.",
+              "front": "Cái gì?**điều kiện cần thiết**Hả?"
+            },
+            {
+              "back": "Điều gì đó đảm bảo kết quả.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột điều kiện đầy đủ là đủ dưới những điều kiện được nêu ra.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: đừng nhầm lẫn 'điều này có thể gây ra kết quả' với 'điều này luôn đảm bảo kết quả'.",
+              "front": "Cái gì?**Đủ điều kiện**Hả?"
+            },
+            {
+              "back": "Vì B có thể có nguyên nhân khác A.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nQuan sát hiệu quả không phải là một nguyên nhân duy nhất.\n\n[[FH_REAL_WORLD]]Một con đường ướt không chứng minh được mưa bởi vì vòi phun hoặc lau chùi cũng có thể giải thích được.",
+              "front": "Tại sao \"Nếu A sau đó B, do đó A\" không hợp lệ?"
+            },
+            {
+              "back": "Một phản đối chính xác bác bỏ nó.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột tuyên bố chứa 'all', 'luôn luôn', hoặc 'không bao giờ' cho phép không có ngoại lệ.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: để kiểm tra \"các sản phẩm bảo hiểm\" luôn luôn tốt hơn, hãy tìm một sản phẩm rẻ hơn mà thực hiện tốt hơn.",
+              "front": "Một ví dụ phản ví dụ làm gì với một tuyên bố phổ biến?"
+            }
+          ],
+          "title": "Đối số và logic"
+        },
+        {
+          "cards": [
+            {
+              "back": "Một cái gì đó được coi là đúng mà không cần xác nhận đầy đủ.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKhông thể tránh được việc tiêu thụ, nhưng chúng trở nên nguy hiểm khi bị lãng quên hoặc bị giấu kín.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Đánh dấu thời gian du lịch không chắc chắn, hành vi khách hàng, và nhu cầu tương lai như giả định trong một kế hoạch.",
+              "front": "Giả định là gì?"
+            },
+            {
+              "back": "Điều gì phải đúng khi kết luận này hợp lý?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCâu hỏi này cho thấy cầu nối bằng chứng với kết luận.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: đối với \"nhà hàng trống rỗng, vì vậy thức ăn là xấu\", kiểm tra giả định rằng nhà hàng tốt đang bận rộn.",
+              "front": "Câu hỏi nào phơi bày một giả định ẩn?"
+            },
+            {
+              "back": "Sự thật, giá trị, hành vi, và giả định ổn định.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCác giả định khác nhau cần những bài kiểm tra khác nhau bởi vì họ khẳng định những thứ khác nhau.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: một kế hoạch có thể giả định một cửa hàng là mở, quảng cáo gây ra nhu cầu, vấn đề giá cả nhiều nhất, khách hàng chọn giá rẻ, và tương tự như ngày hôm nay.",
+              "front": "Năm loại giả định thông thường là gì?"
+            },
+            {
+              "back": "Một niềm tin không chắc chắn có thể làm hỏng kế hoạch.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững giả định quan trọng đáng được thử nghiệm sớm hơn là những chi tiết nhỏ.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trước khi lên kế hoạch một sự kiện lớn, kiểm tra xem có đủ người thực sự muốn tham dự không.",
+              "front": "Cái gì?**giả định**Hả?"
+            },
+            {
+              "back": "Người ta tin rằng một giả định; một sự ép buộc phải được tôn trọng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột giả định có thể sai, trong khi sự hạn chế xác định những gì hiện có thể hoặc chấp nhận được.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: xem \"cuộc hành trình mất một giờ\" như một giả định và 'đến trước 6 giờ chiều' như một sự ràng buộc.",
+              "front": "Một giả định khác với sự ép buộc như thế nào?"
+            },
+            {
+              "back": "Điều gì ủng hộ? Điều gì mâu thuẫn với điều đó? Tôi tự tin cỡ nào? Nếu sai thì sao? Tôi kiểm tra nó một cách rẻ tiền được không? Kế hoạch có thể tồn tại mà không cần nó không?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững câu hỏi này liên kết sự không chắc chắn với hành động và tính kiên cường.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: hãy sử dụng chúng trước khi phạm tội về tiền bạc, thời gian hoặc danh tiếng với một niềm tin vô căn cứ.",
+              "front": "6 câu hỏi nào kiểm tra giả định?"
+            },
+            {
+              "back": "Giả định ngược lại cho thấy những thay thế ẩn bởi khung gốc.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự đối lập không chứng minh điều ngược lại; nó mở rộng không gian tìm kiếm.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: con người muốn nhiều lựa chọn hơn để xem xét liệu lựa chọn ít hơn, rõ ràng hơn có thể hiệu quả hơn.",
+              "front": "Tại sao lại đảo ngược một giả định?"
+            }
+          ],
+          "title": "Dự đoán"
+        },
+        {
+          "cards": [
+            {
+              "back": "Hai thứ có thể di chuyển cùng nhau mà không gây ra cái khác.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMối quan hệ có thể bao gồm sự đảo ngược, biến số thứ ba, hoặc sự trùng hợp ngẫu nhiên.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: khi dùng cà phê và căng thẳng tăng lên, hãy xem liệu sự căng thẳng có gây ra cả hai nguyên nhân.",
+              "front": "Tại sao mối tương quan không phải là nguyên nhân?"
+            },
+            {
+              "back": "A nguyên nhân B, B gây ra A, hoặc yếu tố thứ ba gây ra cả hai.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững phương pháp thay thế này ngăn chặn những câu chuyện có hệ quả sớm.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: khi sử dụng sách và hiệu suất học tập, hãy xem xét thu nhập gia đình, sự tham gia của cha mẹ, và giáo dục.",
+              "front": "Chúng ta nên kiểm tra ba lời giải thích nào liên quan đến A và B?"
+            },
+            {
+              "back": "Những biến cố trước đó có thể xảy ra sau đó mà không cần nhắc đến.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTrí óc tự nhiên biến chuỗi thành một câu chuyện, nhưng thời gian chỉ là một yêu cầu.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: mặc áo may mắn trước khi thắng không cho thấy rằng áo sơ mi gây ra kết quả.",
+              "front": "Tại sao trình tự không chứng minh được sự nhân quả?"
+            },
+            {
+              "back": "Một số yếu tố góp phần tạo nên một kết quả.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTìm kiếm một nguyên nhân có thể che giấu ảnh hưởng tương tác và khuyết điểm.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: thất bại trong quá trình khám nghiệm có thể liên quan đến giấc ngủ, nền tảng yếu, sự lo lắng, và thực hành không đầy đủ cùng một lúc.",
+              "front": "Tại sao kết quả phức tạp thường có nhiều nguyên nhân?"
+            },
+            {
+              "back": "Một yếu tố làm thay đổi xác suất của một kết quả mà không đảm bảo nó.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHầu hết các nguyên nhân hàng ngày là xác suất hơn là đủ.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: xem việc mất ngủ như một người đóng góp cho sự tập trung kém, không chứng minh rằng mọi người mệt mỏi sẽ làm việc xấu.",
+              "front": "Cái gì?**đóng góp**Hả?"
+            },
+            {
+              "back": "Nó giải thích các bước trung gian kết nối nguyên nhân và hiệu ứng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột cơ chế làm cho dự đoán có thể xảy ra và tiết lộ quá trình có thể thất bại ở đâu.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: thay vì nói căng thẳng làm giảm hiệu quả, nhận dạng ảnh hưởng đến giấc ngủ, sự chú ý, và trí nhớ hoạt động.",
+              "front": "Tại sao một cơ chế củng cố lời tuyên bố có nhân quả?"
+            },
+            {
+              "back": "Thử nghiệm, các nhóm tương tự, các mô hình lặp đi lặp lại, thứ tự thời gian đúng, một cơ chế, và các lựa chọn loại trừ.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKhông có một món hàng nào luôn luôn chứng minh sự nhân quả, nhưng một số hỗ trợ độc lập tạo ra một trường hợp mạnh hơn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trước khi công bố một chính sách nơi làm việc cho năng suất cao hơn, hãy kiểm tra những thay đổi khác cùng lúc.",
+              "front": "Bằng chứng nào giúp chúng ta đi đến kết luận vững chắc?"
+            }
+          ],
+          "title": "Gợi ý"
+        },
+        {
+          "cards": [
+            {
+              "back": "Một điều kiện cần phải tôn trọng giải pháp.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột sự ràng buộc thực sự loại bỏ một số giải pháp có thể.\n\n[[FH_REAL_WORLD]]Một sự dị ứng nghiêm trọng là một sự ép buộc trong bữa ăn, chứ không phải sự thương lượng.",
+              "front": "Cái gì?**Hạn chế**Hả?"
+            },
+            {
+              "back": "Một điều kiện đáng mong muốn nhưng có thể thương lượng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTùy thích ảnh hưởng lựa chọn mà không cần loại bỏ một lựa chọn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Có thể thích một chuyến bay trực tiếp hơn, trong khi đến trước khi cần thời hạn.",
+              "front": "Cái gì?**Tùy thích**Hả?"
+            },
+            {
+              "back": "Thứ có thể lấy đi những giá trị khác nhau hoặc thay đổi.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nBiến tạo không gian thiết kế cho các giải pháp có thể.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: thời gian đi lại, giá cả, thời gian và tần số thường được điều chỉnh.",
+              "front": "Cái gì?**biến**Hả?"
+            },
+            {
+              "back": "Bằng chứng nào cho thấy điều này là thật?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nThói quen, truyền thống và kỳ vọng thường ngụy trang là những thứ cần thiết.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: thách thức \"cuộc gặp phải vào thứ sáu vì nó luôn luôn là\" trước khi loại trừ những ngày khác.",
+              "front": "Câu hỏi nào thật sự khác biệt với câu hỏi sai?"
+            },
+            {
+              "back": "Một sự ép buộc cứng rắn không thể bị vi phạm; một sự ép buộc mềm mại có thể được trao đổi.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự khác biệt này giúp chúng ta tránh bị từ chối một cách không cần thiết.\n\n[[FH_REAL_WORLD]]Thiếu thời gian phá cổng có thể không thể chấp nhận được, trong khi thay đổi tàu hỏa có thể chỉ là bất tiện.",
+              "front": "Những hạn chế khó khăn và mềm mại khác nhau như thế nào?"
+            },
+            {
+              "back": "Giới hạn hiện đang ngăn chặn sự tiến bộ.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCác yếu tố không liên kết phát sinh ít hiệu quả cho đến khi thay đổi giới hạn hoạt động.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Nếu thiếu hiểu biết, việc học thêm có thể không giúp ích.",
+              "front": "Cái gì?**ràng buộc**Hả?"
+            },
+            {
+              "back": "Nó tiết lộ phần nào của vấn đề mà mỗi sự ép buộc tạo ra.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nViệc gỡ bỏ tạm thời mở rộng tuỳ chọn mà không giả vờ giới hạn thực sự biến mất.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: hãy hỏi bạn sẽ làm gì với nhiều thời gian hơn, ngân sách hơn, hoặc không giới hạn địa điểm, sau đó xem liệu một phần thư giãn có thể được không.",
+              "front": "Tại sao phải thư giãn trong trí tưởng tượng?"
+            },
+            {
+              "back": "Nó tiêu hao nỗ lực mà không cần cải thiện về vật chất.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nThành phần hiển thị lớn nhất không phải luôn luôn là giới hạn hoạt động.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: tiết kiệm hai phút từ một bước nhỏ quan trọng một chút nếu một sân khấu 45 phút chi phối hành trình.",
+              "front": "Tại sao phải tránh việc tối ưu hóa một người không phải là người được huấn luyện?"
+            }
+          ],
+          "title": "Các tập hợp và biến"
+        },
+        {
+          "cards": [
+            {
+              "back": "Một lời tuyên bố chung là sai hoặc thiếu điều kiện.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nPhản ví dụ tinh luyện các quy tắc bằng cách phơi bày nơi họ ngừng áp dụng.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sử dụng quá tải sự lựa chọn để thách thức 'nhiều lựa chọn luôn luôn tốt hơn'.",
+              "front": "Phản ví dụ cho thấy gì?"
+            },
+            {
+              "back": "Một phản ví dụ đánh bại một tuyên bố phổ quát nhưng không phải là một yêu cầu cho phép ngoại lệ.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững lời tuyên bố tham nhũng đòi hỏi bằng chứng về tần suất, chứ không chỉ một ngoại lệ.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: một trong những tập thể dục bị thương phản bác 'sex' luôn luôn giúp ích' nhưng không phải 'tập thể dục thích hợp thường giúp'.",
+              "front": "Một ví dụ phản ví dụ ảnh hưởng thế nào đến những tuyên bố xác thực và phổ biến?"
+            },
+            {
+              "back": "Hai lời khẳng định không thể nào đúng theo cùng một nghĩa, thời gian và điều kiện.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững mâu thuẫn trong cha mẹ có thể biến mất sau khi làm sáng tỏ các định nghĩa hoặc ngữ cảnh.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: luyện tập có thể mang lại lợi ích nói chung và có hại khi quá mức mà không mâu thuẫn.",
+              "front": "Cái gì?**Tương phản**Hả?"
+            },
+            {
+              "back": "Hãy hỏi xem lập luận đó có được chấp nhận khi các vai trò hoặc phe đối lập bị đảo ngược hay không.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNó phơi bày những tiêu chuẩn chọn lọc và thành kiến dựa trên nhân cách.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: bạn sẽ ủng hộ cùng một sức mạnh nếu một lãnh đạo đối lập sử dụng nó?",
+              "front": "Kiểm tra đảo ngược là gì?"
+            },
+            {
+              "back": "Thay thế các đặc điểm về cảm xúc khi giữ gìn cấu trúc.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột nguyên tắc nên tồn tại sau những thay đổi về lợi ích.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: áp dụng lời bào chữa của một nhóm đối với một nhóm mà bạn không tin tưởng và kiểm tra xem nó có còn hợp lệ không.",
+              "front": "Thử nghiệm thay thế là gì?"
+            },
+            {
+              "back": "Giả sử một lời tuyên bố và theo dõi nó đến một kết quả vô lý hoặc mâu thuẫn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHậu quả có thể cho thấy giới hạn thiếu trong một nguyên tắc.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: kiểm tra \"không bao giờ can thiệp vào lựa chọn của bất kỳ ai\" chống lại những tổn hại nghiêm trọng ngay lập tức.",
+              "front": "Rerivigo ad vô lý là gì?"
+            },
+            {
+              "back": "Chúng tiết lộ những giả định ẩn gần ranh giới quy tắc.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột ngoại lệ hiếm có có thể tinh luyện một quy tắc mà không làm nó vô dụng cho những trường hợp bình thường.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: kiểm tra quy tắc người lớn hoạt động như thế nào cho trẻ em, trường hợp khẩn cấp, hay quy mô cực đoan.",
+              "front": "Tại sao trường hợp căng thẳng có ích?"
+            },
+            {
+              "back": "Phiên bản hợp lý nhất của quan điểm đối lập.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nThử thách một phương pháp nghiêm trọng tạo ra lý luận tốt hơn là tấn công một họa tiết yếu.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trước khi từ chối một nhà phê bình chính sách, hãy nói về mối quan tâm tốt nhất của họ về hiệu quả hoặc hại.",
+              "front": "Người thép là gì?"
+            },
+            {
+              "back": "Một phiên bản biến dạng yếu đuối của một vị trí khác.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNó tạo ra một chiến thắng dễ dàng mà không nói ra lời tuyên bố thực sự.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: Đừng biến việc \"lợi nhuận không cần thiết\" thành \"được thoải mái\".",
+              "front": "Người rơm là gì?"
+            },
+            {
+              "back": "Hãy làm sáng tỏ những từ ngữ, điều kiện, tuyên bố ngắn gọn, nguyên tắc cấp bậc hoặc giảm lòng tự tin.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự mâu thuẫn là thông tin chẩn đoán chỉ ra nơi mô hình cần làm việc.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sự chấp nhận và cải thiện bản thân bằng cách tách nhân phẩm hiện tại ra khỏi sự chấp nhận của mọi hành vi.",
+              "front": "Làm thế nào giải quyết được những mâu thuẫn?"
+            }
+          ],
+          "title": "Phản chiếu và sự mâu thuẫn"
+        }
+      ]
+    },
+    {
+      "name": "Nguyên lý đầu tiên 2",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "Tôi có biết chọn người có trách nhiệm không?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững quyết định đúng sẽ kiểm soát sự không chắc chắn thay vì yêu cầu loại bỏ hoàn toàn nó.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trước khi chọn một công việc, hãy xác định những điều chưa biết thiết yếu hơn là nghiên cứu vô hạn định.",
+              "front": "Câu hỏi đúng là gì khi không thể có thông tin hoàn hảo?"
+            },
+            {
+              "back": "Việc thu thập sách này chiếm thời gian, tiền bạc, sự chú ý và cơ hội.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nĐiều tiếp theo chỉ có ích nếu giá trị của nó vượt quá giá trị của nó.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: đừng bỏ ra 5 tiếng so sánh các sản phẩm rẻ tiền với những cải tiến mong đợi.",
+              "front": "Tại sao thông tin phải trả giá?"
+            },
+            {
+              "back": "Sự trì hoãn bảo tồn trạng thái hiện tại và có thể tạo ra cái giá cho chính nó.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCơ hội có thể biến mất trong khi các vấn đề vẫn còn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: chờ đợi 6 tháng cho khóa học hoàn hảo có thể mất 6 tháng để học.",
+              "front": "Tại sao không quyết định?"
+            },
+            {
+              "back": "Một số sự không chắc chắn chỉ có thể giảm đi qua kinh nghiệm hoặc một thử nghiệm nhỏ.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHành động bị kiểm soát có thể dạy nhiều hơn là chỉ những suy nghĩ trừu tượng khác.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: hãy thử một bài học, thăm viếng, trò chuyện, hoặc thói quen ngắn trước khi thực hiện đầy đủ.",
+              "front": "Tại sao hành động có thể tạo ra thông tin?"
+            },
+            {
+              "back": "Di chuyển nhanh hơn khi sửa chữa dễ dàng và chậm hơn khi phải trả giá đắt.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNỗ lực phân tích sẽ tăng lên với sự bất lực và bất lực.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: kiểm tra một thời gian biểu mới một cách nhanh chóng nhưng phải cẩn thận.",
+              "front": "Sự sửa đổi nên ảnh hưởng thế nào đến tốc độ quyết định?"
+            },
+            {
+              "back": "Hỏi xem chuyện gì sẽ xảy ra nếu quyết định sai.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự nghiêm trọng, khả năng phục hồi và lựa chọn mất mát tương lai cũng quan trọng như mặt trái.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: trước khi chấp nhận rủi ro tài chính, hãy hỏi xem sự mất mát có đe dọa đến nhu cầu thiết yếu không.",
+              "front": "Cái gì...**Thử ra dưới**Hả?"
+            },
+            {
+              "back": "Tránh những nguy hiểm khiến bạn mất đi khả năng tiếp tục học hỏi.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhiều thất bại nhỏ có thể phục hồi, còn sự đổ nát thì khác.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: bảo vệ sức khỏe, tiết kiệm cần thiết, sự tin tưởng và an toàn pháp lý trước khi theo đuổi lợi nhuận bổ sung.",
+              "front": "Nguyên tắc sống sót là gì?"
+            },
+            {
+              "back": "Giá trị của việc duy trì khả năng lựa chọn sau này.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững sự cam kết có sắp đặt và dễ hiểu rất có giá trị khi sự bấp bênh quá cao.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: thuê trước khi mua hoặc kiểm tra một khóa học ngắn trước khi đăng ký dài hạn.",
+              "front": "Cái gì?**Giá trị tùy chọn**Hả?"
+            },
+            {
+              "back": "Sự cam kết nhỏ nhất tạo ra bằng chứng hữu ích.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự cam kết nên phát triển với bằng chứng thay vì lãnh đạo nó.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: đặt một trật tự nhỏ trước khi chọn một nhà cung cấp cho một hợp đồng lớn.",
+              "front": "Sự cam kết tối thiểu là gì?"
+            },
+            {
+              "back": "Tưởng tượng rằng một quyết định sai lầm và liệt kê những nguyên nhân hợp lý.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKhả năng tiềm ẩn sẽ phơi bày những nguy cơ mà sự lạc quan thông thường đã mất.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: trước một chuyến đi nhóm, hãy tưởng tượng thất bại và kiểm tra ngân sách, tài liệu, kỳ vọng và đặt trước.",
+              "front": "Trước khi chết là gì?"
+            },
+            {
+              "back": "Một cái giá quá khứ không thể phục hồi được.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững lựa chọn trong tương lai nên được so sánh từ bây giờ trở đi.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Không tiếp tục một con đường không phù hợp chỉ bởi vì nhiều năm hoặc tiền đã được đầu tư.",
+              "front": "Cái giá phải trả là gì?"
+            },
+            {
+              "back": "Đầu tư nhiều hơn vào một lựa chọn thất bại để biện minh cho đầu tư trước đó.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhân dạng, xấu hổ và chi phí bị giảm có thể biến một lỗi nhỏ thành một lỗi lớn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Đặt tiêu chuẩn ôn lại trước khi bắt đầu dừng lại vì vậy không được hiểu là thất bại cá nhân.",
+              "front": "Sự cam kết leo thang là gì?"
+            },
+            {
+              "back": "Một điều kiện đã được xác định trước để kết thúc việc tìm kiếm, thử nghiệm hoặc đầu tư.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNgăn chặn các luật lệ ngăn chặn sự tiếp tục vô hạn do cảm xúc hoặc chi phí gia tăng nhỏ.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: ngừng nghiên cứu sau một số lựa chọn phù hợp hoặc dừng một thử nghiệm nếu đau đớn xuất hiện.",
+              "front": "Luật dừng là gì?"
+            },
+            {
+              "back": "Chọn một tùy chọn đáp ứng các tiêu chuẩn quan trọng thay vì tìm kiếm những tiêu chuẩn tốt nhất.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nChi phí tìm kiếm còn lại có thể vượt quá giá trị của một tùy chọn có vẻ tốt hơn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: chọn một khách sạn an toàn, sạch sẽ, giá cả phải chăng, và đủ gần thay vì so sánh mọi khách sạn.",
+              "front": "Cái gì?**satisficing**Hả?"
+            },
+            {
+              "back": "Nó bảo tồn những gì đã biết, giả định và giá trị trước khi kết quả xảy ra.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột tờ báo quyết định giảm đi khả năng viết lại và thành kiến về kết quả.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sau đó so sánh lý luận ban đầu với kết quả để cải thiện cân chỉnh.",
+              "front": "Tại sao ghi lại những quyết định quan trọng?"
+            }
+          ],
+          "title": "Những quyết định không chắc chắn"
+        },
+        {
+          "cards": [
+            {
+              "back": "Chia một vấn đề phức tạp thành những phần nhỏ hơn có ý nghĩa.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNó làm giảm bớt gánh nặng tinh thần và làm cho các nguyên nhân, sự phụ thuộc và hành động dễ dàng hơn để kiểm tra.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Thay thế \"Tôi tệ với tiền\" với thu nhập, chi phí cố định, chi phí biến, nợ và tiết kiệm.",
+              "front": "Cái gì?**Phân cách**Hả?"
+            },
+            {
+              "back": "Kết quả khác nhau đòi hỏi sự phân loại và giải pháp khác nhau.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột lời tuyên bố về vấn đề chỉ có ích cho sự thành công.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: một căn phòng lộn xộn có thể bị phân hủy khác nhau cho vệ sinh, sự thoải mái, hoặc tìm kiếm nhanh chóng vật dụng.",
+              "front": "Tại sao định nghĩa kết cuộc mong muốn trước khi phân hủy?"
+            },
+            {
+              "back": "Các bộ phận tương tác, do đó, các giải pháp khác nhau có thể tạo ra các hiệu ứng phụ toàn hệ thống.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự phân hủy mà không cần tái kết nối trở nên quá đơn giản hóa.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: cải thiện giấc ngủ bằng cách cắt giờ làm việc có thể tạo ra căng thẳng tài chính làm tổn hại giấc ngủ một lần nữa.",
+              "front": "Tại sao cần phải phân chia và tái phối hợp?"
+            },
+            {
+              "back": "Nhập vào một tiến trình tạo ra kết xuất.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nĐầu ra kém có thể đến từ đầu vào yếu, một quá trình bị hỏng, hoặc cả hai.\n\nDịch bởi Vũ Hạnh, Mai Linh, Nga, Huy Tô, Yuki, Ann, Phương Biểu đồ:\n; người giúp việc\nđồ thị LR\nNhập [inputs] --> Tiến trình\nTiến trình --> Kết xuất\n%s\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: để học tập, thanh tra thời gian và kiến thức trước, phương pháp nghiên cứu, và sau đó nhớ lại.",
+              "front": "Mô hình đầu vào là gì?"
+            },
+            {
+              "back": "Điều gì đó phải xảy ra trước khi một phần khác có thể thành công.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nBỏ qua các quan hệ phụ thuộc gây ra nỗ lực khi chưa thể hoạt động.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: xây dựng kiến thức nền tảng trước khi thử vật liệu cần thiết.",
+              "front": "Cái gì?**Phụ thuộc**Hả?"
+            },
+            {
+              "back": "Mỗi loại đòi hỏi một phản ứng khác nhau.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHành động trực tiếp phù hợp với những yếu tố có thể kiểm soát được, thuyết phục phù hợp với những yếu tố có thể ảnh hưởng, và thích nghi phù hợp với những yếu tố không kiểm soát được.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: điều khiển sự chuẩn bị, các quyết định của nhóm ảnh hưởng, và thích nghi với thời tiết.",
+              "front": "Tại sao có những yếu tố có thể kiểm soát, có thể ảnh hưởng và kiểm soát được?"
+            },
+            {
+              "back": "Phần hẹp nhất có thể quan sát, thử nghiệm hoặc cải thiện một cách đầy ý nghĩa.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nVấn đề nhỏ hơn làm cho hành động và phản hồi có thể mà không giả vờ toàn bộ vấn đề được giải quyết.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: thay thế \"cuộc sống của tôi vô tổ chức\" bằng \"Tôi mất chìa khóa 3 lần một tuần\".",
+              "front": "Cái gì...**vấn đề nhỏ hữu ích**Hả?"
+            },
+            {
+              "back": "Họ nên giảm thiểu sự chồng chéo và bao gồm toàn bộ sự quan trọng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nPhân loại quá nhiều nhầm lẫn; phân loại còn thiếu nguyên nhân ẩn.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: sự suy sụp chi tiêu nên tránh chi phí đếm kép nhà hàng và nên bao gồm các loại chính.",
+              "front": "Điều gì giúp phân loại hữu ích trong sự phân chia?"
+            },
+            {
+              "back": "Một bản đồ từ một kết quả có thể thấy được đến những nguyên nhân có thể xảy ra.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNó tổ chức các giả thuyết mà không điều trị bất cứ chi nhánh nào như đã chứng minh.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: kiệt sức, chi nhánh để phục hồi, làm việc nặng nề, sức khỏe, dinh dưỡng và môi trường.",
+              "front": "Cây có vấn đề gì?"
+            },
+            {
+              "back": "Thay đổi mọi thứ ngay lập tức khiến khó tìm ra điều quan trọng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKiểm tra kỹ càng sản xuất thông tin về tai.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: Khi một cây không lành mạnh, không thay đổi nước, ánh sáng, đất và phân bón cùng lúc.",
+              "front": "Tại sao phải kiểm tra từng chi nhánh một khi có thể được?"
+            }
+          ],
+          "title": "Phân cách"
+        },
+        {
+          "cards": [
+            {
+              "back": "Những ý nghĩa khác nhau có thể tạo ra sự bất đồng sai lầm.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững từ như \"an toàn\", \"an toàn\", và \"thành công\" thì quá rộng cho đến khi ý nghĩa của chúng được xác định rõ ràng.\n\n[[FH_REAL_WORLD]]Trước khi tranh luận về việc khu phố có an toàn không, hãy quyết định xem an toàn có nghĩa là tội phạm bạo lực, giao thông, ánh sáng, hay điều gì khác.",
+              "front": "Tại sao định nghĩa những từ quan trọng trước khi lý luận?"
+            },
+            {
+              "back": "Một định nghĩa được ghi rõ qua các tiêu chuẩn quan sát hoặc đo lường.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKinh Thánh giải thích làm thế nào một khái niệm sẽ được công nhận trên thực tế.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: định nghĩa \"nhân viên đáng yêu\" thông qua hành vi như hội nghị hạn chót và giao tiếp chậm trễ sớm.",
+              "front": "Cái gì?**định nghĩa thao tác**Hả?"
+            },
+            {
+              "back": "Nó có thể thay đổi cách cư xử mà không tiết lộ nguyên nhân của nó.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nGọi ai đó là chậm chạp có thể là vòng tròn nếu bằng chứng duy nhất là họ tránh né một nhiệm vụ.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: thay vì đổ lỗi cho lười biếng, kiểm tra rõ ràng, kỹ năng, mệt mỏi, sợ hãi, động lực, và giá trị nhiệm vụ.",
+              "front": "Tại sao nhãn hiệu không phải là một lời giải thích tự động?"
+            },
+            {
+              "back": "Nó bao gồm những gì? Nó loại trừ cái gì? Làm thế nào người ta nhận ra nó? Nó được đo như thế nào? Người khác có thể có ý khác không?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững câu hỏi này biến một từ linh hoạt thành một khái niệm có thể sử dụng được.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: hãy dùng chúng trước khi đặt mục tiêu như là 'có năng suất cao' hoặc 'mua thứ gì đó chất lượng cao'.",
+              "front": "Năm câu hỏi nào cải thiện một định nghĩa mơ hồ?"
+            },
+            {
+              "back": "Biến nó thành một kết quả có thể quan sát được với ranh giới.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTính chính xác giúp chúng ta tiến bộ một cách dễ dàng và vạch trần những bất đồng thầm kín.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: thay thế 'hãy sử dụng thời gian của tôi tốt hơn' với một kết quả rõ ràng, như hoàn thành ba nhiệm vụ ưu tiên trước 3 giờ chiều.",
+              "front": "Một mục tiêu mơ hồ nên được cải thiện như thế nào?"
+            }
+          ],
+          "title": "Định nghĩa và độ chính xác"
+        },
+        {
+          "cards": [
+            {
+              "back": "Giảm vấn đề thành những nguyên tắc cơ bản đáng tin cậy, rồi xây dựng lên trên.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nPhương pháp bắt đầu từ những gì thực tế yêu cầu hơn là câu trả lời hiện tại.\n\n[[FH_REAL_WORLD]]Trước khi sao chép một phương pháp nghiên cứu thông thường, lấy từ trí nhớ, phản hồi và chuyển đổi.",
+              "front": "Hành động chủ yếu của lý luận ưu tiên là gì?"
+            },
+            {
+              "back": "Các bản sao của một trường hợp tương tự; nguyên tắc đầu tiên xuất phát từ những sự kiện căn bản và hạn chế.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nPhẫu thuật có hiệu quả nhưng có thể thất bại khi có những tình trạng khác nhau.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sử dụng chính sách của đất nước khác chỉ sau khi kiểm tra các cơ chế và bối cảnh chung.",
+              "front": "Sự so sánh khác với lý luận ưu tiên như thế nào?"
+            },
+            {
+              "back": "Nó đáng tin cậy, có liên quan và khó giảm bớt trong vấn đề.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNiềm tin và đại hội quen thuộc không phải là những điều cơ bản tự động.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: giới hạn thời gian và sự tập trung bắt đầu mạnh hơn việc làm nghiêm túc đòi hỏi nhiều giờ.",
+              "front": "Nguyên tắc đầu tiên hữu ích là gì?"
+            },
+            {
+              "back": "Nó cho thấy lý luận nào có thể thất bại.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKết luận thừa hưởng sự không chắc chắn từ giả định và sai sót từ logic.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: từ 24 giờ, cho rằng cần ngủ, và những cam kết cố định, có được thời gian thực tế.",
+              "front": "Tại sao có những sự kiện, giả định và kết luận riêng?"
+            },
+            {
+              "back": "Khi những sự kiện còn lại đủ đáng tin cậy, có liên quan, chia sẻ và có thể thực hiện được.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCắt giảm vô hạn có thể trở nên thú vị về mặt triết học nhưng gần như vô dụng.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: dừng lại một khi nền tảng là đủ để chọn một bữa ăn, đường đi, hoặc kế hoạch.",
+              "front": "Khi nào thì nên ngừng đặt câu hỏi \"tại sao\"?"
+            },
+            {
+              "back": "Phá vỡ một giải pháp vào các công việc cần thực hiện.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHàm hiển thị các thay thế bị ẩn bởi đối tượng hoặc phương pháp hiện thời.\n\n[[FH_REAL_WORLD]]Một chức năng của bảng có thể là một bề mặt làm việc ổn định, mà có thể được giao bởi nhiều thiết kế.",
+              "front": "Phân hủy chức năng là gì?"
+            },
+            {
+              "back": "Giải pháp đơn giản nhất thỏa mãn các chức năng và hạn chế cần thiết.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMỗi thành phần phụ nên biện minh cho cái giá và rủi ro thất bại của nó.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: xác nhận năm khách ăn tối với một thông điệp rõ ràng thay vì xây dựng một hệ thống đăng ký.",
+              "front": "Giải pháp tối thiểu là gì?"
+            },
+            {
+              "back": "Chúng tiết lộ điều gì phải có trước khi thành công.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCó thể gỡ bỏ hoặc thay thế những tính năng quen thuộc không cần thiết.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: một cuộc thảo luận hiệu quả đòi hỏi giao tiếp và thông tin, không nhất thiết là một căn phòng lớn.",
+              "front": "Tại sao có được điều kiện cần thiết?"
+            },
+            {
+              "back": "Các tổ hợp khác nhau có thể tạo ra kết quả tương tự.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nLý luận đầu tiên tạo ra một giải pháp hợp lệ không gian thay vì một câu trả lời bắt buộc.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sự phù hợp có thể đến từ đi bộ, thể thao, bơi lội hoặc tập thể dục khi cần thiết.",
+              "front": "Tại sao nhiều giải pháp có thể thỏa mãn những nguyên tắc cơ bản như thế?"
+            },
+            {
+              "back": "Một kết luận bắt nguồn có thể được tái tạo và thích nghi.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nGhi nhớ lưu trữ câu trả lời mà không đảm bảo sự hiểu biết về các mối quan hệ.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Nếu một công thức bị lãng quên, xây dựng lại nó từ các đơn vị và định nghĩa.",
+              "front": "Tại sao sự thoái hóa mạnh hơn việc nhớ lại?"
+            },
+            {
+              "back": "Họ tiết lộ liệu các đầu vào có thể tạo ra kết quả đã được xác nhận.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKhông thể sửa chữa một cơ chế bị mất bằng cách thêm vào một số thông tin sai.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: nhiều hoạt động không tự động tạo ra sự tiến bộ, cũng như các đơn vị không tương thích không hình thành một số lượng hợp lệ.",
+              "front": "Tại sao lại kiểm tra đơn vị hay chiều không gian?"
+            },
+            {
+              "back": "Giới hạn về mặt lý thuyết.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nGiới hạn ngăn chặn kế hoạch chi tiết về những mong đợi không thể xảy ra.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: một hành trình 100 ki lô mét với vận tốc tối đa 100 km/giờ không thể mất ít hơn một giờ.",
+              "front": "Giới hạn dưới và trên là bao nhiêu?"
+            },
+            {
+              "back": "Một điều gì đó phải luôn đúng với những giải pháp có thể.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững người vô tổ chức đơn giản hóa vấn đề bằng cách xác định điều gì không thể thay đổi.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sự chuyển giao thay đổi cân bằng tài khoản trong khi để lại số tiền không thay đổi, không thay đổi.",
+              "front": "Cái gì?**invarant**Hả?"
+            },
+            {
+              "back": "Xác định kết quả, loại bỏ các giải pháp hiện tại, danh sách các sự kiện, xác định các hạn chế cứng, xác định các chức năng, tìm ra cơ chế, tạo ra các thay thế, ước tính khả thi, các giả định thử nghiệm, so sánh đánh đổi.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nChuỗi xây dựng lại từ thực tế thay vì hội nghị.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sử dụng nó để thiết kế lại giao tiếp, giao thông, học tập, hoặc hệ thống gia đình.",
+              "front": "Quá trình xây dựng lại 10 bước nào?"
+            }
+          ],
+          "title": "Từ những nguyên tắc đầu tiên"
+        }
+      ]
+    },
+    {
+      "name": "Nguyên lý đầu tiên 3",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "Một tuyên bố về thế giới.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNó có thể được điều tra thông qua quan sát, hồ sơ, đo lường, hoặc thí nghiệm.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: liệu cuộc hành trình có mất 40 phút hay không là một câu hỏi thực tế.",
+              "front": "Lời miêu tả là gì?"
+            },
+            {
+              "back": "Một tuyên bố về thế giới nên như thế nào.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNó tùy thuộc vào mục tiêu, giá trị, quyền lợi hoặc tiêu chuẩn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: 40 phút có quá dài hay không phụ thuộc vào những vấn đề và những lựa chọn nào tồn tại.",
+              "front": "Một lời tuyên bố theo quy tắc là gì?"
+            },
+            {
+              "back": "Chỉ sự kiện thôi cũng không hợp lý để xác định phải làm gì.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột đề nghị cần thêm một tiền đề giá trị.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: cạnh tranh tồn tại trong tự nhiên không chứng minh xã hội nên tối đa hóa cạnh tranh.",
+              "front": "Khoảng cách là bao nhiêu?"
+            },
+            {
+              "back": "Một niềm tin vô căn cứ về điều gì nên quan trọng hoặc đặt ưu tiên.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNó liên kết bằng chứng với một kết luận theo quy tắc.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: gọi một chương trình đắt tiền không đáng giá, cho rằng chi phí cao hơn lợi ích và bổn phận của nó.",
+              "front": "Một tiền đề có giá trị ẩn giấu là gì?"
+            },
+            {
+              "back": "Giá trị lựa chọn mục tiêu; sự kiện cho thấy phương pháp nào có thể đạt được.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nÝ định tốt không thể thay thế bằng chứng về hậu quả.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: để giảm thiểu sự vô gia cư, làm rõ mục tiêu đạo đức và thử nghiệm mà thực sự hiệu quả.",
+              "front": "Các giá trị và sự kiện hoạt động cùng nhau như thế nào?"
+            },
+            {
+              "back": "Sở thích là sở thích, giá trị là điều quan trọng, và một hành động hướng dẫn nguyên tắc.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTâm sự với họ có thể làm cho thị hiếu cá nhân nghe giống như một bổn phận phổ biến.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: việc ưa thích trà khác với việc định giá sức khỏe hoặc theo một nguyên tắc giữ lời hứa.",
+              "front": "Sở thích, giá trị và nguyên tắc khác nhau như thế nào?"
+            },
+            {
+              "back": "Giá trị cấu trúc giúp tạo ra một đầu mối khác; giá trị nội tại được giá trị riêng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự khác biệt cho thấy một phương pháp có thể được thay thế hay không.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: tiền bạc thường là công cụ cho an ninh, tự do, thoải mái, hoặc địa vị.",
+              "front": "Sự khác biệt giữa công cụ và giá trị nội tại là gì?"
+            },
+            {
+              "back": "Giá trị có thể mâu thuẫn thật sự.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự tự do, an toàn, lương thiện, nhân từ, bình đẳng và trung thành có thể chỉ ra những hướng khác nhau.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: một chính sách riêng tư có thể đòi hỏi phải chọn xem mức độ an toàn có thể giảm đi sự riêng tư.",
+              "front": "Tại sao những quyết định khó khăn thường tồn tại sau khi người ta biết được sự kiện?"
+            },
+            {
+              "back": "Một quy tắc có giá trị ưu tiên trong điều kiện xác định.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNếu không có cấp bậc, nguyên tắc có thể mâu thuẫn với nhau trong những trường hợp khó khăn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Ngăn chặn những thiệt hại nghiêm trọng có thể vượt quá một lời hứa bình thường.",
+              "front": "Hệ thống phân cấp giá trị là gì?"
+            },
+            {
+              "back": "Sự công bằng có nhiều tiêu chuẩn như bình đẳng, nhu cầu, đóng góp, nỗ lực, cơ hội, thủ tục và bồi thường.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKết quả có thể là công bằng dưới một tiêu chuẩn và sự bất công.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trước khi tranh luận về phân phối, bang mà nguyên tắc công bằng đang được sử dụng.",
+              "front": "Tại sao sự bất đồng ý kiến có thể kéo dài?"
+            },
+            {
+              "back": "Ý định tốt không bảo đảm kết quả tốt, và kết quả không có ý xấu.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTrách nhiệm tùy thuộc vào mục đích, kiến thức, kiểm soát, khả năng thấy trước và sự đề phòng.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: đánh giá cả hai lý do tại sao một quyết định đã được đưa ra và những rủi ro nào là hợp lý có thể biết được.",
+              "front": "Tại sao phải tách biệt khỏi hậu quả?"
+            },
+            {
+              "back": "Một lời đồng ý chính thức có thể không tự do lựa chọn khi từ chối mang lại hậu quả nghiêm trọng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCần phải có thông tin, sự hiểu biết, khả năng và khả năng từ chối chân thật.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: kiểm tra nhân viên chủ nhân hoặc các thỏa thuận chủ nhà cho quyền lực mặc cả bất bình đẳng.",
+              "front": "Quyền lực ảnh hưởng thế nào đến sự đồng ý đầy ý nghĩa?"
+            },
+            {
+              "back": "Đưa ra một phán xét có giá trị như một sự kiện khách quan.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững từ như \"xấu\", \"bình thường\", và \"kính trọng\" thường che giấu tiêu chuẩn.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: hãy hỏi 'xấu bởi tiêu chuẩn nào?' trước khi chấp nhận một phán quyết văn hóa hoặc cá nhân.",
+              "front": "Sự thật là gì?"
+            },
+            {
+              "back": "Đối xử với mọi khẳng định như một quan điểm ngay cả khi bằng chứng có thể quyết định điều đó.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nGiá trị của nó là quan trọng, nhưng sự thật vẫn bắt buộc hành động và niềm tin.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: dù một cây cầu hỗ trợ một gánh nặng không chỉ là vấn đề ưu tiên.",
+              "front": "Chủ nghĩa tương đối sai lầm là gì?"
+            },
+            {
+              "back": "Sự bất đồng ý kiến cần bằng chứng rõ ràng hơn; giá trị bất đồng cần ưu tiên rõ ràng hơn và đánh đổi.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhiều dữ liệu hơn không thể giải quyết một xung đột về cơ bản về những gì nên quan trọng.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Trong một cuộc tranh luận về đường sá, mỗi người phải trả một khoản chi phí và dự đoán giao thông từ những phán quyết về sự dịch chuyển và tăng trưởng.",
+              "front": "Sự bất đồng ý kiến và giá trị thực tế đòi hỏi sự đáp ứng khác nhau như thế nào?"
+            }
+          ],
+          "title": "Sự thật và giá trị"
+        },
+        {
+          "cards": [
+            {
+              "back": "Thể chất, logic, thể chế và truyền thống.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nPhân loại quyết định giới hạn phải được tôn trọng, thương lượng, thiết kế lại, hoặc đặt câu hỏi.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: giới hạn vật chất khác với luật, và luật khác với thói quen nơi làm việc.",
+              "front": "Người ta nhận ra bốn loại giới hạn nào?"
+            },
+            {
+              "back": "Một sự ràng buộc cơ bản đến từ thực tế hoặc logic; một luật lệ di truyền đến từ một hệ thống, tập quán hoặc thói quen.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững quy luật do con người tạo ra có thể rất quan trọng mà không cần là luật tự nhiên.\n\n[[FH_REAL_WORLD]]Hãy hỏi xem một quy trình cần thiết về thể chất hay đơn giản là tổ chức đang hoạt động như thế nào.",
+              "front": "Điều gì khác biệt giữa sự hạn chế cơ bản và sự cai trị di truyền?"
+            },
+            {
+              "back": "Luật lệ thường là phương pháp để đạt được mục tiêu sâu sắc hơn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMục đích có thể được bảo tồn qua một hình thức khác.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Một quy tắc văn phòng có thể nhắm vào sự liên lạc, an ninh hoặc giám sát thay vì sự hiện diện của chính thân thể.",
+              "front": "Tại sao hỏi một luật lệ có mục đích gì?"
+            },
+            {
+              "back": "Những lựa chọn trước đó khiến những phương pháp thay thế sau này tốn kém hoặc khó khăn hơn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột hệ thống hiện tại có thể tồn tại vì lịch sử được xây dựng chung quanh nó, không phải vì nó lý tưởng.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: vị trí trạm định hình đường, doanh nghiệp và nhà ở sau quyết định ban đầu.",
+              "front": "Điều gì là phụ thuộc vào các tổ chức?"
+            },
+            {
+              "back": "Các hội nghị chia sẻ tạo sự phối hợp.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nGiá trị của nó có thể đến từ sự chấp nhận thông thường thay vì sự ưu việt bẩm sinh.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: lái xe trên một mặt đồng thuận của con đường là hữu ích ngay cả khi phía được chọn là tùy ý.",
+              "front": "Tại sao một hội nghị tùy tiện vẫn còn hữu ích?"
+            },
+            {
+              "back": "Thiếu kỹ năng, tài nguyên, sự cho phép, sự sẵn sàng, sự tự tin hoặc cái giá chấp nhận được.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nÝ nghĩa khác nhau đòi hỏi giải pháp khác nhau.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Phân tích liệu một người không thể tham dự, không thể chi trả, hay đơn giản là không muốn tham dự.",
+              "front": "\"Tôi không thể\" nghĩa là gì ngoài không thể?"
+            },
+            {
+              "back": "Hoàn toàn không thể xảy ra; không thể có điều kiện trong tình trạng hiện tại.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nThay đổi thời gian, ngân sách, phương pháp hoặc sự cho phép có thể thay đổi giới hạn điều kiện.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Thay thế « Điều này không thể được » bằng « không phải với thời hạn và tài nguyên hiện tại ».",
+              "front": "Hoàn toàn và có điều kiện khác nhau như thế nào?"
+            },
+            {
+              "back": "Trao đổi nguồn lực khan hiếm này lấy nguồn lực khác.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nGiải pháp khác nhau tùy thuộc vào thời gian, tiền bạc, kỹ năng, không gian hoặc hỗ trợ.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sử dụng thời gian để sửa chữa thay vì tiền bạc để thay thế, hoặc tiền để tiết kiệm thời gian.",
+              "front": "Điều gì là ép buộc thay thế?"
+            },
+            {
+              "back": "Sử dụng một giới hạn để định hình một lợi thế hữu ích.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột sự ràng buộc có thể khuyến khích sự ưu tiên, đơn giản hóa hoặc thiết kế sáng tạo.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: không gian hạn chế có thể dẫn đến ít tài sản hơn và đồ nội thất đa mục đích.",
+              "front": "Sự ép buộc là gì?"
+            },
+            {
+              "back": "Luật phân phối chi phí và lợi thế không cân xứng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững động lực và quyền lực có thể giải thích tại sao một hệ thống nặng nề vẫn còn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: một quá trình ứng dụng phức tạp có thể bảo vệ chất lượng hoặc cũng có thể giảm cạnh tranh.",
+              "front": "Tại sao hỏi ai được lợi ích từ một luật lệ?"
+            },
+            {
+              "back": "Hiểu tại sao một quy tắc tồn tại trước khi loại bỏ nó.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột sự hạn chế hữu hình có thể bảo vệ chúng ta khỏi mối nguy hiểm tiềm ẩn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Kiểm tra một cuộc họp thường xuyên chỉ sau khi xác định được nhu cầu phối hợp.",
+              "front": "Hàng rào của Chesterton là gì?"
+            },
+            {
+              "back": "Nó tạo ra bằng chứng trong khi hạn chế mặt trái.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCác hệ thống thích nghi khi luật lệ thay đổi, vì thế có thể dẫn đến hậu quả bất ngờ.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: ngắn hoặc giảm một cuộc họp trong một tháng trước khi hủy bỏ nó vĩnh viễn.",
+              "front": "Tại sao lại dùng một thử nghiệm có thể đảo ngược trước khi loại bỏ một quy tắc?"
+            }
+          ],
+          "title": "Các chi phái cơ bản và di truyền"
+        },
+        {
+          "cards": [
+            {
+              "back": "Kết luận không rộng hơn bằng chứng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKích thước và phạm vi của lời tuyên bố nên khớp với trường hợp và điều kiện quan sát được.\n\n[[FH_REAL_WORLD]]Một nhà hàng tệ hại đến thăm hỗ trợ kết luận về chuyến viếng thăm đó, không phải toàn thành phố.",
+              "front": "Nói chung thì đòi hỏi gì?"
+            },
+            {
+              "back": "Những tuyên bố phổ thông không cho phép ngoại lệ và đòi hỏi bằng chứng hùng hồn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột phản đối hợp lệ Ví dụ đánh bại một tuyên bố phổ quát.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Thay thế 'người ta không bao giờ thay đổi' với một yêu cầu hẹp hơn xác định điều kiện và tần số.",
+              "front": "Tại sao những từ như \"luôn luôn\" và \"mọi người\" phải thận trọng?"
+            },
+            {
+              "back": "Một mẫu được quan sát; một nhóm đông hơn bị suy giảm.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTổng quát hóa phụ thuộc vào liệu mẫu có đại diện cho dân số mục tiêu.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: một cuộc khảo sát 500 cư dân chỉ có ích nếu những người trả lời đó giống như thành phố được mô tả.",
+              "front": "Sự khác biệt giữa mẫu và dân số là gì?"
+            },
+            {
+              "back": "Một mẫu vật có hệ thống khác với số người chú ý.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKích thước mẫu lớn không thể sửa chữa một quá trình chọn thành kiến.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Một cuộc thăm dò trực tuyến về việc sử dụng Internet có thể làm lu mờ những người hiếm khi lên mạng.",
+              "front": "Cái gì?**Thành kiến chọn**Hả?"
+            },
+            {
+              "back": "Sự chú ý chỉ giới hạn trong khi những thất bại không còn thấy được.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nChỉ có việc nghiên cứu những người sống sót mới che giấu việc bao nhiêu người sử dụng cùng một chiến lược và thất bại.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: Đừng suy ra rằng lờ đi lời khuyên sẽ tạo thành công từ những người nổi tiếng đã làm thế.",
+              "front": "Cái gì?**thành kiến với người sống sót**Hả?"
+            },
+            {
+              "back": "Rằng có điều gì đó có thể xảy ra, chứ không thường xảy ra như thế nào.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nAnecdotes là hữu ích cho khả năng và thế hệ giả thuyết nhưng yếu cho tần số.\n\n[[FH_REAL_WORLD]]Một ứng dụng trong thế giới thực: một sự hồi phục khác thường không cho thấy rằng từ chối điều trị nói chung là an toàn.",
+              "front": "Một chuyện ngụ ngôn có thể chứng minh điều gì?"
+            },
+            {
+              "back": "Sự biến đổi ngẫu nhiên ảnh hưởng lớn đến một vài nhận xét.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nChuỗi ngắn thường trông khắc nghiệt hơn mô hình chạy dài.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Đừng tuyên bố một xu thiên vị sau khi một nhỏ đầu.",
+              "front": "Tại sao các mẫu nhỏ không ổn định?"
+            },
+            {
+              "back": "Chúng có thể giấu sự phân phối và biến thể cá nhân.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột tiến bộ đáng kể không có nghĩa là mỗi người tham gia đều được cải thiện.\n\n[[FH_REAL_WORLD]]Hãy hỏi xem có bao nhiêu cải tiến, bao nhiêu, và liệu một số có trở nên tệ hơn không.",
+              "front": "Tại sao trung bình có thể bị lừa?"
+            },
+            {
+              "back": "Trung bình tập thể mô tả phân phối, không phải mỗi thành viên.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nThành viên thay đổi rất nhiều khả năng; nó không mô tả đầy đủ một người.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: đừng suy luận khả năng hay hành vi của cá nhân từ mức trung bình dân số.",
+              "front": "Tại sao sự khác biệt về nhóm không xác định cá nhân?"
+            },
+            {
+              "back": "Dự đoán bên ngoài phạm vi hoặc điều kiện đã quan sát thấy.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMối quan hệ có thể trở nên phi tuyến tính hoặc thất bại khi quy mô, số lượng, địa điểm hoặc sự thay đổi thời gian.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: một liều nhỏ có ích không chứng minh một liều lượng lớn là tốt hơn.",
+              "front": "Sự độc đoán là gì?"
+            },
+            {
+              "back": "Sự kết hợp, phức tạp, động cơ và cổ chai thay đổi kích thước.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột phương pháp hiệu quả với mười người có thể thất bại với mười ngàn người.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: truyền thông có thể hoạt động trong một gia đình nhưng không phải một tổ chức lớn.",
+              "front": "Tại sao có thể thay đổi tỉ lệ?"
+            },
+            {
+              "back": "Một hiệu quả thật sự có thể quá nhỏ để bào chữa cho cái giá của nó.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững mẫu lớn có thể phát hiện những khác biệt rất nhỏ không quan trọng về hoạt động.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Hỏi xem liệu sự cải thiện 0.2% có đáng được thực hiện hay không.",
+              "front": "Tại sao phải phân biệt ý nghĩa thống kê và tầm quan trọng thực tế?"
+            },
+            {
+              "back": "Phần trăm tương đối có thể phóng đại những thay đổi cơ bản nhỏ.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCả hai quan điểm đều có giá trị toán học nhưng trả lời những câu hỏi khác nhau.\n\n[[FH_REAL_WORLD]]Một ứng dụng trong thế giới thực: rủi ro giảm từ 2 xuống còn 1 trong 10,000 là giảm 50% và giảm đi 1 trên 10,000.",
+              "front": "Tại sao lại so sánh hiệu ứng tương đối và tuyệt đối?"
+            },
+            {
+              "back": "Điều kiện cho kết luận áp dụng hoặc ngừng áp dụng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự hiểu biết thành thục bao gồm cả quy tắc và giới hạn của nó.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: tập thể dục có thể giúp sức khỏe dưới cường độ phù hợp và phục hồi nhưng gây hại trong khi bị thương nặng.",
+              "front": "Cái gì?**điều kiện giới hạn**Hả?"
+            }
+          ],
+          "title": "Chung"
+        },
+        {
+          "cards": [
+            {
+              "back": "Phương pháp chỉ có thể đạt được kết quả mong muốn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nLiên kết hai điều này với nhau và tạo ra những hạn chế sai lầm.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: thay vì giả sử bạn cần một chiếc xe, làm rõ mục tiêu là giao dịch, mang theo đồ đạc, hay tiết kiệm thời gian.",
+              "front": "Tại sao lại tách rời mục tiêu khỏi phương pháp?"
+            },
+            {
+              "back": "Mục tiêu là kết quả, chiến lược là phương pháp tiếp cận, và hành động là hành động cụ thể.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nViệc tách những tầng này giúp bạn thay thế hành động mà không từ bỏ mục tiêu.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: đối với sức khỏe, mục tiêu có thể là tập thể dục, chiến lược di chuyển nhiều hơn, và hoạt động đi bộ 30 phút.",
+              "front": "Chào.**đích**.**chiến thuật**, và**hành động**khác nhau?"
+            },
+            {
+              "back": "Tôi đang cố gắng tạo ra kết quả nào?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCâu hỏi này gợi sự chú ý từ một giải pháp quen thuộc đến nhu cầu của con người.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trước khi mua một ngôi nhà lớn hơn, hãy hỏi xem nhu cầu thực sự là không gian làm việc yên tĩnh, lưu trữ, riêng tư hay địa vị.",
+              "front": "Câu hỏi nào cho thấy mục tiêu sâu xa hơn nằm sau một phương pháp được đề nghị?"
+            },
+            {
+              "back": "Khi một biện pháp thay thế mục đích ban đầu.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMọi người bắt đầu tối ưu hóa ủy nhiệm thay vì kết quả làm cho nó có ích.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: bước quan trọng nên hỗ trợ sức khỏe hơn là trở thành lý do để bỏ qua đau đớn hoặc phục hồi.",
+              "front": "Cái gì?**Chuyển đổi đích**Hả?"
+            },
+            {
+              "back": "Một mục tiêu miêu tả điều bạn muốn; một sự hạn chế miêu tả giải pháp phải tôn trọng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột giải pháp tốt thỏa mãn kết quả mong muốn trong giới hạn khó khăn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: đối với du lịch sân bay, mục tiêu là đạt đến giai đoạn cuối; ngân sách, hành lý, và thời hạn chót là giới hạn.",
+              "front": "Mục tiêu và hạn chế khác nhau như thế nào?"
+            },
+            {
+              "back": "Kết quả là gì? Tại sao? Sự thành công sẽ được công nhận như thế nào? Khi nào? Giới hạn nào? Những bộ phận nào cần thiết để so sánh?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững câu hỏi này cho biết rõ mục tiêu để hướng dẫn sự lựa chọn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sử dụng chúng trước khi chọn công việc, thói quen, mua sắm, hoặc thay đổi cuộc sống.",
+              "front": "Sáu câu hỏi nào định nghĩa một mục tiêu hữu ích?"
+            }
+          ],
+          "title": "Mục tiêu và phương pháp"
+        }
+      ]
+    },
+    {
+      "name": "Nguyên lý đầu tiên 4",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "Giải quyết thành công bằng cách xác định điều gì sẽ gây ra thất bại.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTình trạng thất bại thường dễ thấy hơn con đường lý tưởng.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: cải thiện tình bạn, lên danh sách hành vi phá hủy lòng tin và loại bỏ chúng.",
+              "front": "Cái gì?**đảo ngược**Hả?"
+            },
+            {
+              "back": "Lý luận tiến bộ tạo ra những hành động tiếp theo; lý luận ngược tiết lộ những điều kiện tiên quyết và hạn chót.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nThỏa thuận giữa họ làm tăng lòng tin vào kế hoạch.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: lên kế hoạch bay bằng cách di chuyển về phía trước từ bây giờ và sau từ đóng cửa.",
+              "front": "Lý luận trước và sau bổ sung cho nhau như thế nào?"
+            },
+            {
+              "back": "Một thành phần mà thất bại phá hủy toàn bộ hệ thống.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nLoại bỏ sự phụ thuộc một điểm giúp tăng cường khả năng chịu đựng.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Đừng để một người giữ mật khẩu duy nhất hoặc một thiết bị giữ tài liệu duy nhất.",
+              "front": "Một điểm thất bại là gì?"
+            },
+            {
+              "back": "Thêm khả năng, bản sao hoặc những phương pháp khác ngoài nhu cầu thông thường.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTrông dư thừa không hiệu quả cho đến khi có sự gián đoạn xảy ra.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: lưu dự phòng, tiết kiệm khẩn cấp, đường đi thay thế, và chia sẻ kiến thức.",
+              "front": "Sự dư thừa là gì?"
+            },
+            {
+              "back": "Khoảng cách giữa nhu cầu bình thường và giới hạn thất bại.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nLề bảo vệ chống lại sự không chắc chắn, biến thể và sai sót đo lường.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: hãy để lại thời gian du lịch, ngân sách và năng lượng công việc dưới mức tối đa của chúng.",
+              "front": "Những lề an toàn là gì?"
+            },
+            {
+              "back": "Hiểu biết những gì liên tục thất bại hoặc gây ra tai hại.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTránh những thiệt hại có thể dự đoán trước có thể đáng tin cậy hơn là tìm ra chiến lược hoàn hảo.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: an ninh tài chính có thể cải thiện nhiều hơn bằng cách tránh nợ nần đắt tiền hơn là tìm kiếm một đầu tư ngoại lệ.",
+              "front": "Sự hiểu biết tiêu cực là gì?"
+            },
+            {
+              "back": "Một nền tảng hủy diệt có thể làm choáng ngợp sự cải tiến.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nPhòng ngừa thường có giá trị cao hơn so với việc phóng to ngoài lề.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trước khi tìm kiếm các nghiên cứu hack, dừng cả đêm nhồi nhét và sửa chữa phản hồi bị thiếu.",
+              "front": "Tại sao lại loại bỏ điều kiện thất bại trước khi tối ưu hóa?"
+            },
+            {
+              "back": "Bắt đầu từ kết quả cuối cùng và nhiều lần hỏi điều gì phải xảy ra ngay trước khi nó xảy ra.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNó tiết lộ các quan hệ phụ thuộc và thứ tự chuẩn bị.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: vượt qua một bài kiểm tra đòi hỏi hiệu suất chính xác, điều này đòi hỏi sự nhớ lại, luyện tập, hiểu biết và nền tảng.",
+              "front": "Cái gì đang bị xích?"
+            },
+            {
+              "back": "Tạo ra thất bại hợp lý trước khi kế hoạch bắt đầu.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTưởng tượng ra thất bại khi hoàn thành tạo ra nhiều rủi ro cụ thể hơn là lo lắng mơ hồ.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: cho một chuyến đi, xác định ngân sách, tài liệu, đặt vé, kỳ vọng và trách nhiệm thất bại.",
+              "front": "Trước khi chết dùng để làm gì?"
+            },
+            {
+              "back": "Ước tính xác suất, mức độ nghiêm trọng, khả năng phát hiện, khả năng phòng ngừa và khả năng phục hồi.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nĐiều này biến sự lo lắng thành hành động ưu tiên.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: đối với rủi ro mưa ngoài trời, kiểm tra dự báo, chỗ trú ẩn, và xác định một kế hoạch tái định vị.",
+              "front": "Điều gì làm cho việc phân tích lỗi có ích?"
+            },
+            {
+              "back": "Một tín hiệu đã được xác định trước sẽ kích hoạt xem xét hoặc hành động.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCác dây điện ngăn chặn việc phủ nhận, giảm chi phí hoặc cảm xúc để không bị trì hoãn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: dừng lại một dự án sau hai lần mất dấu hiệu hoặc dừng lại khi có cảnh báo đau đớn.",
+              "front": "Cái bẫy là gì?"
+            },
+            {
+              "back": "Một giới hạn cho sự mất mát được chấp nhận trước khi dừng lại hoặc thay đổi đường lối.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNó bảo vệ thời gian, tiền bạc, sức khỏe và danh tiếng khỏi sự leo thang.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: định nghĩa ngân sách tối đa hoặc giai đoạn thử nghiệm trước khi bắt đầu.",
+              "front": "Quy tắc dừng lại là gì?"
+            },
+            {
+              "back": "Một thử nghiệm nhỏ mà thất bại có giá cả phải chăng và có kiến thức.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNó chuyển sự không chắc chắn vào môi trường được kiểm soát.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: hãy thử một dự án ngắn trong lĩnh vực mới trước khi thực hiện một sự thay đổi sự nghiệp lâu dài.",
+              "front": "Một thí nghiệm an toàn đến hư hỏng là gì?"
+            },
+            {
+              "back": "Thay đổi môi trường quá khó để phạm sai lầm.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNó đáng tin cậy hơn là đòi hỏi sự chú ý hoàn toàn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Dùng tự động bản sao lưu, nhãn, xác nhận và danh sách các hành động chỉ trích.",
+              "front": "Kiểm soát lỗi là gì?"
+            },
+            {
+              "back": "Thất bại một phần gây giảm hiệu suất hơn là sụp đổ hoàn toàn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột hệ thống duy trì chức năng cơ bản khi một phần bị hỏng.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: giữ một con đường thay thế hoặc giảm hoạt động trong những ngày khó khăn.",
+              "front": "Sự thoái hóa duyên dáng là gì?"
+            },
+            {
+              "back": "Một kế hoạch mạnh mẽ thực hiện được qua nhiều điều kiện; một kế hoạch tối ưu vượt trội trong một điều kiện mong đợi.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự thiếu chắc chắn thường làm cho sự mạnh mẽ có giá trị hơn là sự trình diễn tối đa theo lý thuyết.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: chọn một con đường chậm hơn một chút mà vẫn đáng tin cậy dưới sự biến thể giao thông thông thông chung.",
+              "front": "Một kế hoạch mạnh mẽ khác với một kế hoạch tối ưu như thế nào?"
+            },
+            {
+              "back": "Phân tích rủi ro liên kết một thất bại cụ thể với xác suất, hậu quả, giảm nhẹ và phục hồi.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nLo lắng lặp đi lặp lại mối nguy hiểm mà không có phản ứng.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: biến 'có thể sai' thành một rủi ro và một hệ thống bảo vệ.",
+              "front": "Phân tích rủi ro khác với lo lắng như thế nào?"
+            },
+            {
+              "back": "Hãy hỏi làm thế nào con số này có thể được cải thiện trong khi kết quả thật tệ hơn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nĐiều này cho thấy cách dùng ủy nhiệm.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: điểm số công việc có thể tăng nếu người ta chọn công việc tầm thường, trong khi năng suất có ý nghĩa lại giảm.",
+              "front": "Làm thế nào để thử nghiệm một thước đo ngược?"
+            }
+          ],
+          "title": "Ngược lại và thất bại"
+        },
+        {
+          "cards": [
+            {
+              "back": "Một nơi mà sự thay đổi tương đối nhỏ mang lại hiệu quả lớn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nLòng khoan dung hướng nỗ lực đến sự nhạy cảm thay vì hoạt động.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: loại bỏ một nguồn chính gây gián đoạn có thể giúp ích nhiều hơn là việc học một số thủ thuật tập trung.",
+              "front": "Cái gì?**điểm đòn bẩy**Hả?"
+            },
+            {
+              "back": "Có thể dùng sự cố gắng vào những hành động hầu như không thay đổi được kết quả mong muốn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTiến bộ phải được đánh giá trái với mục tiêu.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: việc định dạng lại các ghi chú có thể cảm thấy hiệu quả trong khi thực hành phục hồi tạo ra việc học.",
+              "front": "Tại sao hoạt động không giống như sự tiến bộ?"
+            },
+            {
+              "back": "Một số ít nguyên nhân thường tạo ra một phần lớn hiệu quả.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTỷ lệ chính xác 80/20 là không phổ biến; điểm là phân phối không đều.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: tìm những chi phí, xung đột hay nhiệm vụ chi phối kết quả.",
+              "front": "Một số ít người là gì?"
+            },
+            {
+              "back": "Một cái cổ chai hạn chế hiệu suất làm việc; một đòn bẩy tạo ra sự thay đổi không cân xứng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCổ chai thường là đòn bẩy lớn, nhưng những can thiệp khác trên toàn hệ thống cũng có thể quan trọng.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: đọc ít có thể là cổ chai nghiên cứu trong khi ngủ ngon hơn cải thiện mọi chủ đề.",
+              "front": "Cổ chai và điểm đòn bẩy khác nhau như thế nào?"
+            },
+            {
+              "back": "Một yếu tố gần số không có thể làm suy sụp toàn bộ, ngay cả khi những người khác mạnh mẽ.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nLàm vững mạnh một yếu tố mạnh đã có thể làm tăng thêm ít.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: khả năng và nỗ lực không thể tạo ra hiệu quả khi không có cơ hội.",
+              "front": "Tại sao nhiều hệ thống phức tạp lại nhạy cảm với những yếu tố yếu?"
+            },
+            {
+              "back": "Ước tính kết quả thay đổi bao nhiêu khi mỗi lần nhập.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNó xác định các biến số với ảnh hưởng lớn nhất.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: giảm tỷ lệ nhỏ trong nhà có thể tiết kiệm được nhiều hơn tỷ lệ phần trăm trong giải trí.",
+              "front": "Phân tích nhạy cảm là gì?"
+            },
+            {
+              "back": "Một sự can thiệp mạnh mẽ có thể là không thể, nguy hiểm, tốn kém hoặc dựa trên giả định yếu đuối.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nƯu tiên tùy thuộc vào lợi ích mong đợi chứ không phải tác động một mình.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: kiểm tra một yêu cầu đòi hỏi cao ở quy mô nhỏ trước khi tái thiết lại mọi thứ.",
+              "front": "Tại sao có sự thăng bằng ảnh hưởng đến tính khả thi và sự tự tin?"
+            },
+            {
+              "back": "Chúng cung cấp sự hoàn thiện và kiểm soát trong khi trì hoãn công việc cao cấp không thoải mái.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHoạt động rẻ tiền có thể che giấu thất bại ưu tiên.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Định dạng tài liệu có thể chậm trễ quyết định xem nó cần nói gì.",
+              "front": "Làm thế nào công việc dễ dàng có thể trở nên tránh né?"
+            },
+            {
+              "back": "Tính khẩn trương đòi hỏi sự chú ý ngay bây giờ; sự quan trọng định hình những kết quả có ý nghĩa.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCông việc quan trọng không gây chú ý thường bị bỏ qua cho đến khi nó trở thành khủng hoảng.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: lên lịch bảo trì, chăm sóc sức khỏe, tiết kiệm và chăm sóc mối quan hệ trước khi chúng trở nên khẩn cấp.",
+              "front": "Tại sao nên phân biệt tầm quan trọng và sự cấp bách?"
+            },
+            {
+              "back": "Một hành động ban đầu nhỏ có thể tránh được một cái giá lớn hơn nhiều trong tương lai.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững thất bại được tránh là vô hình nhưng vẫn có giá trị.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: hỗ trợ, bảo trì, làm sáng tỏ sớm, và tiết kiệm ngăn chặn thiệt hại lặp đi lặp lại.",
+              "front": "Tại sao phòng ngừa thường là đòn bẩy lớn?"
+            },
+            {
+              "back": "Thay đổi theo chiều ngược gây ra; phản ứng xuôi dòng sau khi vấn đề xuất hiện.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCả hai đều có thể cần thiết, nhưng hành động ngược dòng làm giảm sự tái diễn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trả phí muộn là dòng xuôi dòng; thanh toán tự động là ngược dòng.",
+              "front": "Ngược dòng và xuôi dòng khác nhau như thế nào?"
+            },
+            {
+              "back": "Nó ảnh hưởng đến nhiều lựa chọn trong tương lai mà không cần đến ý chí lặp đi lặp lại.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTầm nhìn, truy cập, mặc định, và ma sát hình dạng hành vi.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: giữ cho thức ăn lành mạnh có thể nhìn thấy được và làm phân tâm khó đạt được hơn.",
+              "front": "Tại sao thay đổi môi trường có thể là đòn bẩy cao?"
+            },
+            {
+              "back": "Sự va chạm nhỏ khuyến khích một hành động; sự va chạm cao hơn làm nản lòng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững thay đổi nhỏ về môi trường có thể thay đổi những lựa chọn lặp đi lặp lại.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Gỡ bỏ các chi tiết thanh toán tiết kiệm và thêm 24 giờ để giảm bớt mua bốc đồng.",
+              "front": "Sự va chạm thay đổi hành vi như thế nào?"
+            },
+            {
+              "back": "Họ quyết định chuyện gì sẽ xảy ra khi không ai chọn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhiều người chấp nhận con đường ít kháng cự nhất.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: tiết kiệm tự động có thể ảnh hưởng đến mỗi khoảng thời gian trả tiền với một quyết định thiết lập.",
+              "front": "Tại sao mặc định lại mạnh?"
+            },
+            {
+              "back": "Thông tin đúng lúc sẽ thay đổi nhiều quyết định.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhiều nguồn lực không thể giúp ích khi thiếu hoặc trì hoãn sự hiểu biết.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: gửi những hạn chót và trách nhiệm cho những người có thể hành động trước khi cửa sổ đóng.",
+              "front": "Tại sao thông tin có thể là một điểm đòn bẩy?"
+            },
+            {
+              "back": "Chúng hình thành những thước đo, quyết định và hành vi lặp đi lặp lại trong hệ thống.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMục tiêu xấu khiến mọi hành động tối ưu hóa đều đi sai hướng.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: giải quyết vấn đề thưởng hơn là đếm số cuộc gọi khách hàng.",
+              "front": "Tại sao mục tiêu và động lực là những điểm đòn bẩy cao?"
+            },
+            {
+              "back": "Một sự cải thiện làm tăng khả năng trong tương lai mang lại lợi ích nhiều lần.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKĩ năng căn bản, lòng tin, sức khỏe và hệ thống tái sử dụng có thể tự phát triển.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: học đọc và lý luận tốt hơn tăng tốc sau đó học qua nhiều môn học.",
+              "front": "Làm thế nào hợp chất tạo ra đòn bẩy?"
+            },
+            {
+              "back": "Tác động tập trung trong một thành phần tạo ra sự phụ thuộc.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCác thành phần cao cấp cần được hỗ trợ, giám sát và giới hạn.\n\n[[FH_REAL_WORLD]]Một nhà cung cấp hoặc một người có kiến thức có thể trở thành một điểm nguy hiểm của thất bại.",
+              "front": "Tại sao đòn bẩy có thể tạo ra sự yếu ớt?"
+            },
+            {
+              "back": "Sự tiến bộ có giới hạn nào?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHệ thống thay đổi khi hệ thống được cải thiện.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sau khi ngủ được cải thiện, kế hoạch hay kĩ năng có thể trở thành yếu tố giới hạn tiếp theo.",
+              "front": "Chúng ta nên hỏi câu hỏi nào sau khi cắt bỏ cổ chai?"
+            },
+            {
+              "back": "So sánh lợi ích xác suất với chi phí mong đợi và chi phí cơ hội.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột sự tăng trưởng nhỏ có khả năng cao có thể còn tệ hơn một mức thu nhập đáng kể với chi phí thấp.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: chọn sự can thiệp có khả năng là tác động, chứ không phải tầm nhìn hay sự quen thuộc.",
+              "front": "Làm sao mong đợi giá trị hướng dẫn ưu tiên?"
+            }
+          ],
+          "title": "Loại bỏ và ưu tiên"
+        },
+        {
+          "cards": [
+            {
+              "back": "Một mô hình cho biết điều gì sẽ xảy ra; một cơ chế giải thích cách và tại sao.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCơ khí cho thấy điều kiện chuyển giao, điểm thất bại và tác dụng phụ.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: đừng dừng lại ở 'ngủ làm tăng hiệu suất'; theo dõi sự chú ý, bộ nhớ và phục hồi.",
+              "front": "Sự khác biệt giữa một mô hình và một cơ chế là gì?"
+            },
+            {
+              "back": "Điều gì xảy ra giữa nguyên nhân và kết quả?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững bước liên tục biến một sự kết hợp mơ hồ thành một quá trình có thể kiểm chứng được.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: để nhắc nhở, kiểm tra chú ý, hiểu biết, động lực, khả năng và hành động.",
+              "front": "Câu hỏi nào bắt đầu có cơ chế lý luận?"
+            },
+            {
+              "back": "Các phương pháp hữu hình khác nhau có thể tạo ra chức năng giống nhau.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nViệc sao chép hình dạng có thể không có thành phần xương sống.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: sao chép các phong trào thông thường, thú vui và trách nhiệm từ lớp học khiêu vũ thay vì giả sử bản thân khiêu vũ là cần thiết.",
+              "front": "Tại sao phải sao chép các cơ chế thay vì đặc điểm bề mặt?"
+            },
+            {
+              "back": "Mối quan hệ tiềm ẩn được chia sẻ qua những ví dụ bề mặt khác nhau.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhận ra cấu trúc sâu cho phép chuyển giao giữa các miền.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: một cái xô rò rỉ, sự cân bằng ngân hàng thu hẹp, và tri thức bị lãng quên tất cả liên quan đến dòng chảy tràn.",
+              "front": "Cái gì...**cấu trúc sâu**có vấn đề gì không?"
+            },
+            {
+              "back": "Nếu một bước cần thiết thất bại, kết quả không thể được sản xuất qua chuỗi đó.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nĐiều này cho thấy nơi nào nên có sự can thiệp.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: một sự nhắc nhở tốt hơn không thể giúp đỡ nếu người đó thiếu sự cho phép hay tài nguyên để hành động.",
+              "front": "Tại sao một cơ chế chỉ mạnh như những liên kết cần thiết nhất của nó?"
+            },
+            {
+              "back": "Cơ chế và bối cảnh có thể khác nhau.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững con đường tích cực và tiêu cực có thể hoạt động cùng một lúc với những ưu điểm khác nhau.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: làm việc tại nhà có thể giảm giao tiếp nhưng tăng sự phân tâm hoặc cô lập.",
+              "front": "Tại sao sự can thiệp tương tự có thể giúp một người và làm hại người khác?"
+            },
+            {
+              "back": "Họ có thể che giấu quá trình mất tích.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nĐộng từ nhân tạo không phải là một cơ chế cho đến khi các bước trung gian được giải thích.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Khi được khen ngợi, hãy hỏi xem nó thay đổi cảm xúc, lặp đi lặp lại, liều lĩnh và phụ thuộc vào sự chấp thuận.",
+              "front": "Tại sao lại phải đặt ra câu hỏi khác?"
+            },
+            {
+              "back": "Một nguyên nhân tương đối gần với biến cố này; nguyên nhân sâu xa hơn giải thích tại sao có tình trạng này.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững sự can thiệp sâu sắc khác nhau.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: một cái bình vỡ vì rơi xuống, nhưng nó rơi xuống vì gần một cạnh không ổn định.",
+              "front": "Sự phỏng đoán và những nguyên nhân sâu xa khác nhau như thế nào?"
+            },
+            {
+              "back": "Điều gì có thể xảy ra nếu không có nguyên nhân bị nghi ngờ?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKhả năng suy luận so sánh thực tế với một sự thay thế không được quan sát.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: để đánh giá gia sư, so với trình độ trước đây hoặc tương tự học sinh không nhận được gia sư.",
+              "front": "Câu hỏi ngược lại là gì?"
+            },
+            {
+              "back": "Liên kết nào trong cơ chế bị hỏng?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nĐiều này tạo ra một sự điều chỉnh cụ thể thay vì một phán đoán toàn cầu.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: cho một kế hoạch nghiên cứu thất bại, thanh tra chủ nghĩa hiện thực, hiểu biết, thu hồi, phản hồi, ngủ và phân tâm.",
+              "front": "Chúng ta nên hỏi gì khi một phương pháp nào đó thất bại?"
+            }
+          ],
+          "title": "Comment"
+        }
+      ]
+    },
+    {
+      "name": "Nguyên lý đầu tiên 5",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "Một mô hình đại diện cho thực tế nhưng không phải là thực tế.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMô hình đơn giản hóa bằng cách xóa các chi tiết, vì vậy hữu ích không ngụ ý sự trọn vẹn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: một thời gian hướng dẫn thời gian biểu nhưng không thể bao gồm tất cả các gián đoạn hoặc thay đổi.",
+              "front": "Bản đồ không phải là lãnh địa là gì?"
+            },
+            {
+              "back": "Những câu hỏi khác nhau đòi hỏi sự đơn giản hóa khác nhau.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nChúng ta nên đánh giá một mô hình bằng cách xem nó có dùng được hay không.\n\n[[FH_REAL_WORLD]]Một bản đồ tàu điện ngầm là một ứng dụng tốt cho việc chuyển giao và không tốt cho việc đi bộ.",
+              "front": "Tại sao mọi mô hình đều cần một mục đích?"
+            },
+            {
+              "back": "Nó có thể nắm bắt mối quan hệ cần thiết cho một quyết định trong khi bỏ qua những chi tiết không liên quan.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTừ chối mọi sự đơn giản hóa sẽ làm cho lập luận không thể xảy ra.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sử dụng thu nhập trừ chi tiêu để hiểu tiết kiệm, sau đó thêm nợ hoặc thuế chỉ khi chúng quan trọng.",
+              "front": "Tại sao một mô hình không đầy đủ vẫn còn có thể hữu ích?"
+            },
+            {
+              "back": "Nó nén lại một mô hình và có thể che giấu cơ chế, ngữ cảnh, và thay đổi.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhãn hiệu có thể định hình sự chú ý và trở thành tự lấp đầy.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Thay thế 'lazy' bằng hành vi quan sát và nguyên nhân có thể trước khi quyết định phải làm gì.",
+              "front": "Tại sao nhãn hiệu lại là một mô hình nguy hiểm?"
+            },
+            {
+              "back": "Một sự thay thế cho một kết quả khó khăn hơn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột ủy nhiệm có thể tương quan với mục tiêu mà không giống như nó.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sử dụng điểm kiểm tra như một phần bằng chứng của việc học, không phải là định nghĩa đầy đủ.",
+              "front": "Ủy nhiệm là gì?"
+            },
+            {
+              "back": "Con số này có thể được cải thiện trong khi kết quả thật sự càng tệ hơn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nÁp lực nhắm vào sự đại diện thay vì thực tế.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Số lượng công việc có thể tăng qua công việc tầm thường trong khi đóng góp có ý nghĩa thì giảm.",
+              "front": "Điều gì xảy ra khi mọi người tối ưu hóa một ủy nhiệm?"
+            },
+            {
+              "back": "Một dự đoán có thể thất bại bởi vì một giả định đã thay đổi ngay cả khi tính toán nội bộ là chính xác.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự đáng tin cậy của mô hình tùy thuộc vào điều kiện của nó.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: ước tính du lịch có thể cho rằng giao thông, thời tiết và đường xá là bình thường.",
+              "front": "Tại sao lại vạch trần những giả định bên trong một mô hình?"
+            },
+            {
+              "back": "Mối quan hệ này được miêu tả trong khi những yếu tố quan trọng khác cũng được tổ chức tương tự.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự sống thật thường thay đổi nhiều biến số cùng một lúc.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: mô hình giảm giá có thể thất bại nếu chất lượng, thu nhập, khan hiếm hoặc đối thủ cạnh tranh cũng thay đổi.",
+              "front": "\"Mọi thứ khác đều bình đẳng\" nghĩa là gì trong một mô hình?"
+            },
+            {
+              "back": "Phạm vi hoặc ngữ cảnh nơi mô hình vẫn đáng tin cậy.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMở rộng mối quan hệ ngoài tầm quan sát có thể gây ra lỗi.\n\n[[FH_REAL_WORLD]]Một tách cà phê cải thiện cảnh giác không có nghĩa là cà phê không giới hạn sẽ cải thiện nó xa hơn.",
+              "front": "Giới hạn của mô hình là gì?"
+            },
+            {
+              "back": "Mô hình tĩnh lặng mô tả một thời điểm; mô hình năng động mô tả sự thay đổi theo thời gian.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHình ảnh có thể thiếu nợ nần tích lũy, thích nghi hoặc hiệu ứng chậm trễ.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: ngân sách hiện tại không thay đổi; dự báo nợ và lợi ích là năng động.",
+              "front": "Mô hình tĩnh và năng động khác nhau như thế nào?"
+            },
+            {
+              "back": "Mô hình thống kê mô tả các mô hình; mô hình cơ khí giải thích sự tương tác.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột người có thể tiên đoán đúng mà không cần giải thích, trong khi người kia có thể giải thích mà không cần tiên đoán chính xác.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: kết hợp dữ liệu biến đổi giấc ngủ với kiến thức về sự chú ý và cơ chế bộ nhớ.",
+              "front": "Thống kê và mô hình cơ khí khác nhau như thế nào?"
+            },
+            {
+              "back": "Những mô hình giả định nói những gì sẽ xảy ra; những mô hình quy tắc nói những gì nên xảy ra.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nDi chuyển từ mô tả sang đề nghị đòi hỏi những giá trị.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Sự kiện người ta ưa thích phần thưởng ngay lập tức không chứng tỏ họ nên nhận.",
+              "front": "Có sự khác biệt nào về cách miêu tả và cách miêu tả?"
+            },
+            {
+              "back": "Một mô hình nắm bắt các chi tiết ngẫu nhiên trong quá khứ mà không tổng quát hóa.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHoàn toàn giải thích quá khứ có thể làm giảm sức mạnh dự đoán trong tương lai.\n\n[[FH_REAL_WORLD]]Ứng dụng trên thế giới thực: Đừng kết thúc một áo sơ mi, thời gian, bài hát và ghế cụ thể gây ra ba ngày hiệu quả.",
+              "front": "Cái gì phù hợp?"
+            },
+            {
+              "back": "Mô hình quá đơn giản để giải thích các biến thể quan trọng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột khẩu hiệu đơn giản có thể bỏ qua tài nguyên, thời gian, kỹ năng, sức khỏe và cơ hội.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: yêu cầu \"thành công đến từ công việc khó khăn\" có thể bỏ qua các yếu tố chính.",
+              "front": "Cái gì phù hợp?"
+            },
+            {
+              "back": "Thích mô hình với ít giả định không được hỗ trợ hơn khi sức mạnh giải thích tương tự.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự đơn giản là bằng chứng của nền kinh tế chứ không phải bằng chứng của sự thật.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Một vật bình thường rơi xuống thường là một lời giải thích tốt hơn cho tiếng ồn so với một cổng vô hình.",
+              "front": "Dao cạo của Occlam khuyên gì?"
+            },
+            {
+              "back": "Cập nhật, thu hẹp, thay thế, hoặc giảm lòng tin dựa trên bằng chứng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nĐừng từ bỏ những mô hình mạnh mẽ cho một người yếu dị thường hoặc bảo vệ những người mẫu yếu khỏi thất bại lặp đi lặp lại.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: ôn lại liệu cơ chế, giả định, đo lường, hoặc ngữ cảnh có gây ra sự trùng khớp.",
+              "front": "Một mô hình nên phản ứng thế nào trước những lời tiên đoán sai?"
+            },
+            {
+              "back": "Sử dụng một số mô hình bổ sung cho một vấn đề phức tạp.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững mô hình khác nhau cho thấy những phần khác nhau của thực tế.\n\n[[FH_REAL_WORLD]]Ứng dụng trên thế giới thực: hiểu được vượt qua số học, tâm lý học, môi trường, áp lực xã hội và phản hồi nợ nần.",
+              "front": "Xếp chồng mô hình là gì?"
+            },
+            {
+              "back": "Chúng ta có thể so sánh những lời giải thích khác nhau qua những lời tiên đoán khác nhau.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột mục tiêu thử nghiệm hữu ích được mong đợi bởi một mô hình nhưng không phải một cái khác.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: cho điểm số giảm, so sánh các dự đoán từ vật liệu cứng hơn, giấc ngủ tồi và giảm nghiên cứu.",
+              "front": "Tại sao lại sử dụng mô hình cạnh tranh?"
+            },
+            {
+              "back": "Điểm số, chẩn đoán, thu nhập hoặc nhãn hiệu nhóm không thể bắt được cả một người.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHành vi của con người thay đổi qua bối cảnh và thời gian.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: xem điểm thấp như một thước đo cần giải thích, không phải bằng chứng của trí thông minh thấp.",
+              "front": "Tại sao dùng gương mẫu của người ta với sự khiêm nhường?"
+            }
+          ],
+          "title": "Những gương mẫu và thực tế"
+        },
+        {
+          "cards": [
+            {
+              "back": "Một cái gì đó trực tiếp nhận thấy hoặc xác nhận.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột sự quan sát báo cáo những gì đã xảy ra mà không cần thêm một lời giải thích hoặc động cơ.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Khi ai đó không trả lời, ghi âm 'không trả lời' trước khi quyết định rằng họ đang giận dữ.",
+              "front": "Cái gì?**quan sát**Hả?"
+            },
+            {
+              "back": "Có nghĩa là hoặc giải thích thêm vào một quan sát.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột lời giải thích có thể đúng, nhưng không chỉ quan sát trực tiếp.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trong xung đột, phân biệt hành vi hữu hình với câu chuyện bạn đang kể về lý do tại sao nó xảy ra.",
+              "front": "Cái gì?**Giải thích**Hả?"
+            },
+            {
+              "back": "Tôi biết gì chứ? Tôi đang suy ra điều gì? Còn gì có thể giải thích được nữa? Bằng chứng nào giúp nhận ra các lựa chọn?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững câu hỏi này làm chậm bước nhảy từ một sự kiện đến một kết luận tự tin.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sử dụng chúng trước khi phản ứng với một thông điệp mơ hồ, sự chậm trễ, biểu hiện hoặc sai lầm.",
+              "front": "Có bốn câu hỏi nào tách biệt nhau khỏi việc giải thích?"
+            },
+            {
+              "back": "Một sự kiện được chứng minh; một sự suy luận được rút ra từ sự kiện; một giả định được tạm thời xem là đúng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nLý luận sẽ an toàn hơn khi mỗi lời tuyên bố được phân loại đúng.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Trong kế hoạch, đánh dấu thời gian du lịch như một giả định thay vì trình bày nó như một sự kiện chắc chắn.",
+              "front": "Chào.**sự thật**.**suy luận**, và**Giả định**khác nhau?"
+            },
+            {
+              "back": "Kết luận càng xa thì càng cần bằng chứng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNgười ta thường chuyển từ sự kiện này sang sự phán xét khác mà không để ý đến những bước trung gian.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trước khi gọi ai đó thiếu tôn trọng, hãy kiểm tra xem có bao nhiêu bước chưa được xác định kết nối hành vi với nhãn hiệu đó.",
+              "front": "Nguyên tắc then chốt của thang suy luận là gì?"
+            }
+          ],
+          "title": "Quan sát và giải thích"
+        },
+        {
+          "cards": [
+            {
+              "back": "Điều này có thể xảy ra như thế nào?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhiều tuyên bố của thế giới thực là xác suất hơn là chỉ đơn giản là đúng hay sai.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: ước tính khả năng chậm trễ thay vì tuyên bố nó sẽ xảy ra hoặc sẽ không xảy ra.",
+              "front": "Câu hỏi nào thay thế sự chắc chắn giả dối?"
+            },
+            {
+              "back": "Tự tin miêu tả trạng thái tâm thần, chứ không phải ủng hộ tuyên bố.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNgười ta có thể cảm thấy chắc chắn khi sai và không chắc chắn trong khi họ đúng.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: khi bộ nhớ cảm thấy sống động, hãy kiểm tra hồ sơ, thông điệp, hay những bằng chứng độc lập khác.",
+              "front": "Tại sao lòng tin không phải là bằng chứng?"
+            },
+            {
+              "back": "Khoảng cách làm cho sự không chắc chắn thấy được.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột giới hạn thấp hơn, rất có thể giá trị và giới hạn trên thường giao tiếp thành thật hơn là một ước tính chính xác.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: ước tính một sự sửa chữa với giá 400$ thay vì giả vờ nó sẽ tốn chính xác 500 đô la.",
+              "front": "Tại sao lại dùng phạm vi thay vì độ chính xác giả?"
+            },
+            {
+              "back": "Người ta có thể khám phá ra những điều mình biết; không biết chắc chắn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự phân biệt này cho thấy việc nghiên cứu có thể giúp ích ở đâu và cần linh động ở đâu.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: kiểm tra xem tàu có bị chậm không, nhưng chấp nhận rằng không thể loại trừ một trường hợp khẩn cấp bất ngờ.",
+              "front": "Làm sao biết, không biết và không biết được?"
+            },
+            {
+              "back": "Bao nhiêu lần kết quả xảy ra trong các vụ tương tự trước khi có bằng chứng cụ thể.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTốc độ cơ bản cho ta một khả năng bắt đầu thực tế.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trước khi giả sử triệu chứng là nghiêm trọng, hãy hỏi xem triệu chứng đó có thường xuyên cho thấy tình trạng đáng sợ không.",
+              "front": "Cái gì?**Tỷ lệ cơ bản**Hả?"
+            },
+            {
+              "back": "Bắt đầu với tốc độ chung, sau đó cập nhật bằng chứng có liên quan.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKhông nên lờ đi những chi tiết trung bình và cá nhân.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: một chương trình cạnh tranh với tỉ lệ ít được công nhận, nhưng khả năng mạnh mẽ có thể nâng cao cơ hội của một ứng viên.",
+              "front": "Bằng chứng cụ thể nên ảnh hưởng đến tỷ lệ cơ bản như thế nào?"
+            },
+            {
+              "back": "Bằng chứng mới nên thay đổi lòng tin dựa trên sức mạnh của nó.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nBằng chứng yếu ớt gây ra một sự cập nhật nhỏ; bằng chứng vững chắc và đáng tin cậy sẽ dẫn đến một sự kiện lớn hơn.\n\n[[FH_REAL_WORLD]]Một lời cảnh báo nghiêm trọng về thời tiết nên thay đổi kế hoạch dã ngoại hơn một bình luận mơ hồ.",
+              "front": "Việc cập nhật niềm tin hợp lý đòi hỏi gì?"
+            },
+            {
+              "back": "Một sự kiện có thể xảy ra nhưng quá khó để có nhiều trọng lượng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTưởng tượng ra một kết quả không cho thấy nó phổ biến như thế nào.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Đừng để khả năng xóa sổ hiếm có chi phối một quyết định thường xuyên đi lại mà không có bằng chứng.",
+              "front": "Tại sao không thể xác suất?"
+            },
+            {
+              "back": "Một sự kiện hiếm hoi có thể quan trọng nếu hậu quả của nó nghiêm trọng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nQuyết định rủi ro cân nhắc khả năng và tác động.\n\n[[FH_REAL_WORLD]]Báo động khói có giá trị mặc dù hỏa hoạn trong nhà rất hiếm.",
+              "front": "Tại sao xác suất không quan trọng?"
+            },
+            {
+              "back": "Kết quả có trọng lượng trung bình.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nGiá trị mong đợi so sánh sự lựa chọn không chắc chắn trong trường hợp nhiều lần nhưng không bảo đảm một kết quả.\n\nDịch bởi Vũ Hạnh, Mai Linh, Nga, Huy Tô, Yuki, Ann, Phương Đơn giản hóa:\n50% cơ hội $100 và 50% cơ hội $0 có giá trị mong đợi là 50.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sử dụng giá trị mong đợi để so sánh các lựa chọn không chắc chắn lặp đi lặp lại trong khi vẫn cân nhắc rủi ro và khả năng phục hồi.",
+              "front": "Cái gì?**giá trị mong đợi**Hả?"
+            },
+            {
+              "back": "Một mất mát khả năng thấp có thể gây ra sự hủy hoại hoặc không thể phục hồi.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSống sót, lặp đi lặp lại và chịu đựng vật chất ngoài mức trung bình.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: tránh đánh bạc có thể xóa đi những khoản tiết kiệm cần thiết ngay cả khi mức lương trung bình của nó là dương tính.",
+              "front": "Tại sao vẫn có thể đòi hỏi một giá trị tích cực?"
+            },
+            {
+              "back": "Sự so sánh cho thấy sự tự tin chính xác.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột người được đánh giá đúng khoảng 70% thời gian khi tuyên bố 70% sự tự tin.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: ghi lại dự đoán và kết quả để khám phá xem bạn có quá tự tin hay thiếu tự tin.",
+              "front": "Cái gì?**Tính toán**Hả?"
+            }
+          ],
+          "title": "Xác suất và không chắc chắn"
+        },
+        {
+          "cards": [
+            {
+              "back": "Kết nối các bộ phận ảnh hưởng lẫn nhau qua thời gian.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nThay đổi một phần có thể tạo ra hiệu ứng khác và sau đó.\n\n[[FH_REAL_WORLD]]Ứng dụng trên thế giới thực: đánh giá một quy tắc gia đình, chính sách thành phố, hoặc quá trình làm việc bằng cách theo dõi phản ứng của các bộ phận khác.",
+              "front": "Cái gì?**Hệ thống**Hả?"
+            },
+            {
+              "back": "Một sự kiện xảy ra một lần, một mô hình lặp lại, và một cấu trúc tạo ra mô hình.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nChỉ sửa chữa một sự kiện có thể để cho những điều kiện tiềm ẩn không thay đổi.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: giao thông nghiêm trọng ngày nay là một sự kiện; lặp đi lặp lại các điểm tắc nghẽn giờ hối hả đến cấu trúc vận chuyển.",
+              "front": "Các sự kiện, khuôn mẫu và cấu trúc khác nhau như thế nào?"
+            },
+            {
+              "back": "Một vòng thời gian mà sự thay đổi mang lại nhiều sự thay đổi cùng một hướng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững vòng tuần hoàn có thể tạo ra sự tăng trưởng hoặc giảm dần.\n\nDịch bởi Vũ Hạnh, Mai Linh, Nga, Huy Tô, Yuki, Ann, Phương Biểu đồ:\n; người giúp việc\nđồ thị LR\nFear [sợ hãi] --> Tránh\nTránh --> Giảm khả năng học tập\nGiảm đáng kể --> Sợ hãi\n%s\n\n[[FH_REAL_WORLD]]Sự sợ hãi có thể gây ra sự tránh né, tránh né ngăn cản việc học tập, và sự thiếu hiểu biết làm tăng thêm sự sợ hãi.",
+              "front": "Cái gì?**Khởi động lại vòng phản hồi**Hả?"
+            },
+            {
+              "back": "Một vòng thời gian đẩy một hệ thống tới sự ổn định hoặc mục tiêu.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCâu trả lời sẽ làm giảm sự khác biệt ban đầu.\n\n[[FH_REAL_WORLD]]Nạn đói dẫn đến việc ăn uống, giảm đói.",
+              "front": "Cái gì?**Vòng lặp phản hồi cân bằng**Hả?"
+            },
+            {
+              "back": "Hậu quả xuất hiện sau khi hành động, vì vậy người ta có thể dừng lại quá sớm hoặc quá chính xác.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKết quả hiển nhiên có thể được quy cho một sự kiện sau này.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: đợi đủ lâu để ngủ, chính sách, hoặc đào tạo thay đổi để hoạt động trước khi thêm sự can thiệp.",
+              "front": "Tại sao sự chậm trễ khiến hệ thống khó quản lý?"
+            },
+            {
+              "back": "Một hệ quả gây ra bởi hệ quả đầu tiên.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững cải tiến ngay lập tức có thể kích thích sự thích nghi làm thay đổi kết quả cuối cùng.\n\n[[FH_REAL_WORLD]]Những con đường rộng hơn ban đầu có thể làm giảm giao thông, sau đó thu hút nhiều xe hơn và bị tắc nghẽn trở lại.",
+              "front": "Cái gì?**Hiệu ứng thứ hai**Hả?"
+            },
+            {
+              "back": "Người ta hưởng ứng những phần thưởng và chi phí kinh nghiệm, chứ không phải ý định.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột biện pháp nào đó có thể làm cho nỗ lực không còn đúng mục tiêu.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: số cuộc gọi thưởng có thể khiến nhân viên kết thúc cuộc gọi trước khi giải quyết vấn đề.",
+              "front": "Động lực ảnh hưởng thế nào đến hành vi của hệ thống?"
+            },
+            {
+              "back": "Người ta có thể cải thiện con số mà không cần cải thiện hậu quả tiềm ẩn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nỦy ban sẽ dễ tối ưu hóa hơn mục tiêu thật.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: kiểm tra điểm số có thể tăng qua sự dạy dỗ hẹp trong khi sự hiểu biết rộng đi xuống.",
+              "front": "Điều gì xảy ra khi một biện pháp trở thành mục tiêu?"
+            },
+            {
+              "back": "Giai đoạn giới hạn hoàn toàn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCải tiến các giai đoạn khác không có nhiều cho đến khi cổ chai thay đổi.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Nếu một người thu ngân hạn chế một nhà hàng, nấu ăn nhanh hơn có thể chỉ tạo một hàng dài hơn.",
+              "front": "Một cái cổ chai trong một hệ thống là gì?"
+            },
+            {
+              "back": "Sự tối ưu hóa địa phương cải thiện một phần; tối ưu hóa toàn cầu cải thiện toàn bộ hệ thống.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột bộ phận có thể cải thiện số lượng bằng cách chuyển gánh nặng đi nơi khác.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: đo thời gian chờ đợi toàn bộ bệnh nhân, không chỉ có một đơn vị bệnh viện.",
+              "front": "Sự khác biệt giữa tối ưu hóa địa phương và toàn cầu là gì?"
+            },
+            {
+              "back": "Một kho tàng tích lũy; dòng chảy và dòng chảy thay đổi nó.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nĐể thay đổi cổ phiếu, hãy kiểm tra cả những gì đi vào lẫn những gì còn lại.\n\nDịch bởi Vũ Hạnh, Mai Linh, Nga, Huy Tô, Yuki, Ann, Phương Biểu đồ:\n; người giúp việc\nđồ thị LR\nTrong luồng [trong dòng] -> Cổ phiếu [Stock]\nCổ phiếu --> Hết dòng\n%s\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: tiết kiệm phụ thuộc vào thu nhập và chi tiêu; kiến thức phụ thuộc vào việc học và quên đi.",
+              "front": "Cái gì?**cổ phiếu và dòng chảy**Hả?"
+            },
+            {
+              "back": "Loại bỏ khả năng dự phòng không cho phép đệm cho sự gián đoạn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCác hệ thống cố định giữ lại các bản dự phòng, lề đường và các đường dẫn khác.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: đừng lên lịch mỗi phút nếu một sự chậm trễ sẽ làm hỏng cả ngày.",
+              "front": "Tại sao hiệu quả tối đa có thể làm giảm tính kiên cường?"
+            }
+          ],
+          "title": "Comment"
+        }
+      ]
+    },
+    {
+      "name": "Nguyên lý đầu tiên 6",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "Một lời tiên đoán về điều nên quan sát nếu đó là sự thật.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững dự đoán kết nối một mô hình với thực tế trước khi kết quả được biết đến.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Thay thế \"phương pháp nghiên cứu này giúp đỡ\" với một dự đoán chậm trễ.",
+              "front": "Điều gì biến niềm tin thành lời tuyên bố có thể kiểm chứng được?"
+            },
+            {
+              "back": "Điều gì nên xảy ra nếu đó là sự thật? Chuyện gì sẽ xảy ra nếu nó sai? Điều gì làm tôi đổi ý?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột lời tuyên bố giải thích cho mọi kết quả không thể nào có ý nghĩa.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: định nghĩa trước xem bằng chứng nào sẽ làm suy yếu niềm tin về một thói quen hay chính sách.",
+              "front": "Ba câu hỏi nào có thể kiểm chứng được?"
+            },
+            {
+              "back": "Khả năng một số bằng chứng cho thấy lời tuyên bố là sai.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKhả năng giả mạo ngăn cản niềm tin được bảo vệ bởi một cái cớ mới sau mỗi thất bại.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: tránh những tuyên bố như \" phương pháp điều trị luôn có hiệu quả, nhưng cải thiện có thể là vô hình\".",
+              "front": "Cái gì?**Khả năng giả lập**Hả?"
+            },
+            {
+              "back": "Những giả định mơ hồ về thất bại của ai đe dọa kế hoạch nhiều nhất.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKiểm tra các chi tiết không chính xác trước để lại các rủi ro chính.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trước khi trang trí một sự kiện, thử nghiệm nhu cầu và địa điểm sẵn có.",
+              "front": "Giả định nào nên được kiểm tra trước?"
+            },
+            {
+              "back": "Thí nghiệm nhỏ nhất có thể giảm đáng kể sự không chắc chắn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột thử thách không nhất thiết phải là khoa học hoàn hảo để cải thiện quyết định.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: hãy thử ba buổi làm việc tương tự tại thư viện trước khi thay đổi toàn bộ công việc.",
+              "front": "Thử nghiệm nào rẻ nhất?"
+            },
+            {
+              "back": "Nó giúp xác định nguyên nhân.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững thay đổi đồng thời tạo ra sự mơ hồ về nhân tố quan trọng.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: khi cải thiện giấc ngủ, kiểm tra giờ uống cà phê riêng biệt trước khi thay đổi mọi thói quen.",
+              "front": "Tại sao thay đổi một biến số quan trọng tại một thời điểm khi có thể?"
+            },
+            {
+              "back": "Một cơ sở cho thấy chuyện gì sẽ xảy ra nếu không có sự can thiệp.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nChỉ có sự cải tiến không chứng minh được phương pháp đã thử nghiệm.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: so sánh một phương pháp học mới với thực hành thông thường về vật liệu tương tự.",
+              "front": "Điều khiển hoặc so sánh tình trạng nào cho thấy điều gì?"
+            },
+            {
+              "back": "Một yếu tố khác có thể giải thích kết quả.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNgay cả khi sự thay đổi quan sát là có thật, người ta vẫn không giải thích thấu đáo được.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Nếu năng suất tăng sau giờ làm việc linh hoạt, kiểm tra việc làm, nạp đạn, thiết bị và tiền thưởng.",
+              "front": "Cái gì?**Comment**Hả?"
+            },
+            {
+              "back": "Nếu không, hầu như bất kỳ kết quả nào cũng có thể được giải thích lại thành công.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCác biện pháp, thời gian và ngưỡng được xác định trước làm giảm lý luận được thúc đẩy.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: thiết lập thời gian thử nghiệm giấc ngủ và cải thiện tối thiểu ý nghĩa trước khi bắt đầu.",
+              "front": "Tại sao định nghĩa thành công trước thử thách?"
+            },
+            {
+              "back": "Những mẫu nhỏ và biến thể ngẫu nhiên có thể tạo ra những kết quả sai lầm.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKhi kết quả xuất hiện liên tục và độc lập, tính đáng tin cậy gia tăng.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: một ngày tốt không chứng minh một công việc thông thường.",
+              "front": "Tại sao quan sát nhiều lần lại mạnh hơn kết quả?"
+            },
+            {
+              "back": "Một kết quả cực đoan thường là do một người bình thường hơn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột giải pháp bắt đầu vào thời điểm tồi tệ nhất có thể được công nhận về sự hồi phục tự nhiên.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: theo dõi vài giai đoạn trước khi tuyên bố cải thiện sau một ngày tồi tệ bất thường.",
+              "front": "Hồi quy trung bình là gì?"
+            },
+            {
+              "back": "Đánh dấu những trường hợp ủng hộ trường hợp trong khi bỏ qua những trường hợp mâu thuẫn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nGhi chép hệ thống và tiêu chuẩn đã được cam kết giảm thiểu bộ nhớ có chọn lọc.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: ghi lại mỗi lần một mê tín dị đoan dự đoán đúng và sai.",
+              "front": "Xác nhận khuynh hướng thử nghiệm là gì?"
+            },
+            {
+              "back": "Khi những kết quả khác nhau sẽ dẫn đến những quyết định khác nhau.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nThông tin không thể thay đổi hành động có thể không biện minh cho cái giá của nó.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trước khi nghiên cứu sâu hơn, hãy nói những gì bạn sẽ làm dưới mỗi khám phá có thể.",
+              "front": "Khi nào một thí nghiệm có giá trị?"
+            }
+          ],
+          "title": "Thử thách niềm tin"
+        },
+        {
+          "cards": [
+            {
+              "back": "Hiệu ứng tức thời và chậm trễ có thể chỉ ra những hướng ngược lại.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột quyết định hoàn chỉnh xem xét ngày hôm nay, sau này lặp đi lặp lại, và hậu quả lâu dài.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: thức khuya có thể làm việc ngay bây giờ và giảm hiệu suất làm việc ngày mai.",
+              "front": "Tại sao nên đánh giá các quyết định qua nhiều thời gian chân trời?"
+            },
+            {
+              "back": "Phần thưởng ngay lập tức quan trọng hơn hậu quả chậm trễ.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHiện tại thì sống động trong khi tương lai cảm thấy trừu tượng.\n\n[[FH_REAL_WORLD]]Giải trí vào đêm khuya có thể mạnh hơn năng lượng của ngày mai trừ khi chi phí trong tương lai được hiển thị.",
+              "front": "Thành kiến hiện tại là gì?"
+            },
+            {
+              "back": "Khi kết quả tăng khả năng cho cùng một kết quả.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKết quả trước đó trở thành đầu vào cho sự tăng trưởng hoặc giảm dần sau này.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: kiến thức làm cho việc học tiến bộ dễ dàng hơn; lãi vay nợ làm cho nợ trong tương lai lớn hơn.",
+              "front": "Hợp chất là gì?"
+            },
+            {
+              "back": "Các hiệu ứng cá nhân nhỏ có thể tích lũy thành một thay đổi hệ thống lớn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCâu hỏi quan trọng là điều gì sẽ xảy ra nếu hành động trở nên bình thường.\n\n[[FH_REAL_WORLD]]Một đêm muộn khác với mất ngủ kinh niên.",
+              "front": "Tại sao đánh giá hành vi lặp đi lặp lại như một khuôn mẫu thay vì một sự kiện?"
+            },
+            {
+              "back": "Hành động điều hòa lặp lại có thể phức tạp trong khi hành động cực đoan có thể sụp đổ.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nTính bền vững quyết định lợi ích tiếp tục hay không.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: nghiên cứu thường xuyên vượt qua một phiên họp suốt đêm mệt mỏi.",
+              "front": "Tại sao sự nhất quán có thể mạnh hơn?"
+            },
+            {
+              "back": "Một số hệ thống thích nghi và củng cố thời gian phục hồi thay vì nỗ lực.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nBỏ qua việc phục hồi có thể làm giảm khả năng trong tương lai và tạo ra vòng lặp tiêu cực.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: nghỉ giữa đào tạo và học tập hỗ trợ thích nghi và bộ nhớ.",
+              "front": "Tại sao phục hồi là một phần của hoạt động hữu ích?"
+            },
+            {
+              "back": "Dừng quá sớm giấu hiệu quả thật sự, trong khi chờ đợi mãi mãi bảo vệ sự thất bại.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nĐịnh nghĩa những dấu hiệu sớm và khung thời gian hợp lý.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: cung cấp một thời gian biểu mới đủ để làm việc, nhưng thay đổi nó nếu các chỉ số dự đoán không bao giờ xuất hiện.",
+              "front": "Tại sao chúng ta phải tính đến việc trì hoãn trước khi phán xét một sự can thiệp?"
+            },
+            {
+              "back": "Sự can thiệp xảy ra trước khi hiệu ứng của nó trở nên rõ ràng.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự can thiệp lặp đi lặp lại có thể gây ra quá sát.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Đừng tiếp tục làm cho vòi hoa sen nóng lên trước khi điều chỉnh có hiệu quả.",
+              "front": "Sự trì hoãn phản hồi là gì?"
+            },
+            {
+              "back": "Những sự lựa chọn trong quá khứ định hướng những lựa chọn trong tương lai dễ dàng, tốn kém hoặc có sẵn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCác hệ thống hiện đại thường phản ánh lịch sử tích lũy thay vì tối ưu hiện nay.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sự lựa chọn nghề nghiệp xây dựng những kỹ năng và mạng lưới chuyên biệt nâng cao chi phí chuyển đổi.",
+              "front": "Phụ thuộc vào đường bộ là gì?"
+            },
+            {
+              "back": "Một tình trạng mà việc thay đổi con đường trở nên tốn kém ngay cả khi những phương án thay thế được cải thiện.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHợp đồng, kỹ năng chuyên biệt, nhân dạng, cơ sở hạ tầng, và phụ thuộc tạo khóa.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trước khi cam kết, hãy hỏi lựa chọn nào sẽ làm cho khó khăn hơn để thay đổi sau này.",
+              "front": "Khóa cửa là gì?"
+            },
+            {
+              "back": "Lợi ích của việc giữ sự linh hoạt trong tương lai trong khi sự bấp bênh vẫn còn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nThử thách, kỹ năng truyền tải, tiết kiệm và cam kết ngắn hạn giữ cho các phương pháp thay thế được mở.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: thuê trước khi mua khi nhu cầu về địa điểm trong tương lai là không chắc chắn.",
+              "front": "Giá trị lựa chọn theo thời gian là gì?"
+            },
+            {
+              "back": "Một số lợi ích đòi hỏi sự cam kết và đầu tư tích lũy.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nGiữ cho mọi lựa chọn được mở có thể ngăn chặn sự hợp nhất trong bất kỳ đường nào.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: khởi động lại liên tục có thể cản trở kỹ năng và lòng tin.",
+              "front": "Tại sao tính linh hoạt có thể rất tốn kém?"
+            },
+            {
+              "back": "Một hành động không thể hoàn toàn thay đổi.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững lựa chọn bất khả kháng đáng được thận trọng hơn bởi vì học hỏi trong tương lai không thể khôi phục lại trạng thái ban đầu.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: thông tin cá nhân có thể được tiết lộ ngay lập tức nhưng không thể được ẩn.",
+              "front": "Không thể sửa đổi là gì?"
+            },
+            {
+              "back": "Thay đổi theo một hướng thì dễ và khó đảo ngược.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự tin cậy, phức tạp, nợ nần, sức khỏe và thông tin thường cho thấy những giá phải trả không bằng nhau.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Có thể cần một sự phản bội để phá hoại lòng tin và nhiều năm để xây dựng lại nó.",
+              "front": "Thời gian ngang hàng là gì?"
+            },
+            {
+              "back": "Sự trật tự, kỹ năng, lòng tin, thiết bị và thông tin thường suy đồi mà không cần cố gắng liên tục.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột giải pháp một lần có thể thất bại nếu phí bảo trì bị bỏ qua.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: tổ chức một căn phòng một lần không loại bỏ nhu cầu cho một thói quen trở về đơn giản.",
+              "front": "Tại sao hệ thống này cần được bảo trì?"
+            },
+            {
+              "back": "Bấp bênh giữ điều đó trở thành một nghĩa vụ lớn hơn trong tương lai.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nViệc bỏ qua việc bảo trì tạo ra một khoản tiết kiệm ngay lập tức và một chi phí bị trì hoãn.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: bỏ qua một vụ rò rỉ nhỏ hoặc tái diễn sự hiểu lầm có thể gây ra thiệt hại lớn sau này.",
+              "front": "Món nợ bảo trì là gì?"
+            },
+            {
+              "back": "Tăng trưởng theo tỷ lệ phần trăm của số lượng hiện tại.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhững giai đoạn đầu nhìn nhỏ, nhưng sau đó tăng trưởng tăng tốc vì nền tảng tăng trưởng.\n\nDịch bởi Vũ Hạnh, Mai Linh, Nga, Huy Tô, Yuki, Ann, Phương Đơn giản hóa:\nMột chuỗi nhân đôi tăng lên 1, 2, 4, 8, 16, và 32.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: nợ nần, nhiễm trùng, thông tin lan rộng, và các vòng củng cố có thể mở rộng theo cấp số nhân.",
+              "front": "Sự tăng trưởng theo cấp số nhân là gì?"
+            },
+            {
+              "back": "Loại bỏ nguyên nhân gốc không tự động phục hồi tình trạng gốc.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nLịch sử thay đổi hệ thống, vì thế việc sửa chữa có thể đòi hỏi phải làm thêm.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: ngăn chặn sự không trung thực là cần thiết nhưng có thể không lập tức phục hồi niềm tin.",
+              "front": "Mê sảng là gì?"
+            },
+            {
+              "back": "Hành động này cũng có thể giúp chúng ta sớm thất bại hoặc tốn kém hơn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nCác cửa sổ, ngưỡng cửa và trình tự ảnh hưởng đến cơ chế.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: phản hồi ban đầu có thể hướng dẫn công việc, trong khi phản hồi tương tự sau khi hoàn thành có thể là quá muộn.",
+              "front": "Tại sao thời gian thay đổi giá trị của sự can thiệp?"
+            },
+            {
+              "back": "Sự thay đổi tạm thời thay đổi tình trạng hiện tại; sự thay đổi cấu trúc thay đổi mẫu tương lai.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự giải thoát và phòng ngừa thường đòi hỏi cả hai điều.\n\n[[FH_REAL_WORLD]]Ứng dụng trong thế giới thực: làm sạch căn phòng bây giờ, sau đó thay đổi lưu trữ và thói quen để làm việc lộn xộn mang lại ít thường xuyên hơn.",
+              "front": "Có sự khác biệt nào giữa sự thay đổi tạm thời và cấu trúc?"
+            },
+            {
+              "back": "Đang ngăn chặn thiệt hại mới không gỡ bỏ những gì đã tích lũy.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nViệc sửa chữa có thể đòi hỏi phải giảm lượng nước và thay đổi cổ phiếu hiện có.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: ngăn chặn nợ mới không trả nợ cũ; chấm dứt xung đột không lập tức xây dựng lại lòng tin.",
+              "front": "Tại sao lại phân biệt một kho tàng với dòng chảy của nó khi sửa chữa một vấn đề?"
+            },
+            {
+              "back": "Một hành động có ích trong nhiều tình huống hợp lý.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHành động vô đạo đức ít phụ thuộc vào một dự báo chính xác.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: sức khỏe, kỹ năng chuyển giao, tiết kiệm khẩn cấp, sự tin tưởng, và tránh rủi ro thảm khốc thường bảo tồn giá trị.",
+              "front": "Một hành động mạnh mẽ nào đang diễn ra trong tương lai bấp bênh?"
+            },
+            {
+              "back": "Tôi đang chuyển gì từ hiện tại sang tương lai, hay từ tương lai sang hiện tại?",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nNhiều sự lựa chọn là sự chuyển tiếp theo thời gian thay vì lợi nhuận thuần túy.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: vay mượn mang lại quyền lực chi tiêu; bảo trì chi tiêu bây giờ để tránh thất bại trong tương lai.",
+              "front": "Câu hỏi thời gian nào cho thấy sự đánh đổi ẩn?"
+            }
+          ],
+          "title": "Thời gian, sự đa dạng và sự phụ thuộc"
+        },
+        {
+          "cards": [
+            {
+              "back": "Một sự cải thiện trong một chiều không gian làm cho chiều khác tồi tệ hơn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHầu hết các sự lựa chọn thật sự đều có lợi và tốn kém hơn là một câu trả lời hoàn hảo.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Một ngôi nhà rẻ hơn có thể làm tăng thời gian đi lại, trong khi dịch vụ nhanh hơn có thể tốn nhiều hơn.",
+              "front": "Cái gì?**đánh đổi**Hả?"
+            },
+            {
+              "back": "Giá trị của sự thay thế tốt nhất từ bỏ.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột sự lựa chọn tốn kém hơn số tiền được trả; nó cũng loại trừ việc sử dụng thời gian và tài nguyên.\n\n[[FH_REAL_WORLD]]Ứng dụng thực tế: làm việc ngày thứ bảy có thể mất thời gian nghỉ ngơi, thời gian gia đình, tập thể dục, hoặc nghiên cứu.",
+              "front": "Cái gì?**chi phí cơ hội**Hả?"
+            },
+            {
+              "back": "Căng thẳng, bảo trì, mất tính linh hoạt, chú ý và nguy cơ có thể vượt quá giá có thể thấy được.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nGiá mua thấp có thể che giấu tổng chi phí.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: trước khi chọn một sản phẩm rẻ tiền, hãy xem xét thất bại, sửa chữa, thời gian và sử dụng năng lượng.",
+              "front": "Tại sao xem xét chi phí vô hình?"
+            },
+            {
+              "back": "Lợi ích thu được từ một đơn vị khác.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nQuyết định ở lề đường thường tốt hơn là không có lựa chọn nào cả.\n\n[[FH_REAL_WORLD]]Hãy hỏi xem một giờ nghiên cứu nữa có đủ để học để biện minh cho sự mệt mỏi không.",
+              "front": "Cái gì?**Lợi ích ngoài lề**Hả?"
+            },
+            {
+              "back": "Mặt trái của thêm một đơn vị nữa.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nMột hoạt động khôn ngoan tiếp tục trong khi lợi ích tiếp theo của nó vượt quá giá trị tiếp theo.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: dừng đánh bóng công việc chấp nhận được khi một giờ khác tạo ra ít giá trị hơn một nhiệm vụ khác.",
+              "front": "Cái gì?**Chi phí lề**Hả?"
+            },
+            {
+              "back": "Các đơn vị phụ thêm sản xuất những lợi ích nhỏ hơn.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nKhông phải lúc nào cũng tốt hơn vì các đơn vị đầu tiên thường giải quyết nhu cầu lớn nhất.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: Ly nước đầu tiên khi khát quan trọng hơn ly thứ 5.",
+              "front": "Cái gì?**Comment**Hả?"
+            },
+            {
+              "back": "So sánh lợi ích của một lựa chọn với chi phí của một lựa chọn khác tạo ra một quyết định thiên vị.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSo sánh một cách công bằng mỗi tùy chọn chống lại cùng mục tiêu và hạn chế.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: so sánh cả lợi ích lẫn chi phí cho công việc ở nhà và văn phòng thay vì chỉ khen ngợi một bên.",
+              "front": "Tại sao so sánh các lựa chọn với nhau?"
+            },
+            {
+              "back": "Lựa chọn thông thường cần ít phân tích hơn là những lựa chọn tốn kém hoặc lâu dài.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nSự cố gắng quyết định phải tăng thêm với mặt trái và khó sửa.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: kiểm tra một thói quen một cách nhanh chóng, nhưng nghiên cứu sâu trước khi phẫu thuật hoặc một hợp đồng dài.",
+              "front": "Tại sao có thể phân biệt được với những quyết định không thể thay đổi?"
+            },
+            {
+              "back": "Không chắc chắn và may mắn chất lượng quyết định tách biệt khỏi chất lượng kết quả.",
+              "explanation": "[[FH_EXPLANATION]]Giải thích:\nHãy đánh giá tiến trình này bằng cách dùng những thông tin có sẵn vào lúc đó.\n\n[[FH_REAL_WORLD]]Ứng dụng thế giới thực: để lại mà không có ô sau khi dự báo mưa thấp có thể hợp lý ngay cả khi mưa bất ngờ xảy ra.",
+              "front": "Tại sao một quyết định đúng có thể dẫn đến hậu quả xấu?"
+            }
+          ],
+          "title": "Giá mua bán và cơ hội"
+        }
+      ]
+    }
+  ]
+}
