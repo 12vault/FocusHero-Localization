@@ -9,6 +9,66 @@
         {
           "cards": [
             {
+              "back": "Something directly noticed or verified.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nAn observation reports what happened without adding an explanation or motive.\n\n[[FH_REAL_WORLD]] Real-world application: When someone does not reply, record 'no reply yet' before deciding that they are angry.",
+              "front": "What is an **observation**?"
+            },
+            {
+              "back": "Meaning or explanation added to an observation.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nAn interpretation may be correct, but it goes beyond what was directly observed.\n\n[[FH_REAL_WORLD]] Real-world application: During conflict, separate the visible behavior from the story you are telling about why it happened.",
+              "front": "What is an **interpretation**?"
+            },
+            {
+              "back": "What do I know? What am I inferring? What else could explain it? What evidence would distinguish the options?",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThese questions slow the jump from an event to a confident conclusion.\n\n[[FH_REAL_WORLD]] Real-world application: Use them before reacting to an ambiguous message, delay, expression, or mistake.",
+              "front": "What four questions separate observation from interpretation?"
+            },
+            {
+              "back": "A fact is supported; an inference is drawn from facts; an assumption is temporarily treated as true.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nReasoning becomes safer when each statement is placed in the correct category.\n\n[[FH_REAL_WORLD]] Real-world application: In planning, label travel time as an assumption rather than presenting it as a guaranteed fact.",
+              "front": "How do **fact**, **inference**, and **assumption** differ?"
+            },
+            {
+              "back": "The farther a conclusion is from observation, the more evidence it needs.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nPeople often move from event to meaning to judgment without noticing the intermediate steps.\n\n[[FH_REAL_WORLD]] Real-world application: Before calling someone disrespectful, check how many unverified steps connect the behavior to that label.",
+              "front": "What is the key rule of the ladder of inference?"
+            }
+          ],
+          "title": "Observation and Interpretation"
+        },
+        {
+          "cards": [
+            {
+              "back": "Different meanings can produce a false disagreement.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nWords such as 'healthy', 'safe', and 'successful' are too broad until their meaning is specified.\n\n[[FH_REAL_WORLD]] Real-world application: Before debating whether a neighborhood is safe, decide whether safety means violent crime, traffic, lighting, or something else.",
+              "front": "Why define important terms before reasoning?"
+            },
+            {
+              "back": "A definition stated through observable or measurable criteria.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt explains how a concept will be recognized in practice.\n\n[[FH_REAL_WORLD]] Real-world application: Define 'reliable employee' through behaviors such as meeting deadlines and communicating delays early.",
+              "front": "What is an **operational definition**?"
+            },
+            {
+              "back": "It may rename the behavior without revealing its cause.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nCalling someone 'lazy' can be circular if the only evidence is that they avoid a task.\n\n[[FH_REAL_WORLD]] Real-world application: Instead of blaming laziness, check clarity, skill, fatigue, fear, incentives, and task value.",
+              "front": "Why is a label not automatically an explanation?"
+            },
+            {
+              "back": "What does it include? What does it exclude? How is it recognized? How is it measured? Could others mean something different?",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThese questions turn a flexible word into a usable concept.\n\n[[FH_REAL_WORLD]] Real-world application: Use them before setting a goal such as 'be more productive' or 'buy something high quality'.",
+              "front": "What five questions improve a vague definition?"
+            },
+            {
+              "back": "Turn it into an observable outcome with boundaries.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nPrecision makes progress testable and exposes hidden disagreements.\n\n[[FH_REAL_WORLD]] Real-world application: Replace 'use my time better' with a clear result, such as finishing three priority tasks before 3 p.m.",
+              "front": "How should a vague goal be improved?"
+            }
+          ],
+          "title": "Definitions and Precision"
+        },
+        {
+          "cards": [
+            {
               "back": "Premises and a conclusion.",
               "explanation": "[[FH_EXPLANATION]] Explanation:\nPremises provide reasons or evidence; the conclusion is what those reasons are meant to support.\n\n[[FH_REAL_WORLD]] Real-world application: When evaluating advice, first identify the supporting reasons and the action being recommended.",
               "front": "What are the two basic parts of an argument?"
@@ -45,6 +105,46 @@
             }
           ],
           "title": "Arguments and Logic"
+        },
+        {
+          "cards": [
+            {
+              "back": "Two things can move together without one causing the other.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe relationship may involve reverse causation, a third variable, or coincidence.\n\n[[FH_REAL_WORLD]] Real-world application: When coffee use and stress rise together, consider whether stress causes coffee use or another factor causes both.",
+              "front": "Why is correlation not causation?"
+            },
+            {
+              "back": "A causes B, B causes A, or a third factor causes both.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThese alternatives prevent premature causal stories.\n\n[[FH_REAL_WORLD]] Real-world application: When book ownership and school performance correlate, consider family income, parental involvement, and education.",
+              "front": "What three causal explanations should be checked when A and B are associated?"
+            },
+            {
+              "back": "Earlier events can precede later events without producing them.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe mind naturally turns sequence into a story, but timing is only one causal requirement.\n\n[[FH_REAL_WORLD]] Real-world application: Wearing a lucky shirt before a win does not show that the shirt caused the result.",
+              "front": "Why does sequence alone not prove causation?"
+            },
+            {
+              "back": "Several contributing factors can combine to produce one result.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nSearching for one cause can hide interacting influences and vulnerabilities.\n\n[[FH_REAL_WORLD]] Real-world application: Exam failure may involve poor sleep, weak foundations, anxiety, and insufficient practice at the same time.",
+              "front": "Why do complex outcomes often have multiple causes?"
+            },
+            {
+              "back": "A factor that changes the probability of an outcome without guaranteeing it.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nMost everyday causes are probabilistic rather than sufficient.\n\n[[FH_REAL_WORLD]] Real-world application: Treat sleep loss as a contributor to poor concentration, not proof that every tired person will perform badly.",
+              "front": "What is a **contributing cause**?"
+            },
+            {
+              "back": "It explains the intermediate steps connecting cause and effect.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA mechanism makes predictions possible and reveals where the process could fail.\n\n[[FH_REAL_WORLD]] Real-world application: Instead of saying stress reduces performance, identify effects on sleep, attention, and working memory.",
+              "front": "Why does a mechanism strengthen a causal claim?"
+            },
+            {
+              "back": "Experiments, comparable groups, repeated patterns, correct time order, a mechanism, and ruled-out alternatives.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nNo single item always proves causation, but several independent supports create a stronger case.\n\n[[FH_REAL_WORLD]] Real-world application: Before crediting a workplace policy for higher productivity, check what else changed at the same time.",
+              "front": "What evidence strengthens a causal conclusion?"
+            }
+          ],
+          "title": "Causation"
         },
         {
           "cards": [
@@ -89,42 +189,37 @@
         {
           "cards": [
             {
-              "back": "Two things can move together without one causing the other.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe relationship may involve reverse causation, a third variable, or coincidence.\n\n[[FH_REAL_WORLD]] Real-world application: When coffee use and stress rise together, consider whether stress causes coffee use or another factor causes both.",
-              "front": "Why is correlation not causation?"
+              "back": "A method is only one possible way to reach the desired outcome.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nConfusing the two hides alternatives and creates false constraints.\n\n[[FH_REAL_WORLD]] Real-world application: Instead of assuming you need a car, clarify whether the goal is reliable commuting, carrying items, or saving time.",
+              "front": "Why separate a goal from a method?"
             },
             {
-              "back": "A causes B, B causes A, or a third factor causes both.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThese alternatives prevent premature causal stories.\n\n[[FH_REAL_WORLD]] Real-world application: When book ownership and school performance correlate, consider family income, parental involvement, and education.",
-              "front": "What three causal explanations should be checked when A and B are associated?"
+              "back": "A goal is the outcome, a strategy is the approach, and an action is a specific behavior.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nKeeping these levels separate lets you replace an action without abandoning the goal.\n\n[[FH_REAL_WORLD]] Real-world application: For health, the goal may be fitness, the strategy more movement, and the action a 30-minute walk.",
+              "front": "How do **goal**, **strategy**, and **action** differ?"
             },
             {
-              "back": "Earlier events can precede later events without producing them.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe mind naturally turns sequence into a story, but timing is only one causal requirement.\n\n[[FH_REAL_WORLD]] Real-world application: Wearing a lucky shirt before a win does not show that the shirt caused the result.",
-              "front": "Why does sequence alone not prove causation?"
+              "back": "What outcome am I actually trying to create?",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe question moves attention from a familiar solution to the human need it serves.\n\n[[FH_REAL_WORLD]] Real-world application: Before buying a larger home, ask whether the real need is quiet workspace, storage, privacy, or status.",
+              "front": "What question reveals the deeper goal behind a proposed method?"
             },
             {
-              "back": "Several contributing factors can combine to produce one result.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nSearching for one cause can hide interacting influences and vulnerabilities.\n\n[[FH_REAL_WORLD]] Real-world application: Exam failure may involve poor sleep, weak foundations, anxiety, and insufficient practice at the same time.",
-              "front": "Why do complex outcomes often have multiple causes?"
+              "back": "When a measure or method replaces the original purpose.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nPeople begin optimizing the proxy instead of the outcome that made it useful.\n\n[[FH_REAL_WORLD]] Real-world application: Step counts should support health rather than become a reason to ignore pain or recovery.",
+              "front": "What is **goal displacement**?"
             },
             {
-              "back": "A factor that changes the probability of an outcome without guaranteeing it.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nMost everyday causes are probabilistic rather than sufficient.\n\n[[FH_REAL_WORLD]] Real-world application: Treat sleep loss as a contributor to poor concentration, not proof that every tired person will perform badly.",
-              "front": "What is a **contributing cause**?"
+              "back": "A goal describes what you want; a constraint describes what the solution must respect.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA good solution satisfies the desired outcome inside the hard limits.\n\n[[FH_REAL_WORLD]] Real-world application: For airport travel, the goal is reaching the terminal; budget, luggage, and deadline are constraints.",
+              "front": "How do goals and constraints differ?"
             },
             {
-              "back": "It explains the intermediate steps connecting cause and effect.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA mechanism makes predictions possible and reveals where the process could fail.\n\n[[FH_REAL_WORLD]] Real-world application: Instead of saying stress reduces performance, identify effects on sleep, attention, and working memory.",
-              "front": "Why does a mechanism strengthen a causal claim?"
-            },
-            {
-              "back": "Experiments, comparable groups, repeated patterns, correct time order, a mechanism, and ruled-out alternatives.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nNo single item always proves causation, but several independent supports create a stronger case.\n\n[[FH_REAL_WORLD]] Real-world application: Before crediting a workplace policy for higher productivity, check what else changed at the same time.",
-              "front": "What evidence strengthens a causal conclusion?"
+              "back": "What outcome? Why? How will success be recognized? By when? Which constraints? Which parts are essential versus preferred?",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThese questions make the goal specific enough to guide choices.\n\n[[FH_REAL_WORLD]] Real-world application: Use them before choosing a job, routine, purchase, or major life change.",
+              "front": "What six questions define a useful goal?"
             }
           ],
-          "title": "Causation"
+          "title": "Goals and Methods"
         },
         {
           "cards": [
@@ -170,61 +265,6 @@
             }
           ],
           "title": "Constraints and Variables"
-        },
-        {
-          "cards": [
-            {
-              "back": "A general claim is false or missing conditions.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nCounterexamples refine rules by exposing where they stop applying.\n\n[[FH_REAL_WORLD]] Real-world application: Use choice overload to challenge 'more choice is always better'.",
-              "front": "What does a counterexample reveal?"
-            },
-            {
-              "back": "One counterexample defeats a universal claim but not a claim that allows exceptions.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nProbabilistic claims require evidence about frequency, not merely one exception.\n\n[[FH_REAL_WORLD]] Real-world application: One exercise injury disproves 'exercise always helps' but not 'appropriate exercise usually helps'.",
-              "front": "How does a counterexample affect universal and probabilistic claims differently?"
-            },
-            {
-              "back": "Two claims that cannot both be true in the same sense, time, and conditions.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nApparent contradictions may disappear after clarifying definitions or context.\n\n[[FH_REAL_WORLD]] Real-world application: Exercise can be beneficial generally and harmful when excessive without contradiction.",
-              "front": "What is a **contradiction**?"
-            },
-            {
-              "back": "Ask whether the same reasoning is accepted when roles or sides are reversed.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt exposes selective standards and identity-based bias.\n\n[[FH_REAL_WORLD]] Real-world application: Would you support the same power if an opposing leader used it?",
-              "front": "What is the reversal test?"
-            },
-            {
-              "back": "Replace emotionally charged identities while preserving the structure.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA principle should survive changes in who benefits.\n\n[[FH_REAL_WORLD]] Real-world application: Apply a group's justification to a group you distrust and check whether it still seems valid.",
-              "front": "What is the substitution test?"
-            },
-            {
-              "back": "Assuming a claim and tracing it to an absurd or contradictory result.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nExtreme consequences can reveal missing limits in a principle.\n\n[[FH_REAL_WORLD]] Real-world application: Test 'never interfere with anyone's choices' against immediate serious harm.",
-              "front": "What is reductio ad absurdum?"
-            },
-            {
-              "back": "They reveal hidden assumptions near a rule's boundary.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA rare exception can refine a rule without making it useless for ordinary cases.\n\n[[FH_REAL_WORLD]] Real-world application: Check how an adult-oriented rule works for children, emergencies, or extreme scale.",
-              "front": "Why are edge cases useful?"
-            },
-            {
-              "back": "The strongest reasonable version of an opposing view.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nTesting against a serious alternative produces better reasoning than attacking a weak caricature.\n\n[[FH_REAL_WORLD]] Real-world application: Before rejecting a policy critic, state their best concern about effectiveness or harm.",
-              "front": "What is a steelman?"
-            },
-            {
-              "back": "A distorted weak version of another position.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt creates an easy victory without addressing the real claim.\n\n[[FH_REAL_WORLD]] Real-world application: Do not turn 'reduce unnecessary spending' into 'eliminate all comfort'.",
-              "front": "What is a straw man?"
-            },
-            {
-              "back": "Clarify terms, add conditions, narrow claims, rank principles, or reduce confidence.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nContradiction is diagnostic information showing where the model needs work.\n\n[[FH_REAL_WORLD]] Real-world application: Reconcile acceptance and self-improvement by separating current dignity from approval of every behavior.",
-              "front": "How can contradictions be resolved?"
-            }
-          ],
-          "title": "Counterexamples and Contradictions"
         }
       ]
     },
@@ -234,897 +274,52 @@
         {
           "cards": [
             {
-              "back": "Do I know enough to choose responsibly?",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nGood decisions manage uncertainty instead of demanding its complete removal.\n\n[[FH_REAL_WORLD]] Real-world application: Before choosing a job, identify the essential unknowns rather than researching indefinitely.",
-              "front": "What is the right question when perfect information is impossible?"
+              "back": "An improvement in one dimension that worsens another.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nMost real choices have competing benefits and costs rather than one perfect answer.\n\n[[FH_REAL_WORLD]] Real-world application: A cheaper home may increase commute time, while a faster service may cost more.",
+              "front": "What is a **trade-off**?"
             },
             {
-              "back": "Gathering it consumes time, money, attention, and opportunity.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe next fact is useful only if its value exceeds its acquisition cost.\n\n[[FH_REAL_WORLD]] Real-world application: Do not spend five hours comparing inexpensive products for a tiny expected improvement.",
-              "front": "Why does information have a cost?"
+              "back": "The value of the best alternative given up.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA choice costs more than the money paid; it also excludes other uses of time and resources.\n\n[[FH_REAL_WORLD]] Real-world application: Working Saturday may cost rest, family time, exercise, or study.",
+              "front": "What is **opportunity cost**?"
             },
             {
-              "back": "Delay preserves the current state and can create its own costs.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nOpportunities may disappear while existing problems continue.\n\n[[FH_REAL_WORLD]] Real-world application: Waiting six months for the perfect course can cost six months of learning.",
-              "front": "Why is not deciding still a decision?"
+              "back": "Stress, maintenance, lost flexibility, attention, and risk may exceed the visible price.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA low purchase price can hide a high total cost.\n\n[[FH_REAL_WORLD]] Real-world application: Before choosing a cheap product, consider failures, repairs, time, and energy use.",
+              "front": "Why consider invisible costs?"
             },
             {
-              "back": "Some uncertainty can only be reduced through experience or a small test.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nControlled action can teach more than additional abstract thought.\n\n[[FH_REAL_WORLD]] Real-world application: Try one lesson, visit, conversation, or short routine before committing fully.",
-              "front": "Why can action create information?"
+              "back": "The benefit produced by one additional unit.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nDecisions are often better made at the margin than as all-or-nothing choices.\n\n[[FH_REAL_WORLD]] Real-world application: Ask whether one more hour of study adds enough learning to justify fatigue.",
+              "front": "What is a **marginal benefit**?"
             },
             {
-              "back": "Move faster when correction is easy and slower when reversal is costly.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nAnalysis effort should scale with downside and irreversibility.\n\n[[FH_REAL_WORLD]] Real-world application: Test a new schedule quickly but investigate major surgery carefully.",
-              "front": "How should reversibility affect decision speed?"
+              "back": "The additional downside of one more unit.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA sensible activity continues while its next benefit exceeds its next cost.\n\n[[FH_REAL_WORLD]] Real-world application: Stop polishing acceptable work when another hour creates less value than another task.",
+              "front": "What is a **marginal cost**?"
             },
             {
-              "back": "Ask what happens if the decision is wrong.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe severity, recoverability, and future option loss matter as much as the upside.\n\n[[FH_REAL_WORLD]] Real-world application: Before taking a financial risk, ask whether the loss would threaten essential needs.",
-              "front": "What is the **downside test**?"
+              "back": "Additional units produce progressively smaller benefits.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nMore is not always better because the first units often solve the largest need.\n\n[[FH_REAL_WORLD]] Real-world application: The first glass of water when thirsty matters more than the fifth.",
+              "front": "What are **diminishing returns**?"
             },
             {
-              "back": "Avoid risks that remove your ability to continue and learn.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nMany small failures are recoverable; ruin is different.\n\n[[FH_REAL_WORLD]] Real-world application: Protect health, essential savings, trust, and legal safety before chasing extra gain.",
-              "front": "What is the survival principle?"
+              "back": "Comparing one option's benefits with another option's costs creates a biased decision.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA fair comparison measures each option against the same goals and constraints.\n\n[[FH_REAL_WORLD]] Real-world application: Compare both benefits and costs of home and office work rather than praising only one side.",
+              "front": "Why compare options using the same criteria?"
             },
             {
-              "back": "The value of preserving the ability to choose later.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nFlexible, staged commitments are valuable when uncertainty is high.\n\n[[FH_REAL_WORLD]] Real-world application: Rent before buying or test a short course before enrolling long term.",
-              "front": "What is **option value**?"
+              "back": "Easy-to-reverse choices need less analysis than costly or permanent ones.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nDecision effort should scale with downside and difficulty of correction.\n\n[[FH_REAL_WORLD]] Real-world application: Test a routine quickly, but investigate deeply before surgery or a long contract.",
+              "front": "Why distinguish reversible from irreversible decisions?"
             },
             {
-              "back": "The smallest commitment that produces useful evidence.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nCommitment should grow with evidence rather than lead it.\n\n[[FH_REAL_WORLD]] Real-world application: Place a small order before choosing a supplier for a large contract.",
-              "front": "What is the minimum necessary commitment?"
-            },
-            {
-              "back": "Imagining that a decision failed and listing plausible causes.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nProspective hindsight exposes risks that ordinary optimism misses.\n\n[[FH_REAL_WORLD]] Real-world application: Before a group trip, imagine the failure and check budget, documents, expectations, and bookings.",
-              "front": "What is a pre-mortem?"
-            },
-            {
-              "back": "A past cost that cannot be recovered.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nFuture choices should be compared from the present forward.\n\n[[FH_REAL_WORLD]] Real-world application: Do not continue an unsuitable path solely because years or money were already invested.",
-              "front": "What is a sunk cost?"
-            },
-            {
-              "back": "Investing more in a failing choice to justify earlier investment.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIdentity, embarrassment, and sunk cost can turn a small mistake into a large one.\n\n[[FH_REAL_WORLD]] Real-world application: Set review criteria before beginning so stopping is not interpreted as personal failure.",
-              "front": "What is escalation of commitment?"
-            },
-            {
-              "back": "A predefined condition for ending search, testing, or investment.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nStop rules prevent indefinite continuation driven by emotion or tiny incremental costs.\n\n[[FH_REAL_WORLD]] Real-world application: Stop researching after several suitable options or stop a test if pain appears.",
-              "front": "What is a stop rule?"
-            },
-            {
-              "back": "Choosing an option that meets important criteria rather than searching for the absolute best.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe remaining search cost may exceed the value of a marginally better option.\n\n[[FH_REAL_WORLD]] Real-world application: Choose a hotel that is safe, clean, affordable, and close enough instead of comparing every hotel.",
-              "front": "What is **satisficing**?"
-            },
-            {
-              "back": "It preserves what was known, assumed, and valued before the outcome.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA decision journal reduces hindsight rewriting and outcome bias.\n\n[[FH_REAL_WORLD]] Real-world application: Later compare the original reasoning with the result to improve calibration.",
-              "front": "Why record major decisions?"
+              "back": "Uncertainty and luck separate decision quality from result quality.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nJudge the process using the information available at the time.\n\n[[FH_REAL_WORLD]] Real-world application: Leaving without an umbrella after a low rain forecast may be reasonable even if unexpected rain occurs.",
+              "front": "Why can a good decision have a bad outcome?"
             }
           ],
-          "title": "Decisions Under Uncertainty"
-        },
-        {
-          "cards": [
-            {
-              "back": "Breaking a complex problem into meaningful smaller parts.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt reduces mental load and makes causes, dependencies, and actions easier to inspect.\n\n[[FH_REAL_WORLD]] Real-world application: Replace 'I am bad with money' with income, fixed costs, variable costs, debt, and savings.",
-              "front": "What is **decomposition**?"
-            },
-            {
-              "back": "Different outcomes require different categories and solutions.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA problem statement is only useful relative to what success means.\n\n[[FH_REAL_WORLD]] Real-world application: A messy room can be decomposed differently for hygiene, comfort, or finding items quickly.",
-              "front": "Why define the desired outcome before decomposing?"
-            },
-            {
-              "back": "The parts interact, so separate fixes can create system-wide side effects.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nDecomposition without reconnection becomes oversimplification.\n\n[[FH_REAL_WORLD]] Real-world application: Improving sleep by cutting work hours may create financial stress that harms sleep again.",
-              "front": "Why must decomposition be followed by recomposition?"
-            },
-            {
-              "back": "Inputs enter a process that produces outputs.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nPoor output can come from weak inputs, a broken process, or both.\n\n[[FH_DIAGRAM]] Diagram:\n`mermaid\ngraph LR\n    Inputs[Inputs] --> Process[Process]\n    Process --> Outputs[Outputs]\n`\n\n[[FH_REAL_WORLD]] Real-world application: For learning, inspect time and prior knowledge, study method, and later recall.",
-              "front": "What is the input-process-output model?"
-            },
-            {
-              "back": "Something that must happen before another part can succeed.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIgnoring dependencies causes effort on steps that cannot yet work.\n\n[[FH_REAL_WORLD]] Real-world application: Build foundational knowledge before attempting material that requires it.",
-              "front": "What is a **dependency**?"
-            },
-            {
-              "back": "Each category requires a different response.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nDirect action fits controllable factors, persuasion fits influenceable ones, and adaptation fits uncontrollable ones.\n\n[[FH_REAL_WORLD]] Real-world application: Control your preparation, influence group decisions, and adapt to weather.",
-              "front": "Why separate controllable, influenceable, and uncontrollable factors?"
-            },
-            {
-              "back": "The narrowest part that can be observed, tested, or improved meaningfully.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nSmaller problems make action and feedback possible without pretending the whole issue is solved.\n\n[[FH_REAL_WORLD]] Real-world application: Replace 'my life is disorganized' with 'I lose my keys three times a week'.",
-              "front": "What is the **smallest useful problem**?"
-            },
-            {
-              "back": "They should minimize overlap and cover the important whole.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nOverlapping categories confuse analysis; missing categories hide causes.\n\n[[FH_REAL_WORLD]] Real-world application: A spending breakdown should avoid double-counting restaurant costs and should include major categories.",
-              "front": "What makes categories useful in a decomposition?"
-            },
-            {
-              "back": "A map from one visible outcome to possible contributing causes.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt organizes hypotheses without treating any branch as proven.\n\n[[FH_REAL_WORLD]] Real-world application: For exhaustion, branch into recovery, workload, health, nutrition, and environment.",
-              "front": "What is a problem tree?"
-            },
-            {
-              "back": "Changing everything at once makes it hard to learn what mattered.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nCleaner tests produce better causal information.\n\n[[FH_REAL_WORLD]] Real-world application: When a plant is unhealthy, do not simultaneously change water, light, soil, and fertilizer.",
-              "front": "Why test branches one at a time when possible?"
-            }
-          ],
-          "title": "Decomposition"
-        },
-        {
-          "cards": [
-            {
-              "back": "Different meanings can produce a false disagreement.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nWords such as 'healthy', 'safe', and 'successful' are too broad until their meaning is specified.\n\n[[FH_REAL_WORLD]] Real-world application: Before debating whether a neighborhood is safe, decide whether safety means violent crime, traffic, lighting, or something else.",
-              "front": "Why define important terms before reasoning?"
-            },
-            {
-              "back": "A definition stated through observable or measurable criteria.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt explains how a concept will be recognized in practice.\n\n[[FH_REAL_WORLD]] Real-world application: Define 'reliable employee' through behaviors such as meeting deadlines and communicating delays early.",
-              "front": "What is an **operational definition**?"
-            },
-            {
-              "back": "It may rename the behavior without revealing its cause.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nCalling someone 'lazy' can be circular if the only evidence is that they avoid a task.\n\n[[FH_REAL_WORLD]] Real-world application: Instead of blaming laziness, check clarity, skill, fatigue, fear, incentives, and task value.",
-              "front": "Why is a label not automatically an explanation?"
-            },
-            {
-              "back": "What does it include? What does it exclude? How is it recognized? How is it measured? Could others mean something different?",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThese questions turn a flexible word into a usable concept.\n\n[[FH_REAL_WORLD]] Real-world application: Use them before setting a goal such as 'be more productive' or 'buy something high quality'.",
-              "front": "What five questions improve a vague definition?"
-            },
-            {
-              "back": "Turn it into an observable outcome with boundaries.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nPrecision makes progress testable and exposes hidden disagreements.\n\n[[FH_REAL_WORLD]] Real-world application: Replace 'use my time better' with a clear result, such as finishing three priority tasks before 3 p.m.",
-              "front": "How should a vague goal be improved?"
-            }
-          ],
-          "title": "Definitions and Precision"
-        },
-        {
-          "cards": [
-            {
-              "back": "Reduce a problem to reliable fundamentals, then build upward.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe method starts from what reality requires rather than the existing answer.\n\n[[FH_REAL_WORLD]] Real-world application: Before copying a standard study method, derive one from memory, feedback, and transfer.",
-              "front": "What is the central act of first-principles reasoning?"
-            },
-            {
-              "back": "Analogy copies from a similar case; first principles derives from basic facts and constraints.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nAnalogy is efficient but can fail when relevant conditions differ.\n\n[[FH_REAL_WORLD]] Real-world application: Use another country's policy only after checking the shared mechanism and context.",
-              "front": "How does analogy differ from first-principles reasoning?"
-            },
-            {
-              "back": "It is reliable, relevant, and difficult to reduce further within the problem.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nFamiliar beliefs and conventions are not automatically fundamentals.\n\n[[FH_REAL_WORLD]] Real-world application: Limited time and attention are stronger starting facts than 'serious work requires long hours'.",
-              "front": "What makes a useful first principle?"
-            },
-            {
-              "back": "It shows which part of the reasoning could fail.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nConclusions inherit uncertainty from assumptions and errors from logic.\n\n[[FH_REAL_WORLD]] Real-world application: From 24 hours, assumed sleep needs, and fixed commitments, derive realistic available time.",
-              "front": "Why separate facts, assumptions, and derived conclusions?"
-            },
-            {
-              "back": "When the remaining facts are reliable enough, relevant, shared, and actionable.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nInfinite reduction can become philosophically interesting but practically useless.\n\n[[FH_REAL_WORLD]] Real-world application: Stop once the foundation is sufficient to choose a meal, route, or plan.",
-              "front": "When should repeated 'why' questioning stop?"
-            },
-            {
-              "back": "Breaking a solution into the jobs it must perform.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nFunctions reveal alternatives hidden by the current object or method.\n\n[[FH_REAL_WORLD]] Real-world application: A table's function may be a stable working surface, which can be delivered by several designs.",
-              "front": "What is functional decomposition?"
-            },
-            {
-              "back": "The simplest solution that satisfies essential functions and constraints.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nEvery extra component should justify its cost and failure risk.\n\n[[FH_REAL_WORLD]] Real-world application: Confirm five dinner guests with one clear message instead of building a registration system.",
-              "front": "What is the minimum sufficient solution?"
-            },
-            {
-              "back": "They reveal what must exist before success is possible.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nFamiliar features that are not necessary can be removed or replaced.\n\n[[FH_REAL_WORLD]] Real-world application: A productive discussion requires communication and information, not necessarily a large room.",
-              "front": "Why derive from necessary conditions?"
-            },
-            {
-              "back": "Different sufficient combinations can produce the same outcome.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nFirst-principles reasoning creates a valid solution space rather than one mandatory answer.\n\n[[FH_REAL_WORLD]] Real-world application: Fitness can come from walking, sports, swimming, or gym training when the required mechanisms are present.",
-              "front": "Why can several solutions satisfy the same fundamentals?"
-            },
-            {
-              "back": "A derived conclusion can be reconstructed and adapted.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nMemorization stores the answer without guaranteeing understanding of the relationships.\n\n[[FH_REAL_WORLD]] Real-world application: If a formula is forgotten, rebuild it from units and definitions.",
-              "front": "Why is derivation stronger than memorization?"
-            },
-            {
-              "back": "They reveal whether inputs can logically produce the claimed output.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA missing mechanism cannot be repaired by adding more of the wrong input.\n\n[[FH_REAL_WORLD]] Real-world application: More activity does not automatically produce progress, just as incompatible units do not form a valid quantity.",
-              "front": "Why inspect units or dimensions?"
-            },
-            {
-              "back": "Limits on what is theoretically possible.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nBounds prevent detailed planning around impossible expectations.\n\n[[FH_REAL_WORLD]] Real-world application: A 100-kilometre journey at a maximum 100 kilometres per hour cannot take less than one hour.",
-              "front": "What do lower and upper bounds provide?"
-            },
-            {
-              "back": "Something that must remain true across possible solutions.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nInvariants simplify a problem by identifying what change cannot alter.\n\n[[FH_REAL_WORLD]] Real-world application: A transfer changes account balances while leaving the combined amount unchanged, excluding fees.",
-              "front": "What is an **invariant**?"
-            },
-            {
-              "back": "Define outcome, remove current solution, list facts, identify hard constraints, identify functions, find mechanism, generate alternatives, estimate feasibility, test assumptions, compare trade-offs.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe sequence rebuilds from reality instead of convention.\n\n[[FH_REAL_WORLD]] Real-world application: Use it to redesign communication, transportation, learning, or household systems.",
-              "front": "What ten-step reconstruction process was proposed?"
-            }
-          ],
-          "title": "Deriving from First Principles"
-        }
-      ]
-    },
-    {
-      "name": "First Principles 3",
-      "chains": [
-        {
-          "cards": [
-            {
-              "back": "A claim about how the world is.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt can be investigated through observation, records, measurement, or experiment.\n\n[[FH_REAL_WORLD]] Real-world application: Whether a journey takes 40 minutes is a factual question.",
-              "front": "What is a descriptive claim?"
-            },
-            {
-              "back": "A claim about how the world should be.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt depends on goals, values, rights, or standards.\n\n[[FH_REAL_WORLD]] Real-world application: Whether 40 minutes is too long depends on what matters and which alternatives exist.",
-              "front": "What is a normative claim?"
-            },
-            {
-              "back": "Facts alone do not logically determine what should be done.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA recommendation needs an additional value premise.\n\n[[FH_REAL_WORLD]] Real-world application: Competition existing in nature does not prove society should maximize competition.",
-              "front": "What is the is-ought gap?"
-            },
-            {
-              "back": "An unstated belief about what should matter or take priority.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt connects descriptive evidence to a normative conclusion.\n\n[[FH_REAL_WORLD]] Real-world application: Calling an expensive program unworthy assumes cost outweighs its benefits or duties.",
-              "front": "What is a hidden value premise?"
-            },
-            {
-              "back": "Values choose goals; facts show which methods are likely to achieve them.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nGood intentions cannot replace evidence about consequences.\n\n[[FH_REAL_WORLD]] Real-world application: To reduce homelessness, clarify the moral goal and test which interventions actually work.",
-              "front": "How do values and facts work together?"
-            },
-            {
-              "back": "A preference is a liking, a value is something important, and a principle guides action.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nConfusing them can make personal taste sound like a universal duty.\n\n[[FH_REAL_WORLD]] Real-world application: Preferring tea is different from valuing health or following a promise-keeping principle.",
-              "front": "How do preferences, values, and principles differ?"
-            },
-            {
-              "back": "Instrumental value helps produce another end; intrinsic value is valued for itself.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe distinction reveals whether a method can be replaced.\n\n[[FH_REAL_WORLD]] Real-world application: Money is usually instrumental to security, freedom, comfort, or status.",
-              "front": "What is the difference between instrumental and intrinsic value?"
-            },
-            {
-              "back": "Values can genuinely conflict.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nFreedom, safety, honesty, kindness, equality, and loyalty may point in different directions.\n\n[[FH_REAL_WORLD]] Real-world application: A privacy policy can require choosing how much safety gain justifies reduced privacy.",
-              "front": "Why do difficult decisions often remain after facts are known?"
-            },
-            {
-              "back": "A rule for which value takes priority under specified conditions.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nWithout a hierarchy, principles can contradict each other in hard cases.\n\n[[FH_REAL_WORLD]] Real-world application: Preventing severe harm may override an ordinary promise.",
-              "front": "What is a value hierarchy?"
-            },
-            {
-              "back": "Fairness has several standards, such as equality, need, contribution, effort, opportunity, procedure, and compensation.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA result can be fair under one standard and unfair under another.\n\n[[FH_REAL_WORLD]] Real-world application: Before debating distribution, state which fairness principle is being used.",
-              "front": "Why can fairness disagreements persist?"
-            },
-            {
-              "back": "Good intentions do not guarantee good results, and bad outcomes do not prove bad intent.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nResponsibility depends on intention, knowledge, control, foreseeability, and precautions.\n\n[[FH_REAL_WORLD]] Real-world application: Judge both why a decision was made and what risks were reasonably knowable.",
-              "front": "Why separate intentions from outcomes?"
-            },
-            {
-              "back": "A formal yes may not be freely chosen when refusal carries severe consequences.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nConsent requires information, understanding, capacity, and a genuine ability to refuse.\n\n[[FH_REAL_WORLD]] Real-world application: Examine employer-employee or landlord-tenant agreements for unequal bargaining power.",
-              "front": "How does power affect meaningful consent?"
-            },
-            {
-              "back": "Presenting a value judgment as an objective fact.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nWords such as 'bad', 'normal', and 'respectable' often hide standards.\n\n[[FH_REAL_WORLD]] Real-world application: Ask 'bad by which criterion?' before accepting a cultural or personal judgment.",
-              "front": "What is false factualization?"
-            },
-            {
-              "back": "Treating every claim as opinion even when evidence can decide it.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nValues matter, but facts still constrain action and belief.\n\n[[FH_REAL_WORLD]] Real-world application: Whether a bridge supports a load is not merely a matter of preference.",
-              "front": "What is false relativism?"
-            },
-            {
-              "back": "Factual disagreements need better evidence; value disagreements need clearer priorities and trade-offs.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nMore data cannot settle a conflict that is fundamentally about what should matter.\n\n[[FH_REAL_WORLD]] Real-world application: In a road debate, separate cost and traffic predictions from judgments about displacement and growth.",
-              "front": "How do factual and value disagreements require different responses?"
-            }
-          ],
-          "title": "Facts and Values"
-        },
-        {
-          "cards": [
-            {
-              "back": "Physical, logical, institutional, and conventional.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe category determines whether a limitation must be respected, negotiated, redesigned, or questioned.\n\n[[FH_REAL_WORLD]] Real-world application: A material limit differs from a law, and a law differs from a workplace habit.",
-              "front": "What four categories of limitation were identified?"
-            },
-            {
-              "back": "A fundamental constraint comes from reality or logic; an inherited rule comes from a system, custom, or habit.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nHuman-made rules can be important without being laws of nature.\n\n[[FH_REAL_WORLD]] Real-world application: Ask whether a procedure is physically necessary or simply how the organization currently works.",
-              "front": "What distinguishes a fundamental constraint from an inherited rule?"
-            },
-            {
-              "back": "Rules are usually methods for achieving deeper goals.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe purpose may be preserved through a different form.\n\n[[FH_REAL_WORLD]] Real-world application: An office rule may aim at communication, security, or supervision rather than physical presence itself.",
-              "front": "Why ask what purpose a rule serves?"
-            },
-            {
-              "back": "Earlier choices make later alternatives more costly or difficult.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA current system may exist because history built around it, not because it is ideal.\n\n[[FH_REAL_WORLD]] Real-world application: A station location shapes roads, businesses, and housing long after the original decision.",
-              "front": "What is path dependence in institutions?"
-            },
-            {
-              "back": "Shared conventions create coordination.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIts value may come from common adoption rather than inherent superiority.\n\n[[FH_REAL_WORLD]] Real-world application: Driving on one agreed side of the road is useful even if the chosen side is arbitrary.",
-              "front": "Why can an arbitrary convention still be useful?"
-            },
-            {
-              "back": "Lack of skill, resources, permission, willingness, confidence, or acceptable cost.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nDifferent meanings require different solutions.\n\n[[FH_REAL_WORLD]] Real-world application: Clarify whether someone cannot attend, cannot afford it, or simply does not want to.",
-              "front": "What can 'I cannot' mean besides impossibility?"
-            },
-            {
-              "back": "Absolute impossibility cannot occur; conditional impossibility cannot occur under current conditions.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nChanging time, budget, method, or permission may change a conditional limit.\n\n[[FH_REAL_WORLD]] Real-world application: Replace 'this cannot be done' with 'not with the current deadline and resources'.",
-              "front": "How do absolute and conditional impossibility differ?"
-            },
-            {
-              "back": "Trading one scarce resource for another.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nSolutions vary depending on whether time, money, skill, space, or support is available.\n\n[[FH_REAL_WORLD]] Real-world application: Use time to repair instead of money to replace, or money to save time.",
-              "front": "What is constraint substitution?"
-            },
-            {
-              "back": "Using a limitation to shape a useful advantage.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA constraint can encourage prioritization, simplicity, or creative design.\n\n[[FH_REAL_WORLD]] Real-world application: Limited space may lead to fewer possessions and multipurpose furniture.",
-              "front": "What is constraint inversion?"
-            },
-            {
-              "back": "Rules distribute costs and advantages unevenly.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIncentives and power may explain why a burdensome system persists.\n\n[[FH_REAL_WORLD]] Real-world application: A complex application process may protect quality or may also reduce competition.",
-              "front": "Why ask who benefits from a rule?"
-            },
-            {
-              "back": "Understand why a rule exists before removing it.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA visible restriction may protect against a hidden danger.\n\n[[FH_REAL_WORLD]] Real-world application: Test a replacement for a recurring meeting only after identifying the coordination need it serves.",
-              "front": "What is Chesterton's fence?"
-            },
-            {
-              "back": "It produces evidence while limiting the downside.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nSystems adapt when rules change, so consequences may be unexpected.\n\n[[FH_REAL_WORLD]] Real-world application: Shorten or reduce a meeting for one month before cancelling it permanently.",
-              "front": "Why use a reversible test before removing a rule?"
-            }
-          ],
-          "title": "Fundamental and Inherited Constraints"
-        },
-        {
-          "cards": [
-            {
-              "back": "A conclusion no broader than the evidence supports.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe size and scope of the claim should match the observed cases and conditions.\n\n[[FH_REAL_WORLD]] Real-world application: One bad restaurant visit supports a conclusion about that visit, not an entire city.",
-              "front": "What does proportional generalization require?"
-            },
-            {
-              "back": "Universal claims allow no exceptions and require exceptionally strong evidence.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nOne valid counterexample defeats a universal statement.\n\n[[FH_REAL_WORLD]] Real-world application: Replace 'people never change' with a narrower claim that specifies conditions and frequency.",
-              "front": "Why should words such as 'always' and 'everyone' trigger caution?"
-            },
-            {
-              "back": "A sample is observed; a population is the larger group being inferred about.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nGeneralization depends on whether the sample represents the target population.\n\n[[FH_REAL_WORLD]] Real-world application: A survey of 500 residents is useful only if those respondents resemble the city being described.",
-              "front": "What is the difference between a sample and a population?"
-            },
-            {
-              "back": "A sample is systematically different from the population of interest.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nLarge sample size cannot repair a biased selection process.\n\n[[FH_REAL_WORLD]] Real-world application: An online survey about internet use may underrepresent people who rarely go online.",
-              "front": "What is **selection bias**?"
-            },
-            {
-              "back": "Attention is limited to visible successes while failures disappear from view.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nStudying only survivors hides how many used the same strategy and failed.\n\n[[FH_REAL_WORLD]] Real-world application: Do not infer that ignoring advice causes success from famous people who did so.",
-              "front": "What is **survivorship bias**?"
-            },
-            {
-              "back": "That something can happen, not how often it happens.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nAnecdotes are useful for possibility and hypothesis generation but weak for frequency.\n\n[[FH_REAL_WORLD]] Real-world application: One unusual recovery does not show that refusing treatment is generally safe.",
-              "front": "What can an anecdote establish?"
-            },
-            {
-              "back": "Random variation has a large influence on a few observations.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nShort sequences often look more extreme than the long-run pattern.\n\n[[FH_REAL_WORLD]] Real-world application: Do not declare a coin biased after a small run of heads.",
-              "front": "Why are small samples unstable?"
-            },
-            {
-              "back": "They can hide the distribution and individual variation.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA mean improvement does not imply every participant improved.\n\n[[FH_REAL_WORLD]] Real-world application: Ask how many improved, by how much, and whether some became worse.",
-              "front": "Why can averages mislead?"
-            },
-            {
-              "back": "Group averages describe distributions, not every member.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nMembership changes probability at most; it does not fully describe one person.\n\n[[FH_REAL_WORLD]] Real-world application: Do not infer an individual's ability or behavior from a demographic average.",
-              "front": "Why do group differences not determine individuals?"
-            },
-            {
-              "back": "Predicting outside the range or conditions already observed.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nRelationships can become nonlinear or fail when scale, amount, place, or time changes.\n\n[[FH_REAL_WORLD]] Real-world application: A small beneficial dose does not prove a large dose is better.",
-              "front": "What is extrapolation?"
-            },
-            {
-              "back": "Coordination, complexity, incentives, and bottlenecks change with size.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA method that works for ten people may fail for ten thousand.\n\n[[FH_REAL_WORLD]] Real-world application: Informal communication may work in a family but not a large organization.",
-              "front": "Why can scaling change a solution?"
-            },
-            {
-              "back": "A real effect can be too small to justify its cost.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nLarge samples can detect tiny differences that do not matter operationally.\n\n[[FH_REAL_WORLD]] Real-world application: Ask whether a measured 0.2% improvement is worth implementing.",
-              "front": "Why distinguish statistical significance from practical importance?"
-            },
-            {
-              "back": "Relative percentages can exaggerate small baseline changes.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nBoth views are mathematically valid but answer different questions.\n\n[[FH_REAL_WORLD]] Real-world application: A risk falling from 2 in 10,000 to 1 in 10,000 is a 50% relative reduction and a 1-in-10,000 absolute reduction.",
-              "front": "Why compare relative and absolute effects?"
-            },
-            {
-              "back": "The conditions under which a conclusion applies or stops applying.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nMature understanding includes both the rule and its limits.\n\n[[FH_REAL_WORLD]] Real-world application: Exercise may help health under suitable intensity and recovery but harm during severe injury.",
-              "front": "What are **boundary conditions**?"
-            }
-          ],
-          "title": "Generalization"
-        },
-        {
-          "cards": [
-            {
-              "back": "A method is only one possible way to reach the desired outcome.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nConfusing the two hides alternatives and creates false constraints.\n\n[[FH_REAL_WORLD]] Real-world application: Instead of assuming you need a car, clarify whether the goal is reliable commuting, carrying items, or saving time.",
-              "front": "Why separate a goal from a method?"
-            },
-            {
-              "back": "A goal is the outcome, a strategy is the approach, and an action is a specific behavior.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nKeeping these levels separate lets you replace an action without abandoning the goal.\n\n[[FH_REAL_WORLD]] Real-world application: For health, the goal may be fitness, the strategy more movement, and the action a 30-minute walk.",
-              "front": "How do **goal**, **strategy**, and **action** differ?"
-            },
-            {
-              "back": "What outcome am I actually trying to create?",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe question moves attention from a familiar solution to the human need it serves.\n\n[[FH_REAL_WORLD]] Real-world application: Before buying a larger home, ask whether the real need is quiet workspace, storage, privacy, or status.",
-              "front": "What question reveals the deeper goal behind a proposed method?"
-            },
-            {
-              "back": "When a measure or method replaces the original purpose.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nPeople begin optimizing the proxy instead of the outcome that made it useful.\n\n[[FH_REAL_WORLD]] Real-world application: Step counts should support health rather than become a reason to ignore pain or recovery.",
-              "front": "What is **goal displacement**?"
-            },
-            {
-              "back": "A goal describes what you want; a constraint describes what the solution must respect.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA good solution satisfies the desired outcome inside the hard limits.\n\n[[FH_REAL_WORLD]] Real-world application: For airport travel, the goal is reaching the terminal; budget, luggage, and deadline are constraints.",
-              "front": "How do goals and constraints differ?"
-            },
-            {
-              "back": "What outcome? Why? How will success be recognized? By when? Which constraints? Which parts are essential versus preferred?",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThese questions make the goal specific enough to guide choices.\n\n[[FH_REAL_WORLD]] Real-world application: Use them before choosing a job, routine, purchase, or major life change.",
-              "front": "What six questions define a useful goal?"
-            }
-          ],
-          "title": "Goals and Methods"
-        }
-      ]
-    },
-    {
-      "name": "First Principles 4",
-      "chains": [
-        {
-          "cards": [
-            {
-              "back": "Solving toward success by identifying what would produce failure.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nFailure conditions are often easier to see than the complete ideal path.\n\n[[FH_REAL_WORLD]] Real-world application: To improve a friendship, list behaviors that destroy trust and remove them.",
-              "front": "What is **inversion**?"
-            },
-            {
-              "back": "Forward reasoning generates next actions; backward reasoning reveals prerequisites and deadlines.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nAgreement between them increases confidence in the plan.\n\n[[FH_REAL_WORLD]] Real-world application: Plan airport travel by moving forward from now and backward from gate closing.",
-              "front": "How do forward and backward reasoning complement each other?"
-            },
-            {
-              "back": "One component whose failure collapses the whole system.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nRemoving single-point dependence improves resilience.\n\n[[FH_REAL_WORLD]] Real-world application: Do not let one person hold the only password or one device hold the only document.",
-              "front": "What is a single point of failure?"
-            },
-            {
-              "back": "Extra capacity, copies, or alternatives beyond normal need.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nRedundancy looks inefficient until disruption occurs.\n\n[[FH_REAL_WORLD]] Real-world application: Keep backups, emergency savings, alternative routes, and shared knowledge.",
-              "front": "What is redundancy?"
-            },
-            {
-              "back": "The distance between normal demand and the failure limit.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nMargin protects against uncertainty, variation, and measurement error.\n\n[[FH_REAL_WORLD]] Real-world application: Leave travel time, budget, and workload capacity below their absolute maximum.",
-              "front": "What is a margin of safety?"
-            },
-            {
-              "back": "Knowledge of what repeatedly fails or causes harm.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nAvoiding predictable damage can be more reliable than finding the perfect strategy.\n\n[[FH_REAL_WORLD]] Real-world application: Financial security may improve more by avoiding expensive debt than by finding an exceptional investment.",
-              "front": "What is negative knowledge?"
-            },
-            {
-              "back": "A destructive foundation can overwhelm advanced improvements.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nPrevention often has higher value than marginal enhancement.\n\n[[FH_REAL_WORLD]] Real-world application: Before searching for study hacks, stop all-night cramming and repair missing feedback.",
-              "front": "Why remove failure conditions before optimizing?"
-            },
-            {
-              "back": "Starting from the final outcome and repeatedly asking what must be true immediately before it.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt reveals dependencies and preparation order.\n\n[[FH_REAL_WORLD]] Real-world application: Passing an exam requires correct performance, which requires recall, practice, understanding, and foundations.",
-              "front": "What is backward chaining?"
-            },
-            {
-              "back": "Generating plausible failure causes before the plan begins.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nImagining failure as completed produces more concrete risks than vague worry.\n\n[[FH_REAL_WORLD]] Real-world application: For a trip, identify budget, document, booking, expectation, and responsibility failures.",
-              "front": "What is a pre-mortem used for?"
-            },
-            {
-              "back": "Estimate probability, severity, detectability, preventability, and recoverability.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThis converts worry into prioritized action.\n\n[[FH_REAL_WORLD]] Real-world application: For outdoor rain risk, check forecast, reserve shelter, and define a relocation plan.",
-              "front": "What makes a useful failure-mode analysis?"
-            },
-            {
-              "back": "A predefined signal that triggers review or action.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nTripwires prevent denial, sunk cost, or emotion from delaying response.\n\n[[FH_REAL_WORLD]] Real-world application: Pause a project after two missed milestones or stop exercise when warning pain appears.",
-              "front": "What is a tripwire?"
-            },
-            {
-              "back": "A limit on acceptable loss before stopping or changing course.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt protects time, money, health, and reputation from escalation.\n\n[[FH_REAL_WORLD]] Real-world application: Define the maximum budget or testing period before beginning.",
-              "front": "What is a stop-loss rule?"
-            },
-            {
-              "back": "A small test whose failure is affordable and informative.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt moves uncertainty into a controlled environment.\n\n[[FH_REAL_WORLD]] Real-world application: Try a short project in a new field before making a permanent career change.",
-              "front": "What is a safe-to-fail experiment?"
-            },
-            {
-              "back": "Changing the environment so mistakes are harder to make.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt is more reliable than demanding perfect attention.\n\n[[FH_REAL_WORLD]] Real-world application: Use automatic backups, labels, confirmations, and checklists for critical actions.",
-              "front": "What is error-proofing?"
-            },
-            {
-              "back": "Partial failure causes reduced performance rather than total collapse.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA resilient system retains basic function when one part fails.\n\n[[FH_REAL_WORLD]] Real-world application: Keep an alternative route or reduced routine for difficult days.",
-              "front": "What is graceful degradation?"
-            },
-            {
-              "back": "A robust plan performs reasonably across several conditions; an optimal plan excels in one expected condition.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nUncertainty often makes robustness more valuable than theoretical maximum performance.\n\n[[FH_REAL_WORLD]] Real-world application: Choose a slightly slower route that remains reliable under common traffic variation.",
-              "front": "How does a robust plan differ from an optimal plan?"
-            },
-            {
-              "back": "Risk analysis links a specific failure to probability, consequence, mitigation, and recovery.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nWorry repeats danger without producing a response.\n\n[[FH_REAL_WORLD]] Real-world application: Turn 'something may go wrong' into one named risk and one concrete safeguard.",
-              "front": "How does risk analysis differ from worry?"
-            },
-            {
-              "back": "Ask how the number could improve while the real outcome worsens.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThis reveals ways a proxy can be gamed.\n\n[[FH_REAL_WORLD]] Real-world application: Task counts can rise if people choose trivial work, while meaningful productivity falls.",
-              "front": "How can inversion test a measurement?"
-            }
-          ],
-          "title": "Inversion and Failure"
-        },
-        {
-          "cards": [
-            {
-              "back": "A place where a relatively small change produces a large effect.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nLeverage directs effort toward sensitivity rather than activity.\n\n[[FH_REAL_WORLD]] Real-world application: Removing one major source of interruption may help more than learning several concentration tricks.",
-              "front": "What is a **leverage point**?"
-            },
-            {
-              "back": "Effort can be spent on actions that barely change the desired outcome.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nProgress must be judged against the goal.\n\n[[FH_REAL_WORLD]] Real-world application: Reformatting notes may feel productive while retrieval practice produces the learning.",
-              "front": "Why is activity not the same as progress?"
-            },
-            {
-              "back": "A small number of causes often produce a large share of the effect.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe exact 80/20 ratio is not universal; the point is uneven distribution.\n\n[[FH_REAL_WORLD]] Real-world application: Find the few expenses, conflicts, or tasks that dominate the result.",
-              "front": "What is the 'vital few' idea?"
-            },
-            {
-              "back": "A bottleneck limits performance; a leverage point creates disproportionate change.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe bottleneck is often high leverage, but other system-wide interventions may also matter.\n\n[[FH_REAL_WORLD]] Real-world application: Weak reading can be the study bottleneck while better sleep improves every subject.",
-              "front": "How do a bottleneck and a leverage point differ?"
-            },
-            {
-              "back": "A factor near zero can collapse the total even when others are strong.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nStrengthening an already strong factor may add little.\n\n[[FH_REAL_WORLD]] Real-world application: Ability and effort cannot produce performance when opportunity is absent.",
-              "front": "Why are multiplicative systems sensitive to weak factors?"
-            },
-            {
-              "back": "Estimating how much the outcome changes when each input changes.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt identifies variables with the greatest influence.\n\n[[FH_REAL_WORLD]] Real-world application: A small percentage reduction in housing may save more than a large percentage cut in entertainment.",
-              "front": "What is sensitivity analysis?"
-            },
-            {
-              "back": "A powerful intervention may be impossible, dangerous, expensive, or based on a weak assumption.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nPriority depends on expected benefit, not impact alone.\n\n[[FH_REAL_WORLD]] Real-world application: Test a high-impact claim on a small scale before restructuring everything.",
-              "front": "Why balance impact with feasibility and confidence?"
-            },
-            {
-              "back": "They provide completion and control while postponing uncomfortable high-impact work.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nLow-friction activity can disguise priority failure.\n\n[[FH_REAL_WORLD]] Real-world application: Formatting a document may delay deciding what it needs to say.",
-              "front": "How can easy tasks become avoidance?"
-            },
-            {
-              "back": "Urgency demands attention now; importance shapes meaningful outcomes.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nImportant non-urgent work is often neglected until it becomes a crisis.\n\n[[FH_REAL_WORLD]] Real-world application: Schedule maintenance, health, saving, and relationship care before they become emergencies.",
-              "front": "Why distinguish importance from urgency?"
-            },
-            {
-              "back": "A small early action can avoid a much larger future cost.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nAvoided failures are invisible but still valuable.\n\n[[FH_REAL_WORLD]] Real-world application: Backups, maintenance, early clarification, and savings prevent repeated downstream damage.",
-              "front": "Why is prevention often high leverage?"
-            },
-            {
-              "back": "Upstream changes causes; downstream responds after the problem appears.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nBoth can be necessary, but upstream action reduces recurrence.\n\n[[FH_REAL_WORLD]] Real-world application: Paying late fees is downstream; automating payment is upstream.",
-              "front": "How do upstream and downstream interventions differ?"
-            },
-            {
-              "back": "It influences many future choices without requiring repeated willpower.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nVisibility, access, defaults, and friction shape behavior.\n\n[[FH_REAL_WORLD]] Real-world application: Keep healthy food visible and distractions harder to reach.",
-              "front": "Why can changing the environment be high leverage?"
-            },
-            {
-              "back": "Lower friction encourages an action; higher friction discourages it.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nSmall environmental changes can alter repeated choices.\n\n[[FH_REAL_WORLD]] Real-world application: Remove saved payment details and add a 24-hour delay to reduce impulsive buying.",
-              "front": "How does friction change behavior?"
-            },
-            {
-              "back": "They determine what happens when nobody actively chooses.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nMany people accept the path of least resistance.\n\n[[FH_REAL_WORLD]] Real-world application: Automatic savings can influence every pay period with one setup decision.",
-              "front": "Why are defaults powerful?"
-            },
-            {
-              "back": "The right information reaching the right person at the right time changes many decisions.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nMore resources cannot help when knowledge is missing or delayed.\n\n[[FH_REAL_WORLD]] Real-world application: Send deadlines and responsibilities to the people who can act before the window closes.",
-              "front": "Why can information flow be a leverage point?"
-            },
-            {
-              "back": "They shape measurements, decisions, and repeated behavior throughout the system.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA bad goal makes every optimized action move in the wrong direction.\n\n[[FH_REAL_WORLD]] Real-world application: Reward problem resolution rather than raw customer-call count.",
-              "front": "Why are goals and incentives high-level leverage points?"
-            },
-            {
-              "back": "An improvement that increases future capacity produces repeated benefits.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nFoundational skills, trust, health, and reusable systems can grow on themselves.\n\n[[FH_REAL_WORLD]] Real-world application: Learning to read and reason better accelerates later learning across many subjects.",
-              "front": "How does compounding create leverage?"
-            },
-            {
-              "back": "Concentrating impact in one component creates dependence.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nHigh-leverage components need backups, oversight, and limits.\n\n[[FH_REAL_WORLD]] Real-world application: One supplier or one knowledgeable person can become a dangerous single point of failure.",
-              "front": "Why can leverage create fragility?"
-            },
-            {
-              "back": "What limits progress now?",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nConstraints shift as the system improves.\n\n[[FH_REAL_WORLD]] Real-world application: After sleep improves, planning or skill may become the next limiting factor.",
-              "front": "What question should be asked after removing a bottleneck?"
-            },
-            {
-              "back": "Compare probability-weighted benefit with expected cost and opportunity cost.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA high-probability tiny gain may be worse than a moderate-probability large gain at low cost.\n\n[[FH_REAL_WORLD]] Real-world application: Choose interventions by likely impact, not visibility or familiarity.",
-              "front": "How can expected value guide prioritization?"
-            }
-          ],
-          "title": "Leverage and Prioritization"
-        },
-        {
-          "cards": [
-            {
-              "back": "A pattern says what happens; a mechanism explains how and why.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nMechanisms reveal transfer conditions, failure points, and side effects.\n\n[[FH_REAL_WORLD]] Real-world application: Do not stop at 'sleep improves performance'; trace attention, memory, and recovery.",
-              "front": "What is the difference between a pattern and a mechanism?"
-            },
-            {
-              "back": "What happens between the cause and the result?",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nIntermediate steps turn a vague association into a testable process.\n\n[[FH_REAL_WORLD]] Real-world application: For a reminder, check noticing, understanding, motivation, ability, and action.",
-              "front": "What question begins mechanism reasoning?"
-            },
-            {
-              "back": "Different visible methods can produce the same deeper function.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nCopying appearances may reproduce none of the causal ingredients.\n\n[[FH_REAL_WORLD]] Real-world application: Copy regular movement, enjoyment, and accountability from a dance class rather than assuming dance itself is required.",
-              "front": "Why copy mechanisms rather than surface features?"
-            },
-            {
-              "back": "The underlying relationship shared across different surface examples.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nRecognizing deep structure allows transfer between domains.\n\n[[FH_REAL_WORLD]] Real-world application: A leaking bucket, shrinking bank balance, and forgotten knowledge all involve outflow exceeding inflow.",
-              "front": "What is the **deep structure** of a problem?"
-            },
-            {
-              "back": "If one required step fails, the outcome cannot be produced through that chain.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThis identifies where intervention should occur.\n\n[[FH_REAL_WORLD]] Real-world application: A better reminder cannot help if the person lacks permission or resources to act.",
-              "front": "Why is a mechanism only as strong as its weakest necessary link?"
-            },
-            {
-              "back": "Competing mechanisms and context can differ.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nPositive and negative pathways may operate simultaneously with different strengths.\n\n[[FH_REAL_WORLD]] Real-world application: Home working may reduce commuting but increase distraction or isolation.",
-              "front": "Why can the same intervention help one person and harm another?"
-            },
-            {
-              "back": "They can hide the missing process.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA causal verb is not a mechanism until its intermediate steps are explained.\n\n[[FH_REAL_WORLD]] Real-world application: When told praise motivates children, ask how it changes emotion, repetition, risk-taking, and dependence on approval.",
-              "front": "Why should 'improves', 'motivates', and 'supports' trigger another question?"
-            },
-            {
-              "back": "A proximate cause is close to the event; deeper causes explain why that condition existed.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nDifferent causal depths support different interventions.\n\n[[FH_REAL_WORLD]] Real-world application: A vase broke because it fell, but it fell because it was placed near an unstable edge.",
-              "front": "How do proximate and deeper causes differ?"
-            },
-            {
-              "back": "What would likely have happened without the suspected cause?",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nCausation compares reality with an unobserved alternative.\n\n[[FH_REAL_WORLD]] Real-world application: To judge tutoring, compare with prior performance or similar students who did not receive tutoring.",
-              "front": "What is a counterfactual causal question?"
-            },
-            {
-              "back": "Which link in the mechanism failed?",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThis produces a specific adjustment instead of a global self-judgment.\n\n[[FH_REAL_WORLD]] Real-world application: For a failed study plan, inspect realism, comprehension, retrieval, feedback, sleep, and distractions.",
-              "front": "What should be asked when a method fails?"
-            }
-          ],
-          "title": "Mechanisms"
-        }
-      ]
-    },
-    {
-      "name": "First Principles 5",
-      "chains": [
-        {
-          "cards": [
-            {
-              "back": "A model represents reality but is not reality itself.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nModels simplify by excluding details, so usefulness does not imply completeness.\n\n[[FH_REAL_WORLD]] Real-world application: A schedule guides time but cannot include every interruption or change.",
-              "front": "What does 'the map is not the territory' mean?"
-            },
-            {
-              "back": "Different questions require different simplifications.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA model should be judged by whether it serves its intended use.\n\n[[FH_REAL_WORLD]] Real-world application: A subway map is excellent for transfers and poor for walking directions.",
-              "front": "Why does every model need a purpose?"
-            },
-            {
-              "back": "It can capture the relationship needed for a decision while omitting irrelevant detail.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nRejecting all simplification would make reasoning impossible.\n\n[[FH_REAL_WORLD]] Real-world application: Use income minus spending to understand savings, then add debt or taxes only when they matter.",
-              "front": "Why can an incomplete model still be useful?"
-            },
-            {
-              "back": "It compresses a pattern and can hide mechanism, context, and change.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nLabels may shape attention and become self-fulfilling.\n\n[[FH_REAL_WORLD]] Real-world application: Replace 'lazy' with observable behavior and possible causes before deciding what to do.",
-              "front": "Why can a label be a dangerous model?"
-            },
-            {
-              "back": "A measurable substitute for a harder-to-measure outcome.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA proxy can correlate with the goal without being identical to it.\n\n[[FH_REAL_WORLD]] Real-world application: Use test scores as partial evidence of learning, not the complete definition.",
-              "front": "What is a proxy?"
-            },
-            {
-              "back": "The number can improve while the real outcome worsens.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nPressure targets the representation instead of the reality.\n\n[[FH_REAL_WORLD]] Real-world application: Task counts may rise through trivial work while meaningful contribution falls.",
-              "front": "What happens when people optimize a proxy?"
-            },
-            {
-              "back": "A prediction can fail because an assumption changed even when the internal calculation was correct.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nModel reliability depends on its conditions.\n\n[[FH_REAL_WORLD]] Real-world application: A travel estimate may assume ordinary traffic, weather, and route availability.",
-              "front": "Why expose assumptions inside a model?"
-            },
-            {
-              "back": "The relationship is described while other important factors are held similar.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nReal life often changes several variables at once.\n\n[[FH_REAL_WORLD]] Real-world application: A price-demand model may fail if quality, income, shortages, or competitors also change.",
-              "front": "What does 'all else equal' mean in a model?"
-            },
-            {
-              "back": "The range or context where the model remains reliable.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nExtending a relationship beyond observed conditions can create error.\n\n[[FH_REAL_WORLD]] Real-world application: One cup of coffee improving alertness does not mean unlimited coffee improves it further.",
-              "front": "What is a model boundary?"
-            },
-            {
-              "back": "Static models describe a moment; dynamic models describe change over time.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nSnapshots can miss accumulating debt, adaptation, or delayed effects.\n\n[[FH_REAL_WORLD]] Real-world application: A current budget is static; a debt-and-interest forecast is dynamic.",
-              "front": "How do static and dynamic models differ?"
-            },
-            {
-              "back": "Statistical models describe patterns; mechanistic models explain interactions.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nOne may predict well without explaining, while the other may explain without precise prediction.\n\n[[FH_REAL_WORLD]] Real-world application: Combine sleep-performance data with knowledge of attention and memory mechanisms.",
-              "front": "How do statistical and mechanistic models differ?"
-            },
-            {
-              "back": "Descriptive models say what happens; normative models say what should happen.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nMoving from description to recommendation requires values.\n\n[[FH_REAL_WORLD]] Real-world application: The fact that people prefer immediate rewards does not prove they should.",
-              "front": "How do descriptive and normative models differ?"
-            },
-            {
-              "back": "A model captures random past details that do not generalize.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nPerfectly explaining the past can reduce future predictive power.\n\n[[FH_REAL_WORLD]] Real-world application: Do not conclude a specific shirt, time, song, and chair caused three productive days.",
-              "front": "What is overfitting?"
-            },
-            {
-              "back": "A model is too simple to explain important variation.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA simple slogan may omit resources, timing, skill, health, and opportunity.\n\n[[FH_REAL_WORLD]] Real-world application: The claim 'success comes from hard work' may ignore major causal factors.",
-              "front": "What is underfitting?"
-            },
-            {
-              "back": "Prefer the model with fewer unsupported assumptions when explanatory power is similar.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nSimplicity is evidence of economy, not proof of truth.\n\n[[FH_REAL_WORLD]] Real-world application: An ordinary object falling is usually a better explanation for a noise than an invisible portal.",
-              "front": "What does Occam's razor recommend?"
-            },
-            {
-              "back": "Update, narrow, replace, or reduce confidence in proportion to the evidence.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nDo not abandon strong models for one weak anomaly or protect weak models from repeated failure.\n\n[[FH_REAL_WORLD]] Real-world application: Review whether the mechanism, assumptions, measurement, or context caused the mismatch.",
-              "front": "How should a model respond to failed predictions?"
-            },
-            {
-              "back": "Using several complementary models for one complex problem.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nDifferent models reveal different parts of reality.\n\n[[FH_REAL_WORLD]] Real-world application: Understand overspending through arithmetic, psychology, environment, social pressure, and debt feedback.",
-              "front": "What is model stacking?"
-            },
-            {
-              "back": "Different explanations can be compared through predictions that diverge.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA useful test targets evidence expected by one model but not another.\n\n[[FH_REAL_WORLD]] Real-world application: For falling grades, compare predictions from harder material, poor sleep, and reduced study.",
-              "front": "Why use competing models?"
-            },
-            {
-              "back": "A score, diagnosis, income, or group label cannot capture a whole person.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nHuman behavior changes across contexts and time.\n\n[[FH_REAL_WORLD]] Real-world application: Treat a low grade as one measure needing explanation, not proof of low intelligence.",
-              "front": "Why use models of people with humility?"
-            }
-          ],
-          "title": "Models and Reality"
-        },
-        {
-          "cards": [
-            {
-              "back": "Something directly noticed or verified.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nAn observation reports what happened without adding an explanation or motive.\n\n[[FH_REAL_WORLD]] Real-world application: When someone does not reply, record 'no reply yet' before deciding that they are angry.",
-              "front": "What is an **observation**?"
-            },
-            {
-              "back": "Meaning or explanation added to an observation.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nAn interpretation may be correct, but it goes beyond what was directly observed.\n\n[[FH_REAL_WORLD]] Real-world application: During conflict, separate the visible behavior from the story you are telling about why it happened.",
-              "front": "What is an **interpretation**?"
-            },
-            {
-              "back": "What do I know? What am I inferring? What else could explain it? What evidence would distinguish the options?",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nThese questions slow the jump from an event to a confident conclusion.\n\n[[FH_REAL_WORLD]] Real-world application: Use them before reacting to an ambiguous message, delay, expression, or mistake.",
-              "front": "What four questions separate observation from interpretation?"
-            },
-            {
-              "back": "A fact is supported; an inference is drawn from facts; an assumption is temporarily treated as true.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nReasoning becomes safer when each statement is placed in the correct category.\n\n[[FH_REAL_WORLD]] Real-world application: In planning, label travel time as an assumption rather than presenting it as a guaranteed fact.",
-              "front": "How do **fact**, **inference**, and **assumption** differ?"
-            },
-            {
-              "back": "The farther a conclusion is from observation, the more evidence it needs.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nPeople often move from event to meaning to judgment without noticing the intermediate steps.\n\n[[FH_REAL_WORLD]] Real-world application: Before calling someone disrespectful, check how many unverified steps connect the behavior to that label.",
-              "front": "What is the key rule of the ladder of inference?"
-            }
-          ],
-          "title": "Observation and Interpretation"
+          "title": "Trade-offs and Opportunity Cost"
         },
         {
           "cards": [
@@ -1255,12 +450,122 @@
             }
           ],
           "title": "Systems and Feedback"
+        },
+        {
+          "cards": [
+            {
+              "back": "Breaking a complex problem into meaningful smaller parts.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt reduces mental load and makes causes, dependencies, and actions easier to inspect.\n\n[[FH_REAL_WORLD]] Real-world application: Replace 'I am bad with money' with income, fixed costs, variable costs, debt, and savings.",
+              "front": "What is **decomposition**?"
+            },
+            {
+              "back": "Different outcomes require different categories and solutions.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA problem statement is only useful relative to what success means.\n\n[[FH_REAL_WORLD]] Real-world application: A messy room can be decomposed differently for hygiene, comfort, or finding items quickly.",
+              "front": "Why define the desired outcome before decomposing?"
+            },
+            {
+              "back": "The parts interact, so separate fixes can create system-wide side effects.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nDecomposition without reconnection becomes oversimplification.\n\n[[FH_REAL_WORLD]] Real-world application: Improving sleep by cutting work hours may create financial stress that harms sleep again.",
+              "front": "Why must decomposition be followed by recomposition?"
+            },
+            {
+              "back": "Inputs enter a process that produces outputs.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nPoor output can come from weak inputs, a broken process, or both.\n\n[[FH_DIAGRAM]] Diagram:\n`mermaid\ngraph LR\n    Inputs[Inputs] --> Process[Process]\n    Process --> Outputs[Outputs]\n`\n\n[[FH_REAL_WORLD]] Real-world application: For learning, inspect time and prior knowledge, study method, and later recall.",
+              "front": "What is the input-process-output model?"
+            },
+            {
+              "back": "Something that must happen before another part can succeed.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIgnoring dependencies causes effort on steps that cannot yet work.\n\n[[FH_REAL_WORLD]] Real-world application: Build foundational knowledge before attempting material that requires it.",
+              "front": "What is a **dependency**?"
+            },
+            {
+              "back": "Each category requires a different response.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nDirect action fits controllable factors, persuasion fits influenceable ones, and adaptation fits uncontrollable ones.\n\n[[FH_REAL_WORLD]] Real-world application: Control your preparation, influence group decisions, and adapt to weather.",
+              "front": "Why separate controllable, influenceable, and uncontrollable factors?"
+            },
+            {
+              "back": "The narrowest part that can be observed, tested, or improved meaningfully.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nSmaller problems make action and feedback possible without pretending the whole issue is solved.\n\n[[FH_REAL_WORLD]] Real-world application: Replace 'my life is disorganized' with 'I lose my keys three times a week'.",
+              "front": "What is the **smallest useful problem**?"
+            },
+            {
+              "back": "They should minimize overlap and cover the important whole.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nOverlapping categories confuse analysis; missing categories hide causes.\n\n[[FH_REAL_WORLD]] Real-world application: A spending breakdown should avoid double-counting restaurant costs and should include major categories.",
+              "front": "What makes categories useful in a decomposition?"
+            },
+            {
+              "back": "A map from one visible outcome to possible contributing causes.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt organizes hypotheses without treating any branch as proven.\n\n[[FH_REAL_WORLD]] Real-world application: For exhaustion, branch into recovery, workload, health, nutrition, and environment.",
+              "front": "What is a problem tree?"
+            },
+            {
+              "back": "Changing everything at once makes it hard to learn what mattered.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nCleaner tests produce better causal information.\n\n[[FH_REAL_WORLD]] Real-world application: When a plant is unhealthy, do not simultaneously change water, light, soil, and fertilizer.",
+              "front": "Why test branches one at a time when possible?"
+            }
+          ],
+          "title": "Decomposition"
         }
       ]
     },
     {
-      "name": "First Principles 6",
+      "name": "First Principles 3",
       "chains": [
+        {
+          "cards": [
+            {
+              "back": "A pattern says what happens; a mechanism explains how and why.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nMechanisms reveal transfer conditions, failure points, and side effects.\n\n[[FH_REAL_WORLD]] Real-world application: Do not stop at 'sleep improves performance'; trace attention, memory, and recovery.",
+              "front": "What is the difference between a pattern and a mechanism?"
+            },
+            {
+              "back": "What happens between the cause and the result?",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIntermediate steps turn a vague association into a testable process.\n\n[[FH_REAL_WORLD]] Real-world application: For a reminder, check noticing, understanding, motivation, ability, and action.",
+              "front": "What question begins mechanism reasoning?"
+            },
+            {
+              "back": "Different visible methods can produce the same deeper function.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nCopying appearances may reproduce none of the causal ingredients.\n\n[[FH_REAL_WORLD]] Real-world application: Copy regular movement, enjoyment, and accountability from a dance class rather than assuming dance itself is required.",
+              "front": "Why copy mechanisms rather than surface features?"
+            },
+            {
+              "back": "The underlying relationship shared across different surface examples.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nRecognizing deep structure allows transfer between domains.\n\n[[FH_REAL_WORLD]] Real-world application: A leaking bucket, shrinking bank balance, and forgotten knowledge all involve outflow exceeding inflow.",
+              "front": "What is the **deep structure** of a problem?"
+            },
+            {
+              "back": "If one required step fails, the outcome cannot be produced through that chain.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThis identifies where intervention should occur.\n\n[[FH_REAL_WORLD]] Real-world application: A better reminder cannot help if the person lacks permission or resources to act.",
+              "front": "Why is a mechanism only as strong as its weakest necessary link?"
+            },
+            {
+              "back": "Competing mechanisms and context can differ.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nPositive and negative pathways may operate simultaneously with different strengths.\n\n[[FH_REAL_WORLD]] Real-world application: Home working may reduce commuting but increase distraction or isolation.",
+              "front": "Why can the same intervention help one person and harm another?"
+            },
+            {
+              "back": "They can hide the missing process.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA causal verb is not a mechanism until its intermediate steps are explained.\n\n[[FH_REAL_WORLD]] Real-world application: When told praise motivates children, ask how it changes emotion, repetition, risk-taking, and dependence on approval.",
+              "front": "Why should 'improves', 'motivates', and 'supports' trigger another question?"
+            },
+            {
+              "back": "A proximate cause is close to the event; deeper causes explain why that condition existed.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nDifferent causal depths support different interventions.\n\n[[FH_REAL_WORLD]] Real-world application: A vase broke because it fell, but it fell because it was placed near an unstable edge.",
+              "front": "How do proximate and deeper causes differ?"
+            },
+            {
+              "back": "What would likely have happened without the suspected cause?",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nCausation compares reality with an unobserved alternative.\n\n[[FH_REAL_WORLD]] Real-world application: To judge tutoring, compare with prior performance or similar students who did not receive tutoring.",
+              "front": "What is a counterfactual causal question?"
+            },
+            {
+              "back": "Which link in the mechanism failed?",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThis produces a specific adjustment instead of a global self-judgment.\n\n[[FH_REAL_WORLD]] Real-world application: For a failed study plan, inspect realism, comprehension, retrieval, feedback, sleep, and distractions.",
+              "front": "What should be asked when a method fails?"
+            }
+          ],
+          "title": "Mechanisms"
+        },
         {
           "cards": [
             {
@@ -1330,6 +635,751 @@
             }
           ],
           "title": "Testing Beliefs"
+        },
+        {
+          "cards": [
+            {
+              "back": "A conclusion no broader than the evidence supports.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe size and scope of the claim should match the observed cases and conditions.\n\n[[FH_REAL_WORLD]] Real-world application: One bad restaurant visit supports a conclusion about that visit, not an entire city.",
+              "front": "What does proportional generalization require?"
+            },
+            {
+              "back": "Universal claims allow no exceptions and require exceptionally strong evidence.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nOne valid counterexample defeats a universal statement.\n\n[[FH_REAL_WORLD]] Real-world application: Replace 'people never change' with a narrower claim that specifies conditions and frequency.",
+              "front": "Why should words such as 'always' and 'everyone' trigger caution?"
+            },
+            {
+              "back": "A sample is observed; a population is the larger group being inferred about.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nGeneralization depends on whether the sample represents the target population.\n\n[[FH_REAL_WORLD]] Real-world application: A survey of 500 residents is useful only if those respondents resemble the city being described.",
+              "front": "What is the difference between a sample and a population?"
+            },
+            {
+              "back": "A sample is systematically different from the population of interest.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nLarge sample size cannot repair a biased selection process.\n\n[[FH_REAL_WORLD]] Real-world application: An online survey about internet use may underrepresent people who rarely go online.",
+              "front": "What is **selection bias**?"
+            },
+            {
+              "back": "Attention is limited to visible successes while failures disappear from view.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nStudying only survivors hides how many used the same strategy and failed.\n\n[[FH_REAL_WORLD]] Real-world application: Do not infer that ignoring advice causes success from famous people who did so.",
+              "front": "What is **survivorship bias**?"
+            },
+            {
+              "back": "That something can happen, not how often it happens.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nAnecdotes are useful for possibility and hypothesis generation but weak for frequency.\n\n[[FH_REAL_WORLD]] Real-world application: One unusual recovery does not show that refusing treatment is generally safe.",
+              "front": "What can an anecdote establish?"
+            },
+            {
+              "back": "Random variation has a large influence on a few observations.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nShort sequences often look more extreme than the long-run pattern.\n\n[[FH_REAL_WORLD]] Real-world application: Do not declare a coin biased after a small run of heads.",
+              "front": "Why are small samples unstable?"
+            },
+            {
+              "back": "They can hide the distribution and individual variation.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA mean improvement does not imply every participant improved.\n\n[[FH_REAL_WORLD]] Real-world application: Ask how many improved, by how much, and whether some became worse.",
+              "front": "Why can averages mislead?"
+            },
+            {
+              "back": "Group averages describe distributions, not every member.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nMembership changes probability at most; it does not fully describe one person.\n\n[[FH_REAL_WORLD]] Real-world application: Do not infer an individual's ability or behavior from a demographic average.",
+              "front": "Why do group differences not determine individuals?"
+            },
+            {
+              "back": "Predicting outside the range or conditions already observed.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nRelationships can become nonlinear or fail when scale, amount, place, or time changes.\n\n[[FH_REAL_WORLD]] Real-world application: A small beneficial dose does not prove a large dose is better.",
+              "front": "What is extrapolation?"
+            },
+            {
+              "back": "Coordination, complexity, incentives, and bottlenecks change with size.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA method that works for ten people may fail for ten thousand.\n\n[[FH_REAL_WORLD]] Real-world application: Informal communication may work in a family but not a large organization.",
+              "front": "Why can scaling change a solution?"
+            },
+            {
+              "back": "A real effect can be too small to justify its cost.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nLarge samples can detect tiny differences that do not matter operationally.\n\n[[FH_REAL_WORLD]] Real-world application: Ask whether a measured 0.2% improvement is worth implementing.",
+              "front": "Why distinguish statistical significance from practical importance?"
+            },
+            {
+              "back": "Relative percentages can exaggerate small baseline changes.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nBoth views are mathematically valid but answer different questions.\n\n[[FH_REAL_WORLD]] Real-world application: A risk falling from 2 in 10,000 to 1 in 10,000 is a 50% relative reduction and a 1-in-10,000 absolute reduction.",
+              "front": "Why compare relative and absolute effects?"
+            },
+            {
+              "back": "The conditions under which a conclusion applies or stops applying.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nMature understanding includes both the rule and its limits.\n\n[[FH_REAL_WORLD]] Real-world application: Exercise may help health under suitable intensity and recovery but harm during severe injury.",
+              "front": "What are **boundary conditions**?"
+            }
+          ],
+          "title": "Generalization"
+        }
+      ]
+    },
+    {
+      "name": "First Principles 4",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "Do I know enough to choose responsibly?",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nGood decisions manage uncertainty instead of demanding its complete removal.\n\n[[FH_REAL_WORLD]] Real-world application: Before choosing a job, identify the essential unknowns rather than researching indefinitely.",
+              "front": "What is the right question when perfect information is impossible?"
+            },
+            {
+              "back": "Gathering it consumes time, money, attention, and opportunity.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe next fact is useful only if its value exceeds its acquisition cost.\n\n[[FH_REAL_WORLD]] Real-world application: Do not spend five hours comparing inexpensive products for a tiny expected improvement.",
+              "front": "Why does information have a cost?"
+            },
+            {
+              "back": "Delay preserves the current state and can create its own costs.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nOpportunities may disappear while existing problems continue.\n\n[[FH_REAL_WORLD]] Real-world application: Waiting six months for the perfect course can cost six months of learning.",
+              "front": "Why is not deciding still a decision?"
+            },
+            {
+              "back": "Some uncertainty can only be reduced through experience or a small test.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nControlled action can teach more than additional abstract thought.\n\n[[FH_REAL_WORLD]] Real-world application: Try one lesson, visit, conversation, or short routine before committing fully.",
+              "front": "Why can action create information?"
+            },
+            {
+              "back": "Move faster when correction is easy and slower when reversal is costly.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nAnalysis effort should scale with downside and irreversibility.\n\n[[FH_REAL_WORLD]] Real-world application: Test a new schedule quickly but investigate major surgery carefully.",
+              "front": "How should reversibility affect decision speed?"
+            },
+            {
+              "back": "Ask what happens if the decision is wrong.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe severity, recoverability, and future option loss matter as much as the upside.\n\n[[FH_REAL_WORLD]] Real-world application: Before taking a financial risk, ask whether the loss would threaten essential needs.",
+              "front": "What is the **downside test**?"
+            },
+            {
+              "back": "Avoid risks that remove your ability to continue and learn.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nMany small failures are recoverable; ruin is different.\n\n[[FH_REAL_WORLD]] Real-world application: Protect health, essential savings, trust, and legal safety before chasing extra gain.",
+              "front": "What is the survival principle?"
+            },
+            {
+              "back": "The value of preserving the ability to choose later.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nFlexible, staged commitments are valuable when uncertainty is high.\n\n[[FH_REAL_WORLD]] Real-world application: Rent before buying or test a short course before enrolling long term.",
+              "front": "What is **option value**?"
+            },
+            {
+              "back": "The smallest commitment that produces useful evidence.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nCommitment should grow with evidence rather than lead it.\n\n[[FH_REAL_WORLD]] Real-world application: Place a small order before choosing a supplier for a large contract.",
+              "front": "What is the minimum necessary commitment?"
+            },
+            {
+              "back": "Imagining that a decision failed and listing plausible causes.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nProspective hindsight exposes risks that ordinary optimism misses.\n\n[[FH_REAL_WORLD]] Real-world application: Before a group trip, imagine the failure and check budget, documents, expectations, and bookings.",
+              "front": "What is a pre-mortem?"
+            },
+            {
+              "back": "A past cost that cannot be recovered.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nFuture choices should be compared from the present forward.\n\n[[FH_REAL_WORLD]] Real-world application: Do not continue an unsuitable path solely because years or money were already invested.",
+              "front": "What is a sunk cost?"
+            },
+            {
+              "back": "Investing more in a failing choice to justify earlier investment.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIdentity, embarrassment, and sunk cost can turn a small mistake into a large one.\n\n[[FH_REAL_WORLD]] Real-world application: Set review criteria before beginning so stopping is not interpreted as personal failure.",
+              "front": "What is escalation of commitment?"
+            },
+            {
+              "back": "A predefined condition for ending search, testing, or investment.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nStop rules prevent indefinite continuation driven by emotion or tiny incremental costs.\n\n[[FH_REAL_WORLD]] Real-world application: Stop researching after several suitable options or stop a test if pain appears.",
+              "front": "What is a stop rule?"
+            },
+            {
+              "back": "Choosing an option that meets important criteria rather than searching for the absolute best.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe remaining search cost may exceed the value of a marginally better option.\n\n[[FH_REAL_WORLD]] Real-world application: Choose a hotel that is safe, clean, affordable, and close enough instead of comparing every hotel.",
+              "front": "What is **satisficing**?"
+            },
+            {
+              "back": "It preserves what was known, assumed, and valued before the outcome.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA decision journal reduces hindsight rewriting and outcome bias.\n\n[[FH_REAL_WORLD]] Real-world application: Later compare the original reasoning with the result to improve calibration.",
+              "front": "Why record major decisions?"
+            }
+          ],
+          "title": "Decisions Under Uncertainty"
+        },
+        {
+          "cards": [
+            {
+              "back": "A general claim is false or missing conditions.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nCounterexamples refine rules by exposing where they stop applying.\n\n[[FH_REAL_WORLD]] Real-world application: Use choice overload to challenge 'more choice is always better'.",
+              "front": "What does a counterexample reveal?"
+            },
+            {
+              "back": "One counterexample defeats a universal claim but not a claim that allows exceptions.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nProbabilistic claims require evidence about frequency, not merely one exception.\n\n[[FH_REAL_WORLD]] Real-world application: One exercise injury disproves 'exercise always helps' but not 'appropriate exercise usually helps'.",
+              "front": "How does a counterexample affect universal and probabilistic claims differently?"
+            },
+            {
+              "back": "Two claims that cannot both be true in the same sense, time, and conditions.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nApparent contradictions may disappear after clarifying definitions or context.\n\n[[FH_REAL_WORLD]] Real-world application: Exercise can be beneficial generally and harmful when excessive without contradiction.",
+              "front": "What is a **contradiction**?"
+            },
+            {
+              "back": "Ask whether the same reasoning is accepted when roles or sides are reversed.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt exposes selective standards and identity-based bias.\n\n[[FH_REAL_WORLD]] Real-world application: Would you support the same power if an opposing leader used it?",
+              "front": "What is the reversal test?"
+            },
+            {
+              "back": "Replace emotionally charged identities while preserving the structure.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA principle should survive changes in who benefits.\n\n[[FH_REAL_WORLD]] Real-world application: Apply a group's justification to a group you distrust and check whether it still seems valid.",
+              "front": "What is the substitution test?"
+            },
+            {
+              "back": "Assuming a claim and tracing it to an absurd or contradictory result.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nExtreme consequences can reveal missing limits in a principle.\n\n[[FH_REAL_WORLD]] Real-world application: Test 'never interfere with anyone's choices' against immediate serious harm.",
+              "front": "What is reductio ad absurdum?"
+            },
+            {
+              "back": "They reveal hidden assumptions near a rule's boundary.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA rare exception can refine a rule without making it useless for ordinary cases.\n\n[[FH_REAL_WORLD]] Real-world application: Check how an adult-oriented rule works for children, emergencies, or extreme scale.",
+              "front": "Why are edge cases useful?"
+            },
+            {
+              "back": "The strongest reasonable version of an opposing view.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nTesting against a serious alternative produces better reasoning than attacking a weak caricature.\n\n[[FH_REAL_WORLD]] Real-world application: Before rejecting a policy critic, state their best concern about effectiveness or harm.",
+              "front": "What is a steelman?"
+            },
+            {
+              "back": "A distorted weak version of another position.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt creates an easy victory without addressing the real claim.\n\n[[FH_REAL_WORLD]] Real-world application: Do not turn 'reduce unnecessary spending' into 'eliminate all comfort'.",
+              "front": "What is a straw man?"
+            },
+            {
+              "back": "Clarify terms, add conditions, narrow claims, rank principles, or reduce confidence.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nContradiction is diagnostic information showing where the model needs work.\n\n[[FH_REAL_WORLD]] Real-world application: Reconcile acceptance and self-improvement by separating current dignity from approval of every behavior.",
+              "front": "How can contradictions be resolved?"
+            }
+          ],
+          "title": "Counterexamples and Contradictions"
+        },
+        {
+          "cards": [
+            {
+              "back": "Physical, logical, institutional, and conventional.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe category determines whether a limitation must be respected, negotiated, redesigned, or questioned.\n\n[[FH_REAL_WORLD]] Real-world application: A material limit differs from a law, and a law differs from a workplace habit.",
+              "front": "What four categories of limitation were identified?"
+            },
+            {
+              "back": "A fundamental constraint comes from reality or logic; an inherited rule comes from a system, custom, or habit.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nHuman-made rules can be important without being laws of nature.\n\n[[FH_REAL_WORLD]] Real-world application: Ask whether a procedure is physically necessary or simply how the organization currently works.",
+              "front": "What distinguishes a fundamental constraint from an inherited rule?"
+            },
+            {
+              "back": "Rules are usually methods for achieving deeper goals.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe purpose may be preserved through a different form.\n\n[[FH_REAL_WORLD]] Real-world application: An office rule may aim at communication, security, or supervision rather than physical presence itself.",
+              "front": "Why ask what purpose a rule serves?"
+            },
+            {
+              "back": "Earlier choices make later alternatives more costly or difficult.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA current system may exist because history built around it, not because it is ideal.\n\n[[FH_REAL_WORLD]] Real-world application: A station location shapes roads, businesses, and housing long after the original decision.",
+              "front": "What is path dependence in institutions?"
+            },
+            {
+              "back": "Shared conventions create coordination.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIts value may come from common adoption rather than inherent superiority.\n\n[[FH_REAL_WORLD]] Real-world application: Driving on one agreed side of the road is useful even if the chosen side is arbitrary.",
+              "front": "Why can an arbitrary convention still be useful?"
+            },
+            {
+              "back": "Lack of skill, resources, permission, willingness, confidence, or acceptable cost.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nDifferent meanings require different solutions.\n\n[[FH_REAL_WORLD]] Real-world application: Clarify whether someone cannot attend, cannot afford it, or simply does not want to.",
+              "front": "What can 'I cannot' mean besides impossibility?"
+            },
+            {
+              "back": "Absolute impossibility cannot occur; conditional impossibility cannot occur under current conditions.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nChanging time, budget, method, or permission may change a conditional limit.\n\n[[FH_REAL_WORLD]] Real-world application: Replace 'this cannot be done' with 'not with the current deadline and resources'.",
+              "front": "How do absolute and conditional impossibility differ?"
+            },
+            {
+              "back": "Trading one scarce resource for another.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nSolutions vary depending on whether time, money, skill, space, or support is available.\n\n[[FH_REAL_WORLD]] Real-world application: Use time to repair instead of money to replace, or money to save time.",
+              "front": "What is constraint substitution?"
+            },
+            {
+              "back": "Using a limitation to shape a useful advantage.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA constraint can encourage prioritization, simplicity, or creative design.\n\n[[FH_REAL_WORLD]] Real-world application: Limited space may lead to fewer possessions and multipurpose furniture.",
+              "front": "What is constraint inversion?"
+            },
+            {
+              "back": "Rules distribute costs and advantages unevenly.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIncentives and power may explain why a burdensome system persists.\n\n[[FH_REAL_WORLD]] Real-world application: A complex application process may protect quality or may also reduce competition.",
+              "front": "Why ask who benefits from a rule?"
+            },
+            {
+              "back": "Understand why a rule exists before removing it.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA visible restriction may protect against a hidden danger.\n\n[[FH_REAL_WORLD]] Real-world application: Test a replacement for a recurring meeting only after identifying the coordination need it serves.",
+              "front": "What is Chesterton's fence?"
+            },
+            {
+              "back": "It produces evidence while limiting the downside.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nSystems adapt when rules change, so consequences may be unexpected.\n\n[[FH_REAL_WORLD]] Real-world application: Shorten or reduce a meeting for one month before cancelling it permanently.",
+              "front": "Why use a reversible test before removing a rule?"
+            }
+          ],
+          "title": "Fundamental and Inherited Constraints"
+        },
+        {
+          "cards": [
+            {
+              "back": "Reduce a problem to reliable fundamentals, then build upward.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe method starts from what reality requires rather than the existing answer.\n\n[[FH_REAL_WORLD]] Real-world application: Before copying a standard study method, derive one from memory, feedback, and transfer.",
+              "front": "What is the central act of first-principles reasoning?"
+            },
+            {
+              "back": "Analogy copies from a similar case; first principles derives from basic facts and constraints.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nAnalogy is efficient but can fail when relevant conditions differ.\n\n[[FH_REAL_WORLD]] Real-world application: Use another country's policy only after checking the shared mechanism and context.",
+              "front": "How does analogy differ from first-principles reasoning?"
+            },
+            {
+              "back": "It is reliable, relevant, and difficult to reduce further within the problem.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nFamiliar beliefs and conventions are not automatically fundamentals.\n\n[[FH_REAL_WORLD]] Real-world application: Limited time and attention are stronger starting facts than 'serious work requires long hours'.",
+              "front": "What makes a useful first principle?"
+            },
+            {
+              "back": "It shows which part of the reasoning could fail.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nConclusions inherit uncertainty from assumptions and errors from logic.\n\n[[FH_REAL_WORLD]] Real-world application: From 24 hours, assumed sleep needs, and fixed commitments, derive realistic available time.",
+              "front": "Why separate facts, assumptions, and derived conclusions?"
+            },
+            {
+              "back": "When the remaining facts are reliable enough, relevant, shared, and actionable.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nInfinite reduction can become philosophically interesting but practically useless.\n\n[[FH_REAL_WORLD]] Real-world application: Stop once the foundation is sufficient to choose a meal, route, or plan.",
+              "front": "When should repeated 'why' questioning stop?"
+            },
+            {
+              "back": "Breaking a solution into the jobs it must perform.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nFunctions reveal alternatives hidden by the current object or method.\n\n[[FH_REAL_WORLD]] Real-world application: A table's function may be a stable working surface, which can be delivered by several designs.",
+              "front": "What is functional decomposition?"
+            },
+            {
+              "back": "The simplest solution that satisfies essential functions and constraints.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nEvery extra component should justify its cost and failure risk.\n\n[[FH_REAL_WORLD]] Real-world application: Confirm five dinner guests with one clear message instead of building a registration system.",
+              "front": "What is the minimum sufficient solution?"
+            },
+            {
+              "back": "They reveal what must exist before success is possible.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nFamiliar features that are not necessary can be removed or replaced.\n\n[[FH_REAL_WORLD]] Real-world application: A productive discussion requires communication and information, not necessarily a large room.",
+              "front": "Why derive from necessary conditions?"
+            },
+            {
+              "back": "Different sufficient combinations can produce the same outcome.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nFirst-principles reasoning creates a valid solution space rather than one mandatory answer.\n\n[[FH_REAL_WORLD]] Real-world application: Fitness can come from walking, sports, swimming, or gym training when the required mechanisms are present.",
+              "front": "Why can several solutions satisfy the same fundamentals?"
+            },
+            {
+              "back": "A derived conclusion can be reconstructed and adapted.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nMemorization stores the answer without guaranteeing understanding of the relationships.\n\n[[FH_REAL_WORLD]] Real-world application: If a formula is forgotten, rebuild it from units and definitions.",
+              "front": "Why is derivation stronger than memorization?"
+            },
+            {
+              "back": "They reveal whether inputs can logically produce the claimed output.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA missing mechanism cannot be repaired by adding more of the wrong input.\n\n[[FH_REAL_WORLD]] Real-world application: More activity does not automatically produce progress, just as incompatible units do not form a valid quantity.",
+              "front": "Why inspect units or dimensions?"
+            },
+            {
+              "back": "Limits on what is theoretically possible.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nBounds prevent detailed planning around impossible expectations.\n\n[[FH_REAL_WORLD]] Real-world application: A 100-kilometre journey at a maximum 100 kilometres per hour cannot take less than one hour.",
+              "front": "What do lower and upper bounds provide?"
+            },
+            {
+              "back": "Something that must remain true across possible solutions.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nInvariants simplify a problem by identifying what change cannot alter.\n\n[[FH_REAL_WORLD]] Real-world application: A transfer changes account balances while leaving the combined amount unchanged, excluding fees.",
+              "front": "What is an **invariant**?"
+            },
+            {
+              "back": "Define outcome, remove current solution, list facts, identify hard constraints, identify functions, find mechanism, generate alternatives, estimate feasibility, test assumptions, compare trade-offs.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe sequence rebuilds from reality instead of convention.\n\n[[FH_REAL_WORLD]] Real-world application: Use it to redesign communication, transportation, learning, or household systems.",
+              "front": "What ten-step reconstruction process was proposed?"
+            }
+          ],
+          "title": "Deriving from First Principles"
+        }
+      ]
+    },
+    {
+      "name": "First Principles 5",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "A model represents reality but is not reality itself.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nModels simplify by excluding details, so usefulness does not imply completeness.\n\n[[FH_REAL_WORLD]] Real-world application: A schedule guides time but cannot include every interruption or change.",
+              "front": "What does 'the map is not the territory' mean?"
+            },
+            {
+              "back": "Different questions require different simplifications.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA model should be judged by whether it serves its intended use.\n\n[[FH_REAL_WORLD]] Real-world application: A subway map is excellent for transfers and poor for walking directions.",
+              "front": "Why does every model need a purpose?"
+            },
+            {
+              "back": "It can capture the relationship needed for a decision while omitting irrelevant detail.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nRejecting all simplification would make reasoning impossible.\n\n[[FH_REAL_WORLD]] Real-world application: Use income minus spending to understand savings, then add debt or taxes only when they matter.",
+              "front": "Why can an incomplete model still be useful?"
+            },
+            {
+              "back": "It compresses a pattern and can hide mechanism, context, and change.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nLabels may shape attention and become self-fulfilling.\n\n[[FH_REAL_WORLD]] Real-world application: Replace 'lazy' with observable behavior and possible causes before deciding what to do.",
+              "front": "Why can a label be a dangerous model?"
+            },
+            {
+              "back": "A measurable substitute for a harder-to-measure outcome.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA proxy can correlate with the goal without being identical to it.\n\n[[FH_REAL_WORLD]] Real-world application: Use test scores as partial evidence of learning, not the complete definition.",
+              "front": "What is a proxy?"
+            },
+            {
+              "back": "The number can improve while the real outcome worsens.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nPressure targets the representation instead of the reality.\n\n[[FH_REAL_WORLD]] Real-world application: Task counts may rise through trivial work while meaningful contribution falls.",
+              "front": "What happens when people optimize a proxy?"
+            },
+            {
+              "back": "A prediction can fail because an assumption changed even when the internal calculation was correct.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nModel reliability depends on its conditions.\n\n[[FH_REAL_WORLD]] Real-world application: A travel estimate may assume ordinary traffic, weather, and route availability.",
+              "front": "Why expose assumptions inside a model?"
+            },
+            {
+              "back": "The relationship is described while other important factors are held similar.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nReal life often changes several variables at once.\n\n[[FH_REAL_WORLD]] Real-world application: A price-demand model may fail if quality, income, shortages, or competitors also change.",
+              "front": "What does 'all else equal' mean in a model?"
+            },
+            {
+              "back": "The range or context where the model remains reliable.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nExtending a relationship beyond observed conditions can create error.\n\n[[FH_REAL_WORLD]] Real-world application: One cup of coffee improving alertness does not mean unlimited coffee improves it further.",
+              "front": "What is a model boundary?"
+            },
+            {
+              "back": "Static models describe a moment; dynamic models describe change over time.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nSnapshots can miss accumulating debt, adaptation, or delayed effects.\n\n[[FH_REAL_WORLD]] Real-world application: A current budget is static; a debt-and-interest forecast is dynamic.",
+              "front": "How do static and dynamic models differ?"
+            },
+            {
+              "back": "Statistical models describe patterns; mechanistic models explain interactions.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nOne may predict well without explaining, while the other may explain without precise prediction.\n\n[[FH_REAL_WORLD]] Real-world application: Combine sleep-performance data with knowledge of attention and memory mechanisms.",
+              "front": "How do statistical and mechanistic models differ?"
+            },
+            {
+              "back": "Descriptive models say what happens; normative models say what should happen.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nMoving from description to recommendation requires values.\n\n[[FH_REAL_WORLD]] Real-world application: The fact that people prefer immediate rewards does not prove they should.",
+              "front": "How do descriptive and normative models differ?"
+            },
+            {
+              "back": "A model captures random past details that do not generalize.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nPerfectly explaining the past can reduce future predictive power.\n\n[[FH_REAL_WORLD]] Real-world application: Do not conclude a specific shirt, time, song, and chair caused three productive days.",
+              "front": "What is overfitting?"
+            },
+            {
+              "back": "A model is too simple to explain important variation.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA simple slogan may omit resources, timing, skill, health, and opportunity.\n\n[[FH_REAL_WORLD]] Real-world application: The claim 'success comes from hard work' may ignore major causal factors.",
+              "front": "What is underfitting?"
+            },
+            {
+              "back": "Prefer the model with fewer unsupported assumptions when explanatory power is similar.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nSimplicity is evidence of economy, not proof of truth.\n\n[[FH_REAL_WORLD]] Real-world application: An ordinary object falling is usually a better explanation for a noise than an invisible portal.",
+              "front": "What does Occam's razor recommend?"
+            },
+            {
+              "back": "Update, narrow, replace, or reduce confidence in proportion to the evidence.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nDo not abandon strong models for one weak anomaly or protect weak models from repeated failure.\n\n[[FH_REAL_WORLD]] Real-world application: Review whether the mechanism, assumptions, measurement, or context caused the mismatch.",
+              "front": "How should a model respond to failed predictions?"
+            },
+            {
+              "back": "Using several complementary models for one complex problem.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nDifferent models reveal different parts of reality.\n\n[[FH_REAL_WORLD]] Real-world application: Understand overspending through arithmetic, psychology, environment, social pressure, and debt feedback.",
+              "front": "What is model stacking?"
+            },
+            {
+              "back": "Different explanations can be compared through predictions that diverge.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA useful test targets evidence expected by one model but not another.\n\n[[FH_REAL_WORLD]] Real-world application: For falling grades, compare predictions from harder material, poor sleep, and reduced study.",
+              "front": "Why use competing models?"
+            },
+            {
+              "back": "A score, diagnosis, income, or group label cannot capture a whole person.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nHuman behavior changes across contexts and time.\n\n[[FH_REAL_WORLD]] Real-world application: Treat a low grade as one measure needing explanation, not proof of low intelligence.",
+              "front": "Why use models of people with humility?"
+            }
+          ],
+          "title": "Models and Reality"
+        },
+        {
+          "cards": [
+            {
+              "back": "A claim about how the world is.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt can be investigated through observation, records, measurement, or experiment.\n\n[[FH_REAL_WORLD]] Real-world application: Whether a journey takes 40 minutes is a factual question.",
+              "front": "What is a descriptive claim?"
+            },
+            {
+              "back": "A claim about how the world should be.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt depends on goals, values, rights, or standards.\n\n[[FH_REAL_WORLD]] Real-world application: Whether 40 minutes is too long depends on what matters and which alternatives exist.",
+              "front": "What is a normative claim?"
+            },
+            {
+              "back": "Facts alone do not logically determine what should be done.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA recommendation needs an additional value premise.\n\n[[FH_REAL_WORLD]] Real-world application: Competition existing in nature does not prove society should maximize competition.",
+              "front": "What is the is-ought gap?"
+            },
+            {
+              "back": "An unstated belief about what should matter or take priority.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt connects descriptive evidence to a normative conclusion.\n\n[[FH_REAL_WORLD]] Real-world application: Calling an expensive program unworthy assumes cost outweighs its benefits or duties.",
+              "front": "What is a hidden value premise?"
+            },
+            {
+              "back": "Values choose goals; facts show which methods are likely to achieve them.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nGood intentions cannot replace evidence about consequences.\n\n[[FH_REAL_WORLD]] Real-world application: To reduce homelessness, clarify the moral goal and test which interventions actually work.",
+              "front": "How do values and facts work together?"
+            },
+            {
+              "back": "A preference is a liking, a value is something important, and a principle guides action.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nConfusing them can make personal taste sound like a universal duty.\n\n[[FH_REAL_WORLD]] Real-world application: Preferring tea is different from valuing health or following a promise-keeping principle.",
+              "front": "How do preferences, values, and principles differ?"
+            },
+            {
+              "back": "Instrumental value helps produce another end; intrinsic value is valued for itself.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe distinction reveals whether a method can be replaced.\n\n[[FH_REAL_WORLD]] Real-world application: Money is usually instrumental to security, freedom, comfort, or status.",
+              "front": "What is the difference between instrumental and intrinsic value?"
+            },
+            {
+              "back": "Values can genuinely conflict.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nFreedom, safety, honesty, kindness, equality, and loyalty may point in different directions.\n\n[[FH_REAL_WORLD]] Real-world application: A privacy policy can require choosing how much safety gain justifies reduced privacy.",
+              "front": "Why do difficult decisions often remain after facts are known?"
+            },
+            {
+              "back": "A rule for which value takes priority under specified conditions.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nWithout a hierarchy, principles can contradict each other in hard cases.\n\n[[FH_REAL_WORLD]] Real-world application: Preventing severe harm may override an ordinary promise.",
+              "front": "What is a value hierarchy?"
+            },
+            {
+              "back": "Fairness has several standards, such as equality, need, contribution, effort, opportunity, procedure, and compensation.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA result can be fair under one standard and unfair under another.\n\n[[FH_REAL_WORLD]] Real-world application: Before debating distribution, state which fairness principle is being used.",
+              "front": "Why can fairness disagreements persist?"
+            },
+            {
+              "back": "Good intentions do not guarantee good results, and bad outcomes do not prove bad intent.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nResponsibility depends on intention, knowledge, control, foreseeability, and precautions.\n\n[[FH_REAL_WORLD]] Real-world application: Judge both why a decision was made and what risks were reasonably knowable.",
+              "front": "Why separate intentions from outcomes?"
+            },
+            {
+              "back": "A formal yes may not be freely chosen when refusal carries severe consequences.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nConsent requires information, understanding, capacity, and a genuine ability to refuse.\n\n[[FH_REAL_WORLD]] Real-world application: Examine employer-employee or landlord-tenant agreements for unequal bargaining power.",
+              "front": "How does power affect meaningful consent?"
+            },
+            {
+              "back": "Presenting a value judgment as an objective fact.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nWords such as 'bad', 'normal', and 'respectable' often hide standards.\n\n[[FH_REAL_WORLD]] Real-world application: Ask 'bad by which criterion?' before accepting a cultural or personal judgment.",
+              "front": "What is false factualization?"
+            },
+            {
+              "back": "Treating every claim as opinion even when evidence can decide it.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nValues matter, but facts still constrain action and belief.\n\n[[FH_REAL_WORLD]] Real-world application: Whether a bridge supports a load is not merely a matter of preference.",
+              "front": "What is false relativism?"
+            },
+            {
+              "back": "Factual disagreements need better evidence; value disagreements need clearer priorities and trade-offs.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nMore data cannot settle a conflict that is fundamentally about what should matter.\n\n[[FH_REAL_WORLD]] Real-world application: In a road debate, separate cost and traffic predictions from judgments about displacement and growth.",
+              "front": "How do factual and value disagreements require different responses?"
+            }
+          ],
+          "title": "Facts and Values"
+        },
+        {
+          "cards": [
+            {
+              "back": "Solving toward success by identifying what would produce failure.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nFailure conditions are often easier to see than the complete ideal path.\n\n[[FH_REAL_WORLD]] Real-world application: To improve a friendship, list behaviors that destroy trust and remove them.",
+              "front": "What is **inversion**?"
+            },
+            {
+              "back": "Forward reasoning generates next actions; backward reasoning reveals prerequisites and deadlines.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nAgreement between them increases confidence in the plan.\n\n[[FH_REAL_WORLD]] Real-world application: Plan airport travel by moving forward from now and backward from gate closing.",
+              "front": "How do forward and backward reasoning complement each other?"
+            },
+            {
+              "back": "One component whose failure collapses the whole system.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nRemoving single-point dependence improves resilience.\n\n[[FH_REAL_WORLD]] Real-world application: Do not let one person hold the only password or one device hold the only document.",
+              "front": "What is a single point of failure?"
+            },
+            {
+              "back": "Extra capacity, copies, or alternatives beyond normal need.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nRedundancy looks inefficient until disruption occurs.\n\n[[FH_REAL_WORLD]] Real-world application: Keep backups, emergency savings, alternative routes, and shared knowledge.",
+              "front": "What is redundancy?"
+            },
+            {
+              "back": "The distance between normal demand and the failure limit.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nMargin protects against uncertainty, variation, and measurement error.\n\n[[FH_REAL_WORLD]] Real-world application: Leave travel time, budget, and workload capacity below their absolute maximum.",
+              "front": "What is a margin of safety?"
+            },
+            {
+              "back": "Knowledge of what repeatedly fails or causes harm.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nAvoiding predictable damage can be more reliable than finding the perfect strategy.\n\n[[FH_REAL_WORLD]] Real-world application: Financial security may improve more by avoiding expensive debt than by finding an exceptional investment.",
+              "front": "What is negative knowledge?"
+            },
+            {
+              "back": "A destructive foundation can overwhelm advanced improvements.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nPrevention often has higher value than marginal enhancement.\n\n[[FH_REAL_WORLD]] Real-world application: Before searching for study hacks, stop all-night cramming and repair missing feedback.",
+              "front": "Why remove failure conditions before optimizing?"
+            },
+            {
+              "back": "Starting from the final outcome and repeatedly asking what must be true immediately before it.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt reveals dependencies and preparation order.\n\n[[FH_REAL_WORLD]] Real-world application: Passing an exam requires correct performance, which requires recall, practice, understanding, and foundations.",
+              "front": "What is backward chaining?"
+            },
+            {
+              "back": "Generating plausible failure causes before the plan begins.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nImagining failure as completed produces more concrete risks than vague worry.\n\n[[FH_REAL_WORLD]] Real-world application: For a trip, identify budget, document, booking, expectation, and responsibility failures.",
+              "front": "What is a pre-mortem used for?"
+            },
+            {
+              "back": "Estimate probability, severity, detectability, preventability, and recoverability.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThis converts worry into prioritized action.\n\n[[FH_REAL_WORLD]] Real-world application: For outdoor rain risk, check forecast, reserve shelter, and define a relocation plan.",
+              "front": "What makes a useful failure-mode analysis?"
+            },
+            {
+              "back": "A predefined signal that triggers review or action.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nTripwires prevent denial, sunk cost, or emotion from delaying response.\n\n[[FH_REAL_WORLD]] Real-world application: Pause a project after two missed milestones or stop exercise when warning pain appears.",
+              "front": "What is a tripwire?"
+            },
+            {
+              "back": "A limit on acceptable loss before stopping or changing course.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt protects time, money, health, and reputation from escalation.\n\n[[FH_REAL_WORLD]] Real-world application: Define the maximum budget or testing period before beginning.",
+              "front": "What is a stop-loss rule?"
+            },
+            {
+              "back": "A small test whose failure is affordable and informative.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt moves uncertainty into a controlled environment.\n\n[[FH_REAL_WORLD]] Real-world application: Try a short project in a new field before making a permanent career change.",
+              "front": "What is a safe-to-fail experiment?"
+            },
+            {
+              "back": "Changing the environment so mistakes are harder to make.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt is more reliable than demanding perfect attention.\n\n[[FH_REAL_WORLD]] Real-world application: Use automatic backups, labels, confirmations, and checklists for critical actions.",
+              "front": "What is error-proofing?"
+            },
+            {
+              "back": "Partial failure causes reduced performance rather than total collapse.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA resilient system retains basic function when one part fails.\n\n[[FH_REAL_WORLD]] Real-world application: Keep an alternative route or reduced routine for difficult days.",
+              "front": "What is graceful degradation?"
+            },
+            {
+              "back": "A robust plan performs reasonably across several conditions; an optimal plan excels in one expected condition.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nUncertainty often makes robustness more valuable than theoretical maximum performance.\n\n[[FH_REAL_WORLD]] Real-world application: Choose a slightly slower route that remains reliable under common traffic variation.",
+              "front": "How does a robust plan differ from an optimal plan?"
+            },
+            {
+              "back": "Risk analysis links a specific failure to probability, consequence, mitigation, and recovery.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nWorry repeats danger without producing a response.\n\n[[FH_REAL_WORLD]] Real-world application: Turn 'something may go wrong' into one named risk and one concrete safeguard.",
+              "front": "How does risk analysis differ from worry?"
+            },
+            {
+              "back": "Ask how the number could improve while the real outcome worsens.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThis reveals ways a proxy can be gamed.\n\n[[FH_REAL_WORLD]] Real-world application: Task counts can rise if people choose trivial work, while meaningful productivity falls.",
+              "front": "How can inversion test a measurement?"
+            }
+          ],
+          "title": "Inversion and Failure"
+        }
+      ]
+    },
+    {
+      "name": "First Principles 6",
+      "chains": [
+        {
+          "cards": [
+            {
+              "back": "A place where a relatively small change produces a large effect.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nLeverage directs effort toward sensitivity rather than activity.\n\n[[FH_REAL_WORLD]] Real-world application: Removing one major source of interruption may help more than learning several concentration tricks.",
+              "front": "What is a **leverage point**?"
+            },
+            {
+              "back": "Effort can be spent on actions that barely change the desired outcome.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nProgress must be judged against the goal.\n\n[[FH_REAL_WORLD]] Real-world application: Reformatting notes may feel productive while retrieval practice produces the learning.",
+              "front": "Why is activity not the same as progress?"
+            },
+            {
+              "back": "A small number of causes often produce a large share of the effect.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe exact 80/20 ratio is not universal; the point is uneven distribution.\n\n[[FH_REAL_WORLD]] Real-world application: Find the few expenses, conflicts, or tasks that dominate the result.",
+              "front": "What is the 'vital few' idea?"
+            },
+            {
+              "back": "A bottleneck limits performance; a leverage point creates disproportionate change.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nThe bottleneck is often high leverage, but other system-wide interventions may also matter.\n\n[[FH_REAL_WORLD]] Real-world application: Weak reading can be the study bottleneck while better sleep improves every subject.",
+              "front": "How do a bottleneck and a leverage point differ?"
+            },
+            {
+              "back": "A factor near zero can collapse the total even when others are strong.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nStrengthening an already strong factor may add little.\n\n[[FH_REAL_WORLD]] Real-world application: Ability and effort cannot produce performance when opportunity is absent.",
+              "front": "Why are multiplicative systems sensitive to weak factors?"
+            },
+            {
+              "back": "Estimating how much the outcome changes when each input changes.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nIt identifies variables with the greatest influence.\n\n[[FH_REAL_WORLD]] Real-world application: A small percentage reduction in housing may save more than a large percentage cut in entertainment.",
+              "front": "What is sensitivity analysis?"
+            },
+            {
+              "back": "A powerful intervention may be impossible, dangerous, expensive, or based on a weak assumption.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nPriority depends on expected benefit, not impact alone.\n\n[[FH_REAL_WORLD]] Real-world application: Test a high-impact claim on a small scale before restructuring everything.",
+              "front": "Why balance impact with feasibility and confidence?"
+            },
+            {
+              "back": "They provide completion and control while postponing uncomfortable high-impact work.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nLow-friction activity can disguise priority failure.\n\n[[FH_REAL_WORLD]] Real-world application: Formatting a document may delay deciding what it needs to say.",
+              "front": "How can easy tasks become avoidance?"
+            },
+            {
+              "back": "Urgency demands attention now; importance shapes meaningful outcomes.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nImportant non-urgent work is often neglected until it becomes a crisis.\n\n[[FH_REAL_WORLD]] Real-world application: Schedule maintenance, health, saving, and relationship care before they become emergencies.",
+              "front": "Why distinguish importance from urgency?"
+            },
+            {
+              "back": "A small early action can avoid a much larger future cost.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nAvoided failures are invisible but still valuable.\n\n[[FH_REAL_WORLD]] Real-world application: Backups, maintenance, early clarification, and savings prevent repeated downstream damage.",
+              "front": "Why is prevention often high leverage?"
+            },
+            {
+              "back": "Upstream changes causes; downstream responds after the problem appears.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nBoth can be necessary, but upstream action reduces recurrence.\n\n[[FH_REAL_WORLD]] Real-world application: Paying late fees is downstream; automating payment is upstream.",
+              "front": "How do upstream and downstream interventions differ?"
+            },
+            {
+              "back": "It influences many future choices without requiring repeated willpower.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nVisibility, access, defaults, and friction shape behavior.\n\n[[FH_REAL_WORLD]] Real-world application: Keep healthy food visible and distractions harder to reach.",
+              "front": "Why can changing the environment be high leverage?"
+            },
+            {
+              "back": "Lower friction encourages an action; higher friction discourages it.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nSmall environmental changes can alter repeated choices.\n\n[[FH_REAL_WORLD]] Real-world application: Remove saved payment details and add a 24-hour delay to reduce impulsive buying.",
+              "front": "How does friction change behavior?"
+            },
+            {
+              "back": "They determine what happens when nobody actively chooses.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nMany people accept the path of least resistance.\n\n[[FH_REAL_WORLD]] Real-world application: Automatic savings can influence every pay period with one setup decision.",
+              "front": "Why are defaults powerful?"
+            },
+            {
+              "back": "The right information reaching the right person at the right time changes many decisions.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nMore resources cannot help when knowledge is missing or delayed.\n\n[[FH_REAL_WORLD]] Real-world application: Send deadlines and responsibilities to the people who can act before the window closes.",
+              "front": "Why can information flow be a leverage point?"
+            },
+            {
+              "back": "They shape measurements, decisions, and repeated behavior throughout the system.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA bad goal makes every optimized action move in the wrong direction.\n\n[[FH_REAL_WORLD]] Real-world application: Reward problem resolution rather than raw customer-call count.",
+              "front": "Why are goals and incentives high-level leverage points?"
+            },
+            {
+              "back": "An improvement that increases future capacity produces repeated benefits.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nFoundational skills, trust, health, and reusable systems can grow on themselves.\n\n[[FH_REAL_WORLD]] Real-world application: Learning to read and reason better accelerates later learning across many subjects.",
+              "front": "How does compounding create leverage?"
+            },
+            {
+              "back": "Concentrating impact in one component creates dependence.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nHigh-leverage components need backups, oversight, and limits.\n\n[[FH_REAL_WORLD]] Real-world application: One supplier or one knowledgeable person can become a dangerous single point of failure.",
+              "front": "Why can leverage create fragility?"
+            },
+            {
+              "back": "What limits progress now?",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nConstraints shift as the system improves.\n\n[[FH_REAL_WORLD]] Real-world application: After sleep improves, planning or skill may become the next limiting factor.",
+              "front": "What question should be asked after removing a bottleneck?"
+            },
+            {
+              "back": "Compare probability-weighted benefit with expected cost and opportunity cost.",
+              "explanation": "[[FH_EXPLANATION]] Explanation:\nA high-probability tiny gain may be worse than a moderate-probability large gain at low cost.\n\n[[FH_REAL_WORLD]] Real-world application: Choose interventions by likely impact, not visibility or familiarity.",
+              "front": "How can expected value guide prioritization?"
+            }
+          ],
+          "title": "Leverage and Prioritization"
         },
         {
           "cards": [
@@ -1450,56 +1500,6 @@
             }
           ],
           "title": "Time, Compounding, and Path Dependence"
-        },
-        {
-          "cards": [
-            {
-              "back": "An improvement in one dimension that worsens another.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nMost real choices have competing benefits and costs rather than one perfect answer.\n\n[[FH_REAL_WORLD]] Real-world application: A cheaper home may increase commute time, while a faster service may cost more.",
-              "front": "What is a **trade-off**?"
-            },
-            {
-              "back": "The value of the best alternative given up.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA choice costs more than the money paid; it also excludes other uses of time and resources.\n\n[[FH_REAL_WORLD]] Real-world application: Working Saturday may cost rest, family time, exercise, or study.",
-              "front": "What is **opportunity cost**?"
-            },
-            {
-              "back": "Stress, maintenance, lost flexibility, attention, and risk may exceed the visible price.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA low purchase price can hide a high total cost.\n\n[[FH_REAL_WORLD]] Real-world application: Before choosing a cheap product, consider failures, repairs, time, and energy use.",
-              "front": "Why consider invisible costs?"
-            },
-            {
-              "back": "The benefit produced by one additional unit.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nDecisions are often better made at the margin than as all-or-nothing choices.\n\n[[FH_REAL_WORLD]] Real-world application: Ask whether one more hour of study adds enough learning to justify fatigue.",
-              "front": "What is a **marginal benefit**?"
-            },
-            {
-              "back": "The additional downside of one more unit.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA sensible activity continues while its next benefit exceeds its next cost.\n\n[[FH_REAL_WORLD]] Real-world application: Stop polishing acceptable work when another hour creates less value than another task.",
-              "front": "What is a **marginal cost**?"
-            },
-            {
-              "back": "Additional units produce progressively smaller benefits.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nMore is not always better because the first units often solve the largest need.\n\n[[FH_REAL_WORLD]] Real-world application: The first glass of water when thirsty matters more than the fifth.",
-              "front": "What are **diminishing returns**?"
-            },
-            {
-              "back": "Comparing one option's benefits with another option's costs creates a biased decision.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nA fair comparison measures each option against the same goals and constraints.\n\n[[FH_REAL_WORLD]] Real-world application: Compare both benefits and costs of home and office work rather than praising only one side.",
-              "front": "Why compare options using the same criteria?"
-            },
-            {
-              "back": "Easy-to-reverse choices need less analysis than costly or permanent ones.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nDecision effort should scale with downside and difficulty of correction.\n\n[[FH_REAL_WORLD]] Real-world application: Test a routine quickly, but investigate deeply before surgery or a long contract.",
-              "front": "Why distinguish reversible from irreversible decisions?"
-            },
-            {
-              "back": "Uncertainty and luck separate decision quality from result quality.",
-              "explanation": "[[FH_EXPLANATION]] Explanation:\nJudge the process using the information available at the time.\n\n[[FH_REAL_WORLD]] Real-world application: Leaving without an umbrella after a low rain forecast may be reasonable even if unexpected rain occurs.",
-              "front": "Why can a good decision have a bad outcome?"
-            }
-          ],
-          "title": "Trade-offs and Opportunity Cost"
         }
       ]
     }
