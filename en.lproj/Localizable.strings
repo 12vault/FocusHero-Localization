@@ -1344,6 +1344,7 @@
 "ts_color_muted_coral" = "Muted Coral";
 "ts_color_soft_lavender" = "Soft Lavender";
 "ts_lock_screen_widgets" = "Lock Screen Widgets (%d/3)";
+"ts_pinned_trackers" = "Pinned Trackers (%d/4)";
 "ts_lock_screen_guide_toolbar_a11y" = "Lock screen widget guide";
 "ts_lock_screen_guide_nav_title" = "Lock Screen Widget";
 "ts_lock_screen_guide_hero_title" = "Add Time Since to your Lock Screen";

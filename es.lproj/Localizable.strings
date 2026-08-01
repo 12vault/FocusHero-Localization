@@ -1337,6 +1337,7 @@
 "ts_color_muted_coral" = "Coral apagado";
 "ts_color_soft_lavender" = "Lavanda suave";
 "ts_lock_screen_widgets" = "Widgets de pantalla de bloqueo (%d/3)";
+"ts_pinned_trackers" = "Rastreadores fijados (%d/4)";
 "ts_lock_screen_guide_toolbar_a11y" = "Guía de widgets en pantalla de bloqueo";
 "ts_lock_screen_guide_nav_title" = "Widget de pantalla de bloqueo";
 "ts_lock_screen_guide_hero_title" = "Añade Time Since a tu pantalla de bloqueo";

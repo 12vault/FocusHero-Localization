@@ -1334,6 +1334,7 @@
 "ts_color_muted_coral" = "柔和珊瑚色";
 "ts_color_soft_lavender" = "柔和薰衣草色";
 "ts_lock_screen_widgets" = "锁屏小组件 (%d/3)";
+"ts_pinned_trackers" = "已固定的追踪器 (%d/4)";
 "ts_lock_screen_guide_toolbar_a11y" = "锁屏小组件指南";
 "ts_lock_screen_guide_nav_title" = "锁屏小组件";
 "ts_lock_screen_guide_hero_title" = "将 Time Since 添加到锁屏";

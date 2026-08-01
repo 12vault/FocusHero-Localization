@@ -1341,6 +1341,7 @@
 "ts_color_muted_coral" = "San hô tắt tiếng";
 "ts_color_soft_lavender" = "Hoa oải hương mềm mại";
 "ts_lock_screen_widgets" = "Tiện ích màn hình khóa (%d/3)";
+"ts_pinned_trackers" = "Trình theo dõi đã ghim (%d/4)";
 "ts_lock_screen_guide_toolbar_a11y" = "Hướng dẫn tiện ích màn hình khóa";
 "ts_lock_screen_guide_nav_title" = "Tiện ích màn hình khóa";
 "ts_lock_screen_guide_hero_title" = "Thêm thời gian kể từ màn hình khóa của bạn";

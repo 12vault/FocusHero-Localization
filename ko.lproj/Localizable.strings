@@ -1092,6 +1092,7 @@
 "ts_color_muted_coral" = "차분한 코랄";
 "ts_color_soft_lavender" = "부드러운 라벤더";
 "ts_lock_screen_widgets" = "잠금 화면 위젯 (%d/3)";
+"ts_pinned_trackers" = "고정된 트래커 (%d/4)";
 "ts_lock_screen_guide_toolbar_a11y" = "잠금 화면 위젯 가이드";
 "ts_lock_screen_guide_nav_title" = "잠금 화면 위젯";
 "ts_lock_screen_guide_hero_title" = "잠금 화면에 Time Since 추가하기";

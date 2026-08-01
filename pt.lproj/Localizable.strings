@@ -1344,6 +1344,7 @@
 "ts_color_muted_coral" = "Coral suave";
 "ts_color_soft_lavender" = "Lavanda suave";
 "ts_lock_screen_widgets" = "Widgets do ecrã bloqueado (%d/3)";
+"ts_pinned_trackers" = "Rastreadores fixados (%d/4)";
 "ts_lock_screen_guide_toolbar_a11y" = "Guia de widgets do ecrã bloqueado";
 "ts_lock_screen_guide_nav_title" = "Widget do ecrã bloqueado";
 "ts_lock_screen_guide_hero_title" = "Adicione Tempo desde ao ecrã bloqueado";

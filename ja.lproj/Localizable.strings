@@ -1338,6 +1338,7 @@
 "ts_color_muted_coral" = "ミューテッドコーラル";
 "ts_color_soft_lavender" = "ソフトラベンダー";
 "ts_lock_screen_widgets" = "ロック画面ウィジェット (%d/3)";
+"ts_pinned_trackers" = "固定したトラッカー (%d/4)";
 "ts_lock_screen_guide_toolbar_a11y" = "ロック画面ウィジェットガイド";
 "ts_lock_screen_guide_nav_title" = "ロック画面ウィジェット";
 "ts_lock_screen_guide_hero_title" = "ロック画面に Time Since を追加";

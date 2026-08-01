@@ -1312,6 +1312,7 @@
 "ts_color_muted_coral" = "Приглушенный коралловый";
 "ts_color_soft_lavender" = "Мягкий лавандовый";
 "ts_lock_screen_widgets" = "Виджеты экрана блокировки (%d/3)";
+"ts_pinned_trackers" = "Закреплённые трекеры (%d/4)";
 "ts_lock_screen_guide_toolbar_a11y" = "Руководство по виджету экрана блокировки";
 "ts_lock_screen_guide_nav_title" = "Виджет экрана блокировки";
 "ts_lock_screen_guide_hero_title" = "Добавьте Time Since на экран блокировки";
