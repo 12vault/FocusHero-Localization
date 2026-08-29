@@ -129,6 +129,7 @@
 "Text Size" = "Kích thước văn bản";
 "Archive Card" = "Thẻ lưu trữ";
 "Show Answer" = "Hiển thị câu trả lời";
+"Hide" = "Ẩn";
 "Prev" = "Trước đó";
 "Next" = "Kế tiếp";
 "No cards" = "Không có thẻ";
@@ -1563,3 +1564,5 @@
 "main_tutorial_previous_accessibility" = "Bước hướng dẫn trước";
 "main_tutorial_next_accessibility" = "Bước hướng dẫn tiếp theo";
 "main_tutorial_finish_accessibility" = "Hoàn tất hướng dẫn";
+"count_up" = "Bấm giờ";
+"count_up_mode_accessibility" = "Chế độ bấm giờ";

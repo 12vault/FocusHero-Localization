@@ -126,6 +126,7 @@
 "Text Size" = "Размер текста";
 "Archive Card" = "Архивировать карточку";
 "Show Answer" = "Показать ответ";
+"Hide" = "Скрыть";
 "Prev" = "Назад";
 "Next" = "Далее";
 "No cards" = "Нет карточек";
@@ -1541,3 +1542,5 @@
 "main_tutorial_previous_accessibility" = "Предыдущий шаг обучения";
 "main_tutorial_next_accessibility" = "Следующий шаг обучения";
 "main_tutorial_finish_accessibility" = "Завершить обучение";
+"count_up" = "Секундомер";
+"count_up_mode_accessibility" = "Режим секундомера";

@@ -129,6 +129,7 @@
 "Text Size" = "Text Size";
 "Archive Card" = "Archive Card";
 "Show Answer" = "Show Answer";
+"Hide" = "Hide";
 "Prev" = "Prev";
 "Next" = "Next";
 "No cards" = "No cards";
@@ -1566,3 +1567,5 @@
 "main_tutorial_previous_accessibility" = "Previous tutorial step";
 "main_tutorial_next_accessibility" = "Next tutorial step";
 "main_tutorial_finish_accessibility" = "Finish tutorial";
+"count_up" = "Count Up";
+"count_up_mode_accessibility" = "Count-up mode";

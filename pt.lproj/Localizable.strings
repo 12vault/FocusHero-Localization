@@ -129,6 +129,7 @@
 "Text Size" = "Tamanho do texto";
 "Archive Card" = "Arquivar cartão";
 "Show Answer" = "Mostrar resposta";
+"Hide" = "Ocultar";
 "Prev" = "Anterior";
 "Next" = "Seguinte";
 "No cards" = "Sem cartões";
@@ -1566,3 +1567,5 @@
 "main_tutorial_previous_accessibility" = "Passo anterior do tutorial";
 "main_tutorial_next_accessibility" = "Próximo passo do tutorial";
 "main_tutorial_finish_accessibility" = "Terminar tutorial";
+"count_up" = "Cronómetro";
+"count_up_mode_accessibility" = "Modo cronómetro";

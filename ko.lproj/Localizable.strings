@@ -1398,6 +1398,7 @@
 "Text Size" = "글자 크기";
 "Archive Card" = "카드 보관";
 "Show Answer" = "답 보기";
+"Hide" = "숨기기";
 "Prev" = "이전";
 "Next" = "다음";
 "No cards" = "카드 없음";
@@ -1492,3 +1493,5 @@
 "main_tutorial_previous_accessibility" = "이전 튜토리얼 단계";
 "main_tutorial_next_accessibility" = "다음 튜토리얼 단계";
 "main_tutorial_finish_accessibility" = "튜토리얼 완료";
+"count_up" = "카운트업";
+"count_up_mode_accessibility" = "카운트업 모드";

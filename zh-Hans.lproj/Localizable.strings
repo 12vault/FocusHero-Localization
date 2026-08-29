@@ -126,6 +126,7 @@
 "Text Size" = "文字大小";
 "Archive Card" = "归档卡片";
 "Show Answer" = "显示答案";
+"Hide" = "隐藏";
 "Prev" = "上一张";
 "Next" = "下一张";
 "No cards" = "没有卡片";
@@ -1563,3 +1564,5 @@
 "main_tutorial_previous_accessibility" = "上一个教程步骤";
 "main_tutorial_next_accessibility" = "下一个教程步骤";
 "main_tutorial_finish_accessibility" = "完成教程";
+"count_up" = "正计时";
+"count_up_mode_accessibility" = "正计时模式";

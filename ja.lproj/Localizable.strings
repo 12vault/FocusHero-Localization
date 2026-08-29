@@ -126,6 +126,7 @@
 "Text Size" = "文字サイズ";
 "Archive Card" = "カードをアーカイブ";
 "Show Answer" = "答えを表示";
+"Hide" = "隠す";
 "Prev" = "前へ";
 "Next" = "次へ";
 "No cards" = "カードなし";
@@ -1563,3 +1564,5 @@
 "main_tutorial_previous_accessibility" = "前のチュートリアル手順";
 "main_tutorial_next_accessibility" = "次のチュートリアル手順";
 "main_tutorial_finish_accessibility" = "チュートリアルを完了";
+"count_up" = "カウントアップ";
+"count_up_mode_accessibility" = "カウントアップモード";
